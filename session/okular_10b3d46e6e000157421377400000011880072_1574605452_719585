@@ -1,0 +1,13 @@
+[1]
+ActiveTab=2
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/ReID/1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1804.05275 Horizontal Pyramid Matching for Person Re-identification.pdf,file:$HOME/下载/IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1702.05729 Person Search with Natural Language Description.pdf,file:$HOME/Jonny/Paper-Lib/ReID/Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf,file:$HOME/Jonny/Latexs/PyramidReid/document.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1019
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOlAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

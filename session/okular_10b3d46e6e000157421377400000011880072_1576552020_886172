@@ -1,0 +1,13 @@
+[1]
+ActiveTab=5
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/ReID/1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf,file:$HOME/Jonny/Paper-Lib/Theory/1911.01547v2 On the Measure of Intelligence.pdf,file:$HOME/Jonny/Paper-Lib/Books/ A Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf,file:$HOME/Jonny/Paper-Lib/Books/[N. Gregory Mankiw] Principles of Economics 7th E.pdf,file:$HOME/Jonny/Pys/Car-Plate-Recognition-System/基于序列化的车辆牌照识别系统.pdf,file:$HOME/Jonny/Paper-Lib/Books/Storytelling with Data: A Data Visualization Guide for Business Professionals.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true

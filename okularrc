@@ -1,0 +1,29 @@
+[Desktop Entry]
+FullScreen=false
+
+[MainWindow]
+Height 1080=1015
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+
+[Recent Files]
+File1[$e]=$HOME/Jonny/Own-Notes/README.md
+File2[$e]=$HOME/Jonny/Pys/Car-Plate-Recognition-System/基于序列化的车辆牌照识别系统.pdf
+File3[$e]=$HOME/下载/IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
+File4[$e]=$HOME/Jonny/Paper-Lib/ReID/1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf
+File5[$e]=$HOME/Jonny/Paper-Lib/Theory/1911.01547v2 On the Measure of Intelligence.pdf
+File6[$e]=$HOME/Jonny/Paper-Lib/Books/ A Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/Books/[N. Gregory Mankiw] Principles of Economics 7th E.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/Books/Storytelling with Data: A Data Visualization Guide for Business Professionals.pdf
+File9[$e]=$HOME/Jonny/Latexs/CPRNet/基于序列化的车辆牌照识别系统.pdf
+Name1[$e]=README.md
+Name2[$e]=基于序列化的车辆牌照识别系统.pdf
+Name3[$e]=IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
+Name4[$e]=1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf
+Name5[$e]=1911.01547v2 On the Measure of Intelligence.pdf
+Name6[$e]=\sA Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf
+Name7[$e]=[N. Gregory Mankiw] Principles of Economics 7th E.pdf
+Name8[$e]=Storytelling with Data: A Data Visualization Guide for Business Professionals.pdf
+Name9[$e]=基于序列化的车辆牌照识别系统.pdf

@@ -1,0 +1,7 @@
+[FileDialogSize]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+Recent Files[$e]=head1.jpg,file:$HOME/图片/head1.jpg
+Recent URLs[$e]=file:$HOME/图片/
+detailViewIconSize=60

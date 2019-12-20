@@ -1,0 +1,30 @@
+{
+   "background": {
+      "scripts": [ "lib/sea.js", "bg.js" ]
+   },
+   "browser_action": {
+      "default_icon": "icons/icon.png",
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": false,
+      "js": [ "straightGoogle.js" ],
+      "matches": [ "http://*/*", "https://*/*" ],
+      "run_at": "document_end"
+   } ],
+   "content_security_policy": "script-src 'self' 'unsafe-eval' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "谷歌访问助手，帮助访问谷歌，代理服务器稳定，HTTPS加密，安全浏览。",
+   "icons": {
+      "128": "icons/icon-128.png",
+      "16": "icons/icon.png",
+      "48": "icons/icon-48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtSr+b7wNZtyWenp3yhN/Hmbg7ZPhwYtPVkyAz9IYsBoZiJ3zem6nn+qWPWw4v7zD+JY4wfVuzZqo2egCmIkcnFYBy/DjVqj+7ABxWQagICFuiG3myL92xvie67zakthSwx79EoyVPpMOqgVV63fk7Bdd2dpSw725TryZ32TUcBFccQ0fvLFBoN5YbMMvXYTNUGCDZe4gACzDwKBxjcmV0+iwk3hUyYVJXHeo/r2Vt7gM7xk/yPLtqPT7nyMUHqCkup632T9s2EO1JEbI83Z6WfDmrjZ52+NU7/2IhtpyC9s6lTFpFl/DSHbET5QxZD9sF7WCE2HqwgUYftrqONcAJwIDAQAB",
+   "manifest_version": 2,
+   "name": "谷歌访问助手",
+   "permissions": [ "proxy", "tabs", "contextMenus", "webRequest", "webRequestBlocking", "webNavigation", "unlimitedStorage", "notifications", "\u003Call_urls>", "https://*.google.com/*", "https://*.wikipedia.org/*" ],
+   "short_name": "GAH",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.4.4",
+   "web_accessible_resources": [ "first.html" ]
+}

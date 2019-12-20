@@ -1,0 +1,8 @@
+[$Version]
+update_info=kscreenlocker.upd:0.1-autolock
+
+[Daemon]
+Autolock=false
+
+[Greeter][Wallpaper][org.kde.image][General]
+Image=file:///home/godlovesjonny/.local/share/wallpapers/Lage_light.jpg

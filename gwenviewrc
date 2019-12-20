@@ -1,0 +1,34 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[MainWindow]
+Height 1080=1015
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920
+Window-Maximized 1080x1920=true
+
+[Recent Files]
+File1[$e]=$HOME/Jonny/Pys/DIP/CarPlate/dataset/蒙M07555.png
+File10[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/tit2.jpg
+File2[$e]=$HOME/Jonny/Pys/DIP/CarPlate/data_temp/沪H88663.png
+File3[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/沪E88888.jpg
+File4[$e]=$HOME/Jonny/Pys/DIP/CarPlate/raw_imgs/川A29922.jpg
+File5[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias1.png
+File6[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias2.png
+File7[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias3.png
+File8[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias4.png
+File9[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/ok1.png
+Name1[$e]=蒙M07555.png
+Name10[$e]=tit2.jpg
+Name2[$e]=沪H88663.png
+Name3[$e]=沪E88888.jpg
+Name4[$e]=川A29922.jpg
+Name5[$e]=bias1.png
+Name6[$e]=bias2.png
+Name7[$e]=bias3.png
+Name8[$e]=bias4.png
+Name9[$e]=ok1.png
+
+[SideBar]
+SideBarSplitterSizes=242,1675

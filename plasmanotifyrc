@@ -1,0 +1,6 @@
+[Applications][firefox]
+Seen=true
+ShowPopups=false
+
+[Applications][org.manjaro.pamac.manager]
+Seen=true
