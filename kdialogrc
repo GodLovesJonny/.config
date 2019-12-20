@@ -2,6 +2,6 @@
 Window-Maximized 1080x1920=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/文档/大创文档.docx,file:$HOME/下载/南京工业大学 计算机图像处理 试题1.docx,file:$HOME/下载/南京工业大学 计算机图像处理 试题.docx
+Recent Files[$e]=file:$HOME/文档/大创文档.docx,file:$HOME/文档/计算机科学与技术学院科协2019年度工作总结.docx
 Recent URLs[$e]=file:$HOME/下载/
 detailViewIconSize=0
