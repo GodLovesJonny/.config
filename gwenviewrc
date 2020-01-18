@@ -3,32 +3,26 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 
 [MainWindow]
 Height 1080=1015
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/沪E88888.jpg
-File10[$e]=$HOME/图片/head1.jpg
-File2[$e]=$HOME/Jonny/Pys/DIP/CarPlate/raw_imgs/川A29922.jpg
-File3[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias1.png
-File4[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias2.png
-File5[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias3.png
-File6[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/bias4.png
-File7[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/ok1.png
-File8[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/tit2.jpg
-File9[$e]=$HOME/图片/wolf2.png
-Name1[$e]=沪E88888.jpg
-Name10[$e]=head1.jpg
-Name2[$e]=川A29922.jpg
-Name3[$e]=bias1.png
-Name4[$e]=bias2.png
-Name5[$e]=bias3.png
-Name6[$e]=bias4.png
-Name7[$e]=ok1.png
-Name8[$e]=tit2.jpg
-Name9[$e]=wolf2.png
+File1[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/ok1.png
+File2[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/tit2.jpg
+File3[$e]=$HOME/图片/head1.jpg
+File4[$e]=$HOME/图片/wolf2.png
+File5[$e]=$HOME/图片/wolf1.jpg
+File6[$e]=$HOME/Jonny/Pys/tk/src/imgs/wolf.png
+File7[$e]=$HOME/图片/Screenshot_20190526_222743.png
+Name1[$e]=ok1.png
+Name2[$e]=tit2.jpg
+Name3[$e]=head1.jpg
+Name4[$e]=wolf2.png
+Name5[$e]=wolf1.jpg
+Name6[$e]=wolf.png
+Name7[$e]=Screenshot_20190526_222743.png
 
 [SideBar]
 SideBarSplitterSizes=242,1675

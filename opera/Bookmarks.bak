@@ -1,0 +1,1449 @@
+{
+   "checksum": "65e4641d274fab114e5c940a5f894213",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13215435772000000",
+            "guid": "ed52ca99-a11b-41df-a2c3-69e0712a1af6",
+            "id": "42",
+            "name": "Homepage",
+            "type": "url",
+            "url": "https://manjaro.org/"
+         }, {
+            "date_added": "13215435773000000",
+            "guid": "c67702da-a4ab-431a-9ae9-733918c716b8",
+            "id": "43",
+            "name": "Forum",
+            "type": "url",
+            "url": "http://forum.manjaro.org/"
+         }, {
+            "date_added": "13215435773000000",
+            "guid": "04708a49-78aa-43b9-ab70-0d07923be5e7",
+            "id": "44",
+            "name": "Wiki",
+            "type": "url",
+            "url": "http://wiki.manjaro.org/index.php/Main_Page"
+         }, {
+            "date_added": "13221290471000000",
+            "guid": "b288c6e5-687b-4867-b910-64d8cad71492",
+            "id": "45",
+            "name": "reddit",
+            "type": "url",
+            "url": "https://www.reddit.com/"
+         }, {
+            "date_added": "13210531299000000",
+            "guid": "881bb8e6-901b-4751-899d-1d66ce499f5f",
+            "id": "46",
+            "name": "CSRankings",
+            "type": "url",
+            "url": "http://csrankings.org/#/fromyear/2014/toyear/2019/index?vision&graph&asia"
+         }, {
+            "date_added": "13206556257000000",
+            "guid": "a2f08b2d-f3d3-4ab2-a8dd-1503b9033dcd",
+            "id": "47",
+            "name": "Arxiv",
+            "type": "url",
+            "url": "https://arxiv.org/list/cs/recent"
+         }, {
+            "date_added": "13219208683000000",
+            "guid": "ab8c1d3a-d7b4-4543-a2f8-0ace44b26508",
+            "id": "48",
+            "name": "Arxiv Sanity",
+            "type": "url",
+            "url": "http://www.arxiv-sanity.com/top"
+         }, {
+            "date_added": "13221109754000000",
+            "guid": "fc7043f7-798b-4612-9b79-914e38206eb1",
+            "id": "49",
+            "name": "Library Genesis",
+            "type": "url",
+            "url": "http://gen.lib.rus.ec/"
+         }, {
+            "date_added": "13210273030000000",
+            "guid": "ed75fc0f-536f-4ba1-8049-3fe201a2fa5a",
+            "id": "50",
+            "name": "PyTorch Doc",
+            "type": "url",
+            "url": "https://pytorch.org/docs/stable/index.html"
+         }, {
+            "date_added": "13217528861000000",
+            "guid": "da97d58d-a615-4084-bd49-829075780bf9",
+            "id": "51",
+            "name": "Thesaurus",
+            "type": "url",
+            "url": "https://www.thesaurus.com/"
+         }, {
+            "date_added": "13199765802000000",
+            "guid": "b29fca08-49f6-4b09-a9b9-b8289cbac006",
+            "id": "52",
+            "name": "知乎",
+            "type": "url",
+            "url": "https://www.zhihu.com/"
+         }, {
+            "date_added": "13192947988000000",
+            "guid": "c942b30b-d133-4a33-a6e3-f04acfc2a136",
+            "id": "53",
+            "name": "bilibili",
+            "type": "url",
+            "url": "https://www.bilibili.com/"
+         }, {
+            "date_added": "13196312689000000",
+            "guid": "8e90da8c-c04c-4a87-af7d-30c35e7f97f7",
+            "id": "54",
+            "name": "youdao",
+            "type": "url",
+            "url": "http://dict.youdao.com/search?q=%GDWORD%&ue=utf8"
+         }, {
+            "date_added": "13200480564000000",
+            "guid": "5ef50113-088e-45c3-9829-6333f4c04f83",
+            "id": "55",
+            "name": "Paper with Code",
+            "type": "url",
+            "url": "https://paperswithcode.com/"
+         }, {
+            "date_added": "13195699602000000",
+            "guid": "9cb59aab-f3df-4aec-a149-5fd073b596ee",
+            "id": "56",
+            "name": "PTA ",
+            "type": "url",
+            "url": "https://pintia.cn/problem-sets"
+         }, {
+            "date_added": "13199160370000000",
+            "guid": "552a850d-3b37-4762-b344-e655b3b6bb0f",
+            "id": "57",
+            "name": "sci-hub",
+            "type": "url",
+            "url": "http://www.sci-hub.ac.cn/"
+         }, {
+            "date_added": "13196187870000000",
+            "guid": "4e500196-21a6-48bf-84b4-3250e686b349",
+            "id": "58",
+            "name": "V2EX",
+            "type": "url",
+            "url": "https://www.v2ex.com/"
+         }, {
+            "date_added": "13219236713000000",
+            "guid": "8af6f5a6-f912-4702-b33d-1412457f1069",
+            "id": "59",
+            "name": "CD",
+            "type": "url",
+            "url": "https://www.sheepsun.com/down?utm_source=hacpai.com"
+         }, {
+            "date_added": "13196518059000000",
+            "guid": "0b91bae1-e167-4b10-b812-2a975a66f68b",
+            "id": "60",
+            "name": "ToolFK",
+            "type": "url",
+            "url": "https://www.toolfk.com/"
+         }, {
+            "date_added": "13196518012000000",
+            "guid": "c38f1bd9-9a00-4cd0-96f1-069f5049d97d",
+            "id": "61",
+            "name": "Copytool",
+            "type": "url",
+            "url": "https://cp.anyknew.com/"
+         }, {
+            "date_added": "13196623265000000",
+            "guid": "ec8871d9-453d-4daf-8020-322067771113",
+            "id": "62",
+            "name": "Vocab",
+            "type": "url",
+            "url": "https://www.vocabulary.com/"
+         }, {
+            "date_added": "13223218196000000",
+            "guid": "63ec0218-bbdb-4e35-9fff-5fb90602d73a",
+            "id": "63",
+            "name": "CodaLab - Competition",
+            "type": "url",
+            "url": "https://competitions.codalab.org/competitions/22225#learn_the_details-terms_and_conditions"
+         }, {
+            "date_added": "13222687701000000",
+            "guid": "9b88cfb8-f72c-4eff-93f4-cf992c48401d",
+            "id": "64",
+            "name": "Categories | Verne in GitHub",
+            "type": "url",
+            "url": "http://einverne.github.io/categories.html#%E6%AF%8F%E5%A4%A9%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4"
+         }, {
+            "date_added": "13223315633000000",
+            "guid": "35bd39dc-6c65-40e2-a451-ed693504fddc",
+            "id": "65",
+            "name": "Data USA",
+            "type": "url",
+            "url": "https://datausa.io/"
+         }, {
+            "date_added": "13223050833000000",
+            "guid": "138a7e2e-f53d-4454-9e2f-ae52d74f0a99",
+            "id": "66",
+            "name": "美赛试题",
+            "type": "url",
+            "url": "https://mcm.njupt.edu.cn/7002/list.psp"
+         }, {
+            "date_added": "13223316240000000",
+            "guid": "a1745ce7-3968-4ac5-baeb-be50e47e5439",
+            "id": "67",
+            "name": "AHP(层次分析法) 附Python示例代码(觉得还可以的,帮忙点个赞,谢谢) - Sgoyi - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/yhll/p/9967726.html"
+         }, {
+            "date_added": "13223655167000000",
+            "guid": "bfa6a459-0fce-45f3-b4c6-be85db1bdc4f",
+            "id": "68",
+            "name": "一步步教你轻松学关联规则Apriori算法 | 白宁超的官网",
+            "type": "url",
+            "url": "https://bainingchao.github.io/2018/09/27/%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%95%99%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%AD%A6%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99Apriori%E7%AE%97%E6%B3%95/"
+         }, {
+            "date_added": "13223659468000000",
+            "guid": "29343d41-a8f2-4760-a29f-0502433b5f03",
+            "id": "69",
+            "name": "10分钟搞懂遗传算法(含源码) - 知乎",
+            "type": "url",
+            "url": "https://zhuanlan.zhihu.com/p/33042667"
+         }, {
+            "date_added": "13222186374000000",
+            "guid": "9e53356f-a9c0-4c78-bc09-f40223da875c",
+            "id": "70",
+            "name": "如何参与Linux内核开发 — The Linux Kernel documentation",
+            "type": "url",
+            "url": "https://www.kernel.org/doc/html/v5.2/translations/zh_CN/process/howto.html"
+         }, {
+            "date_added": "13222186382000000",
+            "guid": "054531eb-b6ca-4ab4-8c89-8e10b687a01c",
+            "id": "71",
+            "name": "如何参与到 Linux 社区中来 - 开源之道",
+            "type": "url",
+            "url": "http://ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/"
+         }, {
+            "date_added": "13221276761000000",
+            "guid": "e4b50290-72b9-4638-bef1-e7a845fff56d",
+            "id": "72",
+            "name": "Ranger 用法总结 | 盼 の 欲",
+            "type": "url",
+            "url": "http://www.huangpan.net/posts/ji-ke/2019-08-21-ranger.html"
+         }, {
+            "date_added": "13221065240000000",
+            "guid": "31ced810-18ba-435a-b7e3-8a0b1ee1778d",
+            "id": "73",
+            "name": "PPT模板_免费PPT模板下载 - 优品PPT",
+            "type": "url",
+            "url": "http://www.ypppt.com/"
+         }, {
+            "date_added": "13221047316000000",
+            "guid": "43701b8f-f5da-4a94-954c-b58f02a846e3",
+            "id": "74",
+            "name": "CS224W | Home",
+            "type": "url",
+            "url": "https://web.stanford.edu/class/cs224w/"
+         }, {
+            "date_added": "13193296768000000",
+            "guid": "3c100b24-6aac-46a8-bf2d-6801e0582664",
+            "id": "75",
+            "name": "百度网盘",
+            "type": "url",
+            "url": "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#/all?vmode=list&path=%2F%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%2FSE6"
+         }, {
+            "date_added": "13218909628000000",
+            "guid": "f0ca9d95-73da-489a-b500-60feb473dd97",
+            "id": "76",
+            "name": "用户中心 - JIYOU - CLOUD",
+            "type": "url",
+            "url": "https://tianlinzhao.com/clientarea.php?action=productdetails&id=54758"
+         }, {
+            "date_added": "13217488516000000",
+            "guid": "aafd4184-0592-4c8a-9ebc-9d1da26c1d04",
+            "id": "77",
+            "name": "Google学术搜索镜像_sci-hub网址_大木虫学术导航",
+            "type": "url",
+            "url": "http://www.4243.net/"
+         }, {
+            "date_added": "13217257464000000",
+            "guid": "5a0d3dd8-0bb5-4288-bf78-311e0a6816f8",
+            "id": "78",
+            "name": "一份其实很短的 LaTeX 入门文档 | 始终",
+            "type": "url",
+            "url": "https://liam.page/2014/09/08/latex-introduction/"
+         }, {
+            "date_added": "13215975210000000",
+            "guid": "f39e8211-4d6e-44b1-8075-d5e4c5564508",
+            "id": "79",
+            "name": "机器学习和深度学习资料合集 - caogenwangbaoqiang的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/caogenwangbaoqiang/article/details/79551684"
+         }, {
+            "date_added": "13215533103000000",
+            "guid": "8be61643-67b1-444d-8d11-b3b193099e8c",
+            "id": "80",
+            "name": "教你一步一步在vim中配置史上最难安装的You Complete Me | 码农网",
+            "type": "url",
+            "url": "https://www.codercto.com/a/20415.html"
+         }, {
+            "date_added": "13214244608000000",
+            "guid": "95ffc0ee-a1a0-4b63-b1be-96143359cc6a",
+            "id": "81",
+            "name": "Jay Alammar – Visualizing machine learning one concept at a time",
+            "type": "url",
+            "url": "https://jalammar.github.io/"
+         }, {
+            "date_added": "13214239106000000",
+            "guid": "f089dc27-2310-4350-a207-53fa00f112ec",
+            "id": "82",
+            "name": "The Annotated Transformer",
+            "type": "url",
+            "url": "http://nlp.seas.harvard.edu/2018/04/03/attention.html"
+         }, {
+            "date_added": "13214067213000000",
+            "guid": "c827182a-1b04-4cdb-96a9-4ef200c65f37",
+            "id": "83",
+            "name": "Convolution Visualizer",
+            "type": "url",
+            "url": "https://ezyang.github.io/convolution-visualizer/index.html"
+         }, {
+            "date_added": "13213257201000000",
+            "guid": "9db2bd01-8f75-45d3-8d49-4d7a0fa3b827",
+            "id": "84",
+            "name": "\"发现杯\"大奖赛-人工智能",
+            "type": "url",
+            "url": "http://www.dajiangsai.org/static/data/ai.html"
+         }, {
+            "date_added": "13192949677000000",
+            "guid": "783305ce-8c5a-43ea-bee4-2468f1bbb80b",
+            "id": "85",
+            "name": "CODELF",
+            "type": "url",
+            "url": "https://unbug.github.io/codelf/"
+         }, {
+            "date_added": "13210612980000000",
+            "guid": "cbe767c5-de21-4e7b-9a74-571ef4d2c305",
+            "id": "86",
+            "name": "pytorch 动态调整学习率 - 超杰",
+            "type": "url",
+            "url": "http://www.spytensor.com/index.php/archives/32/"
+         }, {
+            "date_added": "13209210108000000",
+            "guid": "9cc000e7-77a8-4355-9e1e-04a76ca7587b",
+            "id": "87",
+            "name": "FlyAI-AI竞赛预训练模型连接",
+            "type": "url",
+            "url": "https://www.flyai.com/models"
+         }, {
+            "date_added": "13204732285000000",
+            "guid": "34c50ad9-d2f7-4ef2-ad35-f7b87d2bf469",
+            "id": "88",
+            "name": "15-213/18-213",
+            "type": "url",
+            "url": "http://www.cs.cmu.edu/~213/"
+         }, {
+            "date_added": "13210177488000000",
+            "guid": "d0f6e509-9753-4c04-859f-8f73256d4d16",
+            "id": "89",
+            "name": "Backpropagation In Convolutional Neural Networks | DeepGrid",
+            "type": "url",
+            "url": "https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/"
+         }, {
+            "date_added": "13210000747000000",
+            "guid": "a8f6ebf9-cc93-43ab-b98f-a4ac7823ebf2",
+            "id": "90",
+            "name": "Markdown数学公式语法 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/e74eb43960a1"
+         }, {
+            "date_added": "13209900397000000",
+            "guid": "edec0b46-db4e-4909-800b-ebdf8ffda2cd",
+            "id": "91",
+            "name": "Tab-delimited Bilingual Sentence Pairs from the Tatoeba Project (Good for Anki and Similar Flashcard Applications)",
+            "type": "url",
+            "url": "http://www.manythings.org/anki/"
+         }, {
+            "date_added": "13209723755000000",
+            "guid": "8ecc8252-5e34-491b-8d76-be9b8e47332b",
+            "id": "92",
+            "name": "目前开源数据集整理 - 人生而孤独，却不甘寂寞。 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/wangqingbaidu/article/details/80635618"
+         }, {
+            "date_added": "13209315819000000",
+            "guid": "63b61e49-3308-4df2-b969-187d4f06274d",
+            "id": "93",
+            "name": "Deecamp笔试总结 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/eb7dc95087c9"
+         }, {
+            "date_added": "13209233062000000",
+            "guid": "bb8924c4-30c1-48aa-a995-9cd042b2ec00",
+            "id": "94",
+            "name": "ML-NLP/Machine Learning at master · NLP-LOVE/ML-NLP",
+            "type": "url",
+            "url": "https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning"
+         }, {
+            "date_added": "13207563517000000",
+            "guid": "fab11857-80ea-4337-ab1e-05829dbde65c",
+            "id": "95",
+            "name": "Generative Adversarial Networks - The Story So Far",
+            "type": "url",
+            "url": "https://blog.floydhub.com/gans-story-so-far/"
+         }, {
+            "date_added": "13207033348000000",
+            "guid": "c2abfaf1-3cc6-4ded-ac0f-8698ab55efc1",
+            "id": "96",
+            "name": "华东师范大学硕士研究生招生专业简介",
+            "type": "url",
+            "url": "https://yjszs.ecnu.edu.cn/system/sszszyjj_list.asp"
+         }, {
+            "date_added": "13207033178000000",
+            "guid": "b17d1e2b-fd26-4eef-88c2-a7b2664a5f8e",
+            "id": "97",
+            "name": "华东师范大学夏令营举办信息",
+            "type": "url",
+            "url": "https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp"
+         }, {
+            "date_added": "13207026515000000",
+            "guid": "37fbdce3-8b9d-4641-b548-640a8b59008a",
+            "id": "98",
+            "name": "华东师范大学数据学院",
+            "type": "url",
+            "url": "http://dase.ecnu.edu.cn/dase-module-gateway/dase/menuAndDetail/menuAndDetail.html?rootColumnId=4028821e5b7a0971015b7a0a1cbf0000&columnListId=40284c81604a9f7901604aac5b430011&articleId=ff80808164c1b82c01668c52e2fb0022"
+         }, {
+            "date_added": "13207026305000000",
+            "guid": "d23fed52-15e2-46c1-877f-deb04144d1b2",
+            "id": "99",
+            "name": "华东师范大学教师名录",
+            "type": "url",
+            "url": "https://faculty.ecnu.edu.cn/search/teacherMain.faces?siteId=10&pageId=0"
+         }, {
+            "date_added": "13206557749000000",
+            "guid": "79be8af9-849a-4736-9851-d2d682c25062",
+            "id": "100",
+            "name": "NLP的游戏规则从此改写？从word2vec, ELMo到BERT - 自然语言处理-炼数成金-Dataguru专业数据分析社区",
+            "type": "url",
+            "url": "http://www.dataguru.cn/article-14237-1.html"
+         }, {
+            "date_added": "13205384716000000",
+            "guid": "fff0d38b-a1b9-4f8b-a649-ca5dd9b5ad95",
+            "id": "101",
+            "name": "Journal of Machine Learning Research",
+            "type": "url",
+            "url": "http://www.jmlr.org/"
+         }, {
+            "date_added": "13206556194000000",
+            "guid": "2fd81b6f-5547-4b73-b805-f15e6b9df48b",
+            "id": "102",
+            "name": "一步步解析Attention is All You Need！ - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/b1030350aadb"
+         }, {
+            "date_added": "13206554378000000",
+            "guid": "03e41b19-dbfa-443b-871c-83b6ddfcb3e5",
+            "id": "103",
+            "name": "Dodo | 渺渺星辰远，漫漫去路长",
+            "type": "url",
+            "url": "http://www.pkudodo.com/"
+         }, {
+            "date_added": "13206200461000000",
+            "guid": "48b930e6-242b-4804-94c9-ff3efa811beb",
+            "id": "104",
+            "name": "Home ← Inductio Ex Machina ← Mark Reid",
+            "type": "url",
+            "url": "http://mark.reid.name/blog/"
+         }, {
+            "date_added": "13205556684000000",
+            "guid": "c8f6bf26-81d7-4a8b-b726-53e59b6d1d9f",
+            "id": "105",
+            "name": "word2vec 中的数学原理详解 - peghoty - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/peghoty/p/3857839.html"
+         }, {
+            "date_added": "13217743949000000",
+            "guid": "aedbf128-b308-4192-acf8-fb95f169a360",
+            "id": "106",
+            "name": "NBA直播_nba直播吧_NBA视频在线直播 -【极速体育】",
+            "type": "url",
+            "url": "https://www.jisutiyu.com/event/nba/"
+         }, {
+            "date_added": "13217738178000000",
+            "guid": "848f5ba1-7230-4517-a230-16d27fbd37ad",
+            "id": "107",
+            "name": "NBA直播-NBA视频直播,NBA直播吧-【高清在线】-直播车",
+            "type": "url",
+            "url": "http://www.zhiboche.com/lq/zb/nba"
+         }, {
+            "date_added": "13204880307000000",
+            "guid": "4ad74a4e-3a76-40a7-84f0-258c3297034d",
+            "id": "108",
+            "name": "CS:APP3e, Bryant and O'Hallaron",
+            "type": "url",
+            "url": "http://csapp.cs.cmu.edu/3e/labs.html"
+         }, {
+            "date_added": "13195729659000000",
+            "guid": "62968c93-5649-4581-9754-d1a55a6e200b",
+            "id": "109",
+            "name": "Algorithm by Jeff",
+            "type": "url",
+            "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/#book"
+         }, {
+            "date_added": "13203833266000000",
+            "guid": "7dca31ad-f054-4887-b6a3-e25a1ac4ed4b",
+            "id": "110",
+            "name": "word2vec原理(一) CBOW与Skip-Gram模型基础 - 刘建平Pinard - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/pinard/p/7160330.html"
+         }, {
+            "date_added": "13203243917000000",
+            "guid": "1484460e-1f40-4d31-9931-e134b133dbf1",
+            "id": "111",
+            "name": "[译] 理解 LSTM(Long Short-Term Memory, LSTM) 网络 - wangduo - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/wangduo/p/6773601.html?utm_source=itdadao&utm_medium=referral"
+         }, {
+            "date_added": "13203136300000000",
+            "guid": "5d34b42c-d6b5-4f1b-9221-744a621c00a1",
+            "id": "112",
+            "name": "Foundations of Machine Learning, Second Edition",
+            "type": "url",
+            "url": "https://mitpress.ublish.com/ereader/7093/?preview=#page/10"
+         }, {
+            "date_added": "13202908620000000",
+            "guid": "af1a6371-680c-4bb2-aacc-48f7f295af8a",
+            "id": "113",
+            "name": "CodaLab - Competition",
+            "type": "url",
+            "url": "https://competitions.codalab.org/competitions/22864#learn_the_details-overview"
+         }, {
+            "date_added": "13202908607000000",
+            "guid": "d8beec41-75c3-49f2-8bba-50203eaa7b06",
+            "id": "114",
+            "name": "ICCV 2019 人物检测与搜索挑战赛",
+            "type": "url",
+            "url": "http://wider-challenge.org/2019cn.html?from=groupmessage"
+         }, {
+            "date_added": "13202908546000000",
+            "guid": "212bfbac-8859-4fda-b90c-dfb958fcc515",
+            "id": "115",
+            "name": "CodaLab - Home",
+            "type": "url",
+            "url": "https://competitions.codalab.org/"
+         }, {
+            "date_added": "13202908543000000",
+            "guid": "d5b6f4a4-5aee-4e85-a93c-e262e0f1d90d",
+            "id": "116",
+            "name": "YantaoShen/Person-Search-with-Language-for-WIDER2019: Example train/test code for WIDER 2019 person search by languange track",
+            "type": "url",
+            "url": "https://github.com/YantaoShen/Person-Search-with-Language-for-WIDER2019"
+         }, {
+            "date_added": "13202908538000000",
+            "guid": "49948055-c900-4410-b805-f2611b13fe05",
+            "id": "117",
+            "name": "Person Search With Natural Language Description - Li_Person_Search_With_CVPR_2017_paper.pdf",
+            "type": "url",
+            "url": "http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf"
+         }, {
+            "date_added": "13202889617000000",
+            "guid": "083c1138-0e5d-481f-a4fa-ea8c27e31227",
+            "id": "118",
+            "name": "Linux安装dosemu和masm - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/29114c96c36f"
+         }, {
+            "date_added": "13202835152000000",
+            "guid": "e67525b2-6d52-40a8-b693-f63ced8896a1",
+            "id": "119",
+            "name": "汇编基础教程（5）程序编写 - LyncDwight的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/hc1151310108/article/details/82718418"
+         }, {
+            "date_added": "13202296201000000",
+            "guid": "d6271ae7-177f-4a42-bcfc-d583446f3fe9",
+            "id": "120",
+            "name": "Ubuntu 18.04环境下搭建SSR（shadowsocksR）详细流程 - m0_37536414的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/m0_37536414/article/details/84850078"
+         }, {
+            "date_added": "13202673789000000",
+            "guid": "c0192bb4-63d3-4d7f-9937-d38b97e7b663",
+            "id": "121",
+            "name": "manjaro安装后配置 - 简书",
+            "type": "url",
+            "url": "https://www.jianshu.com/p/1a1bbff13e22"
+         }, {
+            "date_added": "13201804894000000",
+            "guid": "895cd83e-1b0c-4119-9251-512706a12a65",
+            "id": "122",
+            "name": "Program Contest",
+            "type": "url",
+            "url": "http://cc.malic.xyz/#page4"
+         }, {
+            "date_added": "13201804671000000",
+            "guid": "67cb0b12-ca77-4a39-9a17-7b279d7fa1e0",
+            "id": "123",
+            "name": "2019华东师范大学计算机系学硕考研经验贴（数一，英一，计算机基础825A） - zuzhiang的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/zuzhiang/article/details/88866818"
+         }, {
+            "date_added": "13200507292000000",
+            "guid": "59c694e6-5527-4763-acf7-4cfaff7b759f",
+            "id": "124",
+            "name": "ISPRS 2017",
+            "type": "url",
+            "url": "http://www.cvlibs.net/projects/autonomous_vision_survey/"
+         }, {
+            "date_added": "13199641940000000",
+            "guid": "1981191d-844d-4499-ac3d-0fb40e24c145",
+            "id": "125",
+            "name": "CycleGAN",
+            "type": "url",
+            "url": "https://hardikbansal.github.io/CycleGANBlog/"
+         }, {
+            "date_added": "13199641986000000",
+            "guid": "a153610c-7042-401a-bf21-c5f7396b6c3d",
+            "id": "126",
+            "name": "Baidu AI Studio",
+            "type": "url",
+            "url": "https://aistudio.baidu.com/#/projectdetail/23600"
+         }, {
+            "date_added": "13195729201000000",
+            "guid": "f2707aee-8701-4850-93c1-a393eea1d0a9",
+            "id": "127",
+            "name": "HackerNews",
+            "type": "url",
+            "url": "https://news.ycombinator.com/"
+         }, {
+            "date_added": "13199546715000000",
+            "guid": "606fc2e8-625a-478d-9222-de365fcbe85e",
+            "id": "128",
+            "name": "keras channels_last、preprocess_input、全连接层Dense、SGD优化器、模型及编译 - 牧野的博客 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/dcrmg/article/details/79559804"
+         }, {
+            "date_added": "13199469662000000",
+            "guid": "0076a758-989d-443c-aa90-40c788e5fd38",
+            "id": "129",
+            "name": "TensorFlow小试牛刀(2):GAN生成手写数字 - Miracle_ma的专栏 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/miracle_ma/article/details/78305991"
+         }, {
+            "date_added": "13196706874000000",
+            "guid": "e861a553-abd9-4529-b93e-c896c4756fb9",
+            "id": "130",
+            "name": "nailperry-zd/The-Economist: The Economist 经济学人，持续更新",
+            "type": "url",
+            "url": "https://github.com/nailperry-zd/The-Economist"
+         }, {
+            "date_added": "13199271709000000",
+            "guid": "19989b0f-2e74-4955-bdd7-7b749ab463cc",
+            "id": "131",
+            "name": "基于生成式对抗网络的中文字体风格迁移 - 图文 - 百度文库",
+            "type": "url",
+            "url": "https://wenku.baidu.com/view/fefb936d0622192e453610661ed9ad51f11d5467.html"
+         }, {
+            "date_added": "13199271168000000",
+            "guid": "5b451532-e24c-4355-99f6-e68462647dd7",
+            "id": "132",
+            "name": "自然场景中文本识别技术研究及实现 - 道客巴巴",
+            "type": "url",
+            "url": "http://www.doc88.com/p-6931966407011.html"
+         }, {
+            "date_added": "13198775372000000",
+            "guid": "b07df4cb-6022-4dec-be30-b23fc0bf08b0",
+            "id": "133",
+            "name": "Ubuntu16.04 为vim安装YouCompleteMe插件",
+            "type": "url",
+            "url": "http://www.mamicode.com/info-detail-1596462.html"
+         }, {
+            "date_added": "13198775369000000",
+            "guid": "d851737a-44c9-456b-8f5b-0f07585b9ae0",
+            "id": "134",
+            "name": "180807 16步Ubuntu下利用YouCompleteMe配置Anaconda+Vim自动补齐tensorflow+keras+pytorch - 专注机器学习之路 - CSDN博客",
+            "type": "url",
+            "url": "https://blog.csdn.net/qq_33039859/article/details/81490382"
+         }, {
+            "date_added": "13198641637000000",
+            "guid": "8a5c054e-40c9-4b04-a31d-a6e372a648a2",
+            "id": "135",
+            "name": "Deep Learning Rules of Thumb - Jeff Macaluso",
+            "type": "url",
+            "url": "https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/"
+         }, {
+            "date_added": "13197972225000000",
+            "guid": "301b2b80-ab34-46fa-8824-7a9fce834ff4",
+            "id": "136",
+            "name": "红色石头的个人博客-机器学习、深度学习之路",
+            "type": "url",
+            "url": "http://redstonewill.com/"
+         }, {
+            "date_added": "13197657285000000",
+            "guid": "7b906558-41a1-4ebe-a4e3-43418aecf14e",
+            "id": "137",
+            "name": "tensorflow变量作用域（variable scope） - 善良的大猪猪 - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/MY0213/p/9208503.html"
+         }, {
+            "date_added": "13197107498000000",
+            "guid": "e8a32044-4f7e-447e-bbeb-665873db5695",
+            "id": "138",
+            "name": "[1712.00516] Multi-Content GAN for Few-Shot Font Style Transfer",
+            "type": "url",
+            "url": "https://arxiv.org/abs/1712.00516"
+         }, {
+            "date_added": "13197105678000000",
+            "guid": "cbbfd7e1-2e58-4293-9879-2f54ed578697",
+            "id": "139",
+            "name": "zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks",
+            "type": "url",
+            "url": "https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html"
+         }, {
+            "date_added": "13197007912000000",
+            "guid": "7da91e97-09a5-4cf1-9113-f7dbc21afda5",
+            "id": "140",
+            "name": "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+            "type": "url",
+            "url": "https://bigjpg.com/"
+         }, {
+            "date_added": "13196841498000000",
+            "guid": "5703acea-1ce1-4d3e-9bdb-39eb37315dd7",
+            "id": "141",
+            "name": "UZER.ME -- 您的云端超级应用空间",
+            "type": "url",
+            "url": "https://uzer.me/"
+         }, {
+            "date_added": "13195315747000000",
+            "guid": "df42f903-96f2-4dc3-a90b-c54db5255a15",
+            "id": "142",
+            "name": "VisuAlgo",
+            "type": "url",
+            "url": "https://visualgo.net/en"
+         }, {
+            "date_added": "13196840647000000",
+            "guid": "7d56b589-7761-49a2-b19f-4673781ab61b",
+            "id": "143",
+            "name": "Interpretable Machine Learning",
+            "type": "url",
+            "url": "https://christophm.github.io/interpretable-ml-book/"
+         }, {
+            "date_added": "13196676214000000",
+            "guid": "a9a0ea0d-68bf-4771-af53-27514e1640a0",
+            "id": "144",
+            "name": "Download PDF magazines and ebook free USA, UK, Australia and other",
+            "type": "url",
+            "url": "https://magazinelib.com/"
+         }, {
+            "date_added": "13196502718000000",
+            "guid": "16f515f6-761f-4901-bc8f-b1dcc392571e",
+            "id": "145",
+            "name": "Skyfree网络服务提供商",
+            "type": "url",
+            "url": "https://www.skyfree.site/"
+         }, {
+            "date_added": "13195729396000000",
+            "guid": "898a5153-4afc-41aa-bc2a-191d2a1be58a",
+            "id": "146",
+            "name": "Jeff Erickson's Publications",
+            "type": "url",
+            "url": "http://jeffe.cs.illinois.edu/pubs/index.html"
+         }, {
+            "date_added": "13194764676000000",
+            "guid": "f7c8d484-88c7-49f9-81f9-188d1b0af273",
+            "id": "147",
+            "name": "Illustrations",
+            "type": "url",
+            "url": "https://undraw.co/illustrations"
+         }, {
+            "date_added": "13195662263000000",
+            "guid": "2925618c-1667-4436-860c-5e48a4d9b7c6",
+            "id": "148",
+            "name": "小白福利-全网最详细的SSR免流教程 | 众人搜索网",
+            "type": "url",
+            "url": "http://www.renrensousuo.com/ssr-mianliu.htm"
+         }, {
+            "date_added": "13195701273000000",
+            "guid": "0e118c2d-e1ed-437e-8c0e-e4482e32a775",
+            "id": "149",
+            "name": "RMI入门教程 - Bruce.Chang.Lee - 博客园",
+            "type": "url",
+            "url": "https://www.cnblogs.com/javalouvre/p/3726256.html"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "1f46b8e7-e0f3-4d05-a119-e4d5d6ba0969",
+            "id": "150",
+            "name": "Offensive Security",
+            "type": "url",
+            "url": "https://www.offensive-security.com/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "6ee256e2-90c2-4da9-8efc-1bf77ff06f20",
+            "id": "151",
+            "name": "Kali Linux",
+            "type": "url",
+            "url": "https://www.kali.org/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "6d26ff8e-aea5-4900-b392-bcaf97b06555",
+            "id": "152",
+            "name": "Kali Docs",
+            "type": "url",
+            "url": "https://docs.kali.org/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "4ffdf772-ac1e-4a53-8c0d-5ef040b307b9",
+            "id": "153",
+            "name": "Kali Tools",
+            "type": "url",
+            "url": "https://tools.kali.org/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "4cc28a5b-d784-490c-89e0-c5af1c8c374a",
+            "id": "154",
+            "name": "Exploit-DB",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "070fa6b4-cf0b-4983-86ae-129d39358af5",
+            "id": "155",
+            "name": "Aircrack-ng",
+            "type": "url",
+            "url": "http://www.aircrack-ng.org/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "30d54ec4-d117-49d4-a6df-a77b34ce3e2e",
+            "id": "156",
+            "name": "Kali Forums",
+            "type": "url",
+            "url": "https://forums.kali.org/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "b2e204b8-9dfa-4409-a5bd-050639a694a8",
+            "id": "157",
+            "name": "NetHunter",
+            "type": "url",
+            "url": "https://www.kali.org/kali-linux-nethunter/"
+         }, {
+            "date_added": "13204692303000000",
+            "guid": "4be4d109-8290-4823-9940-5eeefd0341e3",
+            "id": "158",
+            "name": "Kali Training",
+            "type": "url",
+            "url": "https://kali.training/"
+         }, {
+            "date_added": "13214244400000000",
+            "guid": "f16de8cb-4a97-4e68-9e5d-36c8122ada1b",
+            "id": "159",
+            "name": "The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time",
+            "type": "url",
+            "url": "https://jalammar.github.io/illustrated-transformer/"
+         } ],
+         "date_added": "13223796119310648",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000002",
+         "id": "1",
+         "name": "书签栏",
+         "type": "folder"
+      },
+      "custom_root": {
+         "speedDial": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13223796119559231",
+                  "guid": "06891e2a-fd55-44e9-8034-2cd91d1bfadb",
+                  "id": "9",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/5aa8c9f341edfc287a605166be602a45e7335eb9.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/7bb03d1c5e40d667ae2049e292201ed0c8b9e010.png",
+                     "imageDataType": "2",
+                     "imageID": "3FEDEC1F22A5450E0093CA9B75E6218FB0E3A68D03E53C18F9D70E57601B26F5",
+                     "imageType": "2",
+                     "partner_id": "baidu_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/7bb03d1c5e40d667ae2049e292201ed0c8b9e010.png",
+                     "partner_url": "https://www.baidu.com/index.php?tn=54002054_1_dg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/baidu_com",
+                     "revision": "20180425",
+                     "server_position": "1"
+                  },
+                  "name": "百度搜索",
+                  "type": "url",
+                  "url": "http://www.baidu.com/"
+               }, {
+                  "date_added": "13223796119561831",
+                  "guid": "7f821dcd-b4a2-465c-b84b-a64b8c594407",
+                  "id": "10",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/24d8dc1e7d55eea3c63b864af647eaf90cc31f67.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/bd48a9c2f2bbc61971af5de247d2b13202a5a4d5.png",
+                     "imageDataType": "2",
+                     "imageID": "916D5CF5E396B43EF1FB95EB7698CB826DA437159CCD035654D56FC66AF268EC",
+                     "imageType": "2",
+                     "partner_id": "hao123_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/bd48a9c2f2bbc61971af5de247d2b13202a5a4d5.png",
+                     "partner_url": "http://www.hao123.com/?tn=94475379_hao_pg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/hao123_com",
+                     "revision": "20180425",
+                     "server_position": "2"
+                  },
+                  "name": "网址导航",
+                  "type": "url",
+                  "url": "http://www.hao123.com/"
+               }, {
+                  "date_added": "13223796119564234",
+                  "guid": "329c7492-83aa-4718-9e59-f3b7d545f191",
+                  "id": "11",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/a07ea74aa0b3aae5b7dc37789a2e834b1e883060.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8912fbc741edbb52b41e0795e6fbbe865884a819.png",
+                     "imageDataType": "2",
+                     "imageID": "6B8CFBDAD89F8B366C2E3D30EFB812E42BA470D0576A8C2982AD13C263B1957C",
+                     "imageType": "2",
+                     "partner_id": "booking_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8912fbc741edbb52b41e0795e6fbbe865884a819.png",
+                     "partner_url": "https://www.booking.com/index.html?aid=1686074",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/booking_cn",
+                     "revision": "20190426",
+                     "server_position": "4"
+                  },
+                  "name": "海外酒店",
+                  "type": "url",
+                  "url": "https://www.booking.com/"
+               }, {
+                  "date_added": "13223796119566205",
+                  "guid": "5fc724b1-dfd1-44f5-8588-2a5ac75ae72a",
+                  "id": "12",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/0e286062d80e41a6a36d7880a8ffc5f5ecb86c45.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/3465ed42c158dc49346044fb0349ed47cac04b87.png",
+                     "imageDataType": "2",
+                     "imageID": "842483E0C19DB8AB7C141E34CA3B3CEBC5BBF8011DAB5390ED5E0F3DCA3C848C",
+                     "imageType": "2",
+                     "partner_id": "jumpluna_58_com",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/3465ed42c158dc49346044fb0349ed47cac04b87.png",
+                     "partner_url": "https://jumpluna.58.com/i/2captxj6297pnc46zg",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/jumpluna_58_com",
+                     "revision": "20180425",
+                     "server_position": "7"
+                  },
+                  "name": "58生活",
+                  "type": "url",
+                  "url": "https://jumpluna.58.com/"
+               }, {
+                  "date_added": "13223796119567357",
+                  "guid": "7a35fffd-4962-497d-9325-e2dabc91a6f6",
+                  "id": "13",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/4b3ed19446716062bdc405122f6340bd9927c296.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/394bc4de9421db4d2b872afc75f4964898dde2e9.png",
+                     "imageDataType": "2",
+                     "imageID": "B5C3C2FBEF19AFF2BC6545FBFD94D07C584D02CD1375277F82575286E5E434AA",
+                     "imageType": "2",
+                     "partner_id": "ctrip_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/394bc4de9421db4d2b872afc75f4964898dde2e9.png",
+                     "partner_url": "https://www.ctrip.com/?AllianceID=1053405&sid=1820787&ouid=&app=0101F00",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/ctrip_cn",
+                     "revision": "20190507",
+                     "server_position": "9"
+                  },
+                  "name": "携程旅行",
+                  "type": "url",
+                  "url": "http://www.ctrip.com/"
+               }, {
+                  "date_added": "13223796119568605",
+                  "guid": "af1b489e-3fd5-4021-af41-bb685aa6911c",
+                  "id": "14",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/752fe2a6fad48ed9d16b904f4a0c685d52ef711f.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/eeae2c7d93581f6481879204bd774adc2c6c24c0.png",
+                     "imageDataType": "2",
+                     "imageID": "4909B5AD1E07B22D449DA959972618E98E6C487A0BF876778D0671C5A2F9A92D",
+                     "imageType": "2",
+                     "partner_id": "jd_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/eeae2c7d93581f6481879204bd774adc2c6c24c0.png",
+                     "partner_url": "https://m.picker.cn/link/jd.com/mall",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/jd_cn",
+                     "revision": "20190527",
+                     "server_position": "10"
+                  },
+                  "name": "京东",
+                  "type": "url",
+                  "url": "https://www.jd.com/"
+               }, {
+                  "date_added": "13223796119569203",
+                  "guid": "f84fff44-dde7-45b7-9b7c-afbc5783bfb4",
+                  "id": "15",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/6075894b396fda1467da5e91ee82ee316439a7ce.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/9eee07be927455eb0d30aab8e332d8c2d5df283c.png",
+                     "imageDataType": "2",
+                     "imageID": "300BD8F345BA510D71D1F5395485032710BDE09DDA70E82B7D4DF107F140A136",
+                     "imageType": "2",
+                     "partner_id": "taobao_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/9eee07be927455eb0d30aab8e332d8c2d5df283c.png",
+                     "partner_url": "https://m.picker.cn/link/taobao.com/mall",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/taobao_cn",
+                     "revision": "20190723",
+                     "server_position": "11"
+                  },
+                  "name": "爱淘宝",
+                  "type": "url",
+                  "url": "https://ai.taobao.com/"
+               }, {
+                  "date_added": "13223796119570079",
+                  "guid": "1b3db868-53ef-4303-a038-715b97b88eba",
+                  "id": "16",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/e85ed01b2d3b8765ec94a12bae647ab2b3148129.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/f024bbca939963b265f15a1adfcb7c39afbe8099.png",
+                     "imageDataType": "2",
+                     "imageID": "DD15C81136440C13B587F2C0ABE8815837899B7D43AC4841643F062A40E70C45",
+                     "imageType": "2",
+                     "partner_id": "fliggy_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/f024bbca939963b265f15a1adfcb7c39afbe8099.png",
+                     "partner_url": "https://m.picker.cn/link/fliggy.com/mall",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/fliggy_cn",
+                     "revision": "20190814",
+                     "server_position": "12"
+                  },
+                  "name": "飞猪",
+                  "type": "url",
+                  "url": "https://www.fliggy.com/"
+               }, {
+                  "date_added": "13223796119570819",
+                  "guid": "25cbdba8-d680-43fe-af38-d12ed1472172",
+                  "id": "17",
+                  "meta_info": {
+                     "favicon_url": "https://www.google.com/s2/favicons?domain=ju.taobao.com",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/716158b5cd42bf80b097be98fac5bb0c25fcae8f.png",
+                     "imageDataType": "2",
+                     "imageType": "2",
+                     "partner_id": "taobao_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/716158b5cd42bf80b097be98fac5bb0c25fcae8f.png",
+                     "partner_url": "https://m.picker.cn/link/ju.taobao.com/mall",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/taobao_cn",
+                     "revision": "20200116",
+                     "server_position": "13"
+                  },
+                  "name": "聚划算",
+                  "type": "url",
+                  "url": "https://ju.taobao.com/"
+               }, {
+                  "date_added": "13223796119573513",
+                  "guid": "cd343eb3-f3fb-42ff-ae4a-5ffc80e08117",
+                  "id": "18",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/3090cd1ed6264a39b67fe7f67575ed0563ae6a7a.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/1f6b04c9c116b279a907b1f3c93ec4f13e0dac07.png",
+                     "imageDataType": "2",
+                     "imageID": "D7B8284CFF57D5531ED57E7D4CEBBDB363EB48184C06518753F3A1DA954E89C8",
+                     "imageType": "2",
+                     "partner_id": "tmall_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/1f6b04c9c116b279a907b1f3c93ec4f13e0dac07.png",
+                     "partner_url": "https://m.picker.cn/link/tmall.com/mall",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/tmall_cn",
+                     "revision": "20191024",
+                     "server_position": "14"
+                  },
+                  "name": "天猫",
+                  "type": "url",
+                  "url": "https://www.tmall.com/"
+               }, {
+                  "date_added": "13223796119574426",
+                  "guid": "6380876a-cf22-4f4f-98f2-bf48455b42df",
+                  "id": "19",
+                  "meta_info": {
+                     "favicon_url": "https://sd-images.operacdn.com/api/v1/images/8381913b000c3f5508e0cf51f776d6203de80f6f.png",
+                     "imageData": "https://sd-images.operacdn.com/api/v1/images/8466b608d3351408766b86e1e3a624d81f4db677.png",
+                     "imageDataType": "2",
+                     "imageID": "B5108522CA143A5B57C0B70A876F4C00DFE33C51D0B723EDCB9D7338AF3203C2",
+                     "imageType": "2",
+                     "partner_id": "vip_cn",
+                     "partner_image_download_url": "https://sd-images.operacdn.com/api/v1/images/8466b608d3351408766b86e1e3a624d81f4db677.png",
+                     "partner_url": "http://www.sxm2.com/At",
+                     "ping_url": "https://speeddials.opera.com/api/v2/ping/vip_cn",
+                     "revision": "20191126",
+                     "server_position": "15"
+                  },
+                  "name": "唯品会",
+                  "type": "url",
+                  "url": "https://www.vip.com/"
+               } ],
+               "date_added": "13223796119371768",
+               "date_modified": "13223796119574426",
+               "guid": "cc3ed629-29fa-4c84-bdd2-3d0f9b9ee2e3",
+               "id": "8",
+               "meta_info": {
+                  "speed_dial_root_folder_guid": "6ff9a216-613c-49fb-bcb7-378a27c57c95"
+               },
+               "name": "Jonnie",
+               "type": "folder"
+            } ],
+            "date_added": "13223796119371503",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-A000-000000000005",
+            "id": "6",
+            "name": "Speed Dials",
+            "type": "folder"
+         },
+         "trash": {
+            "children": [  ],
+            "date_added": "13223796119371504",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-A000-000000000005",
+            "id": "7",
+            "name": "回收站",
+            "type": "folder"
+         },
+         "unsorted": {
+            "children": [  ],
+            "date_added": "13223796119371421",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-A000-000000000005",
+            "id": "4",
+            "name": "未分类书签",
+            "type": "folder"
+         },
+         "userRoot": {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13215435770000000",
+                  "guid": "bdb5e991-eb99-41d3-a125-e67a2947ade0",
+                  "id": "21",
+                  "name": "Help and Tutorials",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/products/firefox"
+               }, {
+                  "date_added": "13215435770000000",
+                  "guid": "eaf3e25f-b0a9-4fe7-abf4-b74e7dcf277f",
+                  "id": "22",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/en-US/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13215435770000000",
+                  "guid": "904417ce-a29e-4613-bdb4-d660a9b29383",
+                  "id": "23",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/contribute/"
+               }, {
+                  "date_added": "13215435770000000",
+                  "guid": "dd604c3a-47e5-4511-9ef6-018e5fc5ab04",
+                  "id": "24",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/en-US/about/"
+               } ],
+               "date_added": "13223797086380773",
+               "date_modified": "0",
+               "guid": "894bce60-6b0f-4a13-b480-f920d82ca6cb",
+               "id": "20",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13215435771000000",
+                  "guid": "3af4c252-ac6a-4ccb-8387-ed9ca682eaab",
+                  "id": "26",
+                  "name": "Manjaro Homepage",
+                  "type": "url",
+                  "url": "https://manjaro.org/"
+               }, {
+                  "date_added": "13215435772000000",
+                  "guid": "a6e651fb-ee80-43ba-8b95-71516c66d642",
+                  "id": "27",
+                  "name": "Manjaro Forum",
+                  "type": "url",
+                  "url": "http://forum.manjaro.org/"
+               }, {
+                  "date_added": "13215435772000000",
+                  "guid": "75ff7984-8a99-4607-80cd-b68e708b20b6",
+                  "id": "28",
+                  "name": "Manjaro Wiki",
+                  "type": "url",
+                  "url": "http://wiki.manjaro.org/index.php/Main_Page"
+               }, {
+                  "date_added": "13215435772000000",
+                  "guid": "2da0b23a-d8bd-418d-876d-62e66d253da9",
+                  "id": "29",
+                  "name": "Manjaro Downloads",
+                  "type": "url",
+                  "url": "https://manjaro.org/get-manjaro/"
+               } ],
+               "date_added": "13223797086382449",
+               "date_modified": "0",
+               "guid": "c26b92f1-3853-4f79-a2da-9bf9dad5956b",
+               "id": "25",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13223797086383923",
+               "date_modified": "13223797086383923",
+               "guid": "e1143cab-eadd-40d9-a0fb-e38457ab5caa",
+               "id": "30",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13223797086384341",
+               "date_modified": "13223797086384341",
+               "guid": "a78efbc9-7b41-4fba-8ed0-110651f714a0",
+               "id": "31",
+               "name": "Manjaro Linux",
+               "type": "folder"
+            }, {
+               "children": [  ],
+               "date_added": "13223797086384607",
+               "date_modified": "13223797086384607",
+               "guid": "c0070f75-b6b1-42fe-abd4-e5d07f162237",
+               "id": "32",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13189255311000000",
+                  "guid": "aa5f7458-e842-4fc8-85bb-b025c712150a",
+                  "id": "34",
+                  "name": "Ubuntu",
+                  "type": "url",
+                  "url": "http://www.ubuntu.com/"
+               }, {
+                  "date_added": "13189255311000000",
+                  "guid": "e1a11b5c-81b3-4c1c-9738-379dafb9be71",
+                  "id": "35",
+                  "name": "Ubuntu Wiki (community-edited website)",
+                  "type": "url",
+                  "url": "http://wiki.ubuntu.com/"
+               }, {
+                  "date_added": "13189255311000000",
+                  "guid": "aad5e921-e167-42db-afa1-0374400ca243",
+                  "id": "36",
+                  "name": "Make a Support Request to the Ubuntu Community",
+                  "type": "url",
+                  "url": "https://answers.launchpad.net/ubuntu/+addquestion"
+               }, {
+                  "date_added": "13189255311000000",
+                  "guid": "968ef820-a399-46a3-bf57-4aad2e6c8d14",
+                  "id": "37",
+                  "name": "Debian (Ubuntu is based on Debian)",
+                  "type": "url",
+                  "url": "http://www.debian.org/"
+               } ],
+               "date_added": "13223797086384926",
+               "date_modified": "0",
+               "guid": "9853aaf0-5f4f-464f-b367-f3ca2ef1c5ce",
+               "id": "33",
+               "name": "Ubuntu and Free Software links",
+               "type": "folder"
+            }, {
+               "date_added": "13172279455000000",
+               "guid": "687f57b9-d3ff-4d2d-9580-6cda37e49b00",
+               "id": "38",
+               "name": "Customize Firefox",
+               "type": "url",
+               "url": "https://www.mozilla.org/en-US/firefox/customize/"
+            }, {
+               "date_added": "13219671572000000",
+               "guid": "cc3ac1fc-620c-4212-a094-b227175d5498",
+               "id": "39",
+               "name": "Enhance Synonyms, Enhance Antonyms | Thesaurus.com",
+               "type": "url",
+               "url": "https://www.thesaurus.com/browse/enhance?s=t"
+            }, {
+               "date_added": "13221564646000000",
+               "guid": "b1db10a2-c671-4e65-90cc-2d7a4fd0c92d",
+               "id": "40",
+               "name": "Notes.md",
+               "type": "url",
+               "url": "http://127.0.0.1:9570/markdown/15770908841?L2hvbWUvZ29kbG92ZXNqb25ueS9Kb25ueS9Pd24tTm90ZXMv5pON5L2c57O757uf5Y6f55CG6K++5Lu2L05vdGVzLm1kJi9ob21lL2dvZGxvdmVzam9ubnkvLnZpbS9idW5kbGUvbWF0aGpheC1zdXBwb3J0LWZvci1ta2RwL21hdGhqYXgtc3RhdGljLw=="
+            }, {
+               "date_added": "13222690500000000",
+               "guid": "1eb5aa88-ac58-4fae-b13f-61783afc3f75",
+               "id": "41",
+               "name": "ack 命令，Linux ack 命令详解：比grep好用的文本搜索工具 - Linux 命令搜索引擎",
+               "type": "url",
+               "url": "https://wangchujiang.com/linux-command/c/ack.html"
+            }, {
+               "children": [ {
+                  "date_added": "13172474440000000",
+                  "guid": "a0c15974-75d9-477d-8ae1-16d6948d6cee",
+                  "id": "161",
+                  "name": "Linux下OpenOffice的安装与启动 - CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/wsxsxz_/article/details/71159354"
+               }, {
+                  "date_added": "13173032551000000",
+                  "guid": "018eb1fe-6031-454f-adab-e331758185a1",
+                  "id": "162",
+                  "name": "yangyangwithgnu/the_new_world_linux: the new world, linux",
+                  "type": "url",
+                  "url": "https://github.com/yangyangwithgnu/the_new_world_linux#0.3.4"
+               }, {
+                  "date_added": "13189333904000000",
+                  "guid": "ea097961-60a7-4899-9fac-deaeb6d50ed4",
+                  "id": "163",
+                  "name": "How to start an ipython shell(not notebook) within a conda or virtualenv - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/41956278/how-to-start-an-ipython-shellnot-notebook-within-a-conda-or-virtualenv"
+               }, {
+                  "date_added": "13189435724000000",
+                  "guid": "62cc2011-28f3-496d-a4e8-fd6803a2cd27",
+                  "id": "164",
+                  "name": "在 Ubuntu 上使用 SSR 梯子 · Lee's Space Station",
+                  "type": "url",
+                  "url": "https://alanlee.fun/2018/05/18/ubuntu-ssr/"
+               }, {
+                  "date_added": "13189436056000000",
+                  "guid": "3d4b7592-f126-4c71-9a18-06617e723108",
+                  "id": "165",
+                  "name": "Lee's Space Station",
+                  "type": "url",
+                  "url": "https://alanlee.fun/"
+               }, {
+                  "date_added": "13189667475000000",
+                  "guid": "901bc964-5a81-467e-ae73-d13ba51b3a94",
+                  "id": "166",
+                  "name": "Themes · robbyrussell/oh-my-zsh Wiki",
+                  "type": "url",
+                  "url": "https://github.com/robbyrussell/oh-my-zsh/wiki/themes"
+               }, {
+                  "date_added": "13189701717000000",
+                  "guid": "857c65dc-d91c-48d7-8fc0-5a871debcc70",
+                  "id": "167",
+                  "name": "189邮箱-爱简单",
+                  "type": "url",
+                  "url": "https://webmail30.189.cn/w2/logon/signOn.do#index"
+               }, {
+                  "date_added": "13190204505000000",
+                  "guid": "1ec5caba-bc4a-4b5d-ab3e-27a237da20e8",
+                  "id": "168",
+                  "name": "免费下载海量视频资源",
+                  "type": "url",
+                  "url": "https://www.videograbber.net/zh/"
+               }, {
+                  "date_added": "13190216503000000",
+                  "guid": "a35ebac0-a1bf-451a-85a7-11c595d8a20a",
+                  "id": "169",
+                  "name": "主页 | SpaceVim",
+                  "type": "url",
+                  "url": "https://spacevim.org/cn/"
+               }, {
+                  "date_added": "13190273031000000",
+                  "guid": "eeec1b6f-50c5-4334-a3d9-ed2e5847fe58",
+                  "id": "170",
+                  "name": "File Destructor 2.0 - Hype Magazine",
+                  "type": "url",
+                  "url": "http://www.xnet.se/fd/"
+               }, {
+                  "date_added": "13190273052000000",
+                  "guid": "d16d98d0-2b15-48c4-be21-845ec4cfd457",
+                  "id": "171",
+                  "name": "MyScript Webdemo",
+                  "type": "url",
+                  "url": "http://webdemo.myscript.com/#/home"
+               }, {
+                  "date_added": "13190273631000000",
+                  "guid": "8bfe5d42-b947-4110-9574-a1a4983f13c3",
+                  "id": "172",
+                  "name": "FakeUpdate.net - Windows Update Prank by fediaFedia",
+                  "type": "url",
+                  "url": "http://fakeupdate.net/"
+               }, {
+                  "date_added": "13190333018000000",
+                  "guid": "58a4f178-a456-406f-9e8b-a9ce7a588538",
+                  "id": "173",
+                  "name": "Ubuntu18.04 纸飞机起飞 - 简书",
+                  "type": "url",
+                  "url": "https://www.jianshu.com/p/17974c568878"
+               }, {
+                  "date_added": "13190388987000000",
+                  "guid": "74f6a582-a880-4a98-b3f1-74b9cdb7e920",
+                  "id": "174",
+                  "name": "情绪识别器",
+                  "type": "url",
+                  "url": "https://moevis.github.io/what-is-my-girlfriend-thinking/"
+               }, {
+                  "date_added": "13190569011000000",
+                  "guid": "aaa52712-6ebe-42bb-956b-7932cfcb9403",
+                  "id": "175",
+                  "name": "霸王别姬 Farewell.My.Concubine.1993[BD-720P]—电影—视频高清在线观看-优酷",
+                  "type": "url",
+                  "url": "http://v.youku.com/v_show/id_XMzA1NTAzNjAwMA==.html?tpa=dW5pb25faWQ9MTAzNzUzXzEwMDAwMV8wMV8wMQ&refer=baiduald1705"
+               }, {
+                  "date_added": "13191656987000000",
+                  "guid": "fcf0c243-7816-4cf3-8b4a-5f9d74bcf26d",
+                  "id": "176",
+                  "name": "Google学术搜索镜像_sci-hub网址_大木虫学术导航",
+                  "type": "url",
+                  "url": "http://www.4243.net/"
+               }, {
+                  "date_added": "13192036935000000",
+                  "guid": "83b8f866-0744-4a25-b178-d9535ea758b9",
+                  "id": "177",
+                  "name": "机器学习规则 (Rules of Machine Learning)：  |  机器学习通用指南  |  Google Developers",
+                  "type": "url",
+                  "url": "https://developers.google.cn/machine-learning/guides/rules-of-ml/?hl=zh-CN"
+               }, {
+                  "date_added": "13197993317000000",
+                  "guid": "07dd10ce-2e88-470f-83a7-96c5e743aae7",
+                  "id": "178",
+                  "name": "smokingrain/HPlayer: 安卓音乐播放器",
+                  "type": "url",
+                  "url": "https://github.com/smokingrain/HPlayer"
+               }, {
+                  "date_added": "13204715118000000",
+                  "guid": "2ce53002-af3f-4740-927e-314ec90bd475",
+                  "id": "179",
+                  "name": "windows+Ubuntu　双系统的引导修复问题 - 学习记录分享 - CSDN博客",
+                  "type": "url",
+                  "url": "https://blog.csdn.net/weixin_41004350/article/details/78490772"
+               }, {
+                  "date_added": "13217136960000000",
+                  "guid": "b7bfc5e1-fa5c-43d6-a831-a333a4b65c3a",
+                  "id": "180",
+                  "name": "Manjaro折腾笔记：我的数据科学环境搭建之路 - 杨睿 - 博客园",
+                  "type": "url",
+                  "url": "https://www.cnblogs.com/yangruiGB2312/p/9004335.html"
+               }, {
+                  "date_added": "13219258794000000",
+                  "guid": "de4638c8-db4f-4199-9682-84bcc8975d03",
+                  "id": "181",
+                  "name": "GodLovesJonny (Jonathan Wang)",
+                  "type": "url",
+                  "url": "https://github.com/GodLovesJonny"
+               }, {
+                  "date_added": "13222102717000000",
+                  "guid": "1cbe908e-1786-48d2-a50c-255cee472d61",
+                  "id": "182",
+                  "name": "https://ntcebm4.neea.edu.cn",
+                  "type": "url",
+                  "url": "https://ntcebm4.neea.edu.cn/apply/memapp/ieNote"
+               } ],
+               "date_added": "13223797086453175",
+               "date_modified": "0",
+               "guid": "3156cb80-c479-4ed5-9979-e3f8b6b6a679",
+               "id": "160",
+               "name": "Other Bookmarks",
+               "type": "folder"
+            } ],
+            "date_added": "13223796119371427",
+            "date_modified": "0",
+            "guid": "00000000-0000-4000-A000-000000000005",
+            "id": "5",
+            "name": "其它书签",
+            "type": "folder"
+         }
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13223796119310657",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000003",
+         "id": "2",
+         "name": "已导入的书签",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13223796119310659",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-A000-000000000004",
+         "id": "3",
+         "name": "移动设备书签",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

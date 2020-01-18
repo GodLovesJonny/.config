@@ -1,0 +1,13 @@
+[PsppireDataWindow]
+maximize=true
+height=214
+width=674
+x=430
+y=300
+
+[compute-variable-dialog]
+maximize=false
+height=348
+width=939
+x=490
+y=392

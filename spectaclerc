@@ -1,3 +1,13 @@
+[General]
+lastSaveAsFile=file:///home/godlovesjonny/图片/screen.png
+lastSaveFile=file:///home/godlovesjonny/图片/screen.png
+
 [GuiConfig]
 cropRegion=0,0,0,0
-window-position=47,0
+lastUsedSaveMode=0
+window-position=239,244
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/图片/screen.png
+Recent URLs[$e]=file:$HOME/图片/
+detailViewIconSize=0

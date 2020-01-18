@@ -1,15 +1,3 @@
-[file:///home/godlovesjonny/2019-2020_innovation_and_entrepreneurship_training_program/2019-11/刘-王-叶组/2019.11月的工作日志.txt]
-Bookmarks=
-Checksum=a6afd44f98f8e811b68df37b74840d1a018730a6
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,11,30,15,21,19
-URL=file:///home/godlovesjonny/2019-2020_innovation_and_entrepreneurship_training_program/2019-11/刘-王-叶组/2019.11月的工作日志.txt
-
 [file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib]
 Bookmarks=
 Checksum=9b5d104c0772c829eaf8ad183b00447b53620eac
@@ -19,104 +7,44 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=BibTeX
 Mode Set By User=false
-Time=2019,12,1,9,46,45
+Time=2019,12,29,15,18,53
 URL=file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib
 
-[file:///home/godlovesjonny/Jonny/Pys/DIP/Digital-Image-Processing-Project/BCNN/bcnn.py]
+[file:///home/godlovesjonny/Jonny/MathmaticalModeling/pre/MCM-Models/src/datasets/wine/winequality-red.csv]
 Bookmarks=
-Checksum=1a187651ab0293a96876bf5d9e36aa24ec6e242b
-Encoding=UTF-8
-Highlighting=Python
-Highlighting Set By User=false
-Indentation Mode=python
-Mode=Python
-Mode Set By User=false
-Time=2019,12,2,2,48,11
-URL=file:///home/godlovesjonny/Jonny/Pys/DIP/Digital-Image-Processing-Project/BCNN/bcnn.py
-
-[file:///home/godlovesjonny/Jonny/Pys/DIP/Digital-Image-Processing-Project/BCNN/create_h5_dataset.py]
-Bookmarks=
-Checksum=d4f87a2e2991b7d5dd4f6952931cb2da580c8768
-Encoding=UTF-8
-Highlighting=Python
-Highlighting Set By User=false
-Indentation Mode=python
-Mode=Python
-Mode Set By User=false
-Time=2019,12,2,2,48,17
-URL=file:///home/godlovesjonny/Jonny/Pys/DIP/Digital-Image-Processing-Project/BCNN/create_h5_dataset.py
-
-[file:///home/godlovesjonny/Jonny/Temp-Storage/resources.txt]
-Bookmarks=
-Checksum=fb8baa1a20eee383e82a035625a8b8622e012491
+Checksum=9bb4e3cd10475593334526fd8deb9e809800f061
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,12,12,15,59,48
-URL=file:///home/godlovesjonny/Jonny/Temp-Storage/resources.txt
+Time=2020,1,14,13,46,33
+URL=file:///home/godlovesjonny/Jonny/MathmaticalModeling/pre/MCM-Models/src/datasets/wine/winequality-red.csv
 
-[file:///home/godlovesjonny/in.c]
+[file:///home/godlovesjonny/Jonny/MathmaticalModeling/pre/MCM-Models/src/datasets/winequality.names]
 Bookmarks=
-Checksum=7c4aa08887d323365cd4b9ab387ef4338cc5c4f5
-Encoding=UTF-8
-Highlighting=C
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=C
-Mode Set By User=false
-Time=2019,11,25,15,0,17
-URL=file:///home/godlovesjonny/in.c
-
-[file:///home/godlovesjonny/out.txt]
-Bookmarks=
-Checksum=c7713067db35bf4d7c4ec6a787008dad52eb6cf2
+Checksum=4e1de1f26d714b5212811eaea96e4564dc2ca0fb
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,11,28,4,24,37
-URL=file:///home/godlovesjonny/out.txt
+Time=2020,1,14,13,29,13
+URL=file:///home/godlovesjonny/Jonny/MathmaticalModeling/pre/MCM-Models/src/datasets/winequality.names
 
-[file:///home/godlovesjonny/下载/1910.02629v3]
+[file:///home/godlovesjonny/yarn.lock]
 Bookmarks=
-Checksum=cdb63f81c537987f4f83149bf46c909dac1228f4
+Checksum=fb57ccd13afbd082ad82051c2ffebef4840661ec
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,11,27,2,41,31
-URL=file:///home/godlovesjonny/下载/1910.02629v3
-
-[file:///home/godlovesjonny/下载/GTSRB/Training/00032/GT-00032.csv]
-Bookmarks=
-Checksum=bebdf2dcf7fb7c3f4db86c61f9c6ef8656206168
-Encoding=UTF-8
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,2,12,2,39
-URL=file:///home/godlovesjonny/下载/GTSRB/Training/00032/GT-00032.csv
-
-[file:///home/godlovesjonny/下载/GTSRB/Training/Readme.txt]
-Bookmarks=
-Checksum=bc28bc0c7f982d154e50d3c15c70963e8e6f9e89
-Encoding=ISO-8859-15
-Highlighting=None
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Normal
-Mode Set By User=false
-Time=2019,12,2,12,2,24
-URL=file:///home/godlovesjonny/下载/GTSRB/Training/Readme.txt
+Time=2019,12,30,9,56,2
+URL=file:///home/godlovesjonny/yarn.lock
 
 [file:///home/godlovesjonny/下载/OS_Exp/OS实验参考程序_vs2017.cpp]
 Bookmarks=
@@ -130,53 +58,65 @@ Mode Set By User=false
 Time=2019,12,18,2,14,34
 URL=file:///home/godlovesjonny/下载/OS_Exp/OS实验参考程序_vs2017.cpp
 
-[file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/dzy.cpp]
+[file:///home/godlovesjonny/下载/W2a9Axuw]
 Bookmarks=
-Checksum=736d17e8583e76822b0d226f039423e42bb83686
-Encoding=GB18030
-Highlighting=C++
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=C++
-Mode Set By User=false
-Time=2019,11,26,16,18,23
-URL=file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/dzy.cpp
-
-[file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/dzy.dsp]
-Bookmarks=
-Checksum=6136573ebd93589d446f71b69dda068124d7c238
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,11,26,8,25,45
-URL=file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/dzy.dsp
+Time=2019,12,30,16,18,52
+URL=file:///home/godlovesjonny/下载/W2a9Axuw
 
-[file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/╝╞1401160310in.txt]
+[file:///home/godlovesjonny/下载/spie-journal-papers-latex1/ReadMe.txt]
 Bookmarks=
-Checksum=486ebea2812c0228e286ac851dfb3542ec445f51
+Checksum=53e683345617dc6b8669cfa5bcbf691f4c26e577
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,11,27,1,46,5
-URL=file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/╝╞1401160310in.txt
+Time=2019,12,29,15,18,52
+URL=file:///home/godlovesjonny/下载/spie-journal-papers-latex1/ReadMe.txt
 
-[file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/╝╞1401160310out.txt]
+[file:///home/godlovesjonny/下载/spie-journal-papers-latex1/report.bib]
 Bookmarks=
-Checksum=8ae7ced1653bdb99cb3180e2a9990d113eb1b9e9
+Checksum=2438d4837587417396c19304424b11ff01432881
+Encoding=UTF-8
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+Time=2019,12,29,15,18,53
+URL=file:///home/godlovesjonny/下载/spie-journal-papers-latex1/report.bib
+
+[file:///home/godlovesjonny/下载/wLa5tzjF]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,11,27,1,46,5
-URL=file:///home/godlovesjonny/下载/▒α╥δ╘¡└φ╫≈╥╡╕─7/▒α╥δ╘¡└φ╫≈╥╡/dzy/╝╞1401160310out.txt
+Time=2020,1,9,6,19,24
+URL=file:///home/godlovesjonny/下载/wLa5tzjF
+
+[file:///home/godlovesjonny/下载/winequality-red.csv]
+Bookmarks=
+Checksum=9bb4e3cd10475593334526fd8deb9e809800f061
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,14,13,22,29
+URL=file:///home/godlovesjonny/下载/winequality-red.csv
 
 [file:///home/godlovesjonny/下载/电子1903_黄威龙_Fb/fb.html]
 Bookmarks=

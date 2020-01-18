@@ -12,7 +12,7 @@ activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=4
+location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
@@ -23,9 +23,15 @@ plugin=org.kde.plasma.kickoff
 [Containments][1][Applets][2][Configuration]
 PreloadWeight=100
 
+[Containments][1][Applets][2][Configuration][ConfigDialog]
+DialogHeight=840
+DialogWidth=1120
+
 [Containments][1][Applets][2][Configuration][General]
 favorites=firefox.desktop,qupzilla.desktop,org.kde.dolphin.desktop,org.kde.konversation.desktop,libreoffice-writer.desktop,cantata.desktop,kde4-digikam.desktop,org.kde.konsole.desktop,pamac-manager.desktop,pamac-updater.desktop,systemsettings.desktop
 favoritesPortedToKAstats=true
+icon=alien-arena
+menuItems=bookmark:t,application:t,leave:t,oftenUsed:f,computer:f,used:f
 systemApplications=systemsettings.desktop,org.kde.kinfocenter.desktop
 
 [Containments][1][Applets][2][Configuration][Shortcuts]
@@ -41,19 +47,9 @@ plugin=org.kde.plasma.pager
 [Containments][1][Applets][3][Configuration]
 PreloadWeight=0
 
-[Containments][1][Applets][4]
-immutability=1
-plugin=org.kde.plasma.icontasks
-
-[Containments][1][Applets][4][Configuration]
-PreloadWeight=0
-
-[Containments][1][Applets][4][Configuration][ConfigDialog]
+[Containments][1][Applets][3][Configuration][ConfigDialog]
 DialogHeight=840
 DialogWidth=1120
-
-[Containments][1][Applets][4][Configuration][General]
-launchers=file:///usr/share/applications/org.kde.dolphin.desktop?wmClass=dolphin,file:///usr/share/applications/firefox.desktop?wmClass=firefox,applications:v2rayL.desktop,applications:texstudio.desktop
 
 [Containments][1][Applets][46]
 immutability=1
@@ -68,6 +64,44 @@ plugin=org.kde.plasma.showdesktop
 
 [Containments][1][Applets][5][Configuration]
 PreloadWeight=0
+
+[Containments][1][Applets][53]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][1][Applets][53][Configuration]
+PreloadWeight=0
+
+[Containments][1][Applets][53][Configuration][General]
+length=437
+
+[Containments][1][Applets][54]
+immutability=1
+plugin=org.communia.apptitle
+
+[Containments][1][Applets][54][Configuration]
+PreloadWeight=0
+
+[Containments][1][Applets][54][Configuration][ConfigDialog]
+DialogHeight=840
+DialogWidth=1120
+
+[Containments][1][Applets][54][Configuration][General]
+bold=true
+
+[Containments][1][Applets][55]
+immutability=1
+plugin=org.kde.plasma_applet_dict
+
+[Containments][1][Applets][55][Configuration]
+PreloadWeight=10
+
+[Containments][1][Applets][55][Configuration][ConfigDialog]
+DialogHeight=840
+DialogWidth=1120
+
+[Containments][1][Applets][55][Shortcuts]
+global=
 
 [Containments][1][Applets][6]
 immutability=1
@@ -98,6 +132,7 @@ PreloadWeight=0
 [Containments][1][Applets][8][Configuration][Appearance]
 enabledCalendarPlugins=/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so
 italicText=true
+showDate=true
 showSeconds=true
 showWeekNumbers=true
 use24hFormat=2
@@ -114,7 +149,7 @@ DialogWidth=1920
 PreloadWeight=0
 
 [Containments][1][General]
-AppletOrder=2;3;4;46;7;8;6;5
+AppletOrder=2;3;54;53;46;7;8;6;55;5
 
 [Containments][35]
 ItemGeometriesHorizontal=Applet-50:1520,32,400,400,0;
@@ -131,14 +166,14 @@ immutability=1
 plugin=org.kde.plasma.notes
 
 [Containments][35][Applets][50][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][35][Applets][50][Configuration][ConfigDialog]
 DialogHeight=840
 DialogWidth=1120
 
 [Containments][35][Applets][50][Configuration][General]
-color=translucent
+color=translucent-light
 noteId=8fcbe84f-f83b-4171-b1a0-94da9362be
 
 [Containments][35][ConfigDialog]
@@ -150,11 +185,12 @@ PreloadWeight=0
 
 [Containments][35][General]
 ToolBoxButtonState=top
-ToolBoxButtonX=1882
+ToolBoxButtonX=1790
+ToolBoxButtonY=28
 pressToMoveHelp=false
 
 [Containments][35][Wallpaper][org.kde.image][General]
-Image=file:///home/godlovesjonny/.local/share/wallpapers/KDE Plasma Scenery 197 HD No Logo.png
+Image=file:///home/godlovesjonny/.local/share/wallpapers/154783-winter-cottage-in-the-forest.jpg
 
 [Containments][35][Wallpaper][org.kde.potd][General]
 Color=0,255,0
@@ -166,7 +202,7 @@ activityId=
 formfactor=2
 immutability=1
 lastScreen=0
-location=4
+location=3
 plugin=org.kde.plasma.private.systemtray
 wallpaperplugin=org.kde.image
 
@@ -196,14 +232,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=4
+PreloadWeight=0
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=50
+PreloadWeight=100
 
 [Containments][8][Applets][41]
 immutability=1
@@ -217,7 +253,11 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=0
+PreloadWeight=15
+
+[Containments][8][Applets][42][Configuration][ConfigDialog]
+DialogHeight=840
+DialogWidth=1120
 
 [Containments][8][Applets][43]
 immutability=1
@@ -235,7 +275,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=82
+PreloadWeight=100
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840
@@ -267,3 +307,4 @@ immutability=2
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=

@@ -42,9 +42,11 @@ TextOnly=false
 [TabBox]
 ActivitiesMode=1
 ApplicationsMode=0
+DesktopLayout=org.kde.breeze.desktop
+DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breath.desktop
+LayoutName=org.kde.breeze.desktop
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
@@ -69,8 +71,8 @@ RollOverDesktops=true
 [org.kde.kdecoration2]
 BorderSize=Normal
 BorderSizeAuto=true
-ButtonsOnLeft=MS
-ButtonsOnRight=HIAX
+ButtonsOnLeft=XAI
+ButtonsOnRight=HSM
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
 library=org.kde.kwin.aurorae

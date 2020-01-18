@@ -1,0 +1,4 @@
+64deaedf8a6c0e72c95a0a5a2d0d4904|file:///home/godlovesjonny/LittleCppComplier.cpp|72|1|V|cpp
+	#inclu
+6785fca313a8ef6747fe4bcc6ebb851c|file:///home/godlovesjonny/LittleCppComplier.cpp|91|1|V|cpp
+	int lookahead_type;     // type of current word

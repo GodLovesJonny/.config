@@ -1,5 +1,17 @@
+[DownloadDialog Settings]
+Height 1080=573
+Width 1920=700
+
+[FileDialogSize]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+Recent Files[$e]=head1.jpg,file:$HOME/图片/bg1.jpg,file:$HOME/图片/head1.jpg
+Recent URLs[$e]=file:$HOME/图片/
+detailViewIconSize=80
+
 [MainWindow]
-Height 1080=493
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPOAAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 1080=499
+State=AAAA/wAAAAD9AAAAAAAAA74AAAHKAAAABAAAAAQAAAAIAAAACPwAAAAA
 Width 1920=958
 Window-Maximized 1080x1920=true

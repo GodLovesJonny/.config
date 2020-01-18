@@ -1,0 +1,34 @@
+{
+   "description": "",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAldpcn7hRyYz1vvuR/kWOKH+3O/YxSgNwCATP07ZRMRGMT5MZRdT33A5t3KyYtnr4cqX4uEoe+Z2NQSKf9o4P9hymNysWC2clA0fXrGvNIjyDxkMZT7JFEMGv1KqgV6/nAo4g63steYaVwRx2QHRx4wcaLQfrQcgoBwf47hY7yyRtCu4dsa+m8DNdU6/D43xqDai6Lq5pf7rkl6/PmObUtlqUtuEcodjg/AP3A7CjrpatH1hNOSVNc4QFD/sCZHdGjA9SSfaAgdOWl0WMGgcFsCeC+OlpBSWf9EfF9NX3ydDnouGMKzGzwgMZoZ4hU5E+ZomL3JXIwh3eUZbvoKciRQIDAQAB",
+   "manifest_version": 2,
+   "name": "Winter Wolf",
+   "theme": {
+      "colors": {
+         "bookmark_text": [ 18, 18, 29 ],
+         "button_background": [ 0, 0, 0, 0 ],
+         "frame": [ 83, 85, 94 ],
+         "ntp_background": [ 129, 133, 145 ],
+         "ntp_text": [ 255, 255, 255 ],
+         "tab_background_text": [ 18, 18, 29 ],
+         "tab_text": [ 0, 0, 0 ],
+         "toolbar": [ 129, 133, 145 ]
+      },
+      "images": {
+         "theme_frame": "images/theme_frame.png",
+         "theme_frame_overlay": "images/theme_frame_overlay.png",
+         "theme_ntp_background": "images/theme_ntp_background.jpeg",
+         "theme_tab_background": "images/theme_tab_background.png",
+         "theme_toolbar": "images/theme_toolbar.png"
+      },
+      "properties": {
+         "ntp_background_alignment": "left bottom",
+         "ntp_background_repeat": "no-repeat"
+      },
+      "tints": {
+         "buttons": [ 0, 0, 0.5 ]
+      }
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1"
+}

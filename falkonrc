@@ -1,0 +1,7 @@
+[FileDialogSize]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+Recent Files[$e]=places.sqlite,file:$HOME/Jonny/bookmarks.html,file:$HOME/.mozilla/firefox/94cc1tj0.default-release/places.sqlite-wal,file:$HOME/.mozilla/firefox/94cc1tj0.default-release/places.sqlite
+Recent URLs[$e]=file:$HOME/Jonny/
+detailViewIconSize=0

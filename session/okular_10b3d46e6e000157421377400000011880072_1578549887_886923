@@ -1,0 +1,14 @@
+[1]
+ActiveTab=3
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/Operating Systems: Three Easy Pieces.pdf,file:$HOME/Jonny/Paper-Lib/Books/ A Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf,file:$HOME/Jonny/Paper-Lib/Books/[N. Gregory Mankiw] Principles of Economics 7th E.pdf,file:$HOME/Jonny/Latexs/PyramidReid/spie-journal-papers-latex1/article.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

@@ -1,0 +1,3 @@
+[filesystem "Jonnie|Oracle Corporation|13.0.1|/dev/nvme0n1p11"]
+	timestampResolution = 6000 nanoseconds
+	minRacyThreshold = 4725 microseconds

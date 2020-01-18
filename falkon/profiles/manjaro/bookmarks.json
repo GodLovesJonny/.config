@@ -3,22 +3,11 @@
         "bookmark_bar": {
             "children": [
                 {
-                    "type": "separator"
-                },
-                {
-                    "description": "",
-                    "keyword": "",
-                    "name": "Manjaro Linux",
-                    "type": "url",
-                    "url": "https://manjaro.org/",
-                    "visit_count": 0
-                },
-                {
                     "description": "",
                     "keyword": "",
                     "name": "Forum",
                     "type": "url",
-                    "url": "https://forum.manjaro.org/",
+                    "url": "http://forum.manjaro.org/",
                     "visit_count": 0
                 },
                 {
@@ -26,32 +15,888 @@
                     "keyword": "",
                     "name": "Wiki",
                     "type": "url",
-                    "url": "https://wiki.manjaro.org/index.php?title=Main_Page",
+                    "url": "http://wiki.manjaro.org/index.php/Main_Page",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "reddit",
+                    "type": "url",
+                    "url": "https://www.reddit.com/",
+                    "visit_count": 1
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CSRankings",
+                    "type": "url",
+                    "url": "http://csrankings.org/#/fromyear/2014/toyear/2019/index?vision&graph&asia",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Arxiv",
+                    "type": "url",
+                    "url": "https://arxiv.org/list/cs/recent",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Arxiv Sanity",
+                    "type": "url",
+                    "url": "http://www.arxiv-sanity.com/top",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Library Genesis",
+                    "type": "url",
+                    "url": "http://gen.lib.rus.ec/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "PyTorch Doc",
+                    "type": "url",
+                    "url": "https://pytorch.org/docs/stable/index.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Thesaurus",
+                    "type": "url",
+                    "url": "https://www.thesaurus.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "知乎",
+                    "type": "url",
+                    "url": "https://www.zhihu.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "bilibili",
+                    "type": "url",
+                    "url": "https://www.bilibili.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "youdao",
+                    "type": "url",
+                    "url": "http://dict.youdao.com/search?q=%25GDWORD%25&ue=utf8",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Paper with Code",
+                    "type": "url",
+                    "url": "https://paperswithcode.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "sci-hub",
+                    "type": "url",
+                    "url": "http://www.sci-hub.ac.cn/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "V2EX",
+                    "type": "url",
+                    "url": "https://www.v2ex.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "ToolFK",
+                    "type": "url",
+                    "url": "https://www.toolfk.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Copytool",
+                    "type": "url",
+                    "url": "https://cp.anyknew.com/",
                     "visit_count": 0
                 }
             ],
-            "description": "Bookmarks located in Bookmarks Toolbar",
+            "description": "位于书签工具栏中的书签",
             "expanded": true,
             "expanded_sidebar": true,
-            "name": "Bookmarks Toolbar",
+            "name": "书签工具栏",
             "type": "folder"
         },
         "bookmark_menu": {
             "children": [
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CodaLab - Competition",
+                    "type": "url",
+                    "url": "https://competitions.codalab.org/competitions/22225#learn_the_details-terms_and_conditions",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Categories | Verne in GitHub",
+                    "type": "url",
+                    "url": "http://einverne.github.io/categories.html#%E6%AF%8F%E5%A4%A9%E5%AD%A6%E4%B9%A0%E4%B8%80%E4%B8%AA%E5%91%BD%E4%BB%A4",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Data USA",
+                    "type": "url",
+                    "url": "https://datausa.io/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "美赛试题",
+                    "type": "url",
+                    "url": "https://mcm.njupt.edu.cn/7002/list.psp",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "AHP(层次分析法) 附Python示例代码(觉得还可以的,帮忙点个赞,谢谢) - Sgoyi - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/yhll/p/9967726.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "一步步教你轻松学关联规则Apriori算法 | 白宁超的官网",
+                    "type": "url",
+                    "url": "https://bainingchao.github.io/2018/09/27/%E4%B8%80%E6%AD%A5%E6%AD%A5%E6%95%99%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%AD%A6%E5%85%B3%E8%81%94%E8%A7%84%E5%88%99Apriori%E7%AE%97%E6%B3%95/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "10分钟搞懂遗传算法(含源码) - 知乎",
+                    "type": "url",
+                    "url": "https://zhuanlan.zhihu.com/p/33042667",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "如何参与Linux内核开发 — The Linux Kernel documentation",
+                    "type": "url",
+                    "url": "https://www.kernel.org/doc/html/v5.2/translations/zh_CN/process/howto.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "如何参与到 Linux 社区中来 - 开源之道",
+                    "type": "url",
+                    "url": "http://ocselected.org/posts/contribute_to_community/how_to_participate_in_the_linux_community/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Ranger 用法总结 | 盼 の 欲",
+                    "type": "url",
+                    "url": "http://www.huangpan.net/posts/ji-ke/2019-08-21-ranger.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "PPT模板_免费PPT模板下载 - 优品PPT",
+                    "type": "url",
+                    "url": "http://www.ypppt.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CS224W | Home",
+                    "type": "url",
+                    "url": "https://web.stanford.edu/class/cs224w/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "百度网盘",
+                    "type": "url",
+                    "url": "https://pan.baidu.com/disk/home?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&traceid=#/all?vmode=list&path=%2F%E7%94%9F%E6%B4%BB%E5%A4%A7%E7%88%86%E7%82%B8%2FSE6",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "用户中心 - JIYOU - CLOUD",
+                    "type": "url",
+                    "url": "https://tianlinzhao.com/clientarea.php?action=productdetails&id=54758",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Google学术搜索镜像_sci-hub网址_大木虫学术导航",
+                    "type": "url",
+                    "url": "http://www.4243.net/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "一份其实很短的 LaTeX 入门文档 | 始终",
+                    "type": "url",
+                    "url": "https://liam.page/2014/09/08/latex-introduction/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "机器学习和深度学习资料合集 - caogenwangbaoqiang的博客 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/caogenwangbaoqiang/article/details/79551684",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "教你一步一步在vim中配置史上最难安装的You Complete Me | 码农网",
+                    "type": "url",
+                    "url": "https://www.codercto.com/a/20415.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Jay Alammar – Visualizing machine learning one concept at a time",
+                    "type": "url",
+                    "url": "https://jalammar.github.io/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "The Annotated Transformer",
+                    "type": "url",
+                    "url": "http://nlp.seas.harvard.edu/2018/04/03/attention.html",
+                    "visit_count": 1
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Convolution Visualizer",
+                    "type": "url",
+                    "url": "https://ezyang.github.io/convolution-visualizer/index.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "&quot;发现杯&quot;大奖赛-人工智能",
+                    "type": "url",
+                    "url": "http://www.dajiangsai.org/static/data/ai.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CODELF",
+                    "type": "url",
+                    "url": "https://unbug.github.io/codelf/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "pytorch 动态调整学习率 - 超杰",
+                    "type": "url",
+                    "url": "http://www.spytensor.com/index.php/archives/32/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "FlyAI-AI竞赛预训练模型连接",
+                    "type": "url",
+                    "url": "https://www.flyai.com/models",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "15-213/18-213",
+                    "type": "url",
+                    "url": "http://www.cs.cmu.edu/~213/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Backpropagation In Convolutional Neural Networks | DeepGrid",
+                    "type": "url",
+                    "url": "https://www.jefkine.com/general/2016/09/05/backpropagation-in-convolutional-neural-networks/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Markdown数学公式语法 - 简书",
+                    "type": "url",
+                    "url": "https://www.jianshu.com/p/e74eb43960a1",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Tab-delimited Bilingual Sentence Pairs from the Tatoeba Project (Good for Anki and Similar Flashcard Applications)",
+                    "type": "url",
+                    "url": "http://www.manythings.org/anki/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "目前开源数据集整理 - 人生而孤独，却不甘寂寞。 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/wangqingbaidu/article/details/80635618",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Deecamp笔试总结 - 简书",
+                    "type": "url",
+                    "url": "https://www.jianshu.com/p/eb7dc95087c9",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "ML-NLP/Machine Learning at master · NLP-LOVE/ML-NLP",
+                    "type": "url",
+                    "url": "https://github.com/NLP-LOVE/ML-NLP/tree/master/Machine%20Learning",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Generative Adversarial Networks - The Story So Far",
+                    "type": "url",
+                    "url": "https://blog.floydhub.com/gans-story-so-far/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "华东师范大学硕士研究生招生专业简介",
+                    "type": "url",
+                    "url": "https://yjszs.ecnu.edu.cn/system/sszszyjj_list.asp",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "华东师范大学夏令营举办信息",
+                    "type": "url",
+                    "url": "https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "华东师范大学数据学院",
+                    "type": "url",
+                    "url": "http://dase.ecnu.edu.cn/dase-module-gateway/dase/menuAndDetail/menuAndDetail.html?rootColumnId=4028821e5b7a0971015b7a0a1cbf0000&columnListId=40284c81604a9f7901604aac5b430011&articleId=ff80808164c1b82c01668c52e2fb0022",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "华东师范大学教师名录",
+                    "type": "url",
+                    "url": "https://faculty.ecnu.edu.cn/search/teacherMain.faces?siteId=10&pageId=0",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "NLP的游戏规则从此改写？从word2vec, ELMo到BERT - 自然语言处理-炼数成金-Dataguru专业数据分析社区",
+                    "type": "url",
+                    "url": "http://www.dataguru.cn/article-14237-1.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Journal of Machine Learning Research",
+                    "type": "url",
+                    "url": "http://www.jmlr.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "一步步解析Attention is All You Need！ - 简书",
+                    "type": "url",
+                    "url": "https://www.jianshu.com/p/b1030350aadb",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Dodo | 渺渺星辰远，漫漫去路长",
+                    "type": "url",
+                    "url": "http://www.pkudodo.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Home ← Inductio Ex Machina ← Mark Reid",
+                    "type": "url",
+                    "url": "http://mark.reid.name/blog/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "word2vec 中的数学原理详解 - peghoty - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/peghoty/p/3857839.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "NBA直播_nba直播吧_NBA视频在线直播 -【极速体育】",
+                    "type": "url",
+                    "url": "https://www.jisutiyu.com/event/nba/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "NBA直播-NBA视频直播,NBA直播吧-【高清在线】-直播车",
+                    "type": "url",
+                    "url": "http://www.zhiboche.com/lq/zb/nba",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CS:APP3e, Bryant and O&#39;Hallaron",
+                    "type": "url",
+                    "url": "http://csapp.cs.cmu.edu/3e/labs.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Algorithm by Jeff",
+                    "type": "url",
+                    "url": "http://jeffe.cs.illinois.edu/teaching/algorithms/#book",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "word2vec原理(一) CBOW与Skip-Gram模型基础 - 刘建平Pinard - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/pinard/p/7160330.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "[译] 理解 LSTM(Long Short-Term Memory, LSTM) 网络 - wangduo - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/wangduo/p/6773601.html?utm_source=itdadao&utm_medium=referral",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Foundations of Machine Learning, Second Edition",
+                    "type": "url",
+                    "url": "https://mitpress.ublish.com/ereader/7093/?preview=#page/10",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CodaLab - Competition",
+                    "type": "url",
+                    "url": "https://competitions.codalab.org/competitions/22864#learn_the_details-overview",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "ICCV 2019 人物检测与搜索挑战赛",
+                    "type": "url",
+                    "url": "http://wider-challenge.org/2019cn.html?from=groupmessage",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CodaLab - Home",
+                    "type": "url",
+                    "url": "https://competitions.codalab.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "YantaoShen/Person-Search-with-Language-for-WIDER2019: Example train/test code for WIDER 2019 person search by languange track",
+                    "type": "url",
+                    "url": "https://github.com/YantaoShen/Person-Search-with-Language-for-WIDER2019",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Person Search With Natural Language Description - Li_Person_Search_With_CVPR_2017_paper.pdf",
+                    "type": "url",
+                    "url": "http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Linux安装dosemu和masm - 简书",
+                    "type": "url",
+                    "url": "https://www.jianshu.com/p/29114c96c36f",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "汇编基础教程（5）程序编写 - LyncDwight的博客 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/hc1151310108/article/details/82718418",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Ubuntu 18.04环境下搭建SSR（shadowsocksR）详细流程 - m0_37536414的博客 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/m0_37536414/article/details/84850078",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "manjaro安装后配置 - 简书",
+                    "type": "url",
+                    "url": "https://www.jianshu.com/p/1a1bbff13e22",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Program Contest",
+                    "type": "url",
+                    "url": "http://cc.malic.xyz/#page4",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "2019华东师范大学计算机系学硕考研经验贴（数一，英一，计算机基础825A） - zuzhiang的博客 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/zuzhiang/article/details/88866818",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "ISPRS 2017",
+                    "type": "url",
+                    "url": "http://www.cvlibs.net/projects/autonomous_vision_survey/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "CycleGAN",
+                    "type": "url",
+                    "url": "https://hardikbansal.github.io/CycleGANBlog/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Baidu AI Studio",
+                    "type": "url",
+                    "url": "https://aistudio.baidu.com/#/projectdetail/23600",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "HackerNews",
+                    "type": "url",
+                    "url": "https://news.ycombinator.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "keras channels_last、preprocess_input、全连接层Dense、SGD优化器、模型及编译 - 牧野的博客 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/dcrmg/article/details/79559804",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "TensorFlow小试牛刀(2):GAN生成手写数字 - Miracle_ma的专栏 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/miracle_ma/article/details/78305991",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "nailperry-zd/The-Economist: The Economist 经济学人，持续更新",
+                    "type": "url",
+                    "url": "https://github.com/nailperry-zd/The-Economist",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "基于生成式对抗网络的中文字体风格迁移 - 图文 - 百度文库",
+                    "type": "url",
+                    "url": "https://wenku.baidu.com/view/fefb936d0622192e453610661ed9ad51f11d5467.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "自然场景中文本识别技术研究及实现 - 道客巴巴",
+                    "type": "url",
+                    "url": "http://www.doc88.com/p-6931966407011.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Ubuntu16.04 为vim安装YouCompleteMe插件",
+                    "type": "url",
+                    "url": "http://www.mamicode.com/info-detail-1596462.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "180807 16步Ubuntu下利用YouCompleteMe配置Anaconda+Vim自动补齐tensorflow+keras+pytorch - 专注机器学习之路 - CSDN博客",
+                    "type": "url",
+                    "url": "https://blog.csdn.net/qq_33039859/article/details/81490382",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Deep Learning Rules of Thumb - Jeff Macaluso",
+                    "type": "url",
+                    "url": "https://jeffmacaluso.github.io/post/DeepLearningRulesOfThumb/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "红色石头的个人博客-机器学习、深度学习之路",
+                    "type": "url",
+                    "url": "http://redstonewill.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "tensorflow变量作用域（variable scope） - 善良的大猪猪 - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/MY0213/p/9208503.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "[1712.00516] Multi-Content GAN for Few-Shot Font Style Transfer",
+                    "type": "url",
+                    "url": "https://arxiv.org/abs/1712.00516",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "zi2zi: Master Chinese Calligraphy with Conditional Adversarial Networks",
+                    "type": "url",
+                    "url": "https://kaonashi-tyc.github.io/2017/04/06/zi2zi.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Bigjpg - AI人工智能图片无损放大 - 使用人工智能深度卷积神经网络(CNN)无损放大图片",
+                    "type": "url",
+                    "url": "https://bigjpg.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "UZER.ME -- 您的云端超级应用空间",
+                    "type": "url",
+                    "url": "https://uzer.me/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "VisuAlgo",
+                    "type": "url",
+                    "url": "https://visualgo.net/en",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Interpretable Machine Learning",
+                    "type": "url",
+                    "url": "https://christophm.github.io/interpretable-ml-book/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Download PDF magazines and ebook free USA, UK, Australia and other",
+                    "type": "url",
+                    "url": "https://magazinelib.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Skyfree网络服务提供商",
+                    "type": "url",
+                    "url": "https://www.skyfree.site/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Jeff Erickson&#39;s Publications",
+                    "type": "url",
+                    "url": "http://jeffe.cs.illinois.edu/pubs/index.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Illustrations",
+                    "type": "url",
+                    "url": "https://undraw.co/illustrations",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "小白福利-全网最详细的SSR免流教程 | 众人搜索网",
+                    "type": "url",
+                    "url": "http://www.renrensousuo.com/ssr-mianliu.htm",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "RMI入门教程 - Bruce.Chang.Lee - 博客园",
+                    "type": "url",
+                    "url": "https://www.cnblogs.com/javalouvre/p/3726256.html",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Offensive Security",
+                    "type": "url",
+                    "url": "https://www.offensive-security.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Exploit-DB",
+                    "type": "url",
+                    "url": "https://www.exploit-db.com/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "Aircrack-ng",
+                    "type": "url",
+                    "url": "http://www.aircrack-ng.org/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "NetHunter",
+                    "type": "url",
+                    "url": "https://www.kali.org/kali-linux-nethunter/",
+                    "visit_count": 0
+                },
+                {
+                    "description": "",
+                    "keyword": "",
+                    "name": "The Illustrated Transformer – Jay Alammar – Visualizing machine learning one concept at a time",
+                    "type": "url",
+                    "url": "https://jalammar.github.io/illustrated-transformer/",
+                    "visit_count": 0
+                }
             ],
-            "description": "Bookmarks located in Bookmarks Menu",
+            "description": "书签在书签菜单中的位置",
             "expanded": true,
             "expanded_sidebar": true,
-            "name": "Bookmarks Menu",
+            "name": "书签菜单",
             "type": "folder"
         },
         "other": {
             "children": [
             ],
-            "description": "All other bookmarks",
+            "description": "所有其他书签",
             "expanded": true,
             "expanded_sidebar": true,
-            "name": "Unsorted Bookmarks",
+            "name": "未排序书签",
             "type": "folder"
         }
     },

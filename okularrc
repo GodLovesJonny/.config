@@ -2,28 +2,30 @@
 FullScreen=false
 
 [MainWindow]
-Height 1080=1015
+Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPKAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Own-Notes/README.md
-File2[$e]=$HOME/Jonny/Pys/Car-Plate-Recognition-System/基于序列化的车辆牌照识别系统.pdf
-File3[$e]=$HOME/下载/IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
-File4[$e]=$HOME/Jonny/Paper-Lib/ReID/1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/Theory/1911.01547v2 On the Measure of Intelligence.pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/Books/ A Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/Books/[N. Gregory Mankiw] Principles of Economics 7th E.pdf
-File8[$e]=$HOME/Jonny/Paper-Lib/Books/Storytelling with Data: A Data Visualization Guide for Business Professionals.pdf
-File9[$e]=$HOME/Jonny/Latexs/CPRNet/基于序列化的车辆牌照识别系统.pdf
-Name1[$e]=README.md
-Name2[$e]=基于序列化的车辆牌照识别系统.pdf
-Name3[$e]=IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
-Name4[$e]=1810.12193 Pyramidal Person Re-IDentification via Multi-Loss Dynamic Training.pdf
-Name5[$e]=1911.01547v2 On the Measure of Intelligence.pdf
-Name6[$e]=\sA Mind For Numbers: How to Excel at Math and Science (Even if You Flunked Algebra) .pdf
-Name7[$e]=[N. Gregory Mankiw] Principles of Economics 7th E.pdf
-Name8[$e]=Storytelling with Data: A Data Visualization Guide for Business Professionals.pdf
-Name9[$e]=基于序列化的车辆牌照识别系统.pdf
+File1[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/A/A类-O奖--55069.pdf
+File10[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/B/B类-O奖--70545.pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/A/A类-O奖--55280.pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/Spectral Reconstruction/NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images.pdf
+File4[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/A/A类-O奖--65448.pdf
+File5[$e]=$HOME/Jonny/Paper-Lib/Spectral Reconstruction/HSCNN+: Advanced CNN-Based Hyperspectral Recovery from RGB Images(CVPR2018).pdf
+File6[$e]=$HOME/Jonny/Paper-Lib/ReID/1912.03083 Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/B/B类-O奖--56731.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/B/B类-O奖--68303.pdf
+File9[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2017美赛特等奖/B/B类-O奖--70174.pdf
+Name1[$e]=A类-O奖--55069.pdf
+Name10[$e]=B类-O奖--70545.pdf
+Name2[$e]=A类-O奖--55280.pdf
+Name3[$e]=NTIRE 2018 Challenge on Spectral Reconstruction from RGB Images.pdf
+Name4[$e]=A类-O奖--65448.pdf
+Name5[$e]=HSCNN+: Advanced CNN-Based Hyperspectral Recovery from RGB Images(CVPR2018).pdf
+Name6[$e]=1912.03083 Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.pdf
+Name7[$e]=B类-O奖--56731.pdf
+Name8[$e]=B类-O奖--68303.pdf
+Name9[$e]=B类-O奖--70174.pdf

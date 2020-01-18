@@ -2,5 +2,8 @@
 Seen=true
 ShowPopups=false
 
+[Applications][google-chrome]
+Seen=true
+
 [Applications][org.manjaro.pamac.manager]
 Seen=true
