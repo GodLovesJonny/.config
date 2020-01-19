@@ -5,7 +5,7 @@ switch-to-activity-a85fbee8-8fa6-4145-bdff-c602ef4eb125=none,none,切换到活�
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to 汉语=none,none,切换到键盘布局 汉语
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,切换到下一个键盘布局
-_k_friendly_name=KDE Daemon
+_k_friendly_name=系统设置
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,切换屏幕阅读器开关

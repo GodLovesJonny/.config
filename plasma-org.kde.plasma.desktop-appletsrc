@@ -94,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma_applet_dict
 
 [Containments][1][Applets][55][Configuration]
-PreloadWeight=10
+PreloadWeight=2
 
 [Containments][1][Applets][55][Configuration][ConfigDialog]
 DialogHeight=840
@@ -127,7 +127,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][Applets][8][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][1][Applets][8][Configuration][Appearance]
 enabledCalendarPlugins=/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so
@@ -159,7 +159,7 @@ immutability=1
 lastScreen=0
 location=0
 plugin=org.kde.plasma.folder
-wallpaperplugin=org.kde.image
+wallpaperplugin=com.github.zren.inactiveblur
 
 [Containments][35][Applets][50]
 immutability=1
@@ -177,8 +177,8 @@ color=translucent-light
 noteId=8fcbe84f-f83b-4171-b1a0-94da9362be
 
 [Containments][35][ConfigDialog]
-DialogHeight=862
-DialogWidth=1120
+DialogHeight=702
+DialogWidth=869
 
 [Containments][35][Configuration]
 PreloadWeight=0
@@ -189,13 +189,27 @@ ToolBoxButtonX=1790
 ToolBoxButtonY=28
 pressToMoveHelp=false
 
+[Containments][35][Wallpaper][com.github.zren.inactiveblur][General]
+AnimationDuration=800
+BlurRadius=8
+FillMode=2
+SlideInterval=1200
+SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
+Slideshow=true
+
 [Containments][35][Wallpaper][org.kde.image][General]
-Image=file:///home/godlovesjonny/.local/share/wallpapers/154783-winter-cottage-in-the-forest.jpg
+Image=file:///home/godlovesjonny/.local/share/wallpapers/slides/Starry Nebula 299.png
 
 [Containments][35][Wallpaper][org.kde.potd][General]
 Color=0,255,0
 FillMode=2
 Provider=flickr
+
+[Containments][35][Wallpaper][org.kde.slideshow][General]
+Image=file:///home/godlovesjonny/.local/share/wallpapers/slides/Camping Under The Stars HD.jpg
+SlideInterval=1800
+SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
+UncheckedSlides=file:///home/godlovesjonny/.local/share/wallpapers/slides/kisscc0-desert-night-sky-rock-night-sky-design-5afd53d3ad0761.4567594215265515077087.jpg
 
 [Containments][8]
 activityId=
@@ -253,7 +267,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=15
+PreloadWeight=12
 
 [Containments][8][Applets][42][Configuration][ConfigDialog]
 DialogHeight=840
@@ -275,7 +289,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=100
+PreloadWeight=97
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840

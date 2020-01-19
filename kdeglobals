@@ -108,8 +108,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=640,480
-History Items[$e]=file:$HOME/下载
+DirSelectDialog Size=1920,1027
+History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]
 ColorScheme=McMojaveLight

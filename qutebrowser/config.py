@@ -112,3 +112,5 @@ config.bind('<Ctrl-->', 'zoom-out')
 
 config.unbind('d')
 config.bind('zz', 'zoom 140%')
+
+c.tabs.title.format = '{audio}{index}: {perc}{current_title}'
