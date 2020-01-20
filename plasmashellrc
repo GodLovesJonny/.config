@@ -17,7 +17,7 @@ Width 1920=492
 really_clear_history=true
 
 [PlasmaRunnerManager]
-LaunchCounts=1 services_stellarium.desktop,2 services_org.midori_browser.Midori.desktop,2 services_eclipse_eclipse.desktop,2 services_visual-studio-code.desktop,1 shell_v2raya,1 services_codeblocks.desktop,1 services_org.kde.dolphin.desktop,2 services_opera.desktop,1 services_org.kde.latte-dock.desktop,3 services_eclipse.desktop,4 services_deepin.com.qq.office.desktop,1 services_org.qutebrowser.qutebrowser.desktop,1 services_org.gnome.Eolie.desktop,1 services_texstudio.desktop,2 services_thunderbird.desktop
+LaunchCounts=1 services_stellarium.desktop,2 services_opera.desktop,1 services_org.kde.latte-dock.desktop,1 services_org.qutebrowser.qutebrowser.desktop,2 services_eclipse_eclipse.desktop,1 services_texstudio.desktop,2 services_visual-studio-code.desktop,3 services_eclipse.desktop,4 services_deepin.com.qq.office.desktop,1 services_org.gnome.Eolie.desktop,2 services_thunderbird.desktop,1 shell_v2raya,1 services_codeblocks.desktop,2 services_org.midori_browser.Midori.desktop,1 services_org.kde.dolphin.desktop
 pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 1]

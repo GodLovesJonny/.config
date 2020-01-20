@@ -94,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma_applet_dict
 
 [Containments][1][Applets][55][Configuration]
-PreloadWeight=2
+PreloadWeight=0
 
 [Containments][1][Applets][55][Configuration][ConfigDialog]
 DialogHeight=840
@@ -127,7 +127,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][Applets][8][Configuration]
-PreloadWeight=5
+PreloadWeight=7
 
 [Containments][1][Applets][8][Configuration][Appearance]
 enabledCalendarPlugins=/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so
@@ -191,7 +191,7 @@ pressToMoveHelp=false
 
 [Containments][35][Wallpaper][com.github.zren.inactiveblur][General]
 AnimationDuration=800
-BlurRadius=8
+BlurRadius=15
 FillMode=2
 SlideInterval=1200
 SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
@@ -267,7 +267,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=12
+PreloadWeight=4
 
 [Containments][8][Applets][42][Configuration][ConfigDialog]
 DialogHeight=840
@@ -289,7 +289,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=97
+PreloadWeight=94
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840

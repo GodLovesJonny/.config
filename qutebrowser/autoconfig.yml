@@ -6,11 +6,5 @@
 
 config_version: 2
 settings:
-  colors.statusbar.command.private.bg:
-    global: '#DDDDDD'
-  colors.statusbar.command.private.fg:
-    global: black
   content.notifications:
     https://blog.csdn.net: true
-  statusbar.hide:
-    global: false

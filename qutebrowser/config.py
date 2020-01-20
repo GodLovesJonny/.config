@@ -111,6 +111,7 @@ config.bind('<Ctrl-=>', 'zoom-in')
 config.bind('<Ctrl-->', 'zoom-out')
 
 config.unbind('d')
-config.bind('zz', 'zoom 140%')
+config.bind('zz', 'zoom 145%')
 
 c.tabs.title.format = '{audio}{index}: {perc}{current_title}'
+c.auto_save.session = True

@@ -4,6 +4,9 @@ ShellOpenFileInTabs=true
 [Main View]
 SplitterSizes=359,1488
 
+[PageView]
+MouseMode=TextSelect
+
 [Reviews]
 AnnotationTools=<tool type="highlight" id="1"><engine type="TextSelector" color="#ffffff00"><annotation type="Highlight" color="#ffffff00"/></engine><shortcut>1</shortcut></tool>,<tool type="underline" id="2"><engine type="TextSelector" color="#ffff0000"><annotation type="Underline" color="#ffff0000"/></engine><shortcut>2</shortcut></tool>,<tool type="squiggly" id="3"><engine type="TextSelector" color="#ffff0000"><annotation type="Squiggly" color="#ffff0000"/></engine><shortcut>3</shortcut></tool>,<tool type="highlight" id="4"><engine type="TextSelector" color="#ff00ff7f"><annotation type="Highlight" color="#ff00ff7f"/></engine><shortcut>4</shortcut></tool>,<tool type="ellipse" id="5"><engine block="true" type="PickPoint" color="#ff00ffff"><annotation type="GeomCircle" width="5" color="#ff00ffff"/></engine><shortcut>5</shortcut></tool>,<tool type="note-linked" id="6"><engine hoverIcon="tool-note" type="PickPoint" color="#ffffff00"><annotation type="Text" icon="Note" color="#ffffff00"/></engine><shortcut>6</shortcut></tool>,<tool type="note-inline" id="7"><engine block="true" hoverIcon="tool-note-inline" type="PickPoint" color="#ffffff00"><annotation type="FreeText" color="#ffffff00"/></engine><shortcut>7</shortcut></tool>
 

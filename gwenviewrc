@@ -15,14 +15,14 @@ File3[$e]=$HOME/图片/head1.jpg
 File4[$e]=$HOME/图片/wolf2.png
 File5[$e]=$HOME/图片/wolf1.jpg
 File6[$e]=$HOME/图片/Screenshot_20190526_222743.png
-File7[$e]=$HOME/.local/share/wallpapers/slides/ssn.jpg
+File7[$e]=$HOME/下载/WinLinux.jpg
 Name1[$e]=ok1.png
 Name2[$e]=tit2.jpg
 Name3[$e]=head1.jpg
 Name4[$e]=wolf2.png
 Name5[$e]=wolf1.jpg
 Name6[$e]=Screenshot_20190526_222743.png
-Name7[$e]=ssn.jpg
+Name7[$e]=WinLinux.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,1675
