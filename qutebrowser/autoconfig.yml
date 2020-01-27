@@ -7,4 +7,5 @@
 config_version: 2
 settings:
   content.notifications:
-    https://blog.csdn.net: true
+    https://www.bilibili.com: true
+    https://www.reddit.com: true

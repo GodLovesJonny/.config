@@ -34,6 +34,42 @@ Mode Set By User=false
 Time=2020,1,14,13,29,13
 URL=file:///home/godlovesjonny/Jonny/MathmaticalModeling/pre/MCM-Models/src/datasets/winequality.names
 
+[file:///home/godlovesjonny/logs/freenode.log]
+Bookmarks=
+Checksum=497acaddb95ce7f6ed6ea2380e83363c70c12a30
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,21,6,22,46
+URL=file:///home/godlovesjonny/logs/freenode.log
+
+[file:///home/godlovesjonny/pspp.jnl]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,21,6,23,13
+URL=file:///home/godlovesjonny/pspp.jnl
+
+[file:///home/godlovesjonny/report.log]
+Bookmarks=
+Checksum=e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,1,21,6,23,0
+URL=file:///home/godlovesjonny/report.log
+
 [file:///home/godlovesjonny/yarn.lock]
 Bookmarks=
 Checksum=fb57ccd13afbd082ad82051c2ffebef4840661ec
@@ -43,20 +79,8 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2019,12,30,9,56,2
+Time=2020,1,21,6,23,9
 URL=file:///home/godlovesjonny/yarn.lock
-
-[file:///home/godlovesjonny/下载/OS_Exp/OS实验参考程序_vs2017.cpp]
-Bookmarks=
-Checksum=78b0991ffe52d4fa4b5233ad1fb8d79d93e3c7df
-Encoding=UTF-8
-Highlighting=C++
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=C++
-Mode Set By User=false
-Time=2019,12,18,2,14,34
-URL=file:///home/godlovesjonny/下载/OS_Exp/OS实验参考程序_vs2017.cpp
 
 [file:///home/godlovesjonny/下载/W2a9Axuw]
 Bookmarks=
@@ -117,39 +141,3 @@ Mode=Normal
 Mode Set By User=false
 Time=2020,1,14,13,22,29
 URL=file:///home/godlovesjonny/下载/winequality-red.csv
-
-[file:///home/godlovesjonny/下载/电子1903_黄威龙_Fb/fb.html]
-Bookmarks=
-Checksum=becdcd1097a3d11e04cebdb79948bda5a7544d05
-Encoding=UTF-8
-Highlighting=HTML
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=HTML
-Mode Set By User=false
-Time=2019,12,18,12,28,32
-URL=file:///home/godlovesjonny/下载/电子1903_黄威龙_Fb/fb.html
-
-[file:///home/godlovesjonny/下载/靳修  玩个锤子/玩个锤子v5.1.e]
-Bookmarks=
-Checksum=722b88a7d472d6e899e95f0ad5b268537f1a2a71
-Encoding=GB18030
-Highlighting=E Language
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=E Language
-Mode Set By User=false
-Time=2019,12,18,12,16,53
-URL=file:///home/godlovesjonny/下载/靳修  玩个锤子/玩个锤子v5.1.e
-
-[file:///run/media/godlovesjonny/7A8B-9F1B/1401170224王子杰.cpp]
-Bookmarks=
-Checksum=a49725a0d17d8b66ca3d95648843f626b3669922
-Encoding=UTF-8
-Highlighting=C++
-Highlighting Set By User=false
-Indentation Mode=cstyle
-Mode=C++
-Mode Set By User=false
-Time=2019,12,18,3,2,42
-URL=file:///run/media/godlovesjonny/7A8B-9F1B/1401170224王子杰.cpp

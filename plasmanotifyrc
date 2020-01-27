@@ -7,3 +7,6 @@ Seen=true
 
 [Applications][org.manjaro.pamac.manager]
 Seen=true
+
+[Applications][rambox]
+Seen=true

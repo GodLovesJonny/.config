@@ -3,11 +3,11 @@ Version=200
 ViewPropsTimestamp=2019,11,2,17,5,53
 
 [IconsMode]
-PreviewSize=96
+PreviewSize=112
 
 [KPropertiesDialog]
-Height 1080=665
-Width 1920=558
+Height 1080=569
+Width 1920=481
 
 [MainWindow]
 Height 1080=1027

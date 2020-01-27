@@ -24,6 +24,7 @@ display=Display\tMeta+P,Display\tMeta+P,切换显示器
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{575964ae-ff94-4d59-807b-cafc9ea1b199}=Meta+Shift+A,none,Deepin-ScreenShot
 {7987aa69-0e94-4e81-88d6-6222c0955546}=Ctrl+Alt+T,none,Launch Konsole
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,搜索
 

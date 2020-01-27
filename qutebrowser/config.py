@@ -101,7 +101,7 @@ c.url.searchengines = {
     'baidu': 'https://baidu.com/s?wd={}',
 }
 
-config.set('url.start_pages', 'https://www.github.com')
+config.set('url.start_pages', 'http://factoclock.com/')
 
 config.set('content.proxy', 'socks5://127.0.0.1:1082/')
 

@@ -108,10 +108,11 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=1920,1027
+DirSelectDialog Size=877,618
 History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]
+BrowserApplication[$e]=org.qutebrowser.qutebrowser.desktop
 ColorScheme=McMojaveLight
 Name=Breath
 XftHintStyle=hintslight

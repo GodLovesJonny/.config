@@ -1,6 +1,9 @@
 [$Version]
 update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
 
+[General]
+JPEGQuality=10612
+
 [MainWindow]
 Height 1080=1015
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
@@ -9,20 +12,26 @@ Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/ok1.png
-File2[$e]=$HOME/Jonny/Latexs/CPRNet/Pics/tit2.jpg
-File3[$e]=$HOME/图片/head1.jpg
-File4[$e]=$HOME/图片/wolf2.png
-File5[$e]=$HOME/图片/wolf1.jpg
-File6[$e]=$HOME/图片/Screenshot_20190526_222743.png
-File7[$e]=$HOME/下载/WinLinux.jpg
-Name1[$e]=ok1.png
-Name2[$e]=tit2.jpg
-Name3[$e]=head1.jpg
-Name4[$e]=wolf2.png
-Name5[$e]=wolf1.jpg
-Name6[$e]=Screenshot_20190526_222743.png
-Name7[$e]=WinLinux.jpg
+File1[$e]=$HOME/.local/share/wallpapers/168849-forest clearing.jpeg
+File10[$e]=$HOME/桌面/22_极限例题.png
+File2[$e]=$HOME/.local/share/wallpapers/starry dl hd.jpg
+File3[$e]=$HOME/.local/share/wallpapers/Starry Night HD.jpg
+File4[$e]=$HOME/.local/share/wallpapers/vivid stars hd.jpg
+File5[$e]=$HOME/.local/share/wallpapers/No Logo ABST 329.png
+File6[$e]=$HOME/.local/share/wallpapers/No Logo ABST 325.png
+File7[$e]=$HOME/.local/share/wallpapers/152863-TwoTrees_1.jpg
+File8[$e]=$HOME/.local/share/wallpapers/Abstract Fluids 10.png
+File9[$e]=$HOME/桌面/20_极限例题.png
+Name1[$e]=168849-forest clearing.jpeg
+Name10[$e]=22_极限例题.png
+Name2[$e]=starry dl hd.jpg
+Name3[$e]=Starry Night HD.jpg
+Name4[$e]=vivid stars hd.jpg
+Name5[$e]=No Logo ABST 329.png
+Name6[$e]=No Logo ABST 325.png
+Name7[$e]=152863-TwoTrees_1.jpg
+Name8[$e]=Abstract Fluids 10.png
+Name9[$e]=20_极限例题.png
 
 [SideBar]
 SideBarSplitterSizes=242,1675
