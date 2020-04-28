@@ -1,0 +1,14 @@
+[1]
+ActiveTab=6
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/万古江河.pdf,file:$HOME/Jonny/Paper-Lib/Books/世界的苦难(布尔迪厄的社会调查上卷).pdf,file:$HOME/Jonny/Paper-Lib/Books/Machine Learning Yearning-Andrew Ng-2018.pdf,file:$HOME/下载/Language Models as Knowledge Bases.pdf,file:$HOME/下载/_Merged_PDF.pdf,file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf,file:$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1022
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPPAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

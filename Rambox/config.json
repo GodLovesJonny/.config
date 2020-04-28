@@ -22,9 +22,9 @@
 	"user_agent": "",
 	"default_service": "ramboxTab",
 	"sendStatistics": false,
-	"width": 1000,
-	"height": 800,
-	"maximized": true,
-	"x": 464,
-	"y": 258
+	"width": 1278,
+	"height": 674,
+	"maximized": false,
+	"x": 483,
+	"y": 402
 }

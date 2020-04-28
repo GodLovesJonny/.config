@@ -4,28 +4,32 @@ FullScreen=false
 [MainWindow]
 Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
+Window-Maximized 1080x1920=true
+
+[Notification Messages]
+ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2015美赛特等奖/A-32150-Outstanding.pdf
-File10[$e]=$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-File2[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2015美赛特等奖/A-32722-Outstanding.pdf
-File3[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2015美赛特等奖/A-34317-Outstanding.pdf
-File4[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2015美赛特等奖/A-35532-Outstanding.pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/MCM-ICM/2015美赛特等奖/A-40764-Outstanding.pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/Books/Linux Bible (Ninth Edition).pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/Books/Linux in Action.pdf
-File8[$e]=$HOME/Jonny/Paper-Lib/ReID/1912.03083 Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.pdf
-File9[$e]=$HOME/Jonny/Paper-Lib/ReID/1910.10111 Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification(ICCV 2019).pdf
-Name1[$e]=A-32150-Outstanding.pdf
-Name10[$e]=1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-Name2[$e]=A-32722-Outstanding.pdf
-Name3[$e]=A-34317-Outstanding.pdf
-Name4[$e]=A-35532-Outstanding.pdf
-Name5[$e]=A-40764-Outstanding.pdf
-Name6[$e]=Linux Bible (Ninth Edition).pdf
-Name7[$e]=Linux in Action.pdf
-Name8[$e]=1912.03083 Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.pdf
-Name9[$e]=1910.10111 Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification(ICCV 2019).pdf
+File1[$e]=$HOME/下载/_Merged_PDF.pdf
+File10[$e]=$HOME/下载/Language Models as Knowledge Bases.pdf
+File2[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
+File3[$e]=$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.pdf
+File4[$e]=$HOME/下载/IMGNet(1).pdf
+File5[$e]=$HOME/文档/态度观点类阅读题常见词汇.pdf
+File6[$e]=$HOME/下载/1.pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/Books/万古江河.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/Books/世界的苦难(布尔迪厄的社会调查上卷).pdf
+File9[$e]=$HOME/Jonny/Paper-Lib/Books/Machine Learning Yearning-Andrew Ng-2018.pdf
+Name1[$e]=_Merged_PDF.pdf
+Name10[$e]=Language Models as Knowledge Bases.pdf
+Name2[$e]=IMGNet.pdf
+Name3[$e]=v1.pdf
+Name4[$e]=IMGNet(1).pdf
+Name5[$e]=态度观点类阅读题常见词汇.pdf
+Name6[$e]=1.pdf
+Name7[$e]=万古江河.pdf
+Name8[$e]=世界的苦难(布尔迪厄的社会调查上卷).pdf
+Name9[$e]=Machine Learning Yearning-Andrew Ng-2018.pdf

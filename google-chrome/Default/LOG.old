@@ -1,3 +1,5 @@
-2020/01/18-12:54:11.279 1e8a Recovering log #10
-2020/01/18-12:54:11.281 1e8a Delete type=0 #10
-2020/01/18-12:54:11.281 1e8a Delete type=3 #9
+2020/03/05-09:20:12.910 10ab Recovering log #28
+2020/03/05-09:20:12.910 10ab Level-0 table #30: started
+2020/03/05-09:20:12.911 10ab Level-0 table #30: 665 bytes OK
+2020/03/05-09:20:12.914 10ab Delete type=3 #26
+2020/03/05-09:20:12.914 10ab Delete type=0 #28

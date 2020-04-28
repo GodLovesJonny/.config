@@ -1,3 +1,6 @@
+[Desktop Entry]
+DefaultProfile=配置方案 1.profile
+
 [DownloadDialog Settings]
 Height 1080=573
 Width 1920=700
@@ -11,7 +14,7 @@ Recent URLs[$e]=file:$HOME/图片/
 detailViewIconSize=80
 
 [MainWindow]
-Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAAA
-Width 1920=1920
-Window-Maximized 1080x1920=true
+Height 1080=496
+State=AAAA/wAAAAD9AAAAAAAAA7gAAAHGAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=952

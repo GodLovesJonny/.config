@@ -1,1 +1,6 @@
-2020/01/18-13:23:54.565 2e13 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/25-10:17:50.588 17c1 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/02/25-10:17:50.588 17c1 Recovering log #3
+2020/02/25-10:17:50.601 17c1 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000003.log 
+2020/02/25-10:17:55.862 1877 Level-0 table #5: started
+2020/02/25-10:17:55.880 1877 Level-0 table #5: 1698143 bytes OK
+2020/02/25-10:17:55.882 1877 Delete type=0 #3

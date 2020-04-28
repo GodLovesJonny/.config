@@ -1,0 +1,14 @@
+[1]
+ActiveTab=5
+Urls[$e]=file:$HOME/下载/latex/raw.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1707.07256 Deeply-Learned Part-Aligned Representations for Person Re-Identification.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1910.10111 Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification(ICCV 2019).pdf,file:$HOME/Jonny/Paper-Lib/ReID/1912.03083 Visual-Textual Association with Hardest and Semi-Hard Negative Pairs Mining for Person Search.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1908.10534 Adversarial Representation Learning for Text-to-Image Matching.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

@@ -1,0 +1,21 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={c825115d-7d20-4b69-b54a-0e2d362d2199}
+WorkingDir[$e]=$HOME/Jonny/JAVClub_core
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 1080x1920=true

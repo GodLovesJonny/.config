@@ -1,0 +1,15 @@
+[1]
+ActiveTab=3
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/万古江河.pdf,file:$HOME/Jonny/Paper-Lib/Books/世界的苦难(布尔迪厄的社会调查上卷).pdf,file:$HOME/Jonny/Paper-Lib/Books/Machine Learning Yearning-Andrew Ng-2018.pdf,file:$HOME/下载/Language Models as Knowledge Bases.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920

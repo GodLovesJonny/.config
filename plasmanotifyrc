@@ -8,5 +8,8 @@ Seen=true
 [Applications][org.manjaro.pamac.manager]
 Seen=true
 
+[Applications][org.qutebrowser.qutebrowser]
+Seen=true
+
 [Applications][rambox]
 Seen=true

@@ -1,28 +1,31 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
 [LegacySession: saved at previous logout]
 count=0
 
 [Session: saved at previous logout]
-clientId1=10b3d46e6e000157269290300000011380002
-clientId2=10b3d46e6e000157982845800000013590007
+clientId1=10b3d46e6e000158781482500000013300026
+clientId2=10b3d46e6e000158786249400000013660006
 clientId3=10b3d46e6e000157269290300000011380007
-clientId4=10b3d46e6e000157982846000000013590011
-clientId5=10b3d46e6e000157992454300000012320069
-clientId6=10b3d46e6e000158000808800000012370011
+clientId4=10b3d46e6e000158384076100000013670018
+clientId5=10b3d46e6e000158795273500000013490009
+clientId6=10b3d46e6e000158795273500000013490010
 count=6
-discardCommand1[$e]=rm,$HOME/.config/session/kwin_10b3d46e6e000157269290300000011380002_1580052863_897634
-discardCommand4[$e]=rm,$HOME/.config/session/yakuake_10b3d46e6e000157982846000000013590011_1580052862_395091
-discardCommand5[$e]=rm,$HOME/.config/session/okular_10b3d46e6e000157992454300000012320069_1580052862_393632
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10b3d46e6e000158781482500000013300026_1588001791_609695
+discardCommand4[$e]=rm,$HOME/.config/session/okular_10b3d46e6e000158384076100000013670018_1588001791_596450
+discardCommand5[$e]=rm,$HOME/.config/session/yakuake_10b3d46e6e000158795273500000013490009_1588001791_596521
 program1=/usr/bin/kwin_x11
 program2=/usr/bin/latte-dock
 program3=/usr/bin/msm_kde_notifier
-program4=/usr/bin/yakuake
-program5=okular
+program4=okular
+program5=/usr/bin/yakuake
 program6=pulseaudio
-restartCommand1=/usr/bin/kwin_x11,-session,10b3d46e6e000157269290300000011380002_1580052863_897634
-restartCommand2=/usr/bin/latte-dock,-session,10b3d46e6e000157982845800000013590007_1580052862_406875
-restartCommand3=/usr/bin/msm_kde_notifier,-session,10b3d46e6e000157269290300000011380007_1580052862_393626
-restartCommand4=/usr/bin/yakuake,-session,10b3d46e6e000157982846000000013590011_1580052862_395091
-restartCommand5=okular,-session,10b3d46e6e000157992454300000012320069_1580052862_393632
+restartCommand1=/usr/bin/kwin_x11,-session,10b3d46e6e000158781482500000013300026_1588001791_609695
+restartCommand2=/usr/bin/latte-dock,-session,10b3d46e6e000158786249400000013660006_1588001791_596319
+restartCommand3=/usr/bin/msm_kde_notifier,-session,10b3d46e6e000157269290300000011380007_1588001791_596819
+restartCommand4=okular,-session,10b3d46e6e000158384076100000013670018_1588001791_596450
+restartCommand5=/usr/bin/yakuake,-session,10b3d46e6e000158795273500000013490009_1588001791_596521
 restartCommand6=
 restartStyleHint1=0
 restartStyleHint2=0

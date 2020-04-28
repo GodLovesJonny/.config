@@ -1,0 +1,14 @@
+[1]
+ActiveTab=7
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/COCA20000.pdf,file:$HOME/Jonny/Paper-Lib/Books/The Origins of Political Order: From Prehuman Times to the French Revolution.pdf,file:$HOME/Jonny/PWStudio/BookLibrary/English/Economist/The Economist Latin America – 01 February 2020.pdf,file:$HOME/下载/notes_all_but_sols.pdf,file:$HOME/下载/notes_exs_sols.pdf,file:$HOME/Jonny/Paper-Lib/MCM-ICM/2013美赛特等奖/A-20559-Outstanding.pdf,file:$HOME/Jonny/Paper-Lib/MCM-ICM/2013美赛特等奖/A-23004-Outstanding.pdf,file:$HOME/Jonny/Paper-Lib/Books/Automatic Machine Learning: Methods\\, Systems\\, Challenges.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

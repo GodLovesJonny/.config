@@ -25,7 +25,7 @@ display=Display\tMeta+P,Display\tMeta+P,切换显示器
 [khotkeys]
 _k_friendly_name=KDE Daemon
 {575964ae-ff94-4d59-807b-cafc9ea1b199}=Meta+Shift+A,none,Deepin-ScreenShot
-{7987aa69-0e94-4e81-88d6-6222c0955546}=Ctrl+Alt+T,none,Launch Konsole
+{7987aa69-0e94-4e81-88d6-6222c0955546}=,none,Launch Konsole
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,搜索
 
 [kmix]
@@ -76,10 +76,10 @@ Setup Window Shortcut=none,none,设置窗口快捷键
 Show Desktop=Meta+D,Meta+D,显示桌面
 ShowDesktopGrid=Ctrl+F8,Ctrl+F8,显示桌面网格
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,挂起混成器
-Switch One Desktop Down=none,none,切换到下面的桌面
-Switch One Desktop Up=none,none,切换到上面的桌面
-Switch One Desktop to the Left=none,none,切换到左边的桌面
-Switch One Desktop to the Right=none,none,切换到右边的桌面
+Switch One Desktop Down=none,Meta+Ctrl+Down,切换到下面的桌面
+Switch One Desktop Up=none,Meta+Ctrl+Up,切换到上面的桌面
+Switch One Desktop to the Left=none,Meta+Ctrl+Left,切换到左边的桌面
+Switch One Desktop to the Right=none,Meta+Ctrl+Right,切换到右边的桌面
 Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,切换到下方的窗口
 Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,切换到左边的窗口
 Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,切换到右边的窗口
@@ -202,6 +202,7 @@ _k_friendly_name=KWin
 view_actual_size=,Meta+0,实际大小(A)
 view_zoom_in=Meta+=,Meta+=,放大(I)
 view_zoom_out=Meta+-,Meta+-,缩小(O)
+切换夜间颜色=none,none,切换夜间颜色
 
 [lattedock]
 _k_friendly_name=Latte Dock
@@ -268,6 +269,16 @@ stopmedia=Media Stop,Media Stop,停止媒体播放
 _k_friendly_name=Dolphin
 _launch=Meta+E,Meta+E,Dolphin
 
+[org.kde.konsole.desktop]
+NewTab=none,none,打开新标签
+NewWindow=none,none,打开新窗口
+_k_friendly_name=启动 Konsole
+_launch=Ctrl+Alt+T,none,启动 Konsole
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=绘文字选取器
+_launch=,Meta+.,绘文字选取器
+
 [org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print,Meta+Print,截取活动窗口
 CurrentMonitorScreenShot=,none,截取当前显示器
@@ -314,6 +325,9 @@ show dashboard=Ctrl+F12,Ctrl+F12,显示桌面
 show-barcode=none,none,显示条形码(S)...
 show-on-mouse-pos=none,none,在鼠标指针处弹出 Klipper
 stop current activity=Meta+S,Meta+S,停止当前活动
+switch to next activity=none,none,切换到下一个活动
+switch to previous activity=none,none,切换到上一个活动
+toggle do not disturb=none,none,切换勿扰模式
 
 [yakuake]
 _k_friendly_name=Yakuake

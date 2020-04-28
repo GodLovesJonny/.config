@@ -1,0 +1,21 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/Shell.profile
+RemoteTab=(%u) %H
+SessionGuid={835d2981-c732-4747-8b45-5b420ffdbd33}
+WorkingDir[$e]=$HOME/Jonny/Hugo-pages/jonathan-blog
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 1080x1920=true

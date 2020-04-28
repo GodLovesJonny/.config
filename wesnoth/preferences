@@ -1,0 +1,15 @@
+color_cursors=yes
+encountered_terrain_list="Ch, Ct, Ft, Gg^Efm, Gg^Fet, Gg^Ve, Gg, Gll^Fds, Gll^Fms, Gs^Efm, Gs^Fds, Gs^Fms, Gs, Gt, Kh, Re^Es, Re, Vt, Wst, Ww^Bw/, Ww^Ewf, Ww"
+encountered_units="Elder Mage,Fighter,Quintain"
+grid=no
+maximized=yes
+scroll_threshold=10
+show_haloes=yes
+turbo=no
+turbo_speed=2
+xresolution=1920
+yresolution=1080
+[completed_campaigns]
+[/completed_campaigns]
+[history]
+[/history]

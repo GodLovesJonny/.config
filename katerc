@@ -65,6 +65,7 @@ Dynamic Word Wrap=true
 Dynamic Word Wrap Align Indent=80
 Dynamic Word Wrap At Static Marker=false
 Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
 Fold First Line=false
 Folding Bar=true
 Folding Preview=true
@@ -97,11 +98,11 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Search History=DelC,intchangestring,coll1,temp,coll,var,new,worda,getc,ch,getword,FILE,shuang
+Search History=IAM2019CVPR,Tian2017Abnormal,Invariance matters: Exe,Improving Deep Visual Representation for Person Re-identification by Global and Local Image-language Association,DelC,intchangestring,coll1,temp,coll,var,new,worda,getc,ch,getword,FILE,shuang
 
 [MainWindow]
-Height 1080=1015
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+Height 1080=1027
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPZAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true

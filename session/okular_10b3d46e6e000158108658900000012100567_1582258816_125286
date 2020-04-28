@@ -1,0 +1,13 @@
+[1]
+ActiveTab=3
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/COCA20000.pdf,file:$HOME/Jonny/Paper-Lib/Books/The Origins of Political Order: From Prehuman Times to the French Revolution.pdf,file:$HOME/Jonny/Own-Notes/计算机系统结构/计算机系统结构.pdf,file:$HOME/Jonny/Paper-Lib/Books/克格勃全史.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
