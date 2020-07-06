@@ -1,4 +1,24 @@
 # GIMP action-history
 
+(history-item "edit-clear" 3)
+(history-item "filters-color-to-alpha" 2)
+(history-item "file-export-as" 1)
+(history-item "file-open" 0)
+(history-item "layers-edit" 0)
+(history-item "file-save" 0)
+(history-item "tools-iscissors" 0)
+(history-item "tools-free-select" 0)
+(history-item "file-quit" 1)
+(history-item "tools-foreground-select" 0)
+(history-item "image-new" 0)
+(history-item "file-save-as" 0)
+(history-item "file-export" 0)
+(history-item "layers-new" 0)
+(history-item "tools-by-color-select" 0)
+(history-item "tools-fuzzy-select" 0)
+(history-item "edit-cut" 0)
+(history-item "layers-alpha-selection-replace" 0)
+(history-item "layers-alpha-add" 0)
+(history-item "layers-delete" 1)
 
 # end of action-history

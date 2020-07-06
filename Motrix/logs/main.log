@@ -1,0 +1,16 @@
+[2020-06-12 19:19:18.139] [warn] [Motrix] Logger init
+[2020-06-12 19:19:19.158] [warn] [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:327:16
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/device.js:19:23
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/device.js:71:23
+    at Request._callback (/usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/device.js:108:23)
+    at self.callback (/usr/lib/motrix/app/node_modules/request/request.js:185:22)
+    at Request.emit (events.js:223:5)
+    at Request.onRequestError (/usr/lib/motrix/app/node_modules/request/request.js:877:8)
+    at ClientRequest.emit (events.js:223:5)
+    at Socket.socketOnEnd (_http_client.js:440:9)
+[2020-06-12 19:19:19.160] [warn] [Motrix] start UPnP mapping fail UPnP port mapping failed
+[2020-06-12 19:19:19.440] [warn] [Motrix] auto sync tracker failed: connect ECONNREFUSED 0.0.0.0:443
+[2020-06-12 19:19:59.714] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2020-06-12 19:20:53.265] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800

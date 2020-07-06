@@ -1,3 +1,13 @@
+[Desktop Entry]
+DefaultProfile=Profile 1.profile
+
 [DownloadDialog Settings]
 Height 1080=573
 Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[Window]
+Height=54
+KeepOpen=false

@@ -2,3 +2,1211 @@
 	#inclu
 6785fca313a8ef6747fe4bcc6ebb851c|file:///home/godlovesjonny/LittleCppComplier.cpp|91|1|V|cpp
 	int lookahead_type;     // type of current word
+96874b83382da356e3592abb2a72ad22|file:///home/godlovesjonny/.vimrc|108|25|v|vim
+	, {'tag': '*', 'do': './install.sh'}
+1106f892cb7c01218bf6389650f922fa|file:///home/godlovesjonny/.vimrc|108|1|V|vim
+	Plug 'neoclide/coc.nvim'
+e343982cd1a07e458eb074a443ad1a1d|file:///home/godlovesjonny/.vimrc|117|23|v|vim
+	upport-for-mkdp'
+f7531e2d0ea27233ce00b5f01c5bf335|file:///home/godlovesjonny/1.py|1|1|V|python
+	print
+8f0bf9f182de3325fb9c98b656d53d39|list:/extensions|2|1|V|list
+	* coc-yank	1.1.4	~/.config/coc/extensions/node_modules/coc-yank
+	* coc-tailwindcss	0.3.2	~/.config/coc/extensions/node_modules/coc-tailwindcss
+	* coc-sql	0.2.24	~/.config/coc/extensions/node_modules/coc-sql
+	* coc-snippets	2.1.28	~/.config/coc/extensions/node_modules/coc-snippets
+	* coc-pairs	1.2.21	~/.config/coc/extensions/node_modules/coc-pairs
+	* coc-marketplace	1.7.0	~/.config/coc/extensions/node_modules/coc-marketplace
+	* coc-lists	1.3.8	~/.config/coc/extensions/node_modules/coc-lists
+	* coc-highlight	1.2.5	~/.config/coc/extensions/node_modules/coc-highlight
+	* coc-gitignore	0.0.4	~/.config/coc/extensions/node_modules/coc-gitignore
+	* coc-git	1.7.15	~/.config/coc/extensions/node_modules/coc-git
+	* coc-emmet	1.1.4	~/.config/coc/extensions/node_modules/coc-emmet
+	* coc-calc	1.6.0	~/.config/coc/extensions/node_modules/coc-calc
+	* coc-browser	1.2.6	~/.config/coc/extensions/node_modules/coc-browser
+	* coc-bookmark	1.2.5	~/.config/coc/extensions/node_modules/coc-bookmark
+	+ coc-yaml	1.0.4	~/.config/coc/extensions/node_modules/coc-yaml
+	+ coc-xml	1.11.1	~/.config/coc/extensions/node_modules/coc-xml
+	+ coc-vimlsp	0.8.0	~/.config/coc/extensions/node_modules/coc-vimlsp
+	+ coc-tsserver	1.5.2	~/.config/coc/extensions/node_modules/coc-tsserver
+	+ coc-texlab	2.1.0	~/.config/coc/extensions/node_modules/coc-texlab
+	+ coc-svg	0.0.13	~/.config/coc/extensions/node_modules/coc-svg
+	+ coc-stylelint	1.1.0	~/.config/coc/extensions/node_modules/coc-stylelint
+	+ coc-python	1.2.12	~/.config/coc/extensions/node_modules/coc-python
+	+ coc-phpls	2.1.8	~/.config/coc/extensions/node_modules/coc-phpls
+	+ coc-markdownlint	1.4.0	~/.config/coc/extensions/node_modules/coc-markdownlint
+	+ coc-java	1.4.11	~/.config/coc/extensions/node_modules/coc-java
+	+ coc-html	1.2.1	~/.config/coc/extensions/node_modules/coc-html
+	+ coc-go	0.8.0	~/.config/coc/extensions/node_modules/coc-go
+	+ coc-flutter	1.4.0	~/.config/coc/extensions/node_modules/coc-flutter
+	+ coc-css	1.2.3	~/.config/coc/extensions/node_modules/coc-css
+	+ coc-cmake	0.0.1	~/.config/coc/extensions/node_modules/coc-cmake
+	+ coc-clangd	0.4.11	~/.config/coc/extensions/node_modules/coc-clangd
+	+ coc-angular	0.901.11	~/.config/coc/extensions/node_modules/coc-angular
+0427413afd34729e2046e808433a48d9|list:/extensions|2|1|V|list
+	+ coc-java	1.4.11	~/.config/coc/extensions/node_modules/coc-java
+d0fe61375a73366dcab38c35751eab47|list:/extensions|2|1|V|list
+	Press ? on normal mode to get help.
+737b533934ba2c4923efdac6c85c573c|list:/extensions|33|1|V|list
+	* coc-bookmark	1.2.5	~/.config/coc/extensions/node_modules/coc-bookmark
+	* coc-browser	1.2.6	~/.config/coc/extensions/node_modules/coc-browser
+	* coc-calc	1.6.0	~/.config/coc/extensions/node_modules/coc-calc
+	* coc-emmet	1.1.4	~/.config/coc/extensions/node_modules/coc-emmet
+	* coc-git	1.7.15	~/.config/coc/extensions/node_modules/coc-git
+	* coc-gitignore	0.0.4	~/.config/coc/extensions/node_modules/coc-gitignore
+	* coc-highlight	1.2.5	~/.config/coc/extensions/node_modules/coc-highlight
+	* coc-lists	1.3.8	~/.config/coc/extensions/node_modules/coc-lists
+	* coc-marketplace	1.7.0	~/.config/coc/extensions/node_modules/coc-marketplace
+	* coc-pairs	1.2.21	~/.config/coc/extensions/node_modules/coc-pairs
+	* coc-snippets	2.1.28	~/.config/coc/extensions/node_modules/coc-snippets
+	* coc-sql	0.2.24	~/.config/coc/extensions/node_modules/coc-sql
+	* coc-tailwindcss	0.3.2	~/.config/coc/extensions/node_modules/coc-tailwindcss
+	* coc-yank	1.1.4	~/.config/coc/extensions/node_modules/coc-yank
+	+ coc-angular	0.901.11	~/.config/coc/extensions/node_modules/coc-angular
+	+ coc-clangd	0.4.11	~/.config/coc/extensions/node_modules/coc-clangd
+	+ coc-cmake	0.0.1	~/.config/coc/extensions/node_modules/coc-cmake
+	+ coc-css	1.2.3	~/.config/coc/extensions/node_modules/coc-css
+	+ coc-flutter	1.4.0	~/.config/coc/extensions/node_modules/coc-flutter
+	+ coc-go	0.8.0	~/.config/coc/extensions/node_modules/coc-go
+	+ coc-html	1.2.1	~/.config/coc/extensions/node_modules/coc-html
+	+ coc-java	1.4.11	~/.config/coc/extensions/node_modules/coc-java
+	+ coc-markdownlint	1.4.0	~/.config/coc/extensions/node_modules/coc-markdownlint
+	+ coc-phpls	2.1.8	~/.config/coc/extensions/node_modules/coc-phpls
+	+ coc-python	1.2.12	~/.config/coc/extensions/node_modules/coc-python
+	+ coc-stylelint	1.1.0	~/.config/coc/extensions/node_modules/coc-stylelint
+	+ coc-svg	0.0.13	~/.config/coc/extensions/node_modules/coc-svg
+	+ coc-texlab	2.1.0	~/.config/coc/extensions/node_modules/coc-texlab
+	+ coc-tsserver	1.5.2	~/.config/coc/extensions/node_modules/coc-tsserver
+	+ coc-vimlsp	0.8.0	~/.config/coc/extensions/node_modules/coc-vimlsp
+	+ coc-xml	1.11.1	~/.config/coc/extensions/node_modules/coc-xml
+	+ coc-yaml	1.0.4	~/.config/coc/extensions/node_modules/coc-yaml
+b5ee352ac02ed4987147780e0d3a856a|list:/extensions|2|1|V|list
+	* coc-sql	0.2.24	~/.config/coc/extensions/node_modules/coc-sql
+9a1e393e8893a60ec4dfa19791fda38f|list:/commands|2|1|V|list
+	workspace.clearWatchman	run watch-del-all for watchman to free up memory.
+	workspace.workspaceFolders	show opened workspaceFolders.
+	workspace.renameCurrentFile	change current filename to a new name and reload it.
+	extensions.toggleAutoUpdate	toggle auto update of extensions.
+	workspace.diagnosticRelated	jump to related locations of current diagnostic.
+	workspace.showOutput	open output buffer to show output from languageservers or extensions.
+	document.renameCurrentWord	rename word under cursor in current buffer by use multiple cursors.
+	document.jumpToNextSymbol	Jump to next symbol highlight position.
+	angular.restartNgServer	Restart Angular Language server
+	bookmark.toggle	create/delete a bookmark
+	bookmark.annotate	create a new bookmark with annotation
+	bookmark.prev	jump to the prev bookmark
+	bookmark.next	jump to the next bookmark
+	bookmark.clearForCurrentFile	clear bookmark for the current file
+	bookmark.clearForAllFiles	clear bookmark for all files
+	clearCandidates	Clear browser completion source cache
+	clangd.switchSourceHeader	Switch between source/header
+	clangd.symbolInfo	Resolve symbol info under the cursor
+	clangd.install	Install latest clangd language server binary release
+	clangd.update	Check for updates to clangd language server
+	cmake.onlineHelp	CMake: Online Help
+	flutter.run	Run flutter server
+	flutter.attach	Attach running application
+	flutter.create	Create flutter project using: flutter create project-name
+	flutter.doctor	flutter doctor
+	flutter.upgrade	flutter upgrade
+	flutter.pub.get	flutter pub get
+	flutter.devices	open devices list
+	flutter.emulators	open emulators list
+	git.chunkInfo	Show chunk info under cursor
+	git.chunkStage	Stage current chunk.
+	git.chunkUndo	Undo current chunk.
+	git.showCommit	Show commit of current chunk.
+	git.browserOpen	Open current line in browser, github url supported.
+	git.copyUrl	Copy url of current line to clipboard, github url supported.
+	git.diffCached	Show cached diff in preview window.
+	git.foldUnchanged	Fold unchanged lines of current buffer.
+	git.toggleGutters	Toggle git gutters in sign column.
+	go.install.gomodifytags	Install / update gomodifytags
+	go.install.goplay	Install / update goplay
+	go.install.gopls	Install / update gopls
+	go.install.gotests	Install / update gotests
+	go.install.impl	Install / update impl
+	go.playground	Run on go playground
+	go.tags.add	Add tags to struct fields
+	go.tags.add.line	Add tags to struct field in current line
+	go.tags.add.prompt	Add tags to struct fields (prompt)
+	go.tags.clear	Remove all tags from struct fields
+	go.tags.clear.line	Remove all tags from struct fields in current line
+	go.tags.remove	Remove tags from struct fields
+	go.tags.remove.line	Remove tags from struct field in current line
+	go.tags.remove.prompt	Remove tags from struct fields (prompt)
+	go.test.generate.exported	Generate unit tests for exported functions in file
+	go.test.generate.file	Generate unit tests for file
+	go.test.toggle	Toggle test file
+	go.version	Print extension version
+	go.impl.cursor	Generate interface stubs
+	java.updateLanguageServer	Download latest snapshots of jdt.ls from eclipse.org.
+	java.projectConfiguration.update	Update project configuration
+	java.open.serverLog	Open Java Language Server log file
+	java.workspace.compile	Force Java compilation
+	java.action.organizeImports	Organize Imports
+	java.open.formatter.settings	Open Java formatter settings
+	java.clean.workspace	Clean the Java language server workspace
+	session.save	Save current vim state to session file.
+	session.load	Load session by name.
+	session.restart	Restart vim with current session.
+	mru.validate	Validate mru files list, which remove files that doesn't exist.
+	markdownlint.fixAll	Fix all errors found by markdownlint
+	python.enableSourceMapSupport	Enable source map support for extension debugging
+	python.sortImports	Sort Imports
+	python.startREPL	Start REPL
+	python.createTerminal	Create Terminal
+	python.buildWorkspaceSymbols	Build Workspace Symbols
+	python.execInTerminal	Run Python File in Terminal
+	python.setInterpreter	Select Interpreter
+	python.upgradePythonLanguageServer	Upgrade MPLS to latest stable version, restart coc.nvim required to take effect.
+	python.viewOutput	Show output
+	python.goToPythonObject	Go to Python Object
+	python.setLinter	Select Linter
+	python.enableLinting	Enable Linting
+	python.runLinting	Run Linting
+	snippets.editSnippets	Edit user snippets file of current document filetype.
+	snippets.openSnippetFiles	Edit snippets files of current document filetype.
+	sql.Format	Format sql file by sql-formatter
+	svg.minifySvg	Minify SVG
+	svg.prettySvg	Pretty SVG
+	svg.showSvg	Preview SVG
+	latex.Build	Build current LaTeX file
+	latex.BuildCancel	Cancel all running builds
+	latex.ForwardSearch	Performs a forward search from the current file, used to preview PDF
+	latex.UpdateLanguageServer	Upgrade TexLab Server to latest version
+	tsserver.reloadProjects	Reload current project
+	tsserver.openTsServerLog	Open log file of tsserver.
+	tsserver.goToProjectConfig	Open project config file.
+	tsserver.restart	Restart tsserver
+	tsserver.watchBuild	Run `tsc --watch` for current project by use vim's job feature.
+	tsserver.executeAutofix	Fix autofixable problems of current document.
+	xml.show.references	Show XML references
+	xml.updateLanguageServer	Download latest version of LemMinX from repo.eclipse.org
+	extensions.forceUpdateAll	remove all global extensions and install them
+	editor.action.organizeImport	run organize import code action.
+	browser.clearCandidates
+	calc.calculate
+	tags.generate
+	yank.clean
+0ebd4a3a776f82164eb6fe636cd00ba7|list:/commands|2|1|V|list
+	sql.Format	Format sql file by sql-formatter
+874847efc00a0cdab6288d4da7a54fd6|file:///home/godlovesjonny/Jonny/Cpps/LexicalAnalysis.cpp|193|5|V|cpp
+	    whil
+987ee40b7ecc4683b1750c9980f3e08c|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|30|40|v|dart
+	Demo 
+531081cb3c92a1febb539a49dd012afc|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|2|1|V|dart
+	import 'package:package:english_words/english_words.dart';
+ab9ab711326f157e049eaa8b1d807f07|file:///home/godlovesjonny/.vimrc|225|1|V|vim
+	Plug 'darcula/vim'
+54e39e4621bd57e5e73104bc7a787ff7|file:///home/godlovesjonny/.vimrc|71|15|v|vim
+	deus
+73b84ba0fa56d3826167bc2aafd7b75d|file:///home/godlovesjonny/.vimrc|71|1|V|vim
+	colorscheme dracula
+843539834f1a329ce2b49b64a9e25f0f|file:///home/godlovesjonny/.vimrc|263|13|v|vim
+	dracula
+07b5e6d7b9f848d76aa2bd830dfe9ae3|file:///home/godlovesjonny/.vimrc|276|1|V|vim
+	nnoremap <LEADER>fr :!flutter run
+644750e0a1aad788cd82013ddb3fce67|file:///home/godlovesjonny/.vimrc|277|20|v|vim
+	<SPACE>:
+6506ae39fdca9845e3a6de3865183e57|file:///home/godlovesjonny/.vimrc|276|21|v|vim
+	SPACE
+46d7477aadb05f7725748fb31ca60bc6|file:///home/godlovesjonny/.vimrc|277|21|v|vim
+	<SPACE>:!
+e7a9eb5d74a5f5c1d4ee33ecfdffa5b4|file:///home/godlovesjonny/.vimrc|278|1|V|vim
+	nnoremap <LEADER>fe8 :!flutter<SPACE>emulators<SPACE>--launch<SPACE>Nexus_6_API_27<CR>
+caaf1474c980c5d4315cba11affe9803|file:///home/godlovesjonny/.vimrc|333|1|V|vim
+	nnoremap <LEADER>gc :!git commit -m 
+faccce6fe383504b35b37baec5ac8b22|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|35|1|V|dart
+	class MyHomePage extends StatefulWidget {
+	  MyHomePage({Key key, this.title}) : super(key: key);
+	
+	  // This widget is the home page of your application. It is stateful, meaning
+	  // that it has a State object (defined below) that contains fields that affect
+	  // how it looks.
+	
+	  // This class is the configuration for the state. It holds the values (in this
+	  // case the title) provided by the parent (in this case the App widget) and
+	  // used by the build method of the State. Fields in a Widget subclass are
+	  // always marked "final".
+	
+	  final String title;
+	
+	  @override
+	  _MyHomePageState createState() => _MyHomePageState();
+	}
+	
+	class _MyHomePageState extends State<MyHomePage> {
+	  int _counter = 0;
+	
+	  void _incrementCounter() {
+	    setState(() {
+	      // This call to setState tells the Flutter framework that something has
+	      // changed in this State, which causes it to rerun the build method below
+	      // so that the display can reflect the updated values. If we changed
+	      // _counter without calling setState(), then the build method would not be
+	      // called again, and so nothing would appear to happen.
+	      _counter++;
+	    });
+	  }
+	
+	  @override
+	  Widget build(BuildContext context) {
+	    // This method is rerun every time setState is called, for instance as done
+	    // by the _incrementCounter method above.
+	    //
+	    // The Flutter framework has been optimized to make rerunning build methods
+	    // fast, so that you can just rebuild anything that needs updating rather
+	    // than having to individually change instances of widgets.
+	    return Scaffold(
+	      appBar: AppBar(
+	        // Here we take the value from the MyHomePage object that was created by
+	        // the App.build method, and use it to set our appbar title.
+	        title: Text(widget.title),
+	      ),
+	      body: Center(
+	        // Center is a layout widget. It takes a single child and positions it
+	        // in the middle of the parent.
+	        child: Column(
+	          // Column is also a layout widget. It takes a list of children and
+	          // arranges them vertically. By default, it sizes itself to fit its
+	          // children horizontally, and tries to be as tall as its parent.
+	          //
+	          // Invoke "debug painting" (press "p" in the console, choose the
+	          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+	          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+	          // to see the wireframe for each widget.
+	          //
+	          // Column has various properties to control how it sizes itself and
+	          // how it positions its children. Here we use mainAxisAlignment to
+	          // center the children vertically; the main axis here is the vertical
+	          // axis because Columns are vertical (the cross axis would be
+	          // horizontal).
+	          mainAxisAlignment: MainAxisAlignment.center,
+	          children: <Widget>[
+	            Text(
+	              'You have pushed the button this many times:',
+	            ),
+	            Text(
+	              '$_counter',
+	              style: Theme.of(context).textTheme.headline4,
+	            ),
+	          ],
+	        ),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        onPressed: _incrementCounter,
+	        tooltip: 'Increment',
+	        child: Icon(Icons.add),
+	      ), // This trailing comma makes auto-formatting nicer for build methods.
+	    );
+	  }
+	}
+4f516150fbd405cb5ca335072216e75b|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|15|1|V|dart
+	        // This is the theme of your application.
+	        //
+	        // Try running your application with "flutter run". You'll see the
+	        // application has a blue toolbar. Then, without quitting the app, try
+	        // changing the primarySwatch below to Colors.green and then invoke
+294c554d154b40fa7ab76c0cb6907efd|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|15|9|V|dart
+	        // "hot reload" (press "r" in the console where you ran "flutter run",
+c7c092cd8c71839e81b2fddd30c16ff3|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|15|9|V|dart
+	        // or simply save your changes to "hot reload" in a Flutter IDE).
+	        // Notice that the counter didn't reset back to zero; the application
+	        // is not restarted.
+28de289ace9dafaad7702e57b1712669|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|21|13|v|dart
+	MyHomePage
+9b0ebc2f339c19e1873e1ebe6f5b9f1a|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|21|7|V|dart
+	      home: (title: 'Flutter Home Page'),
+22c51c81f7c8f97bc3d736dff96135d1|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|4|1|V|dart
+	void main() {
+	  runApp(MyApp());
+	}
+1d3ec4bacfce117d4fc7998cd3091c56|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|5|1|V|dart
+	class MyApp extends StatelessWidget {
+	  // This widget is the root of your application.
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Flutter Demo',
+	      theme: ThemeData(
+	        primarySwatch: Colors.blue,
+	        // This makes the visual density adapt to the platform that you run
+	        // the app on. For desktop platforms, the controls will be smaller and
+	        // closer together (more dense) than on mobile platforms.
+	        visualDensity: VisualDensity.adaptivePlatformDensity,
+	      ),
+	      // home: ,
+	    );
+	  }
+	}
+7f77a3b7a6e0a0de086847ad65308c15|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|5|12|v|dart
+	this.title
+7f77a3b7a6e0a0de086847ad65308c15|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|5|12|v|dart
+	this.title
+39d744325384fd362193e7079340db6b|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|50|16|v|dart
+	Example 
+d5d3db1765287eef77d7927cc956f50a|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|50|16|v|dart
+	title
+c27689c2d4a3b27d643290efc8c0b2b4|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/pubspec.yaml|50|5|V|yaml
+	    - 
+885d5bebef759f0d0098938d2d2a270e|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/pubspec.yaml|50|14|v|yaml
+	a_dot_burr.jpeg
+e5f282090e481c23c0d5115a34ced77d|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|7|1|V|dart
+	class MyApp extends StatelessWidget {
+	  // This widget is the root of your application.
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Flutter Demo',
+	      theme: ThemeData(
+	        // This is the theme of your application.
+	        //
+	        // Try running your application with "flutter run". You'll see the
+	        // application has a blue toolbar. Then, without quitting the app, try
+	        // changing the primarySwatch below to Colors.green and then invoke
+	        // "hot reload" (press "r" in the console where you ran "flutter run",
+	        // or simply save your changes to "hot reload" in a Flutter IDE).
+	        // Notice that the counter didn't reset back to zero; the application
+	        // is not restarted.
+	        primarySwatch: Colors.blue,
+	        // This makes the visual density adapt to the platform that you run
+	        // the app on. For desktop platforms, the controls will be smaller and
+	        // closer together (more dense) than on mobile platforms.
+	        visualDensity: VisualDensity.adaptivePlatformDensity,
+	      ),
+	      home: MyHomePage(title: 'Flutter Demo Home Page'),
+	    );
+	  }
+	}
+	
+	class MyHomePage extends StatefulWidget {
+	  MyHomePage({Key key, this.title}) : super(key: key);
+	
+	  // This widget is the home page of your application. It is stateful, meaning
+	  // that it has a State object (defined below) that contains fields that affect
+	  // how it looks.
+	
+	  // This class is the configuration for the state. It holds the values (in this
+	  // case the title) provided by the parent (in this case the App widget) and
+	  // used by the build method of the State. Fields in a Widget subclass are
+	  // always marked "final".
+	
+	  final String title;
+	
+	  @override
+	  _MyHomePageState createState() => _MyHomePageState();
+	}
+	
+	class _MyHomePageState extends State<MyHomePage> {
+	  int _counter = 0;
+	
+	  void _incrementCounter() {
+	    setState(() {
+	      // This call to setState tells the Flutter framework that something has
+	      // changed in this State, which causes it to rerun the build method below
+	      // so that the display can reflect the updated values. If we changed
+	      // _counter without calling setState(), then the build method would not be
+	      // called again, and so nothing would appear to happen.
+	      _counter++;
+	    });
+	  }
+	
+	  @override
+	  Widget build(BuildContext context) {
+	    // This method is rerun every time setState is called, for instance as done
+	    // by the _incrementCounter method above.
+	    //
+	    // The Flutter framework has been optimized to make rerunning build methods
+	    // fast, so that you can just rebuild anything that needs updating rather
+	    // than having to individually change instances of widgets.
+	    return Scaffold(
+	      appBar: AppBar(
+	        // Here we take the value from the MyHomePage object that was created by
+	        // the App.build method, and use it to set our appbar title.
+	        title: Text(widget.title),
+	      ),
+	      body: Center(
+	        // Center is a layout widget. It takes a single child and positions it
+	        // in the middle of the parent.
+	        child: Column(
+	          // Column is also a layout widget. It takes a list of children and
+	          // arranges them vertically. By default, it sizes itself to fit its
+	          // children horizontally, and tries to be as tall as its parent.
+	          //
+	          // Invoke "debug painting" (press "p" in the console, choose the
+	          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+	          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+	          // to see the wireframe for each widget.
+	          //
+	          // Column has various properties to control how it sizes itself and
+	          // how it positions its children. Here we use mainAxisAlignment to
+	          // center the children vertically; the main axis here is the vertical
+	          // axis because Columns are vertical (the cross axis would be
+	          // horizontal).
+	          mainAxisAlignment: MainAxisAlignment.center,
+	          children: <Widget>[
+	            Text(
+	              'You have pushed the button this many times:',
+	            ),
+	            Text(
+	              '$_counter',
+	              style: Theme.of(context).textTheme.headline4,
+	            ),
+	          ],
+	        ),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        onPressed: _incrementCounter,
+	        tooltip: 'Increment',
+	        child: Icon(Icons.add),
+	      ), // This trailing comma makes auto-formatting nicer for build methods.
+	    );
+	  }
+	}
+288b6e4d895616ce36825411e3cd976d|file:///home/godlovesjonny/.vimrc|337|1|V|vim
+	inoremap <C-d> <Esc>dd
+6f77351032b50efb6e8b0153a28edff6|file:///home/godlovesjonny/.vimrc|337|1|V|vim
+	inoremap <C-d> <Esc>ddO
+6ab47bc4c4faa19aefd56413d0a25841|file:///home/godlovesjonny/.vimrc|250|27|v|vim
+	zathura
+48480d5cb2f17c5dd2e4516380d5ba64|file:///home/godlovesjonny/.vimrc|244|1|V|vim
+	Plug 'python-mode/python-mode', { 'for': 'python', 'branch': 'develop' }
+0a45c874058c50e5f79b0bc44db7546d|file:///home/godlovesjonny/.vim/plugged/vimtex/ftplugin/tex.vim|25|1|V|vim
+	set sw=2
+64171787d4c2aa9ee26447e732cd43d9|file:///home/godlovesjonny/.vim/plugged/vimtex/ftplugin/tex.vim|25|1|V|vim
+	" this is mostly a matter of taste. but LaTeX looks good with just a bit
+	" of indentation.
+	set sw=2
+	" TIP: if you write your \label's as \label{fig:something}, then if you
+	" type in \ref{fig: and press <C-n> you will automatically cycle through
+	" all the figure labels. Very useful!
+	set iskeyword+=:
+8c70e51c4ee46d8ec8526a71bfb1b6d0|file:///home/godlovesjonny/.vimrc|36|7|V|vim
+	let g:pymode_python = 'python3'
+	let g:pymode_rope = 0
+a82fd95db10ff25dfad39f07372ebe37|file:///home/godlovesjonny/.vimrc|273|16|v|vim
+	dark
+2307aff9c41dec4bb4bcd985195411b2|file:///home/godlovesjonny/.vimrc|273|1|V|vim
+	set background=lightblue
+720ec6e338978f0a1263a99d4ba37f66|file:///home/godlovesjonny/.vimrc|132|1|V|vim
+	inoremap
+081c509945a02ea8b1258deed0aea4b5|file:///home/godlovesjonny/.vimrc|130|1|V|vim
+	" Use <c-space> to trigger completion.
+	inoremap <silent><expr> <c-space> coc#refresh()
+c5151aabf7eb4157ad252c1158f0d89f|file:///home/godlovesjonny/Jonny/Cpps/LexicalAnalysis.cpp|193|3|v|cpp
+	akeWord();
+e79fb8b177a55b1664626d4fde6c6a98|file:///home/godlovesjonny/.vimrc|162|1|V|vim
+	" ============================= Coc-Configs ================================
+13dad85518090d7fed8bb55af841a78e|file:///home/godlovesjonny/.vimrc|138|1|v|vim
+	nmap 
+73be252ca82217b1458a25e6b4e99f15|file:///home/godlovesjonny/.vimrc|138|11|v|vim
+	silent
+4562f0c6401ef414ee0a674757101596|file:///home/godlovesjonny/Jonny/Cpps/LexicalAnalysis.cpp|194|5|V|cpp
+	    freopen
+6d0c4147a0a769592b65319695dae35d|file:///home/godlovesjonny/Jonny/Cpps/LexicalAnalysis.cpp|188|13|v|cpp
+	const char *__restrict __filename
+1fa711810fbe0b00f1497f249835435e|file:///home/godlovesjonny/Jonny/Cpps/LexicalAnalysis.cpp|188|5|V|cpp
+	    freopen(, const char *__restrict __modes, FILE *__restrict __stream)
+029705c60017edd0ea83fa07167dbb30|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|66|1|V|dart
+	  runApp(new MaterialApp(
+ce3f372a94d179db0a781f6d6df6f98c|file:///home/godlovesjonny/.vimrc|425|28|v|vim
+	<++>
+adf655bdd4f8af195793fcf79c638c78|file:///home/godlovesjonny/.vimrc|437|15|v|vim
+	ER>ct
+6d82031830f85bad796296536721642e|untitled:1|1|53|v|
+	dcskfjiwopaoakskskkkk
+	hjofhowjfksklasjfgiefjghuirehihgiohb"p'soiedowuirifi"
+4f0b47d73cf661cdcb16c96119c41c73|untitled:1|1|1|V|
+	forni nijdshgqfjqopgjfiejsmcnoiwoifjoejfgiehgimcasmkdhvnijhrifgjforiin rangge for in adfweifgie for main function
+4db5283d09f235470553ddc366c91174|untitled:1|1|1|V|
+	Weifjiejfeijfjeefoeofojfqiviqbivwbucqooqcbzgvuefbie00iafvhiasdfmsklnvbvuiearkfjejiwejfeiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeem
+5cebcf1f5f5b4da2774a4d253db235bb|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/pubspec.yaml|50|5|V|yaml
+	    # - images/lake.jpg
+fe9a87a738a0a387c31749aff7db0af0|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|4|3|V|dart
+	class MyAppBar extends StatelessWidget {
+	  MyAppBar({this.title});
+	
+	  // Widget子类中的字段往往都会定义为"final"
+	  final Widget title;
+	
+	  @override
+	  Widget build(BuildContext context) {
+	    return new Container(
+	      height: 56.0, // 单位是逻辑上的像素（并非真实的像素，类似于浏览器中的像素）
+	      padding: const EdgeInsets.symmetric(horizontal: 8.0),
+	      decoration: new BoxDecoration(color: Colors.blue[500]),
+	      // Row 是水平方向的线性布局（linear layout）
+	      child: new Row(
+	        //列表项的类型是 <Widget>
+	        children: <Widget>[
+	          new IconButton(
+	            icon: new Icon(Icons.menu),
+	            tooltip: 'Navigation menu',
+	            onPressed: null, // null 会禁用 button
+	          ),
+	          // Expanded expands its child to fill the available space.
+	          new Expanded(
+	            child: title,
+	          ),
+	          new IconButton(
+	            icon: new Icon(Icons.search),
+	            tooltip: 'Search',
+	            onPressed: null,
+	          ),
+	        ],
+	      ),
+	    );
+	  }
+	}
+	
+	class MyScaffold extends StatelessWidget {
+	  @override
+	  Widget build(BuildContext context) {
+	    // Material 是UI呈现的“一张纸”
+	    return new Material(
+	      // Column is 垂直方向的线性布局.
+	      child: new Column(
+	        children: <Widget>[
+	          new MyAppBar(
+	            title: new Text(
+	              'Test Title',
+	              style: Theme.of(context).primaryTextTheme.title,
+	            ),
+	          ),
+	          new Expanded(
+	            child: new Center(
+	              child: new Text('Hello, world!'),
+	            ),
+	          ),
+	        ],
+	      ),
+	    );
+	  }
+	}
+	
+	void main() {
+	  runApp(new MaterialApp(
+	    title: 'My app', // used by the OS task switcher
+	    home: new MyScaffold(),
+	  ));
+	}
+9e447b053ecfaa8a43c447234decffcb|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|13|40|V|dart
+	class TutorialHome extends StatelessWidget {
+	  @override
+	  Widget build(BuildContext context) {
+	    // Scaffold is a layout for the major Material Components.
+	    return Scaffold(
+	      appBar: AppBar(
+	        leading: IconButton(
+	          icon: Icon(Icons.menu),
+	          tooltip: 'Navigation menu',
+	          onPressed: null,
+	        ),
+	        title: Text('Example title'),
+	        actions: <Widget>[
+	          IconButton(
+	            icon: Icon(Icons.search),
+	            tooltip: 'Search',
+	            onPressed: null,
+	          ),
+	        ],
+	      ),
+	      // body is the majority of the screen.
+	      body: Center(
+	        child: Text('Hello, world!'),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        tooltip: 'Add', // used by assistive technologies
+	        child: Icon(Icons.add),
+	        onPressed: null,
+	      ),
+	    );
+	  }
+	}
+fd5337a80b5f8371785542d92493be94|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|1|17|V|dart
+	import 'dart:io';
+	
+6702c33821b579b0481932bd1ee22de7|file:///home/godlovesjonny/Jonny/FlutterDevs/startup_namer/lib/main.dart|5|1|V|dart
+	void main() => runApp(new MyApp());
+60a47e5c06c8c839a355d3788a220f72|file:///home/godlovesjonny/Jonny/FlutterDevs/terminal_app_test/lib/main.dart|4|1|V|dart
+	void main() {
+	  runApp(MaterialApp(
+	    title: 'Flutter Tutorial',
+	    home: TutorialHome(),
+	  ));
+	}
+	
+	class TutorialHome extends StatelessWidget {
+	  @override
+	  Widget build(BuildContext context) {
+	    // Scaffold is a layout for the major Material Components.
+	    return Scaffold(
+	      appBar: AppBar(
+	        leading: IconButton(
+	          icon: Icon(Icons.menu),
+	          tooltip: 'Navigation menu',
+	          onPressed: null,
+	        ),
+	        title: Text('Example title'),
+	        actions: <Widget>[
+	          IconButton(
+	            icon: Icon(Icons.search),
+	            tooltip: 'Search',
+	            onPressed: null,
+	          ),
+	        ],
+	      ),
+	      // body is the majority of the screen.
+	      body: Center(
+	        child: Text('Hello, world!'),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        tooltip: 'Add', // used by assistive technologies
+	        child: Icon(Icons.add),
+	        onPressed: null,
+	      ),
+	    );
+	  }
+	}
+3928326a4632b27107ed0364ef3ddadc|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|7|14|V|dart
+	class MyApp extends StatelessWidget {
+	  @override
+	  Widget build(BuildContext context) {
+	    Widget titleSection = new Container(
+	      padding: const EdgeInsets.all(32.0),
+	      child: new Row(
+	        children: [
+	          new Expanded(
+	            child: new Column(
+	              crossAxisAlignment: CrossAxisAlignment.start,
+	              children: [
+	                new Container(
+	                  padding: const EdgeInsets.only(bottom: 8.0),
+	                  child: new Text(
+	                    'Oeschinen Lake Campground',
+	                    style: new TextStyle(
+	                      fontWeight: FontWeight.bold,
+	                    ),
+	                  ),
+	                ),
+	                new Text(
+	                  'Kandersteg, Switzerland',
+	                  style: new TextStyle(
+	                    color: Colors.grey[500],
+	                  ),
+	                ),
+	              ],
+	            ),
+	          ),
+	          new Icon(
+	            Icons.star,
+	            color: Colors.red[500],
+	          ),
+	          new Text('41'),
+	        ],
+	      ),
+	    );
+	
+	    return new MaterialApp(
+	      title: 'Flutter Demo',
+	      theme: new ThemeData(
+	        primarySwatch: Colors.blue,
+	      ),
+	    );
+	  }
+	}
+1bf64401a4af9d6ce3c9076e2e39f8e1|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|3|13|V|dart
+	// void main() {
+	// runApp(MyApp());
+	// }
+fd9aba9986022c60c3cd3e2ff6722f1f|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|8|15|V|dart
+	      return Container(
+	
+	      );
+a07f34c1897afb25987808413e9f0fea|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/pubspec.yaml|49|1|V|yaml
+	    - images/lake.jpg
+97d986e2afa2c72986972e6433fbeaf9|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/pubspec.yaml|50|14|v|yaml
+	lake
+0176486ee3e80c8c2e364385777e0953|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/pubspec.yaml|50|1|V|yaml
+	    - images/pic1.jpg
+0d6f8be841134bf672b179032dd3c81f|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|36|1|V|dart
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Widget Demo',
+	      home: Scaffold(
+	        appBar: AppBar(
+	          title: Text('Widget Demo'),
+	        ),
+	        body: Center(
+	          child: Text('Hello World'),
+	        ),
+	      ),
+	    );
+	  }
+3a55dcc859efcd55e21dfb1ebab6c741|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|15|18|v|dart
+	Text('Hello World')
+6d01f537df39725f6918dbd2ec300a77|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|15|18|v|dart
+	_buildImageColumn(),
+00b32f9a0816eafcd9e6986639221e07|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|15|11|V|dart
+	          child: _buildList(),
+268184c12df027f536154d099d497b31|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_learning/lib/main.dart|17|11|v|dart
+	children
+7de587d4c025bebff5b12589a967cd80|file:///home/godlovesjonny/Jonny/FlutterDevs/constraints_learning/lib/main.dart|13|14|V|dart
+	      theme: ThemeData(
+	        // This is the theme of your application.
+	        //
+	        // Try running your application with "flutter run". You'll see the
+	        // application has a blue toolbar. Then, without quitting the app, try
+	        // changing the primarySwatch below to Colors.green and then invoke
+	        // "hot reload" (press "r" in the console where you ran "flutter run",
+	        // or simply save your changes to "hot reload" in a Flutter IDE).
+	        // Notice that the counter didn't reset back to zero; the application
+	        // is not restarted.
+	        primarySwatch: Colors.blue,
+	        // This makes the visual density adapt to the platform that you run
+	        // the app on. For desktop platforms, the controls will be smaller and
+	        // closer together (more dense) than on mobile platforms.
+	        visualDensity: VisualDensity.adaptivePlatformDensity,
+	      ),
+8ed67c51d3dc32ff912e80d788dabe1c|file:///home/godlovesjonny/Jonny/FlutterDevs/constraints_learning/lib/main.dart|11|13|v|dart
+	MyHomePage(title: 'Flutter Demo Home Page')
+f781d300fce1490f3481e2ab3188e726|file:///home/godlovesjonny/Jonny/FlutterDevs/constraints_learning/lib/main.dart|10|15|v|dart
+	Flutter 
+f0258b6685684c113bad94d91b8fa02a|file:///home/godlovesjonny/Jonny/FlutterDevs/constraints_learning/lib/main.dart|10|15|v|dart
+	Demo
+973e4cfb0e4bb1703e8b2281a41de54b|file:///home/godlovesjonny/Jonny/FlutterDevs/constraints_learning/lib/main.dart|1|1|V|dart
+	import 'package:flutter/material.dart';
+	
+	// Constraints go down. Sizes go up. Parent sets position.
+	void main() => runApp(MyApp());
+	
+	class MyApp extends StatelessWidget {
+	  // This widget is the root of your application.
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Constraints Demo',
+	      home: MyHomePage(title: 'Flutter Demo Home Page'),
+	    );
+	  }
+	}
+ecd1365dad1f63025f32ab20362fb2ed|file:///home/godlovesjonny/Jonny/FlutterDevs/lake_pic/lib/main.dart|1|1|V|dart
+	import 'package:flutter/material.dart';
+	
+	void main() {
+	  runApp(MyApp());
+	}
+	
+	class MyApp extends StatelessWidget {
+	  // This widget is the root of your application.
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Flutter Demo',
+	      theme: ThemeData(
+	        // This is the theme of your application.
+	        //
+	        // Try running your application with "flutter run". You'll see the
+	        // application has a blue toolbar. Then, without quitting the app, try
+	        // changing the primarySwatch below to Colors.green and then invoke
+	        // "hot reload" (press "r" in the console where you ran "flutter run",
+	        // or simply save your changes to "hot reload" in a Flutter IDE).
+	        // Notice that the counter didn't reset back to zero; the application
+	        // is not restarted.
+	        primarySwatch: Colors.blue,
+	        // This makes the visual density adapt to the platform that you run
+	        // the app on. For desktop platforms, the controls will be smaller and
+	        // closer together (more dense) than on mobile platforms.
+	        visualDensity: VisualDensity.adaptivePlatformDensity,
+	      ),
+	      home: MyHomePage(title: 'Flutter Demo Home Page'),
+	    );
+	  }
+	}
+	
+	class MyHomePage extends StatefulWidget {
+	  MyHomePage({Key key, this.title}) : super(key: key);
+	
+	  // This widget is the home page of your application. It is stateful, meaning
+	  // that it has a State object (defined below) that contains fields that affect
+	  // how it looks.
+	
+	  // This class is the configuration for the state. It holds the values (in this
+	  // case the title) provided by the parent (in this case the App widget) and
+	  // used by the build method of the State. Fields in a Widget subclass are
+	  // always marked "final".
+	
+	  final String title;
+	
+	  @override
+	  _MyHomePageState createState() => _MyHomePageState();
+	}
+	
+	class _MyHomePageState extends State<MyHomePage> {
+	  int _counter = 0;
+	
+	  void _incrementCounter() {
+	    setState(() {
+	      // This call to setState tells the Flutter framework that something has
+	      // changed in this State, which causes it to rerun the build method below
+	      // so that the display can reflect the updated values. If we changed
+	      // _counter without calling setState(), then the build method would not be
+	      // called again, and so nothing would appear to happen.
+	      _counter++;
+	    });
+	  }
+	
+	  @override
+	  Widget build(BuildContext context) {
+	    // This method is rerun every time setState is called, for instance as done
+	    // by the _incrementCounter method above.
+	    //
+	    // The Flutter framework has been optimized to make rerunning build methods
+	    // fast, so that you can just rebuild anything that needs updating rather
+	    // than having to individually change instances of widgets.
+	    return Scaffold(
+	      appBar: AppBar(
+	        // Here we take the value from the MyHomePage object that was created by
+	        // the App.build method, and use it to set our appbar title.
+	        title: Text(widget.title),
+	      ),
+	      body: Center(
+	        // Center is a layout widget. It takes a single child and positions it
+	        // in the middle of the parent.
+	        child: Column(
+	          // Column is also a layout widget. It takes a list of children and
+	          // arranges them vertically. By default, it sizes itself to fit its
+	          // children horizontally, and tries to be as tall as its parent.
+	          //
+	          // Invoke "debug painting" (press "p" in the console, choose the
+	          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+	          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+	          // to see the wireframe for each widget.
+	          //
+	          // Column has various properties to control how it sizes itself and
+	          // how it positions its children. Here we use mainAxisAlignment to
+	          // center the children vertically; the main axis here is the vertical
+	          // axis because Columns are vertical (the cross axis would be
+	          // horizontal).
+	          mainAxisAlignment: MainAxisAlignment.center,
+	          children: <Widget>[
+	            Text(
+	              'You have pushed the button this many times:',
+	            ),
+	            Text(
+	              '$_counter',
+	              style: Theme.of(context).textTheme.headline4,
+	            ),
+	          ],
+	        ),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        onPressed: _incrementCounter,
+	        tooltip: 'Increment',
+	        child: Icon(Icons.add),
+	      ), // This trailing comma makes auto-formatting nicer for build methods.
+	    );
+	  }
+	}
+38c9e5539c1d5666d3989acf73f200b7|file:///home/godlovesjonny/Jonny/FlutterDevs/lake_pic/pubspec.yaml|49|14|v|yaml
+	a_dot_burr
+17f284794ed0d81b8c8059e8da3c04bc|file:///home/godlovesjonny/Jonny/FlutterDevs/lake_pic/lib/main.dart|51|1|V|dart
+	    Color color = Theme.of(context).primaryColor;
+9308bf88ed9feb99d0dca68e80840cef|file:///home/godlovesjonny/Jonny/FlutterDevs/lake_pic/lib/main.dart|51|37|v|dart
+	primaryColor
+e61c1bb6e961daf39ca44ea421aeb735|file:///home/godlovesjonny/Jonny/FlutterDevs/lake_pic/lib/main.dart|51|5|V|dart
+	    Color color = Theme.of(context).primaryColorDar;
+24b3ec3456cd0e305e5ae3fac4c9d4e3|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|8|1|V|dart
+	  // This widget is the root of your application.
+	  @override
+	  Widget build(BuildContext context) {
+	    return MaterialApp(
+	      title: 'Flutter Demo',
+	      theme: ThemeData(
+	        // This is the theme of your application.
+	        //
+	        // Try running your application with "flutter run". You'll see the
+	        // application has a blue toolbar. Then, without quitting the app, try
+	        // changing the primarySwatch below to Colors.green and then invoke
+	        // "hot reload" (press "r" in the console where you ran "flutter run",
+	        // or simply save your changes to "hot reload" in a Flutter IDE).
+	        // Notice that the counter didn't reset back to zero; the application
+	        // is not restarted.
+	        primarySwatch: Colors.blue,
+	        // This makes the visual density adapt to the platform that you run
+	        // the app on. For desktop platforms, the controls will be smaller and
+	        // closer together (more dense) than on mobile platforms.
+	        visualDensity: VisualDensity.adaptivePlatformDensity,
+	      ),
+	      home: MyHomePage(title: 'Flutter Demo Home Page'),
+	    );
+	  }
+	}
+	
+	class MyHomePage extends StatefulWidget {
+	  MyHomePage({Key key, this.title}) : super(key: key);
+	
+	  // This widget is the home page of your application. It is stateful, meaning
+	  // that it has a State object (defined below) that contains fields that affect
+	  // how it looks.
+	
+	  // This class is the configuration for the state. It holds the values (in this
+	  // case the title) provided by the parent (in this case the App widget) and
+	  // used by the build method of the State. Fields in a Widget subclass are
+	  // always marked "final".
+	
+	  final String title;
+	
+	  @override
+	  _MyHomePageState createState() => _MyHomePageState();
+	}
+	
+	class _MyHomePageState extends State<MyHomePage> {
+	  int _counter = 0;
+	
+	  void _incrementCounter() {
+	    setState(() {
+	      // This call to setState tells the Flutter framework that something has
+	      // changed in this State, which causes it to rerun the build method below
+	      // so that the display can reflect the updated values. If we changed
+	      // _counter without calling setState(), then the build method would not be
+	      // called again, and so nothing would appear to happen.
+	      _counter++;
+	    });
+	  }
+	
+	  @override
+	  Widget build(BuildContext context) {
+	    // This method is rerun every time setState is called, for instance as done
+	    // by the _incrementCounter method above.
+	    //
+	    // The Flutter framework has been optimized to make rerunning build methods
+	    // fast, so that you can just rebuild anything that needs updating rather
+	    // than having to individually change instances of widgets.
+	    return Scaffold(
+	      appBar: AppBar(
+	        // Here we take the value from the MyHomePage object that was created by
+	        // the App.build method, and use it to set our appbar title.
+	        title: Text(widget.title),
+	      ),
+	      body: Center(
+	        // Center is a layout widget. It takes a single child and positions it
+	        // in the middle of the parent.
+	        child: Column(
+	          // Column is also a layout widget. It takes a list of children and
+	          // arranges them vertically. By default, it sizes itself to fit its
+	          // children horizontally, and tries to be as tall as its parent.
+	          //
+	          // Invoke "debug painting" (press "p" in the console, choose the
+	          // "Toggle Debug Paint" action from the Flutter Inspector in Android
+	          // Studio, or the "Toggle Debug Paint" command in Visual Studio Code)
+	          // to see the wireframe for each widget.
+	          //
+	          // Column has various properties to control how it sizes itself and
+	          // how it positions its children. Here we use mainAxisAlignment to
+	          // center the children vertically; the main axis here is the vertical
+	          // axis because Columns are vertical (the cross axis would be
+	          // horizontal).
+	          mainAxisAlignment: MainAxisAlignment.center,
+	          children: <Widget>[
+	            Text(
+	              'You have pushed the button this many times:',
+	            ),
+	            Text(
+	              '$_counter',
+	              style: Theme.of(context).textTheme.headline4,
+	            ),
+	          ],
+	        ),
+	      ),
+	      floatingActionButton: FloatingActionButton(
+	        onPressed: _incrementCounter,
+	        tooltip: 'Increment',
+	        child: Icon(Icons.add),
+	      ), // This trailing comma makes auto-formatting nicer for build methods.
+	    );
+	  }
+	}
+5a7051ff1394cd61501a8f8dca940ba5|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|19|1|V|dart
+	      setState
+9ba9a8e5898767a25bb4f2de8bb0f382|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|50|15|v|dart
+	Center(
+	          child: TapboxA(),
+	        ),
+	
+a9473ded85aa51851deb4859cdd53f98|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|107|16|V|dart
+	                
+85fcf87faf3b71b32ece4e46d6a7f1f6|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|111|1|V|dart
+	                Center
+2e6871e00b117f5ad0b71ac6955b714e|file:///home/godlovesjonny/Jonny/FlutterDevs/widget_state_learning/lib/main.dart|106|14|V|dart
+	        body: Container(
+	          child: Center(
+	            child: TapboxA(),
+	          ),
+	        ),
+b1d344b0cd15625f976c5f2f77a20661|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/main.dart|4|1|V|dart
+	void main() {
+	  runApp(MyApp());
+	}
+	
+a618221961d8212a82159420f00afc49|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/main.dart|28|5|V|dart
+	class MyHomePage extends StatefulWidget {
+	
+	}
+b2a34d35ac20bca6cdbb1cd1dc556984|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|16|1|V|dart
+	      floatingActionButton: new FloatingActionButton(
+	        onPressed: () {
+	          Navigator.of(context).pop();
+	        },
+	        child: new Icon(Icons.replay),
+113bd289dd7786bd2ab8f9d24607016d|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|16|1|V|dart
+	      floatingActionButton: new FloatingActionButton(
+	        onPressed: () {
+	          Navigator.of(context).pop();
+	        },
+	        child: new Icon(Icons.replay),
+	      ),
+b2dbeb695fa205804b1e5e72650ad2bb|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|26|31|v|dart
+	replay
+848b385ecaf0e78ba8d6af9ddb10cc3c|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/main.dart|49|1|V|dart
+	          // Navigator.push(
+	          // context,
+	          // MaterialPageRoute(builder: (context) => SecondPage()),
+	          // );
+a127fd1f86e4ab650f2216f09992afa4|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|16|6|V|dart
+	      
+bce2beed7ff93a24a5b13ba17d71759c|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|19|15|V|dart
+	      new FloatingActionButton(
+	        onPressed: () {
+	          Navigator.of(context).pop();
+	        },
+	        child: new Icon(Icons.replay),
+	      ),
+146dbf942f3b875385bd75c720ef0189|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|26|7|V|dart
+	      floatingActionButton: new FloatingActionButton(
+	        onPressed: () {
+	          // Navigator.of(context).pop();
+	          Navigator.push(
+	            context,
+	            MaterialPageRoute(builder: (context) => SecondPage()),
+	          );
+	        },
+	        child: new Icon(Icons.open_in_new),
+	      ),
+7747e0dd8364c935b59c46a79889cb83|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|24|7|v|dart
+	floatingActionButton
+2187e1021a911b3807cc1bea2eb1a9ca|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|16|29|v|dart
+	Stack
+f4a82305f28150727cba859d1c516c60|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|17|15|V|dart
+	              Padding(padding: EdgeInsets.only(bottom:80),
+a6d0a462a42e81fb2ef44b0b736d13a9|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|17|9|v|dart
+	children: [
+	          new FloatingActionButton(
+	            heroTag: 'btn_back',
+	            onPressed: () {
+	              Navigator.of(context).pop();
+	            },
+	            child: new Icon(Icons.replay),
+	          ),
+	
+e5046ed795541f6a71b4a3a1d06ff3b8|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|18|11|v|dart
+	new FloatingActionButton(
+	            heroTag: 'btn_back',
+	            onPressed: () {
+	              Navigator.of(context).pop();
+	            },
+	            child: new Icon(Icons.replay),
+	          ),
+	
+5f72c22c87f8fc61b81cd6e92c127d54|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|35|1|V|dart
+	      /
+d5a07822b3e7a9ee77bda36070aeb2a5|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|40|1|V|dart
+	        // heroTag: 'btn_back',
+	        // onPressed: () {
+	        // Navigator.of(context).pop();
+	        // },
+	        // child: new Icon(Icons.replay),
+	        // ),
+b818eb2f16bb0168293dc7443f96b3ac|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|29|9|V|dart
+	                heroTag: "btn1",
+3ccf2eac3cca5e43dcc7241a7fc45b4f|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|29|17|V|dart
+	                onPressed: () {},
+fbd9e8cd7b0c21ab07e741cf3a584c92|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|29|17|V|dart
+	                child: Icon(Icons.camera_alt),
+7dda6d79657154511906b2246986a0fb|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|28|9|V|dart
+	        ),
+e0027e0d646db3af6b706424c7bf5601|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|49|1|V|dart
+	        // heroTag: 'btn_new',
+	        // onPressed: () {
+	        // // Navigator.of(context).pop();
+	        // Navigator.push(
+	        // context,
+	        // MaterialPageRoute(builder: (context) => SecondPage()),
+	        // );
+	        // },
+	        // child: new Icon(Icons.open_in_new),
+ce246beed2dac25cbdcb7146cb438fd6|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|43|9|V|dart
+	              heroTag: "btn2",
+d4b83e069b9555d3d597198cfa014a63|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|43|15|V|dart
+	              onPressed: () {},
+c16829004358b887873fa00f83c83f86|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|43|15|V|dart
+	              child: Icon(Icons.add_photo_alternate),
+e07b86256a1790eec123c3ed24c9dcff|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|46|16|V|dart
+	        // children: [
+	        // new FloatingActionButton(
+	        // heroTag: 'btn_back',
+	        // onPressed: () {
+	        // Navigator.of(context).pop();
+	        // },
+	        // child: new Icon(Icons.replay),
+	        // ),
+	        // new FloatingActionButton(
+	        // heroTag: 'btn_new',
+	        // onPressed: () {
+	        // // Navigator.of(context).pop();
+	        // Navigator.push(
+	        // context,
+	        // MaterialPageRoute(builder: (context) => SecondPage()),
+	        // );
+	        // },
+	        // child: new Icon(Icons.open_in_new),
+	        // ),
+	        // ],
+e6bc2a9f5b41e14cf7b0777b4a89e6c7|file:///home/godlovesjonny/Jonny/FlutterDevs/router_learning/lib/NewRouter.dart|39|59|v|dart
+	return 
+272f0a04b740763e0a29316bc4af89a4|file:///home/godlovesjonny/Jonny/FlutterDevs/state_learning/pubspec.yaml|36|14|v|yaml
+	3.0.0
+466453ee7e4eda065bf8898e6441906a|file:///home/godlovesjonny/.vimrc|355|1|V|vim
+	let g:tex_flavor='latex'
+f52004ff21fcfe360621c8a8f42f05ea|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|5|1|V|text
+	Reviewer Comments:
+c4a26895c03508ac85b982c5f0bbc55e|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|9|1|V|text
+	This paper presents an Inner-cross-modal Attentional Multi-granular Network (IMG-Net for description-based person re-identification. The idea is reasonable and experiments have shown the improvement. Some major issued need to be addressed in the revision:
+53656cd84a440d7f4dcae96f6ab30a8f|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|16|1|V|text
+	Because of the modality heterogeneity, it is a tough work to measure the cross-modal similarity between images and text descriptions. To capture the meaningful information from the within-part and semantic information among body parts, the IMG-Net was proposed in this paper. The test results show that the proposed outperforms other previous methods significantly. There are still some problems or doubts in this paper, and the suggestions are given as follows:
+97a141018ca70832ba341a5fe9ed290e|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|25|1|V|text
+	This paper proposes a text-based person re-identification that utilizes global and local features of image and text for multi-granular matching. To do so, the paper introduces two modules: 1) inner-model self-attention module, using a spatial-wise and a channel-wise attention to refine deep feature map, and 2) cross-model hard-region attention module to obtain multi-granular visual representation and phrase representation. Furthermore, the paper employs Group Normalization to replace the Batch Normalization. Ablation studies are conducted to assess the impact of the different modules. Finally, a comparison with the recent state-of-the-arts shows small growth.
+2382273f357d0dbd905efe4662bfe282|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|24|1|V|text
+	The strengths of the proposed method:
+	1) This paper is easy to read, with a clear and detailed structure.
+	2) Ablation analysis is abundant and adequate.
+	3) The measure of matching visual and textual information via three different cross-modal combinations including global2sentence, local2sentence and global2phrase seems make sense.
+ded9e7857f24e4b3216d6897034c9a6d|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|24|1|V|text
+	The weakness of the prosed method:
+8a3ad6e54bfcde6e53e0bc1bad879a91|file:///home/godlovesjonny/Jonny/to_solve.txt|2|14|V|text
+	2. future work
+	3.
+011013f0cb7aabf1048271fec142b77f|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|9|128|v|text
+	Specific Person Retrieval via Incomplete Text Descriptio
+dcdcef906e969e044158b181080a2e9a|file:///home/godlovesjonny/Jonny/IMGNet_reviews.txt|9|128|v|text
+	Specific Person Retrieval via Incomplete Text Description"
+c2ead9a2281754d813a3c85003afdcc2|file:///home/godlovesjonny/Jonny/to_solve.txt|25|24|V|text
+	1. attention comparision
+	2. major challenge
+	3. model figure modify
+	4. introduction
+	5. future work
+	6. feature visualization
+	7. technical contribution

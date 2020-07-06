@@ -1,0 +1,13 @@
+[1]
+ActiveTab=1
+Urls[$e]=file:$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1707.07256 Deeply-Learned Part-Aligned Representations for Person Re-Identification.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true

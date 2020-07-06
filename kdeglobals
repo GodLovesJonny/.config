@@ -108,8 +108,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [DirSelect Dialog]
-DirSelectDialog Size=1920,1027
-History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
+DirSelectDialog Size=877,618
+History Items[$e]=file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]
 BrowserApplication[$e]=org.qutebrowser.qutebrowser.desktop
@@ -119,11 +119,11 @@ XftHintStyle=hintslight
 XftSubPixel=bgr
 dbfile=/home/godlovesjonny/.mozilla/firefox/q822uufr.default/places.sqlite
 fixed=SpaceMono Nerd Font Mono,14,-1,5,50,0,0,0,0,0,Regular
-font=SpaceMono Nerd Font,14,-1,5,50,0,0,0,0,0,Regular
-menuFont=SpaceMono Nerd Font,14,-1,5,50,0,0,0,0,0,Regular
+font=Noto Sans,14,-1,5,50,0,0,0,0,0
+menuFont=Noto Sans,14,-1,5,50,0,0,0,0,0
 shadeSortColumn=true
-smallestReadableFont=SpaceMono Nerd Font,12,-1,5,50,0,0,0,0,0,Regular
-toolBarFont=SpaceMono Nerd Font,14,-1,5,50,0,0,0,0,0,Regular
+smallestReadableFont=Noto Sans,12,-1,5,50,0,0,0,0,0
+toolBarFont=Noto Sans,14,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=McMojave-circle
@@ -162,7 +162,7 @@ ToolButtonStyleOtherToolbars=TextBesideIcon
 [WM]
 activeBackground=245,245,245
 activeBlend=86,86,86
-activeFont=SpaceMono Nerd Font,14,-1,5,50,1,0,0,0,0,Italic
+activeFont=Noto Sans,14,-1,5,50,1,0,0,0,0,Italic
 activeForeground=66,66,66
 inactiveBackground=238,238,238
 inactiveBlend=102,102,102

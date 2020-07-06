@@ -1,3 +1,4 @@
+AutoResume=true
 ConnectTimeout=20
 MarkPartial=true
 ProxyConnectTimeout=10

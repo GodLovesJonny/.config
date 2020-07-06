@@ -20,9 +20,32 @@ Rows=2
 TabBox=false
 TabBoxAlternative=false
 
+[Effect-Cube]
+BorderActivate=9
+BorderActivateCylinder=9
+BorderActivateSphere=9
+
+[Effect-DesktopGrid]
+BorderActivate=9
+
 [Effect-FlipSwitch]
 TabBox=true
 TabBoxAlternative=false
+
+[Effect-PresentWindows]
+BorderActivate=9
+BorderActivateAll=7
+BorderActivateClass=9
+
+[ElectricBorders]
+Bottom=None
+BottomLeft=None
+BottomRight=None
+Left=None
+Right=None
+Top=None
+TopLeft=None
+TopRight=ShowDesktop
 
 [NightColor]
 LatitudeAuto=45.5587
@@ -47,6 +70,8 @@ TextOnly=false
 [TabBox]
 ActivitiesMode=1
 ApplicationsMode=0
+BorderActivate=9
+BorderAlternativeActivate=9
 DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
@@ -71,6 +96,12 @@ ShowTabBox=true
 SwitchingMode=0
 
 [Windows]
+ElectricBorderCooldown=350
+ElectricBorderCornerRatio=0.25
+ElectricBorderDelay=150
+ElectricBorderMaximize=true
+ElectricBorderTiling=true
+ElectricBorders=0
 RollOverDesktops=true
 
 [org.kde.kdecoration2]

@@ -1,0 +1,15 @@
+[1]
+ActiveTab=2
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/终身成长.pdf,file:$HOME/下载/暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf,file:$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1920=1920

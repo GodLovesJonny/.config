@@ -1,4 +1,4 @@
-# Common recent settings file for Wireshark 3.2.0.
+# Common recent settings file for Wireshark 3.2.3.
 #
 # This file is regenerated each time Wireshark is quit
 # and when changing configuration profile.
@@ -15,14 +15,14 @@
 
 # Main window geometry.
 # Decimal numbers.
-gui.geometry_main_x: 629
-gui.geometry_main_y: 165
-gui.geometry_main_width: 940
-gui.geometry_main_height: 634
+gui.geometry_main_x: 0
+gui.geometry_main_y: 28
+gui.geometry_main_width: 1920
+gui.geometry_main_height: 1027
 
 # Main window maximized.
 # TRUE or FALSE (case-insensitive).
-gui.geometry_main_maximized: FALSE
+gui.geometry_main_maximized: TRUE
 
 # Leftalign Action Buttons.
 # TRUE or FALSE (case-insensitive).

@@ -6,30 +6,32 @@ JPEGQuality=10612
 
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOrAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/smcloudshd.jpg
-File2[$e]=$HOME/.local/share/wallpapers/Mavs Logo.jpg
-File3[$e]=$HOME/.local/share/wallpapers/slides/Panorama Bled Island.jpg
-File4[$e]=$HOME/Jonny/Hugo-pages/jonathan-blog/static/images/2020/04/blog5/1.jpg
-File5[$e]=$HOME/.local/share/wallpapers/slides/Night Wolf.jpg
-File6[$e]=$HOME/Jonny/Hugo-pages/jonathan-blog/static/images/2020/04/se-notes11/Picture2.png
-File7[$e]=$HOME/Jonny/Hugo-pages/jonathan-blog/static/images/2020/04/se-notes12/Picture4.png
-File8[$e]=/run/media/godlovesjonny/新加卷/Manjaro/Frontier/1/suzu honjo本庄铃_160P_185M/36.jpg
-File9[$e]=/run/media/godlovesjonny/新加卷/Manjaro/Frontier/1/suzu honjo本庄铃_160P_185M/08.jpg
-Name1[$e]=smcloudshd.jpg
-Name2[$e]=Mavs Logo.jpg
-Name3[$e]=Panorama Bled Island.jpg
-Name4[$e]=1.jpg
-Name5[$e]=Night Wolf.jpg
-Name6[$e]=Picture2.png
-Name7[$e]=Picture4.png
-Name8[$e]=36.jpg
-Name9[$e]=08.jpg
+File1[$e]=$HOME/图片/WL1.jpg
+File10[$e]=$HOME/.local/share/wallpapers/slides/Pink clouds.jpg
+File2[$e]=$HOME/图片/Screenshot_20190911_194641.png
+File3[$e]=$HOME/图片/Screenshot_20191003_212748.png
+File4[$e]=$HOME/图片/Screenshot_20190526_144956.png
+File5[$e]=$HOME/图片/screen.png
+File6[$e]=$HOME/图片/bg1.jpg
+File7[$e]=$HOME/图片/linuxviolent.png
+File8[$e]=$HOME/图片/intround.png
+File9[$e]=$HOME/图片/Screenshot_20190814_210350.png
+Name1[$e]=WL1.jpg
+Name10[$e]=Pink clouds.jpg
+Name2[$e]=Screenshot_20190911_194641.png
+Name3[$e]=Screenshot_20191003_212748.png
+Name4[$e]=Screenshot_20190526_144956.png
+Name5[$e]=screen.png
+Name6[$e]=bg1.jpg
+Name7[$e]=linuxviolent.png
+Name8[$e]=intround.png
+Name9[$e]=Screenshot_20190814_210350.png
 
 [SideBar]
 SideBarSplitterSizes=242,1675

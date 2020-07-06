@@ -1,106 +1,106 @@
 updateInfoAdded=true
 
 [disable_kmix.upd]
-ctime=1586357138
+ctime=1588988478
 done=PlasmaVolume_DisableKMixAutostart
-mtime=1585673618
+mtime=1588698616
 
 [filepicker.upd]
-ctime=1587277631
+ctime=1590977098
 done=filepicker-remove-old-previews-entry
-mtime=1586107667
+mtime=1589622387
 
 [fonts_akregator.upd]
-ctime=1586357134
+ctime=1592052018
 done=Plasma_Fonts_Akregator
-mtime=1585671951
+mtime=1590485463
 
 [fonts_global.upd]
-ctime=1586357134
+ctime=1592052018
 done=Fonts_Global
-mtime=1585671951
+mtime=1590485463
 
 [fonts_global_toolbar.upd]
-ctime=1586357134
+ctime=1592052018
 done=Fonts_Global_Toolbar
-mtime=1585671951
+mtime=1590485463
 
 [fonts_kate.upd]
-ctime=1586357134
+ctime=1592052018
 done=Plasma_Fonts_Kate
-mtime=1585671951
+mtime=1590485463
 
 [gtkconfig.upd]
-ctime=1586357134
+ctime=1588988470
 done=gtk_theme
-mtime=1585672940
+mtime=1588697927
 
 [gwenview.upd]
-ctime=1587954050
+ctime=1590977108
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1587423340
+mtime=1589364776
 
 [icons_remove_effects.upd]
-ctime=1586357138
+ctime=1589942444
 done=IconsRemoveEffects
-mtime=1585673310
+mtime=1589188538
 
 [kcalcrc.upd]
-ctime=1587954051
-mtime=1587427771
+ctime=1590977110
+mtime=1589370146
 
 [kde4breeze.upd]
-ctime=1586357132
+ctime=1588988468
 done=5.0KDE4Breeze_2
-mtime=1585671592
+mtime=1588696555
 
 [kget.upd]
-ctime=1587954051
-mtime=1587424739
+ctime=1590977110
+mtime=1589366193
 
 [konversation.upd]
 ctime=1587277638
 mtime=1586600407
 
 [krdb_libpathwipe.upd]
-ctime=1586357138
+ctime=1589942444
 done=LibraryPathWipeOut
-mtime=1585673310
+mtime=1589188538
 
 [krunnerglobalshortcuts.upd]
-ctime=1587277649
+ctime=1590977110
 done=5.17KRunnerGlobalShortcuts
-mtime=1586601923
+mtime=1590566501
 
 [krunnerplugins.upd]
-ctime=1587277649
+ctime=1590977110
 done=5.9KRunnerPlugins
-mtime=1586601923
+mtime=1590566501
 
 [kscreenlocker.upd]
-ctime=1586357134
-mtime=1585671446
+ctime=1588988470
+mtime=1588696405
 
 [ksmserver_update_loginMode_value.upd]
-ctime=1586357138
+ctime=1589942444
 done=ksmserver_update_loginMode_value_default_enum
-mtime=1585673310
+mtime=1589188538
 
 [kwin.upd]
-ctime=1586393917
+ctime=1592052015
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js,auto-bordersize,animation-speed
-mtime=1586333197
+mtime=1590483300
 
 [okular.upd]
-ctime=1587954057
-mtime=1587423706
+ctime=1590977122
+mtime=1589365144
 
 [spectacle_newConfig.upd]
-ctime=1587954057
+ctime=1590977123
 done=spectacle-new-config
-mtime=1587423823
+mtime=1589365264
 
 [spectacle_shortcuts.upd]
-ctime=1587954057
+ctime=1590977123
 done=spectacle-migrate-shortcuts
-mtime=1587423823
+mtime=1589365264

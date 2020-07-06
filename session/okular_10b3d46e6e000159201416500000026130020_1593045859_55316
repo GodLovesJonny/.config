@@ -1,0 +1,13 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/下载/The Art of UNIX Programming.pdf,file:$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf,file:$HOME/Jonny/PWStudio/BookLibrary/Programming/Android/第一行代码 Android 第2版-郭霖.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true

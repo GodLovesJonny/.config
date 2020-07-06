@@ -1,0 +1,14 @@
+[1]
+ActiveTab=7
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/万古江河.pdf,file:$HOME/Jonny/Paper-Lib/Books/世界的苦难(布尔迪厄的社会调查上卷).pdf,file:$HOME/Jonny/Paper-Lib/Books/Machine Learning Yearning-Andrew Ng-2018.pdf,file:$HOME/下载/Language Models as Knowledge Bases.pdf,file:$HOME/Jonny/Temp-Storage/MathmaticalModeling/1/2020美赛LaTeX模板/MCM20200128/2016300 Time-based Sequential Model for Online Marketplace Product Sales.pdf,file:$HOME/Jonny/Paper-Lib/Books/黑客与画家 : 硅谷创业之父Paul Graham文集.pdf,file:$HOME/Jonny/Paper-Lib/Books/Linux Bible (Ninth Edition).pdf,file:$HOME/下载/1904.01557.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

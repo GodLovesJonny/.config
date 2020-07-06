@@ -1,5 +1,10 @@
 set -g -x RANGER_LOAD_DEFAULT_RC FALSE
 
+export PATH="$PATH:/home/godlovesjonny/Jonny/Installs/flutter/bin"
+export PUB_HOSTED_URL=https://pub.flutter-io.cn
+export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn
+export PATH="/home/godlovesjonny/Jonny/Installs/flutter/bin:$PATH"
+
 alias ra='ranger'
 alias cl='clear'
 alias ipy='ipython'

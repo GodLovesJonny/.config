@@ -1,10 +1,14 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Window-Maximized 1080x1920=true
+
 [Desktop Entry]
 FullScreen=false
 
 [MainWindow]
 Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPUAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
@@ -13,23 +17,23 @@ Window-Maximized 1080x1920=true
 ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/下载/_Merged_PDF.pdf
-File10[$e]=$HOME/下载/Language Models as Knowledge Bases.pdf
-File2[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
-File3[$e]=$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.pdf
-File4[$e]=$HOME/下载/IMGNet(1).pdf
-File5[$e]=$HOME/文档/态度观点类阅读题常见词汇.pdf
-File6[$e]=$HOME/下载/1.pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/Books/万古江河.pdf
-File8[$e]=$HOME/Jonny/Paper-Lib/Books/世界的苦难(布尔迪厄的社会调查上卷).pdf
-File9[$e]=$HOME/Jonny/Paper-Lib/Books/Machine Learning Yearning-Andrew Ng-2018.pdf
-Name1[$e]=_Merged_PDF.pdf
-Name10[$e]=Language Models as Knowledge Bases.pdf
-Name2[$e]=IMGNet.pdf
-Name3[$e]=v1.pdf
-Name4[$e]=IMGNet(1).pdf
-Name5[$e]=态度观点类阅读题常见词汇.pdf
-Name6[$e]=1.pdf
-Name7[$e]=万古江河.pdf
-Name8[$e]=世界的苦难(布尔迪厄的社会调查上卷).pdf
-Name9[$e]=Machine Learning Yearning-Andrew Ng-2018.pdf
+File1[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
+File10[$e]=$HOME/下载/Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK by Frank Zammetti (z-lib.org).pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/Books/终身成长.pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
+File4[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
+File5[$e]=$HOME/下载/IMGNet.pdf
+File6[$e]=$HOME/下载/1711.07971 Non-local Neural Networks.pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/Books/黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
+File8[$e]=$HOME/下载/暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf
+File9[$e]=$HOME/下载/明朝那些事儿(套装全7册) by 当年明月 (z-lib.org).epub.pdf
+Name1[$e]=1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
+Name10[$e]=Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK by Frank Zammetti (z-lib.org).pdf
+Name2[$e]=终身成长.pdf
+Name3[$e]=2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
+Name4[$e]=IMGNet.pdf
+Name5[$e]=IMGNet.pdf
+Name6[$e]=1711.07971 Non-local Neural Networks.pdf
+Name7[$e]=黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
+Name8[$e]=暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf
+Name9[$e]=明朝那些事儿(套装全7册) by 当年明月 (z-lib.org).epub.pdf

@@ -1,3 +1,6 @@
+[Applications][electron]
+Seen=true
+
 [Applications][firefox]
 Seen=true
 ShowPopups=false

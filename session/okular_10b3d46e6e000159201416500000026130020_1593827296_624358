@@ -1,0 +1,14 @@
+[1]
+ActiveTab=2
+Urls[$e]=file:$HOME/下载/The Art of UNIX Programming.pdf,file:$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf,file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf,file:$HOME/下载/IMGNet.pdf,file:$HOME/下载/2001.04193 Deep Learning for Person Re-identification: A Survey and Outlook.pdf,file:$HOME/Jonny/Paper-Lib/ReID/Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf,file:$HOME/下载/icmr2015_ym.pdf,file:$HOME/下载/eccv.pdf,file:$HOME/下载/1711.07971 Non-local Neural Networks.pdf,file:$HOME/下载/_Merged_PDF.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1907.08435 Interaction-and-Aggregation Network for Person Re-identification.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920
