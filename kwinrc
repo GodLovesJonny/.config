@@ -47,6 +47,24 @@ Top=None
 TopLeft=None
 TopRight=ShowDesktop
 
+[MouseBindings]
+CommandActiveTitlebar1=Raise
+CommandActiveTitlebar2=Nothing
+CommandActiveTitlebar3=Operations menu
+CommandAll1=Move
+CommandAll2=Toggle raise and lower
+CommandAll3=Resize
+CommandAllKey=Alt
+CommandAllWheel=Nothing
+CommandInactiveTitlebar1=Activate and raise
+CommandInactiveTitlebar2=Nothing
+CommandInactiveTitlebar3=Operations menu
+CommandTitlebarWheel=Change Opacity
+CommandWindow1=Activate, raise and pass click
+CommandWindow2=Activate and pass click
+CommandWindow3=Activate and pass click
+CommandWindowWheel=Scroll
+
 [NightColor]
 LatitudeAuto=45.5587
 LongitudeAuto=-122.609
@@ -54,13 +72,15 @@ NightTemperature=6500
 
 [Plugins]
 coverswitchEnabled=true
+cubeEnabled=true
 cubeslideEnabled=true
-desktopchangeosdEnabled=false
 flipswitchEnabled=true
 highlightwindowEnabled=true
 kwin4_effect_squashEnabled=false
 magiclampEnabled=true
+sheetEnabled=true
 slideEnabled=false
+windowgeometryEnabled=false
 wobblywindowsEnabled=true
 
 [Script-desktopchangeosd]
@@ -96,13 +116,35 @@ ShowTabBox=true
 SwitchingMode=0
 
 [Windows]
+ActiveMouseScreen=false
+AutoRaise=false
+AutoRaiseInterval=750
+BorderSnapZone=10
+CenterSnapZone=0
+ClickRaise=true
+DelayFocusInterval=300
 ElectricBorderCooldown=350
 ElectricBorderCornerRatio=0.25
 ElectricBorderDelay=150
 ElectricBorderMaximize=true
 ElectricBorderTiling=true
 ElectricBorders=0
+FocusPolicy=ClickToFocus
+FocusStealingPreventionLevel=1
+GeometryTip=false
+HideUtilityWindowsForInactive=true
+MaximizeButtonLeftClickCommand=Maximize
+MaximizeButtonMiddleClickCommand=Maximize (vertical only)
+MaximizeButtonRightClickCommand=Maximize (horizontal only)
+NextFocusPrefersMouse=false
+Placement=Smart
 RollOverDesktops=true
+SeparateScreenFocus=false
+ShadeHover=false
+ShadeHoverInterval=250
+SnapOnlyWhenOverlapping=false
+TitlebarDoubleClickCommand=Maximize
+WindowSnapZone=10
 
 [org.kde.kdecoration2]
 BorderSize=Normal
@@ -112,4 +154,4 @@ ButtonsOnRight=HSM
 CloseOnDoubleClickOnMenu=false
 ShowToolTips=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Breezemite
+theme=__aurorae__svg__Breezemite_dark

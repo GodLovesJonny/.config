@@ -1,7 +1,7 @@
 [ActionPlugins][0]
 MidButton;NoModifier=org.kde.paste
 RightButton;NoModifier=org.kde.contextmenu
-wheel:Vertical;NoModifier=switchwindow
+wheel:Vertical;NoModifier=org.kde.switchdesktop
 
 [ActionPlugins][0][RightButton;NoModifier]
 _add panel=true
@@ -154,7 +154,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][Applets][66][Configuration]
-PreloadWeight=24
+PreloadWeight=0
 
 [Containments][1][Applets][66][Configuration][Appearance]
 italicText=true
@@ -246,7 +246,7 @@ immutability=1
 plugin=org.kde.plasma.notes
 
 [Containments][67][Applets][71][Configuration]
-PreloadWeight=34
+PreloadWeight=0
 
 [Containments][67][Applets][71][Configuration][General]
 noteId=141c3195-e202-4e57-8d3e-8611675fef
@@ -260,7 +260,7 @@ PreloadWeight=0
 
 [Containments][67][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=750
+ToolBoxButtonX=768
 ToolBoxButtonY=28
 sortMode=-1
 
@@ -306,14 +306,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=12
+PreloadWeight=0
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=31
+PreloadWeight=0
 
 [Containments][8][Applets][41]
 immutability=1
@@ -349,7 +349,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=0
+PreloadWeight=3
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840
@@ -397,4 +397,4 @@ immutability=1
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/左右极限例题.png,0,desktop:/需要分左右极限的主要三种问题.png,0
+screenMapping=desktop:/左右极限例题.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200129192316.png,0

@@ -11,29 +11,20 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
-Window-Maximized 1080x1920=true
 
 [Notification Messages]
 ShowTabWarning=true
 
 [Recent Files]
 File1[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
-File10[$e]=$HOME/下载/Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK by Frank Zammetti (z-lib.org).pdf
-File2[$e]=$HOME/Jonny/Paper-Lib/Books/终身成长.pdf
-File3[$e]=$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
-File4[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
-File5[$e]=$HOME/下载/IMGNet.pdf
-File6[$e]=$HOME/下载/1711.07971 Non-local Neural Networks.pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/Books/黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
-File8[$e]=$HOME/下载/暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf
-File9[$e]=$HOME/下载/明朝那些事儿(套装全7册) by 当年明月 (z-lib.org).epub.pdf
+File2[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/Books/黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
+File4[$e]=$HOME/Jonny/Paper-Lib/Books/终身成长.pdf
+File5[$e]=$HOME/Jonny/Paper-Lib/Theory/2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
+File6[$e]=$HOME/Jonny/Paper-Lib/Books/暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf
 Name1[$e]=1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
-Name10[$e]=Practical Flutter Improve your Mobile Development with Google’s Latest Open-Source SDK by Frank Zammetti (z-lib.org).pdf
-Name2[$e]=终身成长.pdf
-Name3[$e]=2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
-Name4[$e]=IMGNet.pdf
-Name5[$e]=IMGNet.pdf
-Name6[$e]=1711.07971 Non-local Neural Networks.pdf
-Name7[$e]=黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
-Name8[$e]=暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf
-Name9[$e]=明朝那些事儿(套装全7册) by 当年明月 (z-lib.org).epub.pdf
+Name2[$e]=IMGNet.pdf
+Name3[$e]=黑客与画家 : 硅谷创业之父Paul Graham文集.pdf
+Name4[$e]=终身成长.pdf
+Name5[$e]=2004.13379 Revisiting Multi-Task Learning in the Deep Learning Era.pdf
+Name6[$e]=暗网 by 杰米·巴特利特 Jamie Bartlett (z-lib.org).epub.pdf

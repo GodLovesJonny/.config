@@ -57,6 +57,8 @@ _k_friendly_name=ksmserver
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,激活请求注意的窗口
+Cube=Ctrl+F11,Ctrl+F11,桌面立方
+Cylinder=none,none,桌面圆柱
 Decrease Opacity=none,none,降低活动窗口不透明度 5 %
 Expose=Ctrl+F9,Ctrl+F9,切换显示窗口(对当前桌面)
 ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),切换显示窗口(对全部桌面)
@@ -75,6 +77,7 @@ MoveZoomUp=none,none,将缩放区域向上移动
 Setup Window Shortcut=none,none,设置窗口快捷键
 Show Desktop=Meta+D,Meta+D,显示桌面
 ShowDesktopGrid=Ctrl+F8,Ctrl+F8,显示桌面网格
+Sphere=none,none,桌面球体
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,挂起混成器
 Switch One Desktop Down=none,Meta+Ctrl+Down,切换到下面的桌面
 Switch One Desktop Up=none,Meta+Ctrl+Up,切换到上面的桌面

@@ -1,15 +1,3 @@
-2020/06/29-08:55:48.031 f7f Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/06/29-08:55:48.032 f7f Recovering log #80
-2020/06/29-08:55:48.035 f7f Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000080.log 
-2020/06/29-10:04:09.779 1507 Level-0 table #84: started
-2020/06/29-10:04:09.782 1507 Level-0 table #84: 112499 bytes OK
-2020/06/29-10:04:09.783 1507 Delete type=0 #80
-2020/06/29-10:04:09.783 1507 Compacting 4@0 + 1@1 files
-2020/06/29-10:04:09.787 1507 Generated table #85@0: 388 keys, 26593 bytes
-2020/06/29-10:04:09.787 1507 Compacted 4@0 + 1@1 files => 26593 bytes
-2020/06/29-10:04:09.787 1507 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/06/29-10:04:09.788 1507 Delete type=2 #81
-2020/06/29-10:04:09.788 1507 Delete type=2 #84
-2020/06/29-10:04:09.788 1507 Delete type=2 #74
-2020/06/29-10:04:09.788 1507 Delete type=2 #78
-2020/06/29-10:04:09.788 1507 Delete type=2 #76
+2020/07/06-16:11:48.280 1e29 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/07/06-16:11:48.280 1e29 Recovering log #83
+2020/07/06-16:11:48.280 1e29 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000083.log 
