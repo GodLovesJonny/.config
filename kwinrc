@@ -76,10 +76,14 @@ cubeEnabled=true
 cubeslideEnabled=true
 flipswitchEnabled=true
 highlightwindowEnabled=true
+kwin-script-tilingEnabled=false
 kwin4_effect_squashEnabled=false
 magiclampEnabled=true
+minimizeallEnabled=false
 sheetEnabled=true
 slideEnabled=false
+synchronizeskipswitcherEnabled=false
+videowallEnabled=false
 windowgeometryEnabled=false
 wobblywindowsEnabled=true
 

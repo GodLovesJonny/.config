@@ -5,29 +5,21 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 JPEGQuality=10612
 
 [MainWindow]
-Height 1080=1027
+Height 1080=1022
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=952
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/starryshd.jpg
-File2[$e]=$HOME/.local/share/wallpapers/HD KDE Plasma Nebula 369 NO LOGO.png
-File3[$e]=$HOME/.local/share/wallpapers/Ice.jpg
-File4[$e]=$HOME/.local/share/wallpapers/KDE Plasma Scenery 197 HD No Logo.png
-File5[$e]=$HOME/.local/share/wallpapers/HD KDE Plasma Scenery 65 NO LOGO.png
-File6[$e]=$HOME/.local/share/wallpapers/slides/the_basta_rock_sunrise_4k.jpg
-File7[$e]=$HOME/.local/share/wallpapers/slides/The Night Sky.jpg
-File8[$e]=$HOME/下载/i1qum4cwye951.jpg
-Name1[$e]=starryshd.jpg
-Name2[$e]=HD KDE Plasma Nebula 369 NO LOGO.png
-Name3[$e]=Ice.jpg
-Name4[$e]=KDE Plasma Scenery 197 HD No Logo.png
-Name5[$e]=HD KDE Plasma Scenery 65 NO LOGO.png
-Name6[$e]=the_basta_rock_sunrise_4k.jpg
-Name7[$e]=The Night Sky.jpg
-Name8[$e]=i1qum4cwye951.jpg
+File1[$e]=/usr/share/ksplash/Themes/Minimalistic/images/kdegear.png
+File2[$e]=$HOME/.local/share/wallpapers/slides/mount_fuji_panorama_5k.jpg
+File3[$e]=$HOME/图片/021_副本.jpg
+File4[$e]=$HOME/.local/share/wallpapers/slides/Sunset in Alaska.jpg
+Name1[$e]=kdegear.png
+Name2[$e]=mount_fuji_panorama_5k.jpg
+Name3[$e]=021_副本.jpg
+Name4[$e]=Sunset in Alaska.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,1675

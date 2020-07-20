@@ -1,3 +1,15 @@
-2020/07/06-16:18:18.228 1f41 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/07/06-16:18:18.228 1f41 Recovering log #96
-2020/07/06-16:18:18.228 1f41 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000096.log 
+2020/07/20-12:41:58.351 cc6 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/07/20-12:41:58.351 cc6 Recovering log #96
+2020/07/20-12:41:58.352 cc6 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000096.log 
+2020/07/20-13:24:13.815 1197 Level-0 table #100: started
+2020/07/20-13:24:13.816 1197 Level-0 table #100: 20587 bytes OK
+2020/07/20-13:24:13.818 1197 Delete type=0 #96
+2020/07/20-13:24:13.818 1197 Compacting 4@0 + 1@1 files
+2020/07/20-13:24:13.824 1197 Generated table #101@0: 1564 keys, 31934 bytes
+2020/07/20-13:24:13.824 1197 Compacted 4@0 + 1@1 files => 31934 bytes
+2020/07/20-13:24:13.825 1197 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/07/20-13:24:13.825 1197 Delete type=2 #90
+2020/07/20-13:24:13.825 1197 Delete type=2 #100
+2020/07/20-13:24:13.825 1197 Delete type=2 #92
+2020/07/20-13:24:13.825 1197 Delete type=2 #97
+2020/07/20-13:24:13.825 1197 Delete type=2 #95

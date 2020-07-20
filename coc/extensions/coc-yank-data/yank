@@ -1239,3 +1239,185 @@ d52e14ffb22bd2789e2d87b9bf99056c|file:///home/godlovesjonny/Jonny/Hugo-pages/jon
 	  The best way to reach me is to send me an email.
 af432e1587d6544310f7bd1626fd3ee1|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|123|40|v|html
 	GodLovesJonny
+ed3eb75329d8f37114ab78db39eb20cb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Mask-Wearing.md|4|1|V|markdown
+	categories: ["Alchemy Of CV"]
+b326b5062b2f0e69046810717534cb09|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Car-Plate.md|6|8|v|markdown
+	true
+d66ce975ffc61dfd1a81fd3d6484a15c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Car-Plate.md|2|9|v|markdown
+	Car 
+bc9a8055ff921d3d9c876ff6eb02fddb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Car-Plate.md|2|9|v|markdown
+	Plate
+68934a3e9455fa72420237eb05902327|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Car-Plate.md|6|8|v|markdown
+	false
+3de72ca5fc1e1d9b81e0b6b7ae108d8d|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Eng-KY1.md|4|15|v|markdown
+	English 
+3398fe65ad1c1a74cbec4002d21698f5|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL30.md|4|1|V|markdown
+	categories: ["Better Life With Linux"]
+ff2364a0be3d20e46cc69efb36afe9a5|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL31.md|36|4|v|markdown
+	space
+23be5da22193ca74d2bf7c6a5322a0a6|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/kali1.md|2|9|v|markdown
+	Kali1
+3f350cfb81faed6f2a8d506930d6a8e9|file:///home/godlovesjonny/Jonny/Penetration-Testing/kali/%E8%AF%BE%E6%97%B61%20Kali%20Linux%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%BB%8B%E7%BB%8D.txt|1|9|v|text
+	Kali Linux渗透测试介绍 
+f7e4a38a92186fbdfed3d8d16b6fcf82|file:///home/godlovesjonny/Jonny/Penetration-Testing/kali/%E8%AF%BE%E6%97%B61%20Kali%20Linux%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95%E4%BB%8B%E7%BB%8D.txt|2|1|V|text
+	    安全问题的根源
+	        优点：分工明确，工作效率高。
+	        缺点：从业人员对系统没有整体的认识，对安全认识较为片面。
+	        最大威胁是人，人都会犯错，安全问题不能100%绝对根除。
+	   安全目标
+	        先于攻击者发现和防止漏洞出现
+	        攻击型：以攻击者的思维发现漏洞、攻击系统。
+	        防护型:投入巨大，会有遗漏，不够全面，收效不高。
+	    渗透测试
+	        尝试破解系统防御机制，发现系统弱点
+	        从攻击者的角度思考，测量安全防护的有效性
+	        证明问题存在，而不是破坏
+	        道德约束、法律
+	        不局限于一台机器出现的问题，而着眼漏洞对整个系统的影响与危害
+	    渗透测试标准
+	        PETS (http://www.pentest-standard.org)
+	        前期交互（客户沟通，确定渗透测试范围，对应用系统渗透任务划分，包括支撑整个系统的各种软件组件）
+	        情报收集（收集目标系统信息，被动收集与主动探测）
+	        威胁建模（根据收集到的信息，确定最有效，最有可能成功的攻击途径）
+	        漏洞分析（通过系统软件版本分析，系统应用漏洞分析写出漏洞利用代码）
+	        渗透攻击阶段（并不像想象中那么顺利，目标系统有防护系统）
+	        后渗透测试阶段（以一台被渗透机器为跳板，进一步渗透整个系统）
+	        渗透测试报告（向客户和其他同事证明系统可以被控制，描述发现、利用过程，以及如何解决）
+	    渗透测试项目
+	        测试范围（整个应用系统）
+	        客户授权（允许攻击还是只是渗透都取决于客户的授权）
+	        渗透测试方法
+	        是否允许社会工程学攻击
+	        是否允许DOS攻击
+	    渗透测试误区
+	        扫描器就是一切（不能忽略业务逻辑的漏洞。自动化技术扫描工具有他的适用范围，对业务逻辑的漏洞也是无能为力。扫描器是辅助工具）
+	    KALI
+	        字面意思“黑色”，音译“咖利”，印度神话中最为黑暗和暴虐的黑色地母。
+	        Kali Linux中的Kali用意估计取自“黑色”的意思。
+	    Kali Linux
+	        基于Debian的发行版本，在其基础上添加了许多信息安全工具，用于渗透测试和安全审计
+	        所有Linux发行版本都遵循的FHS标准目录结构（BT pentest目录中工具分类困难，工具难以更新）
+	        定制内核（主要解决无线渗透测试出现各种错误的问题）
+	        支持ARM、手机平台（NetHunter）
+	        Open Source Free-Offensive Security
+	    Kali Linux策略
+	
+	    Root用户策略（不同于普通Linux系统小心翼翼的使用方式）
+	    网络服务策略（默认关闭所有网络服务，自启动脚本默认关闭）
+	    更新升级策略（Debian + KALI官方）
+	
+	实践是最好的老师，Kali很强大，但不是全部。这只是关于渗透测试的起点。
+774e30c27de979004e237b9d45283a25|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/kali1.md|29|1|V|markdown
+	    前期交互（客户沟通，确定渗透测试范围，对应用系统渗透任务划分，包括支撑整个系统的各种软件组件）
+da2ae5f84fd1c5303f87c02707e63051|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/kali1.md|35|1|V|markdown
+	    渗透测试报告（向客户和其他同事证明系统可以被控制，描述发现、利用过程，以及如何解决）
+547b03cf990eb19080c8110356b0ee07|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/kali1.md|4|1|V|markdown
+	categories: ["White Hat Struggling"]
+	tags: ["kali", "linux", "white hat", "penetration testing", "notes"]
+79e5da3801f7a4bccd46e91b258ad5fd|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/kali2.md|2|9|v|markdown
+	Kali2
+32056b6c30b6bf893b7168bb5c5b479f|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/CaseFile.md|1|1|V|markdown
+	---
+	title: CaseFile
+	categories: Information Gathering
+	tags: [information gathering,casefile,recon,kali linux,reporting]
+	date: 2016-10-19 07:54:25
+	---
+c641b886168d8453ace77d0fadf7ffd9|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/SET.md|2|8|v|markdown
+	CaseFile
+bcd8b0d7362d24d1c0c711d3cc7a6da5|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/SET.md|4|30|v|markdown
+	casefile
+c576a841fd4f333a6f074d68e76a1d37|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/SET.md|4|51|v|markdown
+	reporting
+1a1bc75936666095fffebc6b8db9281c|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/SET.md|4|33|v|markdown
+	recon
+c017a3d781b1ea9f93ba03abbd7e014f|file:///home/godlovesjonny/intro.md|1|1|V|markdown
+	Hello, my name is Wang Zijie and I'm from Suzhou. I currently stuty at Nanjing Tech University and i'm majoring in Computer Science And Technology.
+602cecfd70d854eab97478a9fb0baff7|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL12.md|4|1|V|markdown
+	categories: ["Better Life With Linux"]
+	tags: ["Manjaro", "Linux"]
+3b58159e54ab8effd7b41559a7e273cf|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL31.md|5|9|v|markdown
+	Manjaro
+93cb0903454d7f88acb4bf812cf415b3|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL31.md|16|5|V|markdown
+	    jsaf
+01a35d0312f5b5c596dd373e6568a453|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL31.md|15|1|V|markdown
+	$ > git remote -v
+d4465c9f687675bacbdfc2ef172ba6dd|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|17|1|V|markdown
+	There are numerous [Vim resources available online][3]. We have covered some Vim tricks on It’s FOSS as well. Apart from online resources, plenty of books have been dedicated to this editor as well. Today, we will look at one of such book that is designed to make Vim easy for most users to understand. The book we will be discussing is [A Byte of Vim][4] by [Swaroop C H][5].
+bfa089c58b9aef30c600515d6f170d6b|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|19|1|V|markdown
+	The author [Swaroop C H][6] has worked in computing for over a decade. He previously worked at Yahoo and Adobe. Out of college, he made money by selling Linux CDs. He started a number of businesses, including an iPod charger named ion. He is currently an engineering manager for the AI team at [Helpshift][7].
+051c454129b291b98c93f9d2e8dc554b|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|25|1|V|markdown
+	Like all good books, A Byte of Vim starts by talking about what Vim is: “a computer program used for writing any kind of text”. He does on to say, “What makes Vim special is that it is one of those few software which is both simple and powerful.”
+b71c98834caa8ce7f868857e082baa25|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|27|1|V|markdown
+	Before diving into telling how to use Vim, Swaroop tells the reader how to install Vim for Windows, Mac, Linux, and BSD. Once the installation is complete, he runs you through how to launch Vim and how to create your first file.
+8fd986d02742e82b6ad2c91572affb69|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|29|1|V|markdown
+	Next, Swaroop discusses the different modes of Vim and how to navigate around your document using Vim’s keyboard shortcuts. This is followed by the basics of editing a document with Vim, including the Vim version of cut/copy/paste and undo/redo.
+8e6bf5f10d3f2f7ee725f0371e5b2f74|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|31|1|V|markdown
+	Once the editing basics are covered, Swaroop talks about using Vim to edit multiple parts of a single document. You can also multiple tabs and windows to edit multiple documents at the same time.
+abef6c1ee75c7d83abfa9e6d352e3d90|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|37|1|V|markdown
+	The book also covers extending the functionality of Vim through scripting and installing plugins. There are two ways to using scripts in Vim, use Vim’s built-in scripting language or using a programming language like Python or Perl to access Vim’s internals. There are five types of Vim plugins that can be written or downloaded: vimrc, global plugin, filetype plugin, syntax highlighting plugin, and compiler plugin.
+0686d3f6e7fe57d7dbc3a8e0330619ce|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|39|1|V|markdown
+	In a separate section, Swaroop C H covers the features of Vim that make it good for programming. These features include syntax highlighting, smart indentation, support for shell commands, omnicompletion, and the ability to be used as an IDE.
+26e238145d539e6a0a9b35b5e803b19d|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|41|1|V|markdown
+	#### Getting the ‘A Byte of Vim’ book and contributing to it
+64f26ed2c7d080365f7280e24ada4389|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|43|1|V|markdown
+	A Byte of Book is licensed under [Creative Commons 4.0][10]. You can read an online version of the book for free on [the author’s website][4]. You can also download a [PDF][11], [Epub][12], or [Mobi][13] for free.
+05df8646c0fed2b9371e75239d5c49f6|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|47|1|V|markdown
+	If you prefer reading a [hard copy][14], you have that option, as well.
+69cc28a36c391a84b256f4459f135859|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|49|1|V|markdown
+	Please note that the _**original version of A Byte of Vim was written in 2008**_ and converted to PDf. Unfortunately, Swaroop C H lost the original source files and he is working to convert the book to [Markdown][15]. If you would like to help, please visit the [book’s GitHub page][16].
+bbf0ddb3d4e4e596e6bdd69ccb084f8c|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|50|76|v|markdown
+	Price               
+eea7f5d71266df0761eb40032fd578d5|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|52|62|v|markdown
+	$34.00[][19] | 
+f03bb7b55d569f63fd270bee22d9cbc3|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|50|3|v|markdown
+	Preview                                                  
+6f8b794f3246b0c1e1780bb4d4d5dc53|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|54|6|v|markdown
+	Conclusion
+878a89f8f906d360b5d9a073e5dcb054|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|58|1|V|markdown
+	When I first stared into the angry maw that is Vim, I did not have a clue what to do. I wish that I had known about A Byte of Vim then. This book is a good resource for anyone learning about Linux, especially if you are getting into the command line.
+5a4697b88c30c2894d06f69862aee127|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|58|165|v|markdown
+	在下面的评论中让我们知道。
+4c1cf8b5a0c8cc4cc8fdedcea35590b9|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|60|1|V|markdown
+	Have you read [A Byte of Vim][4] by Swaroop C H? If yes, how do you find it? If not, what is your favorite book on an open source topic? Let us know in the comments below.
+bc24378627e3fdd9ae3652e9cd631428|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|62|1|v|markdown
+	Suggested 
+fec8b4f6b2b5b19911dc721674e52a6f|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|62|1|v|markdown
+	read  
+7f7b0d9f1ddfe4e946a8f874df9e69fa|file:///home/godlovesjonny/Jonny/Linux-cn-Translation/20190624.md|65|1|V|markdown
+	If you found this article interesting, please take a minute to share it on social media, Hacker News or [Reddit][22].
+91dbe94ff12d585b1247a95507416842|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/iSMTP.md|2|8|v|markdown
+	iSMTP
+787c75233b93aa5e45c3f85d130bfbe7|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/iSMTP.md|4|8|v|markdown
+	smtp
+50b6416c50a7d3793e6172a8514a0576|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/iSMTP.md|4|8|v|markdown
+	sniffing
+abb7e14c7ed09771168643a17c41864d|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/iSMTP.md|4|8|v|markdown
+	spoofing
+c64518704ce0c0d5501a45763f464276|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|28|1|v|markdown
+	Usage
+dae8ace18bdcbcc6ae5aece263e14fe8|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|30|1|v|markdown
+	Options
+6cf06d2a229c97bdf07ad1451f7be6f2|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|33|35|v|markdown
+	Log all SSL traffic to and from server.
+08fec594c4be443ecef54ff2c89d291c|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|34|35|v|markdown
+	Log all SSL and HTTP traffic to and from server.
+b362a9cd4c97466ce5ebb42a35ffbe8d|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|35|35|v|markdown
+	Port 
+f1d0cb4fa84be5f62996a3e80ace6581|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|35|35|v|markdown
+	listen 
+573e07c34b4049b1f1b38f366455543a|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|36|35|v|markdown
+	Substitute a lock favicon on secure requests.
+c3a6a19cab1f85dc75aba6558f802884|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|37|35|v|markdown
+	Kill sessions in progress.
+e800af7ac2b51b12f86fe2084c596b98|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/sslstrip.md|38|35|v|markdown
+	Print this help message.
+6abcb0792436a4d01795f8f333b57548|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/list.md|12|52|v|markdown
+	slstrip
+dbdd43b8393fc0114ff522a699c90e69|file:///home/godlovesjonny/Jonny/Penetration-Testing/kalitools/Information%20Gathering/list.md|12|51|v|markdown
+	sslstrip
+577d444225e397bc7f8988898d5b60ee|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/public/404.html|133|1|V|html
+	  var emojiArray = [
+	    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
+	    '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/',
+	  ];

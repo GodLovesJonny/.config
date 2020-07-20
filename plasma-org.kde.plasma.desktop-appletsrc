@@ -154,7 +154,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][1][Applets][66][Configuration]
-PreloadWeight=0
+PreloadWeight=2
 
 [Containments][1][Applets][66][Configuration][Appearance]
 italicText=true
@@ -182,7 +182,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -267,7 +267,7 @@ sortMode=-1
 [Containments][67][Wallpaper][com.github.zren.inactiveblur][General]
 BlurRadius=15
 FillMode=2
-SlideInterval=43200
+SlideInterval=3600
 SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
 Slideshow=true
 
@@ -285,14 +285,14 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][8][Applets][36][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][37]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][37][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][8][Applets][38]
 immutability=1
@@ -306,14 +306,14 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][8][Applets][41]
 immutability=1
@@ -338,7 +338,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][43][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][43][Configuration][ConfigDialog]
 DialogHeight=840
@@ -349,7 +349,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=3
+PreloadWeight=10
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840
@@ -360,7 +360,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][45][Configuration]
-PreloadWeight=0
+PreloadWeight=10
 
 [Containments][8][Applets][48]
 immutability=1
@@ -397,4 +397,4 @@ immutability=1
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/左右极限例题.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200129192316.png,0
+screenMapping=desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/左右极限例题.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200131212059.png,0
