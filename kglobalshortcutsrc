@@ -5,7 +5,7 @@ switch-to-activity-a85fbee8-8fa6-4145-bdff-c602ef4eb125=none,none,切换到活�
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to 汉语=none,none,切换到键盘布局 汉语
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,切换到下一个键盘布局
-_k_friendly_name=KDE Daemon
+_k_friendly_name=Keyboard Layout Switcher
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,切换屏幕阅读器开关
@@ -15,7 +15,7 @@ _k_friendly_name=辅助功能
 Disable Touchpad=Touchpad Off,Touchpad Off,禁用触摸板
 Enable Touchpad=Touchpad On,Touchpad On,启用触摸板
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,切换触摸板
-_k_friendly_name=KDE Daemon
+_k_friendly_name=Touchpad
 
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,显示系统活动
@@ -53,7 +53,7 @@ Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,锁
 Log Out=Ctrl+Alt+Del,none,注销
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,注销前不确认
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,重启前不确认
-_k_friendly_name=ksmserver
+_k_friendly_name=会话管理
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,激活请求注意的窗口
@@ -323,6 +323,7 @@ Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,降�
 Hibernate=Hibernate,Hibernate,休眠
 Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,提高键盘亮度
 Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,提高屏幕亮度
+PowerDown=Power Down,Power Down,断电
 PowerOff=Power Off,Power Off,关机
 Sleep=Sleep,Sleep,挂起
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,切换键盘背光
@@ -359,6 +360,10 @@ stop current activity=Meta+S,Meta+S,停止当前活动
 switch to next activity=none,none,切换到下一个活动
 switch to previous activity=none,none,切换到上一个活动
 toggle do not disturb=none,none,切换勿扰模式
+
+[systemsettings.desktop]
+_k_friendly_name=系统设置
+_launch=Tools,Tools,系统设置
 
 [yakuake]
 _k_friendly_name=Yakuake

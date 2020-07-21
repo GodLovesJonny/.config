@@ -1,4 +1,16 @@
 {
+   "++/Yzw4MrwAnm0OVJ6SzyMWyNsAqsMzjjJuhFyL0Y2M=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1595858928.620612,
+         "expect_ct_observed": 1595254128.620612,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
+   },
    "+Xb5WzFXj+PycyOsB25QiqQ4bdZfxvr3Akb6fiSBCTk=": {
       "expiry": 1624933425.142163,
       "mode": "force-https",
@@ -54,16 +66,28 @@
       "sts_observed": 1592639250.001989
    },
    "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
-      "expiry": 1626764978.894694,
+      "expiry": 1626790336.527407,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1595228978.894697
+      "sts_observed": 1595254336.527409
    },
    "4AGT3lHihuMSd5rUj7B4u6At0jlSH3HFePovjPR+oLE=": {
-      "expiry": 1626782106.915475,
+      "expiry": 1626790343.954424,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1595246106.915478
+      "sts_observed": 1595254343.954427
+   },
+   "4WYjSq6yN66ouq8vdSm5l9XOE7bk5U4esZevaGj66AM=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1595858888.230025,
+         "expect_ct_observed": 1595254088.230025,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 0.0,
+      "mode": "default",
+      "sts_include_subdomains": false,
+      "sts_observed": 0.0
    },
    "4d0/OgFPnn5NBA0O4pSgtUWqHClJ2mw0PHQCqossBvc=": {
       "expiry": 1624932554.14341,
@@ -72,10 +96,10 @@
       "sts_observed": 1593396554.143411
    },
    "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
-      "expiry": 1626758621.97851,
+      "expiry": 1626790328.232962,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1595222621.978512
+      "sts_observed": 1595254328.232965
    },
    "5VVlkyWvOxbznPAxrCgKCOgchQvMlZ5KB+9ve+6kYjQ=": {
       "expiry": 1595934514.530576,
@@ -96,10 +120,10 @@
       "sts_observed": 1593396497.417005
    },
    "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
-      "expiry": 1626756119.474121,
+      "expiry": 1626790337.018433,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1595220119.474122
+      "sts_observed": 1595254337.018435
    },
    "8XK1htfCAKU8W+ScoYT97odeKwcgr5o5uavmCheg3qM=": {
       "expiry": 1595309065.12491,
@@ -162,10 +186,16 @@
       "sts_observed": 0.0
    },
    "E10e7Gwg5+phsYD4E8qNYFsQySXnIHPAfo4zloUPESc=": {
-      "expiry": 1607056305.070195,
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1595858942.779782,
+         "expect_ct_observed": 1595254142.779782,
+         "expect_ct_report_uri": "https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+      },
+      "expiry": 1611034142.779749,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1591276305.070197
+      "sts_observed": 1595254142.779757
    },
    "ElbSyiBNhZ85/7YYK716wvtFURyphfdb58929q8ux04=": {
       "expiry": 1624098545.745839,
@@ -558,10 +588,10 @@
       "sts_observed": 1585046812.923363
    },
    "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
-      "expiry": 1626756200.317888,
+      "expiry": 1626790147.088165,
       "mode": "force-https",
       "sts_include_subdomains": false,
-      "sts_observed": 1595220200.317891
+      "sts_observed": 1595254147.088169
    },
    "onThyitpg41suTLrBFfPhkH18sRdE1aAt49bv6uxkmA=": {
       "expiry": 1605928339.076258,
@@ -654,9 +684,9 @@
       "sts_observed": 1583591775.135446
    },
    "tcepaJGt5hpgXatg5Se30XoXbw9x0dctR1xQuk0sgh0=": {
-      "expiry": 1606115378.973672,
+      "expiry": 1606140736.615411,
       "mode": "force-https",
       "sts_include_subdomains": true,
-      "sts_observed": 1595228978.973675
+      "sts_observed": 1595254336.615414
    }
 }
