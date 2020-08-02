@@ -6,7 +6,7 @@ ViewPropsTimestamp=2019,11,2,17,5,53
 PreviewSize=96
 
 [KPropertiesDialog]
-Height 1080=700
+Height 1080=557
 Width 1920=558
 
 [MainWindow]
@@ -20,6 +20,3 @@ Window-Maximized 1080x1920=true
 [Open-with settings]
 CompletionMode=1
 History=
-
-[Search]
-Location=Everywhere

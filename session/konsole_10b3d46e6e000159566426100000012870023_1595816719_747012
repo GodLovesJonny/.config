@@ -1,0 +1,22 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/配置方案 1.profile
+RemoteTab=(%u) %H
+SessionGuid={0f08fc3e-555d-413e-ad4e-a35690c9520a}
+WorkingDir[$e]=$HOME/Jonny/Open-Source/Linux-cn-Translation
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+Height 1080=1027
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAAA
+Width 1920=1920

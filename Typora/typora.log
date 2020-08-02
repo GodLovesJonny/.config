@@ -167,3 +167,91 @@ INFO 2020/2/19 下午8:39:30  [blur] 1
 INFO 2020/2/19 下午8:39:33  [focus] 1
 INFO 2020/2/19 下午8:39:35  ----------------before-quit-----------------
 INFO 2020/2/19 下午8:39:35  ------------------will-quit------------------
+INFO 2020/7/22 上午10:51:16  luanchFromDiffVersion, pre version is 0.9.83
+INFO 2020/7/22 上午10:51:16  overwriteThemeFolder
+INFO 2020/7/22 上午10:51:16  ------------------start------------------
+INFO 2020/7/22 上午10:51:16  typora version: 0.9.92
+DEBUG 2020/7/22 上午10:51:16  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md'
+]
+DEBUG 2020/7/22 上午10:51:16  app.openFile
+INFO 2020/7/22 上午10:51:16  addRecentDocument
+INFO 2020/7/22 上午10:51:16  [Raven] instanceKey = fb92f682-36b7-4976-a4e1-7c00c0244345
+INFO 2020/7/22 上午10:51:16  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/7/22 上午10:51:16  [focus] 1
+INFO 2020/7/22 上午10:51:23  [blur] 1
+INFO 2020/7/22 上午10:51:26  [focus] 1
+INFO 2020/7/22 上午10:51:29  [blur] 1
+INFO 2020/7/22 上午10:52:46  [focus] 1
+INFO 2020/7/22 上午10:52:46  [blur] 1
+INFO 2020/7/22 上午10:52:46  [focus] 1
+INFO 2020/7/22 上午10:52:49  ----------------before-quit-----------------
+INFO 2020/7/22 上午10:52:49  ------------------will-quit------------------
+INFO 2020/7/22 下午8:53:45  ------------------start------------------
+INFO 2020/7/22 下午8:53:45  typora version: 0.9.92
+DEBUG 2020/7/22 下午8:53:45  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md'
+]
+DEBUG 2020/7/22 下午8:53:45  app.openFile
+INFO 2020/7/22 下午8:53:45  addRecentDocument
+INFO 2020/7/22 下午8:53:45  [Raven] instanceKey = 5bcb63a7-3af8-408e-a810-edb14a397d3b
+INFO 2020/7/22 下午8:53:45  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/7/22 下午8:53:45  [focus] 1
+INFO 2020/7/22 下午8:53:50  [blur] 1
+INFO 2020/7/22 下午8:53:54  [focus] 1
+INFO 2020/7/22 下午8:53:57  [blur] 1
+INFO 2020/7/22 下午8:54:34  [focus] 1
+INFO 2020/7/22 下午8:54:37  ----------------before-quit-----------------
+INFO 2020/7/22 下午8:54:37  ------------------will-quit------------------
+INFO 2020/7/23 下午9:31:18  ------------------start------------------
+INFO 2020/7/23 下午9:31:18  typora version: 0.9.92
+DEBUG 2020/7/23 下午9:31:18  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md'
+]
+DEBUG 2020/7/23 下午9:31:18  app.openFile
+INFO 2020/7/23 下午9:31:18  addRecentDocument
+INFO 2020/7/23 下午9:31:18  [Raven] instanceKey = 747efebd-d0a2-4789-91bc-26976d655a32
+INFO 2020/7/23 下午9:31:18  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/7/23 下午9:31:18  [focus] 1
+INFO 2020/7/23 下午9:31:21  [blur] 1
+INFO 2020/7/23 下午9:31:25  [focus] 1
+INFO 2020/7/23 下午9:31:26  ----------------before-quit-----------------
+INFO 2020/7/23 下午9:31:26  ------------------will-quit------------------
+INFO 2020/7/26 上午10:37:23  ------------------start------------------
+INFO 2020/7/26 上午10:37:23  typora version: 0.9.92
+DEBUG 2020/7/26 上午10:37:23  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md'
+]
+DEBUG 2020/7/26 上午10:37:23  app.openFile
+INFO 2020/7/26 上午10:37:23  addRecentDocument
+INFO 2020/7/26 上午10:37:23  [Raven] instanceKey = 54795609-2e2b-4035-947f-b37cc01b9d2f
+INFO 2020/7/26 上午10:37:23  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/7/26 上午10:37:23  [focus] 1
+INFO 2020/7/26 上午10:37:30  [blur] 1
+INFO 2020/7/26 上午10:37:35  [focus] 1
+INFO 2020/7/26 上午10:37:37  [blur] 1
+INFO 2020/7/26 下午2:17:19  [focus] 1
+INFO 2020/7/26 下午2:18:03  ----------------before-quit-----------------
+INFO 2020/7/26 下午2:18:03  ------------------will-quit------------------
+INFO 2020/7/28 上午11:41:05  ------------------start------------------
+INFO 2020/7/28 上午11:41:05  typora version: 0.9.92
+DEBUG 2020/7/28 上午11:41:05  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md'
+]
+DEBUG 2020/7/28 上午11:41:05  app.openFile
+INFO 2020/7/28 上午11:41:05  addRecentDocument
+INFO 2020/7/28 上午11:41:05  [Raven] instanceKey = dacadbc9-4b5a-4788-9d4f-8e639bc156ee
+INFO 2020/7/28 上午11:41:05  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/7/28 上午11:41:05  [focus] 1
+INFO 2020/7/28 上午11:41:09  [blur] 1
+INFO 2020/7/28 上午11:41:13  [focus] 1
+INFO 2020/7/28 上午11:41:15  [blur] 1
+INFO 2020/7/28 上午11:41:49  [focus] 1
+INFO 2020/7/28 上午11:41:49  [blur] 1
+INFO 2020/7/28 上午11:41:50  ----------------before-quit-----------------
+INFO 2020/7/28 上午11:41:50  ------------------will-quit------------------

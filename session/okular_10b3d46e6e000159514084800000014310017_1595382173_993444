@@ -1,0 +1,14 @@
+[1]
+ActiveTab=6
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/ReID/1907.08435 Interaction-and-Aggregation Network for Person Re-identification.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1908.04915 HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf,file:$HOME/Jonny/Paper-Lib/ReID/1908.10534 Adversarial Representation Learning for Text-to-Image Matching.pdf,file:$HOME/Jonny/Latexs/spie-journal-papers-latex-minor/IMGNet.pdf,file:$HOME/下载/2001.04193 Deep Learning for Person Re-identification: A Survey and Outlook.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+Height 1080=1027
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Width 1920=1920

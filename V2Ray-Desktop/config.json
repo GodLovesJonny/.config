@@ -1,0 +1,123 @@
+{
+    "autoStart": true,
+    "defaultSysProxyProtocol": "socks",
+    "dns": "8.8.8.8; 4.4.4.4",
+    "enableSysProxy": false,
+    "gfwListLastUpdated": "Never",
+    "gfwListUrl": "https://raw.githubusercontent.com/du5/gfwlist/master/Rules/Clash/gfwlist.yml",
+    "hideWindow": false,
+    "httpPort": 1087,
+    "language": "zh-CN",
+    "proxyMode": "Global",
+    "serverIp": "127.0.0.1",
+    "servers": [
+        {
+            "alterId": 0,
+            "autoConnect": false,
+            "cipher": "auto",
+            "name": "US1(0.01)",
+            "network": "tcp",
+            "port": 0,
+            "server": "us01.123004.xyz",
+            "skip-cert-verify": false,
+            "subscription": "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr",
+            "tls": true,
+            "type": "vmess",
+            "udp": false,
+            "uuid": "BD6B044F-8A1C-BC67-1C0F-F581911BD274"
+        },
+        {
+            "alterId": 0,
+            "autoConnect": false,
+            "cipher": "auto",
+            "name": "US2(0.01)",
+            "network": "tcp",
+            "port": 0,
+            "server": "us02.123004.xyz",
+            "skip-cert-verify": false,
+            "subscription": "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr",
+            "tls": true,
+            "type": "vmess",
+            "udp": false,
+            "uuid": "BD6B044F-8A1C-BC67-1C0F-F581911BD274"
+        },
+        {
+            "alterId": 0,
+            "autoConnect": false,
+            "cipher": "auto",
+            "name": "US3(1)",
+            "network": "tcp",
+            "port": 0,
+            "server": "us1.123004.xyz",
+            "skip-cert-verify": false,
+            "subscription": "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr",
+            "tls": true,
+            "type": "vmess",
+            "udp": false,
+            "uuid": "BD6B044F-8A1C-BC67-1C0F-F581911BD274"
+        },
+        {
+            "alterId": 0,
+            "autoConnect": false,
+            "cipher": "auto",
+            "name": "US4(1)",
+            "network": "tcp",
+            "port": 0,
+            "server": "us2.123004.xyz",
+            "skip-cert-verify": false,
+            "subscription": "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr",
+            "tls": true,
+            "type": "vmess",
+            "udp": false,
+            "uuid": "BD6B044F-8A1C-BC67-1C0F-F581911BD274"
+        },
+        {
+            "alterId": 1,
+            "autoConnect": false,
+            "cipher": "auto",
+            "name": "US6(1)",
+            "network": "tcp",
+            "port": 0,
+            "server": "us6.123004.xyz",
+            "skip-cert-verify": false,
+            "subscription": "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr",
+            "tls": true,
+            "type": "vmess",
+            "udp": false,
+            "uuid": "BD6B044F-8A1C-BC67-1C0F-F581911BD274"
+        },
+        {
+            "alpn": [
+                "h2",
+                "http/1.1"
+            ],
+            "autoConnect": false,
+            "name": "B组 V1 俄罗斯1 0.1x 500M",
+            "password": "d4a7a7f5-4da7-3759-adab-09d36547ae16",
+            "port": 853,
+            "server": "xp0x1vyt.asxygo.ga",
+            "skip-cert-verify": "",
+            "sni": "",
+            "subscription": "",
+            "type": "trojan",
+            "udp": false
+        },
+        {
+            "alpn": [
+                "h2",
+                "http/1.1"
+            ],
+            "autoConnect": false,
+            "name": "B组 V1 美国1 0.1x 100M",
+            "password": "d4a7a7f5-4da7-3759-adab-09d36547ae16",
+            "port": 443,
+            "server": "fj91o7ip.asxygo.ga",
+            "skip-cert-verify": "",
+            "sni": "",
+            "subscription": "",
+            "type": "trojan",
+            "udp": false
+        }
+    ],
+    "socksPort": 1082
+}

@@ -1,23 +1,83 @@
-[trash:/0-YouCompleteMe (1)/.ycm_extra_conf.py]
+[file:///etc/v2rayL/v2ray-core/v2rayL.service]
 Bookmarks=
-Checksum=a53d1769f4e1e0481ad6a6c73c62dddb1b3a19cc
+Checksum=a02ef6952e56fedd683620fbfdc6ed3e33ce5f87
 Encoding=UTF-8
-Highlighting=Python
+Highlighting=None
 Highlighting Set By User=false
-Indentation Mode=python
-Mode=Python
+Indentation Mode=normal
+Mode=Normal
 Mode Set By User=false
-Time=2020,6,22,15,16,19
-URL=trash:/0-YouCompleteMe (1)/.ycm_extra_conf.py
+Time=2020,8,1,8,12,57
+URL=file:///etc/v2rayL/v2ray-core/v2rayL.service
 
-[trash:/0-YouCompleteMe/.ycm_extra_conf.py]
+[file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2ray-core/v2rayL.service]
 Bookmarks=
-Checksum=a53d1769f4e1e0481ad6a6c73c62dddb1b3a19cc
+Checksum=1b3a858b3151f2d3bbb78169c8c4504fecc880fa
 Encoding=UTF-8
-Highlighting=Python
+Highlighting=None
 Highlighting Set By User=false
-Indentation Mode=python
-Mode=Python
+Indentation Mode=normal
+Mode=Normal
 Mode Set By User=false
-Time=2020,6,22,15,7,52
-URL=trash:/0-YouCompleteMe/.ycm_extra_conf.py
+Time=2020,8,1,11,6,15
+URL=file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2ray-core/v2rayL.service
+
+[file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec]
+Bookmarks=
+Checksum=8313efb67f7782e9582acc70cc2f6d5455d82476
+Encoding=UTF-8
+Highlighting=RPM Spec
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=RPM Spec
+Mode Set By User=false
+Time=2020,8,1,11,6,25
+URL=file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec
+
+[file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib]
+Bookmarks=
+Checksum=f71831753f885214e9a52b35533bc49148782140
+Encoding=UTF-8
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+Time=2020,7,29,7,17,14
+URL=file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib
+
+[file:///opt/deepinwine/apps/Deepin-TIM/deepin.com.qq.office.desktop]
+Bookmarks=
+Checksum=ced7fa3718b8672e16d05a7886fc38112c7a7c2b
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2020,7,29,8,5,35
+URL=file:///opt/deepinwine/apps/Deepin-TIM/deepin.com.qq.office.desktop
+
+[file:///usr/share/applications/v2rayL.desktop]
+Bookmarks=
+Checksum=b6d17ffa12d4e277f959415f8e2d6f027b940dd6
+Encoding=UTF-8
+Highlighting=.desktop
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=.desktop
+Mode Set By User=false
+Time=2020,8,1,8,13,48
+URL=file:///usr/share/applications/v2rayL.desktop
+
+[file:///usr/share/applications/v2rayL.desktop.1]
+Bookmarks=
+Checksum=b6d17ffa12d4e277f959415f8e2d6f027b940dd6
+Encoding=UTF-8
+Highlighting=Troff Mandoc
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Troff Mandoc
+Mode Set By User=false
+Time=2020,8,1,8,14,3
+URL=file:///usr/share/applications/v2rayL.desktop.1

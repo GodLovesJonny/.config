@@ -1,6 +1,6 @@
-2020/07/20-12:41:58.101 ccf Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/07/20-12:41:58.102 ccf Recovering log #83
-2020/07/20-12:41:58.104 ccf Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000083.log 
-2020/07/20-15:04:43.623 de7 Level-0 table #88: started
-2020/07/20-15:04:43.625 de7 Level-0 table #88: 115912 bytes OK
-2020/07/20-15:04:43.627 de7 Delete type=0 #83
+2020/08/02-14:44:22.256 38e0 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/08/02-14:44:22.256 38e0 Recovering log #90
+2020/08/02-14:44:22.257 38e0 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000090.log 
+2020/08/02-14:44:50.868 39a7 Level-0 table #94: started
+2020/08/02-14:44:50.878 39a7 Level-0 table #94: 115800 bytes OK
+2020/08/02-14:44:50.883 39a7 Delete type=0 #90

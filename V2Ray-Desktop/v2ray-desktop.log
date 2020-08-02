@@ -1,0 +1,402 @@
+2020/08/01 17:25:53 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Icon theme "Numix-Circle" not found.
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+2020/08/01 17:25:53 [Info] v2ray-desktop: "Start Clash ... success"
+2020/08/01 17:25:53 [Warning] v2ray-desktop: QXcbConnection: XCB error: 5 (BadAtom), sequence: 691, resource id: 0, major code: 20 (GetProperty), minor code: 0
+2020/08/01 17:25:55 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:25:55 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:25:55 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:25:58 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:25:58 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:26:04 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:26:04 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:26:06 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:26:06 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:27:00 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:27:00 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:27:00 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:27:00 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:27:00 [Critical] v2ray-desktop: ""
+2020/08/01 17:27:33 [Info] v2ray-desktop: Start to get url:  "https://v2.fit/modules/servers/V2raySocks/osubscribe.php?sid=7063&token=lKJwbO2onxIr"
+2020/08/01 17:27:41 [Info] v2ray-desktop: "Add a new server[Name=US1(0.01)] from URI: vmess://eyJhZGQiOiJ1czAxLjEyMzAwNC54eXoiLCJob3N0IjoiIiwiaWQiOiJCRDZCMDQ0Ri04QTFDLUJDNjctMUMwRi1GNTgxOTExQkQyNzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0MyIsInBzIjoiVVMxKDAuMDEpIiwidGxzIjoiIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9"
+2020/08/01 17:27:41 [Info] v2ray-desktop: "Add a new server[Name=US2(0.01)] from URI: vmess://eyJhZGQiOiJ1czAyLjEyMzAwNC54eXoiLCJob3N0IjoiIiwiaWQiOiJCRDZCMDQ0Ri04QTFDLUJDNjctMUMwRi1GNTgxOTExQkQyNzQiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0MyIsInBzIjoiVVMyKDAuMDEpIiwidGxzIjoiIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJ1czQuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXBsb2FkIiwicG9ydCI6IjQ0MyIsInBzIjoiVVM1KDEpIiwidGxzIjoidGxzIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJqcDAzLjEyMzAwNC54eXoiLCJob3N0IjoiIiwiaWQiOiJCRDZCMDQ0Ri04QTFDLUJDNjctMUMwRi1GNTgxOTExQkQyNzQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3VwbG9hZCIsInBvcnQiOiI0NDMiLCJwcyI6IkpQMygxKSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJ0dzEuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXBsb2FkIiwicG9ydCI6IjQ0MyIsInBzIjoiVFcxKDEpIiwidGxzIjoidGxzIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJoazMuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXBsb2FkIiwicG9ydCI6IjQ0MyIsInBzIjoiSEszKDEpIiwidGxzIjoidGxzIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJoazEuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXBsb2FkIiwicG9ydCI6IjQ0MyIsInBzIjoiSEsxKDEpIiwidGxzIjoidGxzIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJoazIuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6IndzIiwicGF0aCI6IlwvdXBsb2FkIiwicG9ydCI6IjQ0MyIsInBzIjoiSEsyKDEpIiwidGxzIjoidGxzIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJqcDAxLjEyMzAwNC54eXoiLCJob3N0IjoiIiwiaWQiOiJCRDZCMDQ0Ri04QTFDLUJDNjctMUMwRi1GNTgxOTExQkQyNzQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3VwbG9hZCIsInBvcnQiOiI0NDMiLCJwcyI6IkpQMSgxKSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: vmess://eyJhZGQiOiJqcDIudjJzZXJ2ZXIubWwiLCJob3N0IjoiIiwiaWQiOiJCRDZCMDQ0Ri04QTFDLUJDNjctMUMwRi1GNTgxOTExQkQyNzQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcL3JheSIsInBvcnQiOiI0NDMiLCJwcyI6IkpQMigxKSIsInRscyI6InRscyIsInYiOjIsImFpZCI6MCwidHlwZSI6Im5vbmUifQ==. Errors: 缺失值：'Host'。"
+2020/08/01 17:27:41 [Info] v2ray-desktop: "Add a new server[Name=US3(1)] from URI: vmess://eyJhZGQiOiJ1czEuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQzIiwicHMiOiJVUzMoMSkiLCJ0bHMiOiIiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0="
+2020/08/01 17:27:41 [Info] v2ray-desktop: "Add a new server[Name=US4(1)] from URI: vmess://eyJhZGQiOiJ1czIuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQzIiwicHMiOiJVUzQoMSkiLCJ0bHMiOiIiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0="
+2020/08/01 17:27:41 [Info] v2ray-desktop: "Add a new server[Name=US6(1)] from URI: vmess://eyJhZGQiOiJ1czYuMTIzMDA0Lnh5eiIsImhvc3QiOiIiLCJpZCI6IkJENkIwNDRGLThBMUMtQkM2Ny0xQzBGLUY1ODE5MTFCRDI3NCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTQzIiwicHMiOiJVUzYoMSkiLCJ0bHMiOiIiLCJ2IjoyLCJhaWQiOjEsInR5cGUiOiJub25lIn0="
+2020/08/01 17:27:41 [Warning] v2ray-desktop: "Error occurred for the server URL: . Errors: 未知的服务器协议"
+2020/08/01 17:28:00 [Info] v2ray-desktop: Start to get url:  "https://portal.caipin.pro/modules/servers/V2raySocks/osubscribe.php?sid=65842&token=Prknd9lwZ6RP"
+2020/08/01 17:28:36 [Info] v2ray-desktop: "Add a new server[Name=B组 V1 俄罗斯1 0.1x 500M] from URI: trojan://d4a7a7f5-4da7-3759-adab-09d36547ae16@xp0x1vyt.asxygo.ga:853#B%E7%BB%84%20V1%20%E4%BF%84%E7%BD%97%E6%96%AF1%200.1x%20500M"
+2020/08/01 17:28:44 [Critical] v2ray-desktop: Error occurred during requsting  "https://portal.caipin.pro/modules/servers/V2raySocks/osubscribe.php?sid=65842&token=Prknd9lwZ6RP" ; Error:  QNetworkReply::UnknownServerError
+2020/08/01 17:28:57 [Info] v2ray-desktop: "Add a new server[Name=B组 V1 美国1 0.1x 100M] from URI: trojan://d4a7a7f5-4da7-3759-adab-09d36547ae16@fj91o7ip.asxygo.ga:443#B%E7%BB%84%20V1%20%E7%BE%8E%E5%9B%BD1%200.1x%20100M"
+2020/08/01 17:29:04 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:29:07 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:29:07 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:07 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:29:09 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:29:09 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:09 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:29:09 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:29:11 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:29:11 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:29:11 [Critical] v2ray-desktop: ""
+2020/08/01 17:29:11 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 17:29:12 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:29:12 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:14 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:29:14 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:29:17 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:29:17 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:19 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:29:19 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:29:19 [Critical] v2ray-desktop: ""
+2020/08/01 17:29:19 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:29:19 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:29:22 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:29:22 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:24 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:29:24 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:29:26 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:29:26 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:29:26 [Critical] v2ray-desktop: ""
+2020/08/01 17:29:26 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 17:29:27 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:29:27 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:29:28 [Info] v2ray-desktop: Connected to  "US1(0.01)"
+2020/08/01 17:30:42 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:30:42 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:30:47 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:30:50 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:30:50 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:30:50 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:30:52 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:30:52 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:30:57 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:30:57 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:31:00 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:01 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:03 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:03 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:06 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:06 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:08 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:08 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:10 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:11 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:13 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:13 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:16 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:16 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:18 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:18 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:21 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:21 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:23 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:23 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:25 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:26 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:28 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:28 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:30 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:31 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:33 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:33 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:35 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:36 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:38 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:38 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:40 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:41 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:43 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:43 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:45 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:46 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:48 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:48 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:51 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:51 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:31:53 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:31:53 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:55 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:31:58 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:31:58 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:31:58 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:00 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:00 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:02 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:32:02 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:32:05 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:05 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:08 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:08 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:10 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:10 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:13 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:13 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:15 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:15 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:18 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:18 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:20 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:20 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:23 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:23 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:25 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:25 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:28 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:28 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:30 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:30 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:33 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:33 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:35 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:32:35 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:32:38 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:32:38 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:32:54 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:32:54 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:33:08 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:33:11 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:33:11 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:33:11 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:33:13 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:33:13 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:33:15 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:33:15 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:33:15 [Critical] v2ray-desktop: ""
+2020/08/01 17:33:15 [Info] v2ray-desktop: Disconnected from  "US1(0.01)"
+2020/08/01 17:33:19 [Info] v2ray-desktop: Connected to  "US4(1)"
+2020/08/01 17:33:32 [Info] v2ray-desktop: Connected to  "US6(1)"
+2020/08/01 17:33:35 [Info] v2ray-desktop: Connected to  "B组 V1 俄罗斯1 0.1x 500M"
+2020/08/01 17:33:38 [Info] v2ray-desktop: Disconnected from  "US6(1)"
+2020/08/01 17:33:41 [Info] v2ray-desktop: Disconnected from  "US4(1)"
+2020/08/01 17:33:44 [Info] v2ray-desktop: Connected to  "B组 V1 美国1 0.1x 100M"
+2020/08/01 17:33:45 [Info] v2ray-desktop: Disconnected from  "B组 V1 俄罗斯1 0.1x 500M"
+2020/08/01 17:36:26 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 17:36:26 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 17:36:29 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:36:31 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 17:36:31 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:36:31 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:36:34 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:36:34 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:36:50 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 17:36:50 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 17:36:52 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 17:36:52 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 17:37:01 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 17:37:01 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 17:37:01 [Critical] v2ray-desktop: ""
+2020/08/01 17:37:01 [Info] v2ray-desktop: Disconnected from  "B组 V1 美国1 0.1x 100M"
+2020/08/01 17:37:07 [Info] v2ray-desktop: Connected to  "B组 V1 俄罗斯1 0.1x 500M"
+2020/08/01 17:38:59 [Warning] v2ray-desktop: QFileSystemWatcher::removePaths: list is empty
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Icon theme "Numix-Circle" not found.
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+2020/08/01 19:11:43 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:11:43 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 19:11:43 [Critical] v2ray-desktop: "2020/08/01 19:11:43 [fatal] clash: Parse config error: ProxyGroup[0]: `use` or `proxies` missing\""
+2020/08/01 19:11:43 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 19:11:43 [Warning] v2ray-desktop: QXcbConnection: XCB error: 5 (BadAtom), sequence: 693, resource id: 0, major code: 20 (GetProperty), minor code: 0
+2020/08/01 19:11:46 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 19:11:46 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:11:46 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:11:48 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:11:48 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:16:12 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:16:15 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 19:16:15 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:16:15 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:16:17 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:16:17 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:16:17 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:16:17 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:16:20 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:16:20 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:16:21 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 19:16:21 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 19:16:21 [Critical] v2ray-desktop: ""
+2020/08/01 19:16:21 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 19:16:22 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:16:22 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:16:22 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:16:23 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 19:16:23 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 19:16:23 [Critical] v2ray-desktop: ""
+2020/08/01 19:16:23 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 19:16:27 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:16:27 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:16:27 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:16:53 [Warning] v2ray-desktop: QString::arg: Argument missing: [Desktop Entry]
+Name=V2Ray Desktop
+Exec=/opt/v2ray-desktop/v2ray-desktop
+Icon=/opt/v2ray-desktop/v2ray-desktop.png
+Type=Application
+Terminal=false
+X-GNOME-Autostart-enabled=true
+, /opt/v2ray-desktop/v2ray-desktop
+2020/08/01 19:16:53 [Info] v2ray-desktop: Application config updated. Restarting V2Ray ...
+2020/08/01 19:16:53 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 19:16:53 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 19:16:53 [Critical] v2ray-desktop: ""
+2020/08/01 19:17:09 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 19:17:09 [Warning] v2ray-desktop: QIODevice::read (QProcess): WriteOnly device
+2020/08/01 19:17:09 [Critical] v2ray-desktop: ""
+2020/08/01 19:17:09 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 19:17:12 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:17:12 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:17:12 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:17:24 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:17:26 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dreamacro/clash/releases"
+2020/08/01 19:17:28 [Warning] v2ray-desktop: Timed out when requesting  "https://api.github.com/repos/Dreamacro/clash/releases"
+2020/08/01 19:17:28 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dreamacro/clash/releases" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:17:28 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 19:17:28 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:17:28 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:17:29 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dr-Incognito/V2Ray-Desktop/releases"
+2020/08/01 19:17:31 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dreamacro/clash/releases"
+2020/08/01 19:17:31 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dreamacro/clash/releases" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:17:31 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dr-Incognito/V2Ray-Desktop/releases" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:17:31 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:17:31 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:17:33 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dreamacro/clash/releases"
+2020/08/01 19:17:33 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dreamacro/clash/releases" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:17:33 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dr-Incognito/V2Ray-Desktop/releases"
+2020/08/01 19:17:33 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dr-Incognito/V2Ray-Desktop/releases" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:17:34 [Info] v2ray-desktop: Start to get url:  "https://api.github.com/repos/Dreamacro/clash/releases"
+2020/08/01 19:17:34 [Critical] v2ray-desktop: Error occurred during requsting  "https://api.github.com/repos/Dreamacro/clash/releases" ; Error:  QNetworkReply::ConnectionRefusedError
+2020/08/01 19:21:24 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:21:27 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 19:21:27 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:21:27 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:21:29 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 19:21:29 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 19:21:32 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:21:32 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:21:32 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 19:21:32 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 19:42:37 [Warning] v2ray-desktop: QFileSystemWatcher::removePaths: list is empty
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Icon theme "Numix-Circle" not found.
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/8x8/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/16x16/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/16x16/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/22x22/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/24x24/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/24x24/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/32x32/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/32x32/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/48x48/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/48x48/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/64x64/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/64x64/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/96x96/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/96x96/ui/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/256x256/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/512x512/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "Legacy" line for icon theme:  "/usr/share/icons/Adwaita/scalable/legacy/"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: Invalid Context= "UI" line for icon theme:  "/usr/share/icons/Adwaita/scalable/ui/"
+2020/08/01 22:47:55 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 22:47:55 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::HostNotFoundError
+2020/08/01 22:47:55 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 22:47:55 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::HostNotFoundError
+2020/08/01 22:47:55 [Critical] v2ray-desktop: Failed to start Clash.
+2020/08/01 22:47:55 [Critical] v2ray-desktop: "2020/08/01 22:47:55 [fatal] clash: Parse config error: ProxyGroup[0]: `use` or `proxies` missing\""
+2020/08/01 22:47:55 [Info] v2ray-desktop: "Start Clash ... failed"
+2020/08/01 22:47:55 [Warning] v2ray-desktop: QXcbConnection: XCB error: 5 (BadAtom), sequence: 682, resource id: 0, major code: 20 (GetProperty), minor code: 0
+2020/08/01 22:48:00 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 22:48:00 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::HostNotFoundError
+2020/08/01 22:48:00 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 22:48:00 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::HostNotFoundError
+2020/08/01 22:48:05 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 22:48:07 [Warning] v2ray-desktop: Timed out when requesting  "http://www.baidu.com"
+2020/08/01 22:48:07 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.baidu.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 22:48:07 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 22:48:10 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 22:48:10 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 22:48:10 [Info] v2ray-desktop: Start to get url:  "http://www.baidu.com"
+2020/08/01 22:48:10 [Info] v2ray-desktop: Start to get url:  "http://www.google.com"
+2020/08/01 22:48:13 [Warning] v2ray-desktop: Timed out when requesting  "http://www.google.com"
+2020/08/01 22:48:13 [Critical] v2ray-desktop: Error occurred during requsting  "http://www.google.com" ; Error:  QNetworkReply::OperationCanceledError
+2020/08/01 22:48:14 [Warning] v2ray-desktop: QFileSystemWatcher::removePaths: list is empty

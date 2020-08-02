@@ -1,0 +1,21 @@
+[Dashboard]
+Height 1080=439
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG3AAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1920=640
+
+[DownloadDialog Settings]
+Window-Maximized 1080x1920=true
+
+[KFileDialog Settings]
+detailViewIconSize=0
+
+[MainWindow]
+State=AAAA/wAAAAD9AAAAAAAAAoAAAAG3AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAQAAAAaAGUAZABpAHQAbwByAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAAAAAB4AcAByAGEAYwB0AGkAYwBlAFQAbwBvAGwAQgBhAHIAAAAAZ/////8AAAAAAAAAAAAAACIAcwB0AGEAdABpAHMAdABpAGMAcwBUAG8AbwBsAEIAYQByAAAAAGv/////AAAAAAAAAAAAAAAsAHAAcgBhAGMAdABpAGMAZQBTAHUAbQBtAGEAcgB5AFQAbwBvAGwAQgBhAHIAAAAA7v////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/.local/share/kvtml/147657-Jap101.kvtml
+File2[$e]=$HOME/.local/share/kvtml/144125-bbc_french_steps.kvtml
+Name1[$e]=147657-Jap101.kvtml
+Name2[$e]=144125-bbc_french_steps.kvtml

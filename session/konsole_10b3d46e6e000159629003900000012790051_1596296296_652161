@@ -1,0 +1,21 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/配置方案 1.profile
+RemoteTab=(%u) %H
+SessionGuid={91a4f418-764b-4a48-9896-f092db48f405}
+WorkingDir[$e]=$HOME/Jonny/Installs/v2rayL-master/v2ray-core
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAAA
+Window-Maximized 1080x1920=true

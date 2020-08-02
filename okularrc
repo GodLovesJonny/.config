@@ -8,31 +8,32 @@ FullScreen=false
 [MainWindow]
 Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3gAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1912
+Width 1920=1920
+Window-Maximized 1080x1920=true
 
 [Notification Messages]
 ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.pdf
-File10[$e]=$HOME/下载/2001.04193 Deep Learning for Person Re-identification: A Survey and Outlook.pdf
-File2[$e]=$HOME/Jonny/Latexs/jei-IMGNet_Response/document.pdf
-File3[$e]=$HOME/Jonny/Spam/Paper/Two Streams response latex/response_to_reviewer.pdf
-File4[$e]=$HOME/Jonny/Paper-Lib/ReID/1907.08435 Interaction-and-Aggregation Network for Person Re-identification.pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.04915 HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning.pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
-File8[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.10534 Adversarial Representation Learning for Text-to-Image Matching.pdf
-File9[$e]=$HOME/Jonny/Latexs/spie-journal-papers-latex-minor/IMGNet.pdf
-Name1[$e]=IMGNet.pdf
-Name10[$e]=2001.04193 Deep Learning for Person Re-identification: A Survey and Outlook.pdf
-Name2[$e]=document.pdf
-Name3[$e]=response_to_reviewer.pdf
-Name4[$e]=1907.08435 Interaction-and-Aggregation Network for Person Re-identification.pdf
-Name5[$e]=1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-Name6[$e]=1908.04915 HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning.pdf
-Name7[$e]=1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
-Name8[$e]=1908.10534 Adversarial Representation Learning for Text-to-Image Matching.pdf
-Name9[$e]=IMGNet.pdf
+File1[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.04915 HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning.pdf
+File10[$e]=$HOME/Jonny/Latexs/Njtech-Software-Engineering/document.pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/ReID/1908.03557 VisualBERT: A Simple and Performant Baseline for Vision and Language.pdf
+File4[$e]=$HOME/下载/1904.00355 Pedestrian re-identification based on Tree branch network with local and global learning.pdf
+File5[$e]=$HOME/下载/2007.08785.pdf
+File6[$e]=$HOME/下载/2007.07875.pdf
+File7[$e]=$HOME/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.pdf
+File8[$e]=$HOME/下载/Bryan_Plummer_Conditional_Image-Text_Embedding_ECCV_2018_paper.pdf
+File9[$e]=$HOME/下载/byte-of-vim.pdf
+Name1[$e]=1908.04915 HorNet: A Hierarchical Offshoot Recurrent Network for Improving Person Re-ID via Image Captioning.pdf
+Name10[$e]=document.pdf
+Name2[$e]=1908.01114 ABD-Net: Attentive but Diverse Person Re-Identification.pdf
+Name3[$e]=1908.03557 VisualBERT: A Simple and Performant Baseline for Vision and Language.pdf
+Name4[$e]=1904.00355 Pedestrian re-identification based on Tree branch network with local and global learning.pdf
+Name5[$e]=2007.08785.pdf
+Name6[$e]=2007.07875.pdf
+Name7[$e]=LCRH-S02-RTC.pdf
+Name8[$e]=Bryan_Plummer_Conditional_Image-Text_Embedding_ECCV_2018_paper.pdf
+Name9[$e]=byte-of-vim.pdf

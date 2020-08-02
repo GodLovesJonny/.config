@@ -1421,3 +1421,703 @@ dbdd43b8393fc0114ff522a699c90e69|file:///home/godlovesjonny/Jonny/Penetration-Te
 	    '\\(o_o)/', '(o^^)o', '(˚Δ˚)b', '(^-^*)', '(≥o≤)', '(^_^)b', '(·_·)',
 	    '(=\'X\'=)', '(>_<)', '(;-;)', '\\(^Д^)/',
 	  ];
+92294c618e3dc55849832b6033a6bb31|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|114|1|V|markdown
+	![106](/images/2020/01/wallpaper/106.png)
+6673bdae20df821d905e94d9f4b3760a|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|402|40|v|markdown
+	dwID
+63788519f83975fea084e186a9dae35b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|10|1|V|markdown
+	Command Line Heroes: Season 2: Ready to Commit
+bd8a3b8e0aa4e943e9209c3aecba7d7c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|22|1|V|markdown
+	我只是真不知道作出贡献那么容易。而且你不需要解决P=MP问题，你的投入依然很有价值。  
+b1642c429020d32652d88e8c23848440|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|77|49|v|markdown
+	命令行英雄
+a74aafaf1b969bd16b76002b8ddbde2e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|119|1|V|markdown
+	我们看到它们存在许多进入壁垒，但我们喜欢称它们为“没有充分的理由”。没有三个充分的理由使妇女专门脱离技术。它们是：刻板印象，它们是可访问性和环境。
+4888b7e8a7093a0ebb1d1eaae88a014d|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|587|13|v|markdown
+	（Command Line Heroes）是
+c287cb70d2636d0fc792accfdf066af0|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC.md|77|67|v|markdown
+	（Command Line Heroes）
+defbb77c63afc37c8723056affde894a|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|14|1|V|markdown
+	When I started out doing software development, I was mostly just making little projects that amused me, little apps, little command-line tools, and stuff like that.
+	
+9afd64684bdeff88c0a1ae05e3487422|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|18|1|V|markdown
+	I just really didn't know that it was so easy to contribute and that you don't need to have solved P=MP, your input can still be valuable.
+	
+9832367f840f45566aafb3f48c61d3fe|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|26|1|V|markdown
+	Local communities made me confident enough to contribute.
+	
+95c684ef8f1fbcdddf12f3363d574a1f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|30|1|V|markdown
+	When I was a total newbie to programming, I teamed up with my friend Dan to make my very first open source pull request (PR), which would also make it my very first open source contribution.
+	
+7a809c9eedb0afd2b0c4827b5c9460dc|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|34|1|V|markdown
+	I'd heard so much about contributing to open source, about how amazing it was, but also how completely terrifying. I was very aware, not all communities are kind and not all maintainers are nice.
+	
+d8e0fad493b9cba5cb3c0e18cef5378f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|38|1|V|markdown
+	The project itself was a pretty good one for a first timer. We were just adding a JavaScript library, something to let people get a digital walkthrough of the website. Just a nice well–scoped project. Self–contained. Bonus, if the thing didn't work, I was almost positive it wouldn't burn down the whole site.
+12595896e5673b5c23be076f19ff8a64|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|41|1|V|markdown
+	Yet, I was crazy nervous about this pull request. Dan and I read the docs for the library, plugged away at our code. I still remember when we were finally done, we just looked at each other like, "That's it?" We made our PR, it was reviewed, got merged, and I guess I was surprised by how, I don't know, how mechanical it all was.
+19b2b00f95f3e16552d0fba86094351a|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|46|147|V|markdown
+	It wasn't some big mystery or magical thing that only they could do. I realized, I really could contribute, too. That's a bit of knowledge we're passing on in this episode; making a contribution to open source isn't magic. It doesn't have to be terrifying. We're going to walk through this together.
+	
+b8d0d49757a68a378dea009091a3c1ef|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|50|1|V|markdown
+	It was just such a groundbreaking realization that this is actually totally open, I can just do this.
+	
+418c755e9b659bc57267777f4be34ca2|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|54|1|V|markdown
+	In that opener, you heard from command line heroes, just like you, who push through that same terror to join the ranks of open source. They were Nolan Lawson, Lindsey Tulloch, and Kanika Muraka, all heroes.
+	
+11defd0360b7491d9200981d11bc8fdc|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|54|1|V|markdown
+	In that opener, you heard from command line heroes, just like you, who push through that same terror to join the ranks of open source. They were Nolan Lawson, Lindsey Tulloch, and Kanika Muraka, all heroes.
+820cd900031c575e9d050ef6fd00b9f8|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|58|1|V|markdown
+	You're listening to Command Line Heroes, an original podcast from Red Hat. I'm your host, Saron Yitbarek.
+	
+a10e2158bebbecf3f24b8d1e12d228b9|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|62|1|V|markdown
+	This is a story about two command line heroes just trying to make something better in the big open source world. One of them is a contributor, the other's a maintainer. Neither of them are real people, instead these two fictional characters represent all the contributors and all the maintainers that shared their stories with us. Hopefully, you'll see some of yourself in their journey, too.
+	
+5310055e9948b862d879056721c0597b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|66|1|V|markdown
+	First meet our friend, the contributor. She's a bit of a newbie, just like we all were once upon a time. She's not sure about what the basic workflow is, but she sees a need and she thinks she can add a feature that would help. Our imaginary contributor is keen to make that fix, but how?
+	
+e155fe28d7552f25022cd200c280098b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|70|1|V|markdown
+	You're always growing new skills and you don't have to have taken apart a computer as a child to know how to code as an adult.
+	
+5a07eeb13af933a69ff417e6a80231f5|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|74|99|V|markdown
+	That's Corinne Warnshuis, the executive director of an awesome organization called Girl Develop It. It's designed to help women who maybe don't feel super comfortable asking questions or may not feel entirely welcome at meetups.
+	
+173d7a95c39c046ad0711fa082bac1a5|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|78|1|V|markdown
+	Girl Develop It realized that making contributions isn't the same for everybody; culture matters. Part of our job as a community is to build a little empathy and healthy diversity into the process.
+	
+6fda5c29be6f7807a58d37f852def4e7|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|82|33|V|markdown
+	There are many barriers to entry as we see them, but we like to call them "no good reasons." There are three no good reasons that keep women specifically out of technology. They are: stereotypes, they're the accessibility, and the environment.
+	
+4672083cbc1fe82a9f8b7432ec3d07c3|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|86|1|V|markdown
+	It's worth remembering here promoting diversity doesn't just make good ethical sense, it makes good business sense, too.
+	
+c17bffa6a53d07c72b9da2c6bbcb4454|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|90|1|V|markdown
+	Technology as an industry has probably the greatest potential to make the most change in the world today. You really want to have people from all backgrounds, from all perspectives contributing to the tools and services and things that are going to shape the world. I think it's really important that people from all backgrounds are creating software and contributing to open source projects.
+	
+25a3160a8c56da9e63ca50957ec965f1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|94|1|V|markdown
+	The fact is, we didn't all start with the same advantages or experiences. The next great coder might not look like a Silicon Valley cliché.
+49cc010481850c81faac068b34e6f037|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|98|220|V|markdown
+	In–person instruction has been historically incredibly expensive and inaccessible for people. Again, I think from 2014 to today, that has improved. I think groups other than Girl Develop It like Outreachy, like CodeNewbie, are doing that by providing a safety net or a space to ask questions and get more comfortable.
+	
+9a6fe39c6f455d18196e7d2049205d81|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|102|1|V|markdown
+	Having a safe, welcoming testing ground for some of those ideas and some of those questions is a good place to start.
+	
+2d2755a2137721804601c7c20a3c99a4|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|105|1|V|markdown
+	
+	Speaking of newbies, back to that contributor we were tracking. When you're not from a mainstream background, that first commit can carry a lot of weight. It can feel like you have to prove yourself. Once we get those barriers to entry low enough, what do we actually need to think about as we prepare to contribute?
+52e38a24ba37207e04404bf6e743ee30|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|110|1|V|markdown
+	It's cool to get excited about certain projects, but what is the use case that you're trying to solve?
+	
+932bdaaaf86080dabcb0fce47fe6d38e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|114|1|V|markdown
+	Vincent Batts works at Red Hat, mostly on container architecture. He encourages new contributors to try and be intentional about the work. Find that niche where you and the project make sense together.
+	
+187692e5561c38b9aaf698218b017d11|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|124|1|V|markdown
+	For example:
+	
+c14616193d392ba0ead43f766207a6f1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|118|1|V|markdown
+	I think a project to contribute to usually comes out of a reciprocal relationship. It satisfied a need for you, and along the way you found a way to satisfy a need for it, and it becomes a relationship, even if it is a community of people.
+	
+db03042a89146595864f2dac3c434c13|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|126|1|V|markdown
+	I ended up standing up a Slackware Linux box out of a recommendation by a friend. It was suitable enough for me to do what I was trying to do that I ended up helping them get it packaged for the mainstream Slackware Linux community. And ended up becoming a maintainer and contributor on that project, not because I sought out to be a contributor to that Slackware Linux community, but it most well suited the other project, the use case that I was actually trying to solve.
+	
+dcdea93b1d2739321d5e18ca8b71a561|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|130|174|V|markdown
+	I think that happens a lot for a lot of folks. They seek to write a database because of their tailored use case, and they find that it works well in Golang, and they wrote such a high–performance database that they were able to contribute back fixes or improvements to Golang to help their database run faster.
+	
+1d0b8e0bfb1aaf11ab10a0ecf2c7a70c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|134|1|V|markdown
+	You can find your little niche and let a certain amount of organic growth take place. The key point is, start somewhere. You don't have to wait for a degree or for absolute confidence.
+	
+ce277a41240c86f44939e49e56545e1e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|138|1|V|markdown
+	If you need direct experience writing code or writing docs, or even being a system administrator for a back-end database web server, most of these communities are volunteer based. You go out to some project like Debian, Fedora, or whatever, and those communities have docs pages that are set up. Those have to run on a web server somewhere and somebody, even a community member that's not being paid to check if the web server's down or something went wrong, is gaining experience.
+	
+6d78389c6ba3d0c1d3d1bbd9ca27ff43|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|137|1|V|markdown
+	
+	If you need direct experience writing code or writing docs, or even being a system administrator for a back-end database web server, most of these communities are volunteer based. You go out to some project like Debian, Fedora, or whatever, and those communities have docs pages that are set up. Those have to run on a web server somewhere and somebody, even a community member that's not being paid to check if the web server's down or something went wrong, is gaining experience.
+20044812de910e0a6b043fb31b5ad921|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|142|1|V|markdown
+	Vincent stresses that point about the egalitarian nature of open source. Wherever you're coming from, you really can start contributing, if you want to. You can make a name for yourself, if that's what you want to do.
+	
+1c1d8365c57c981ed5be05bbc7659098|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|146|5|V|markdown
+	Once it's merged, then your name is attached to something. You're publicly representable that you have made an improvement somewhere, which is incredibly meaningful.
+	
+e0515e2f65a9fed99abe9ac0915bbe5b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|150|192|V|markdown
+	I've worked with folks that were television repairmen and teachers, not in a technical day–to–day job, that were very well represented. They contributed a lot in the community. On the flip side of that, I've worked with developers that sometimes have had 30 years of development experience, but they had never publicly contributed code like that.
+	
+d27ba669e7168da5f9c1c29336336652|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|154|135|V|markdown
+	How's our contributor doing by the way? Well, she found her niche. She conquered her fears and she's finally made her first pull request. Now she can sit back and be terrified while she waits for the maintainer to respond.
+	
+e5cace5f48889feee85dc7bfd0053842|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|158|137|V|markdown
+	Contributing upstream is kind of like going on stage for the talent show for the first time; you get nervous, and you go out there and your palms get sweaty. You do a thing and then it's like an achievement. You are profoundly changed, you never will be the same.
+	
+5f416cc9e306f2c1eeac58d94b93db3b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|162|97|V|markdown
+	Profoundly changed? Maybe. There are in fact four possible responses from a maintainer; silence, that's a fun one, or possibly outright rejection, or outright acceptance. Or the squishy middle ground, a request for change.
+	
+71ef8e7ebfbc44a9a9e57fb82279fc28|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|166|57|V|markdown
+	A couple days after her PR, our imaginary contributor finally gets a ping back from the maintainer. Lo and behold, it's a request for change. Being new, she takes that as a miniature disaster. She doesn't know yet how request for change is really an accomplishment. She even gets a flash of anger at the clipped tone the maintainer is using. It sort of sounds like he doesn't have time for her.
+	
+8030aaacd8ff540d54b74aa436f64f12|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|170|95|V|markdown
+	There's a wall up, and that new contributor has got no idea what's happening on the other side.
+	
+7c7d569f276bbb49ddc140e4375aee95|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|173|1|V|markdown
+	
+	Meet a maintainer. The project he's maintaining isn't his full time job; it's a weekend project and he stays up till the wee hours lots of nights prioritizing issues, and reminding folks to update docs when they make pull requests, and you get the idea. He's got a full plate. Sometimes he even experiences a little maintenance burnout.
+c665f72679dcb4cbb1f678ea84c00616|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|178|51|V|markdown
+	A real life maintainer, Nolan Lawson, wrote a pretty amazing post that got a lot of traction recently about burnout.
+	
+47c926f50960ef4c41bf81d11f5336dc|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|182|1|V|markdown
+	I think part of that blog post was kind of a cry for help, honestly. It was me expressing that I had stumbled into this open source thing. It was really fun at first, and now it wasn't so fun. I wasn't sure what I should do to recover.
+	
+6302cfd2881825e590803d3d5cae215d|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|186|1|V|markdown
+	Nolan's got a day job, but like most maintainers he was putting in tons of after hours work on his open source project because the guy honestly cares. Ironically, part of his pain was coming from the fact that he knows the contributors honestly care, too.
+	
+30747a103feb951c1ceda8feb72ee71b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|190|221|V|markdown
+	What really burned me out more than anything was actually just the flood of well–meaning folks. You want to help them; you really, really do. All they're doing is asking a question, all they're doing is—they found a legitimate bug in your project that's blocking them, or all they're doing is—they actually bothered to download the code and figure out how it builds and to contribute a bug fix. They just want you to review their code that they've contributed.
+	
+2fdb83e7c250bd43b3acc9e7ed26f72c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|194|100|V|markdown
+	Maintainers like Nolan are constantly reviewing a library of PRs, figuring out how commits will play into things. They're pushing contributors to do the best work possible, to conform to the house constraints, to contribute in ways that are most meaningful to the larger goals of the project.
+	
+333382e557aa04e2b0fc9b2ece8b22ec|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|198|77|V|markdown
+	Here is my point, chances are those maintainers are not the jerks a new contributor might worry about. They're working their butts off trying to get to everything. They even take the time, lots of maintainers do, to label some things as reserved for first–timers only so newbies have a chance to take a swing.
+	
+371a4eebb50eb7261a84ff3b6fef13a9|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|202|1|V|markdown
+	At the end of the day though, the scope of all the PRs and commits gets overwhelming. How do we make sure that doesn't happen? How do we create environments for maintainers that make sense?
+	
+54562dc7a9a74a23860079d4a79664f6|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|206|1|V|markdown
+	One solution is an open source project with a strong community like Fedora. The Fedora project leader Matthew Miller explains what attracts maintainers and contributors to the project.
+	
+122596e2a51794e9afeaf3876fdff3a3|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|210|9|V|markdown
+	A lot of Fedora is not development, it's all the things that go around development. That's actually true with IT in general, CS (computer science) in general. Open source maybe doesn't have enough of it, the sort of support roles around open source.
+	
+53ebf408774c90ae2b4e3c8edeafecc8|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|214|1|V|markdown
+	What does that support actually look like?
+	
+4bb6bd85b1d4a4ea09a94aa1ccb1ec17|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|218|1|V|markdown
+	One of the paid roles we have for example is the Fedora program manager who helps keep the schedule on track, and bugs people about making sure the paperwork is done. Having somebody paid to do it actually helps keep the bureaucracy down because they can put the time in to make it a human thing rather than something that is just a bunch of paper shuffling.
+	
+7a108604bcb85ebc3e4d885cbd21a602|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|222|1|V|markdown
+	I think having corporate involvement like that gives stability to some of the roles that you can't guarantee with volunteers.
+	
+0c062eaa9aa134ae79d3d457088bfe7c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|226|1|V|markdown
+	It sort of reminds me of those work spaces freelancers use. There's a shared reception area, shared wifi, and shared coffee. The manager's handling it, and you're free to do your own thing.
+	
+7b707503cf8cec2f89775f91e9915b8c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|236|13|V|markdown
+	One of the things we've looked at is making natural endings to leadership roles, where you say you sign up for something, it's not necessarily a lifetime commitment. You can re–sign up, you're not kicked out after a year. If after six months you want to move on, you can gracefully go on without feeling like you're letting people down. We've tried to work on making sure people have a clear exit.
+	
+c3c0ce6a63bf54153bcd5e0b82cdf941|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|240|1|V|markdown
+	Matthew figures that finding ways to support that open source community without being heavy–handed is the key.
+	
+1ae404a0bd4ddb9e2afdfd3efe1ca3bb|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|244|139|V|markdown
+	It's almost like a family rather than something like a workplace or something like that. It's meaningful to contribute to because you're working on this not just for yourself, or not just for some paycheck or an end product, but because the people you're working on it with are your friends and it's something that you're working on together to make something that's bigger than this individual effort.
+	
+7885185d64052caaa0202bea416e8060|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|248|1|V|markdown
+	Whether it's thanks to Fedora or something else, a world where open source contributions are sustainable, now that's a world worth fighting for.
+	
+095da3f3e01f133d49c257a5c0bacd23|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|252|1|V|markdown
+	Meanwhile, back at her desk, that new contributor we were following just finished the changes the maintainer asked for. She doesn't realize it yet, but she's about to have her first pull request accepted.
+	
+65db40425ab26c505eb5bb59c8e1427c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|256|39|V|markdown
+	It's easy to lose sight of those earlysteps when we talk about long–term issues like burnout. Every day, there are new contributors all over the world joining the party. That's really why we need to build a sustainable humane place where all this open source magic can happen.
+	
+5d044371bf120d25fca5e302f41c6921|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|260|1|V|markdown
+	In the end, our contributor and our maintainer work together to nudge things forward. There's one last piece of the story—remember that all that back and forthing depends on development platforms like GitHub and GitLab, places where we can all come together.
+	
+b95cb277357c347fe6cf4a77ed5c5c68|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|264|1|V|markdown
+	I wanted to dive deep into how those communities make our work possible. I got chatting with Shannon Crabill about it. Shannon's an email developer by day, but by night she's learning front–end development. She's also someone who knows first–hand about the value of community.
+	
+cb741cb551b15399f16a9e0431010993|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|268|1|V|markdown
+	Last year she participated in a month–long celebration of open source called Hacktoberfest, an initiative to get more people to contribute to open source. At the time, Shannon was very much an open source newbie.
+	
+91e0973cfe2c0148cbd2ec1ad6348f8a|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|272|61|V|markdown
+	Thinking back to that point in October, I felt like I wasn't finding much to work on and there's probably other beginners or maybe even more beginners who were also not finding things to work on. Maybe if I put something out there that's relatively easy, they'll have some place to try and learn, and get used to Git and GitHub.
+	
+61a9fd1f3446977d806f8ac2d29897ae|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|276|1|V|markdown
+	I think the hardest part is getting used to the motions of just how it works and practicing. How do I push repo? How do I share a project? How do I do pull requests and that sort of thing. I got people to contribute, which was surprising, but also really awesome.
+	
+752f066edafb1c5eda5c91f0fd8207be|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|280|1|V|markdown
+	Was that scary at all? I feel like if you're new, you're putting yourself out there despite even having the repo, period. Now you have people actually contributing and you have to talk to them, and review their code, and have opinions. That sounds like that can be a little intimidating.
+	
+3bada513a0eebd6d08a3be831e541292|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|284|1|V|markdown
+	I think the initial reactions were like, "Oh my God, this is so cool", and also, "Holy crap, what have I gotten myself into?" I realized I had merged my own code into my own code, I merged my own pull requests and pushed to the site and everything like that. I had not done anyone else's. I think I hadn't done a pull request, merging it before then, so I had to figure that out. Merge complex in general is something that I still struggle with a little bit.
+	
+d5cd18b52660997e7c835cfdfc9c319b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|288|1|V|markdown
+	It was this whirlwind of feelings, "This is cool. I don't know how to go about this." Everyone was really friendly, and I just tried to stay very friendly and honest, even if it was just, "Hey, I'm overwhelmed. I see everyone's pull request. I won't get to them tonight, but I'll get to them tomorrow." People seemed to respond well to that.
+	
+a33fcace5c275426c4b5cc6629856c46|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|292|1|V|markdown
+	Yes. One thing that I've always wondered when you are maintaining a project—especially as a newer developer—is does it mean that you have to be the smartest person on the repo? You're essentially grading, you're judging and reviewing other people's code. Have you had a situation where you didn't know as much as the person making a pull request? How did you deal with that?
+	
+8d3bc352d95ee4bef8d2009261931b11|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|296|1|V|markdown
+	That's a really good one. I could see thinking that, "Oh, I need to be the smartest, best developer ever," would maybe be a hindrance. I think I was lucky that I didn't think that when I went into this, so I was able to go into it like, "Let's just go for it, see what happens."
+	
+a68a9dd295c6cdfd3570554bb17802ef|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|300|1|V|markdown
+	You don't need to be senior developer, 20 years experience. You just need to have an idea and just know how to use the software, and just be willing to learn if you don't know.
+	
+ba023e3770bfb91cd22990bdad1ccf93|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|304|1|V|markdown
+	There were definitely one or two pull requests that added some really cool features to my project that to be honest, if it broke, I don't really know how to fix it. I can look at the code and be like, "Yeah, it's broken." To be able to build that from scratch, I wouldn't know how.
+	
+0021e91a45a4bd7cd58f096644205960|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|308|1|V|markdown
+	I think that's the cool thing about it. If it was just me contributing, I might have done some neat stuff but not as cool as what other people are bringing their experiences to the table with to do.
+	
+8ac0db4c05adcc38956eed4cc78bb26f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|312|1|V|markdown
+	As a maintainer, what are some lessons that you've learned along the way to make the project more accessible, more friendly, easier to contribute to?
+	
+2b5670a30230f6f80f00e2d9f7b56d41|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|316|1|V|markdown
+	Sure. The one thing that I think was really helpful, and I wish I had done this initially, is to set up templates wherever possible and documentation, documentation, documentation.
+	
+07006dc5dc47405d3a5c072269a16d60|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|320|1|V|markdown
+	I definitely added a lot to my README file as I went, and I think just having a README file to start is a really big step. Just even links to, "Hey, check out our guidelines for contributing." I think I made a pull request template, I made issue templates, "Click here to see current issues," so people aren't submitting the same things multiple times.
+	
+bf6bdeae409c59f338ccfdec591fd047|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|324|1|V|markdown
+	Making it as easy as possible, or as user friendly as possible, I think is a big step you can do as a maintainer.
+	
+46cc3d327f83fede8a606ee31a912308|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|328|1|V|markdown
+	Absolutely. READMEs, I see them all the time, I hear about how important they are; I feel like it's also there's so much you can do in a README. At the end of the day, it's kind of a blank document that tells people to read it. What do you do in that document? How do you structure it to make it really connect with people who are looking to contribute?
+	
+332b7b82c19f5fbcc281d262f084c339|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|332|1|V|markdown
+	I think in my README I had a lot gifs in there.
+	
+27e0ccb89eb39b81d3d88bfb12fbea35|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|336|1|V|markdown
+	Nice.
+	
+cb35666a58a25243ff71d5f6fba3147e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|340|1|V|markdown
+	I had gifs, I think I had links to–
+	
+268e87fd7796e19fb0a19ef6a68c23df|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|344|1|V|markdown
+	What I was starting to hear was that Shannon had quickly learned how important the relationships are. She knew straight away that the work was going to shine if people were invested, and even having a good time.
+	
+a245813861fec7779523ca50a8958480|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|348|1|V|markdown
+	There's people doing great things with open source projects, I also think it can be fun and a fun project to say, "Hey, I made these cool bats that randomly generate on this page every time you click."
+	
+9e497118609229bdddc85db5cd468476|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|352|1|V|markdown
+	I also love that there's so many different types of things that people can do. If you're really into the artistic cool stuff, you can do the bat generation feature. If you want to clean up, you can do that, too. If you're like, "I'm going to stick to the documentation, I'm going to spend my time to make this room, this place, a little bit cleaner for all my other contributors," then there's the option to do that, too.
+	
+c1f8db3871a896e099a6b7bbd2e86d9f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|356|70|V|markdown
+	Yeah. I tried to make it clear that whatever you want to contribute is fine with me. If you catch a spelling error and you want to fix that, great. If you notice a link is broken and you want to fix that, great. If you just want to help comment this code so it's easier to read and understand, that would be really helpful.
+	
+6f6b2ed3c3fc6d8d3797d01f16c6a065|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|360|47|V|markdown
+	I think it's really awesome that you had such a positive experience with the community, because I've heard lots of stories where that really wasn't the case. People weren't very nice online, and weren't very welcoming and kind, especially to newbies who we tend to ask some more simpler questions than are expected.
+	
+40d56c76d8db898c0dadb18bb6f6431f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|364|1|V|markdown
+	What do you think helped make your community a nicer place compared to what some other communities are like?
+	
+5207b32fe6269c37fef9d640fcbfb33f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|368|1|V|markdown
+	Just the fact that it was a very casual thing. If you want to contribute, you can, cool. If you don't, that's also cool. I definitely had the thought that open source was this big scary thing, you need to have all this experience and know all these complicated languages, or back–end and front–end and everything in between to be able to contribute to.
+	
+c3797c70b8fa51ae617d578c1b3ca8b1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|372|1|V|markdown
+	Absolutely. How has doing Hacktoberfest, how's that changed your idea of open source now?
+	
+61bb275293050cdfa59403320c0fce61|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|376|1|V|markdown
+	It's definitely changed it for the better. Like I said, I had a great experience and I hope everyone that was involved with my project in some way or another had a good experience, too. It's definitely given me the push to want to try things like that more often, even if they don't go anywhere. It seems more obtainable now.
+	
+d652244f58889153a82d14c1e8aab18c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|380|1|V|markdown
+	Music to my ears.
+	
+cd6578ffb35c6fd2daffb3fe23ede908|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|384|1|V|markdown
+	Here's something; thousands of people from hundreds of companies, and some from no company at all, contribute to the Linux kernel. That means Linux, which basically runs the internet, is maintained by a whole army of everyday heroes. If you're feeling eager to make your first contribution to open source, maybe you want to learn more about the Fedora community, we've got a ton of materials waiting to help you out. Check out redhat.com/commandlineheroes for more.
+	
+762f096433158d6a598bc90bc9892912|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|388|1|V|markdown
+	Quick reminder, this season we're building our very own open source Command Line Heroes game. You are invited to contribute in whatever makes sense for you. Get the deets on how to be a part of it; we would love for you to build this game with us over at redhat.com/commandlineheroes.
+	
+a1102a39a531267448b7f5c2e0e4f0c0|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|391|1|V|markdown
+	
+	Next episode, we're all about the ruthless Darwinian process of errors and the beauty of failure in open source development—how it haunts us, guides us, and makes us better.
+40d2044387d09bb6acb120105de32207|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/LCRH-S02-RTC-Final.md|396|1|V|markdown
+	Command Line Heroes is an original podcast from Red Hat. Listen for free on Apple Podcast, Google Podcast, or wherever you do your thing. I'm Saron Yitbarek, until next time, keep on coding.
+	
+fa7286058cd92fd2e953eebb3e1f15df|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|13|1|V|markdown
+	Open source projects can help change the world by removing barriers, linguistic and otherwise.
+d70209dea23cc9d68117b6647375d433|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|16|1|V|markdown
+	My open source journey started rather late in comparison to many of my peers and colleagues.
+f4da5282fa642806e4148a895079552c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|10|1|V|markdown
+	My Linux story: breaking language barriers with open source
+7e8e5235fb8995d45b8056bd3ed21566|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|17|1|V|markdown
+	I was pursuing a post-graduate degree in medicine in 2000 when I managed to fulfill a dream I’d had since high school—to buy my own PC. Before that, my only exposure to computers was through occasional access in libraries or cyber cafés, which charged exorbitant prices for access at that time. So I saved up portions of my grad student stipend and managed to buy a Pentium III 550 Mhz with 128MB RAM, and as came standard in most computers in India at that time, a pirated version of Windows 98.
+4ae497aa82b817f9037bb01ff1fefa86|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|19|1|V|markdown
+	There was no Internet access in my hostel room. I had to go to the nearby cyber café, download software there, and then carry around dozens of floppy discs.
+0c84ce12df7df9c9da9e4fe0806f6de1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|20|1|V|markdown
+	
+	As happy as I was finally owning my own computer, it bothered me that I could not write in my mother tongue, Bangla. I came across resources provided by CDAC, a government agency that provided Indian language tools based on ISCII, an older national standard upon which the Unicode standard of Indic language was based. It was difficult to learn the keyboard layouts.
+ca88b4a8dbda009305890bf6a8e6db74|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|37|1|V|markdown
+	### Joining open source
+edfe088f68577aba07778377c067cc29|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|24|1|V|markdown
+	
+	Soon, I came across a software called [Yudit][2], which offered phonetic typing of Indic language using the standard QWERTY keyboard. It was with Yudit that I first came across terms like open source and free software, GNU, and Linux. Yudit allowed me to translate UI elements into Bengali too, and when I submitted the translations to the developer, he gladly incorporated them into the next version and credited me in the README of the software.
+a58092c874f3bf6caabea8e1f3034754|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|27|1|V|markdown
+	This was exciting for me, as I was seeing, for the very first time, an application user element in my mother tongue. Moreover, I had been able to contribute to the development of a software despite having almost zero knowledge of coding. I went on to create an ISCII-to-Unicode converter for Yudit, which can also be used for transliteration between various Indian languages. I also bought a Linux magazine that came with a free live CD of Knoppix, and that’s how I got a feel for the Linux desktop.
+cea8370a8d06805dfebd28c806775858|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|29|1|V|markdown
+	Another issue I faced was the lack of availability of Unicode-compliant OpenType Bangla font. The font I used was shareware, and I was supposed to pay a license fee for it. I thought, “Why not try my hand at developing it myself?” In the process, I came in contact with Bangla speakers scattered worldwide who were trying to enable Bangla in the Linux operating system, via `bengalinux.org` (later renamed Ankur group).
+09296e983ec748ccec7cb75a0a7b7611|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|30|1|V|markdown
+	
+	I@s joined their mailing list, and we discussed among ourselves and the authorities the various flaws in the Unicode and OpenType specifications of Bangla, which were then corrected in due course. I contributed by converting legacy Bangla fonts into OpenType Unicode-compliant fonts, translating UI, and so on. That group also came out with the world’s first Live Linux CD with a Bangla user interface.
+53d1f159b0e00ff07069b37e3e8b23b0|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|37|437|V|markdown
+	Now, I feel more comfortable using Linux to do my daily work than any other operating system. I also feel proud to be associated with a project which allows people to communicate in their own language. It also brought computing power to a population who were for a long time considered to be on the other side of the “digital divide” because they did not speak English. Bangla is actually one of the most widely spoken languages in the world, and this project removed a major barrier to access for a large chunk of the global population.
+	
+ef691fe06fb6f6d62766a813fb07326b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|41|248|V|markdown
+	Joining in on the open source movement is easy. Take the initiative to do something that is useful to yourself, and then think about how it could be useful to others. The key is to keep it freely available, and it can add untold value to the world.
+	
+a1dd1f508a6f89b6bccc0a08519ee77b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200714.md|33|1|V|markdown
+	In 2003, I had moved to a place where I did not have access to the Internet; I could only connect to the group on Sundays when I came to Kolkata. By that time, Bangla localization of Linux had become a mainstream thing. Some of our volunteers joined Red Hat to work on translation and font development. I also became busy in my medical practice and had little time left for open source development.
+535e0213b2ecccdc4e5488992414a6ee|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|10|1|V|markdown
+	What you need to know about Rust in 2020
+42cf593b947cd3d591fa132742486f89|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|13|27|v|markdown
+	Person 
+16e0a543a9f72ea140a447b2e0978348|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|13|27|v|markdown
+	using 
+312f91285e048e09bb4aefef23627994|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|13|27|v|markdown
+	laptop
+c89ac9c58cb09d50c88c8cac0523639f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|12|152|V|markdown
+	While many programmers have long used Rust for hobby projects, in 2019, the language attracted support from major technology companies, as the top Rust articles on Opensource.com explain.
+	
+f538b5a4dda807125167886c432aa9a8|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|15|1|V|markdown
+	[Rust][2] has drawn plenty of attention from programmers on sites like Hacker News for a while. While many have long [loved using the language][3] for hobby projects, it didn't start catching on in industry until 2019, when this really started to change.
+ae0f523bcec656a57210a5c3d0ffcb40|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|51|11|v|markdown
+	译者ID
+e061505f4822766ce2975223e18832c9|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|17|1|V|markdown
+	Over the last year, many large companies, including [Microsoft][4], [Facebook][5], and [Intel][6], came out in support of Rust, and many [smaller ones][7] took notice. As the first emcee at [RustFest][8], the largest Rust conference in Europe, in 2016, I didn't meet a single person professionally using Rust who didn't work at Mozilla. Three years later, it seemed like every other person I talked to at RustFest 2019 was using Rust in their day job for another company, whether as a game developer, a backend engineer at a bank, a creator of developer tools, or something else.
+fea0b62b24bbcf8ea5eef33c1882c722|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|19|156|V|markdown
+	In 2019, Opensource.com also played a role by reporting on the growing interest in Rust. In case you missed them, here are the top articles about Rust on Opensource.com over the last year.
+	
+1dabf59d616ae605af85ea3142538ca1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|21|1|V|markdown
+	### Building the virtualization stack of the future with rust-vmm
+a4efd8c66ce20310e10191f114e89911|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|21|5|v|markdown
+	使用 rust-vmm 构建未来的虚拟化堆栈
+	
+bdb16046dcd1c24f6919fbe9c65cb42c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|23|220|V|markdown
+	Amazon's [Firecracker][9] is the virtualization technology that powers AWS Lambda and Fargate, and it is written completely in Rust. One of the technology's authors, Andreea Florescu, offers insight into Firecracker and its related technologies in [_**Building the virtualization stack of the future with rust-vmm**_][10].
+	
+cec66c04354d9f46441c15daf95aaa87|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|25|1|V|markdown
+	Firecracker started life as a fork of Google's [CrosVM][11] but quickly diverged due to the differing needs of the two projects. Despite this, there are many common pieces that are best shared across the project and in any other virtual machine manager (VMM) written in Rust. With that in mind, the [rust-vmm][12] project started as a way for Amazon and Google, as well as Intel and Red Hat, to share common Rust "crates" (i.e., packages) with each other and the rest of the open source community. These include interfaces to KVM (Linux virtualization APIs), Virtio device support, and a kernel loader.
+8a5a2a23da0935fddb920980dc40f048|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|27|192|V|markdown
+	It's truly amazing to see some of the titans of the software industry working together around a common technology stack written in Rust. Given this and other partnerships around [technology stacks written in Rust][13], I wouldn't be surprised to see more of this in 2020.
+	
+4ebb144be4a03519fbe95e1ac52aedee|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|29|1|V|markdown
+	### Why to choose Rust as your next programming language
+89859210213e02bd73f74e8f7356622d|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|31|219|V|markdown
+	Adopting a new language, especially at a large company with a long-established technology stack, is no easy task. I had the pleasure of writing [_**Why to choose Rust as your next programming language**_][14] about how Microsoft is looking into adopting Rust when so many other interesting programming languages have not been considered.
+	
+69eee0ae5db9f45ca2166a70a7d6efde|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|32|1|V|markdown
+	
+	Choosing a programming language involves many different criteria—from technical to organizational to even emotional. Some of these criteria are easier to measure than others. For instance, it's easier to understand the costs of technical changes, like adapting build systems and building new tooling, than it is to understand organizational or emotional issues like how productive or happy developers will be using this new language. What's more, the easy-to-measure criteria are often cost-related, while the hard-to-measure criteria are often benefits-oriented. This often leads to costs getting more weight in the decision-making process, even though it's not necessarily true that the costs outweigh the benefits—it's just that they're easier to measure. This makes it unlikely for a company to adopt a new language.
+12ffc0215ea32c719eefb0c7900e773b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|35|1|V|markdown
+	However, one of Rust's largest benefits is how easy it is to measure its ability to write secure yet performant systems software. Given that 70% of severe vulnerabilities at Microsoft are due to memory-safety issues that Rust is designed to prevent, and that these issues cost the company billions of dollars per year, it's easy to measure and understand the benefits of adopting the language.
+01dc0bd34bc51871a42109daef490687|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|37|123|V|markdown
+	Whether full-scale adoption of Rust at Microsoft will happen remains to be seen, but Rust's future is bright if only for the fact that is has a clear and measurable benefit over existing technologies.
+	
+5175d671d14b3fbc7436e54b106c898f|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|39|1|V|markdown
+	### Rust in 2020
+d4dce05bc72446e0ae7a3cb7fc70ea91|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|43|1|v|markdown
+	Rust 实际上已经开始在工业界引起关注。
+e812e757166f1f799147a018dfa327c7|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|46|1|V|markdown
+	Rust is more than just a compiler and a set of libraries. It's a group of people who care about making systems programming easy, safe, and fun. The coming year will be critical in Rust's journey from a hobbyist language to one of the main languages used in the software industry.
+c3b06b9ea5b4d66cdec6c7cf99e15445|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/20200103.md|40|1|V|markdown
+	Rust is really starting to gain traction in industry. Although it still has a long way to go to reach the popularity of languages like C++. I expect more companies to start adopting Rust in 2020. The Rust community must now set its sights on welcoming people and companies into the community while ensuring that the things that have driven the language to this point remain in place.
+8aedffdd898e600ba362c7c9ad2dd750|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|10|1|V|markdown
+	How failure-driven development makes you successful
+7a7767f497d564d148e3aa88e94ea8b8|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|12|1|V|markdown
+	I'm the picture in the dictionary next to the word "failure"—and that's why I'm good at my job.
+9a46483ccfebfd61705dfb42b6c4bf9e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|14|1|V|markdown
+	
+	My job title is senior software engineer, but that's not what my closest co-workers call me. They call me "Cherrybomb" because of all the things I blow up. My regularly scheduled failures have been tracked down to our quarterly earnings and outage times. Literally, I am the production disaster you read about that says, "what not to do ever, in any case, at any time."
+bded345b3ae09969767a71f0279040f1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|17|1|V|markdown
+	I started my career at a helpdesk where I wrote loops that wrecked servers in high-end companies. I have taken production applications down for up to eight hours without warning, and I have destroyed endless numbers of clusters in an attempt to make things better—and a couple just because I mistyped something.
+6a65ce2475777eb9fec720c03b9ab9cd|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|19|1|V|markdown
+	I am the reason we have disaster recovery (DR) clusters in [Kubernetes][2]. I am the chaos engineer that, without warning, teaches people how to act and troubleshoot quickly when we have an application that has never been tested for an outage recovery plan. I exist as the best example of failure possible, and it's actually the coolest thing ever.
+2886fefe2db29272a03ed284c7d3ec80|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|21|1|V|markdown
+	### Jess and the disappearing K8s clusters
+fc498832d2d8292dc5dc9774abae8673|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|23|1|V|markdown
+	One of my official responsibilities involves our application architecture. For any sort of architectural change, I get to make and test the code and see what is possible. Recently, this has been an epic pain in my bosses' side, to put it gently.
+e9cf0eeeda4d474459276cb6f2f7efbd|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|28|1|V|markdown
+	
+	In light of this, it's reasonable to ask why I am still employed—and why am I writing about this. Those are easy to answer: I'm still employed because my infrastructure code updates work better and faster than the code we started with. And am I writing about this because everyone fails regularly; it is so very, very normal. If you're not failing regularly, I don't think you're trying hard enough to learn.
+a0d419b2ac09aec74e140a1a61e49e66|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|31|1|V|markdown
+	### Break things and train people
+7c6b7602a2de264f198e1aab417173a9|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|32|1|V|markdown
+	
+	You'd also think no one would let me train anyone ever; that it's the worst idea ever because (as my team jokes) you should never, ever do the things I do. However, my boss has me train anyone walking in the door pretty regularly. I even provide training for entire teams using our infrastructure or code to teach people how to build their own infrastructure.
+2d315258da72a5fe41f97631829dc8bd|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|35|1|V|markdown
+	Here's why: Failure is your first step to success. Failure's lesson isn't just "backups are a fantastic idea." No, from failure, you learn to recover faster, troubleshoot quicker, and get amazingly better at your job. When you get amazing at your job, you can train others about what not to do and help them understand how everything works. Because of your experience, they will be a step ahead of you were when you started—and they, too, will most likely fail in new, amazing, epic ways that everyone can learn from.
+ab58b47222cea8c2358a6e5ef2c72f1e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|37|1|V|markdown
+	### You are only as good as your failures
+775334602d59cdcfcf42fe31c4db6b10|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|39|1|V|markdown
+	Nobody is born with talent in software engineering and cloud infrastructure, just like no one is born walking. We all start by rolling and bumping into things. From there, we learn to crawl and then stand for a moment or two. When we start walking, we fall and scratch our knees, bump our elbows, and—at least in my brother's case—walk right into a table's sharp corner and get stitches in the center of your eyebrow.
+8f047d52689ab759d3a60d3a3d555527|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|41|130|V|markdown
+	Things take time to learn. Read everything you can get your hands on to help you along your way—but that is always the beginning. Perfection is some fantasy that's impossible to achieve; you must fail to reach success.
+	
+b5d66242fa61562ec4dc4c612b07cb8e|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|43|48|V|markdown
+	Every step of the way, my failures teach me how to do things better.
+	
+87db4d4d69c3e1a6b39a958bd7fa97d1|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|45|1|V|markdown
+	Ultimately, you are only as good as the sum of your failures, because that's what shows you how successful you are.
+c82270c9dba2ce3ace2bb22f764a91cf|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/20200331.md|47|79|V|markdown
+	Open source is about more than the code, it’s about the culture. The open cddulture that many open...
+	
+	开源不仅在与代码，还在于文化。
+b280045cced13ab57ab25718988c5395|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/LCRH-S04-MiniCSOM.md|17|472|v|markdown
+	数据通用
+c46777f3a6f4b0cabc7622d40a2eea3b|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/LCRH-S04-MiniCSOM.md|51|1|V|markdown
+	Carl Alsing was the manager of the micro programming group at Data General. He was Tom's second in command. They decided to come up with their own project.
+2c0db59c9460418d3a2e0d1e4486e357|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/LCRH-S04-MiniCSOM.md|83|95|v|markdown
+	micro 
+16f78c04bfe635fcbe6df65e361aa90c|file:///home/godlovesjonny/Jonny/Open-Source/Linux-cn-Translation/todo/LCRH-S04-MiniCSOM.md|83|95|v|markdown
+	coding 
+0ffbf0d3f56d850735aa34bace6fceb9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S04-MiniCSOM.md|239|1|V|markdown
+	现在回过头想想，你觉得自己当时有被剥削吗》  
+9034f1d10d7c645297b9ed9402b23f8f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|15|231|V|markdown
+	The year was 1978 and a battle was raging in the mini-computer industry. Just a year earlier, Digital Equipment Corporation released its 32-bit VAX 11 780 computer. It was much more powerful than the 16-bit machines in the market. Sales of the VAX quickly overtook their slower competition. Archrival, Data General, was desperate for a new machine to compete with the VAX. They needed a 32-bit computer of their own and they needed it fast, but that competition between Data General and DEC wasn't the only battle going on. There was also a turf war brewing inside Data General and the spoils of both wars would be the creation of an incredible machine under incredible circumstances. A 13-inch laptop weighs maybe three pounds. We take for granted our computers’ portability and convenient size, but back in the 70s, most computers were still room-sized mainframes, multi-million dollar machines weighing several tons. Then, when hardware costs plummeted, the race to smaller, faster, cheaper machines began. The mini computer opened the door for engineers and scientists to have a terminal of their own. It was the machine that led us to where we are today.
+	
+a8f52e02664161aef2682c0b9aa217f3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|19|1|V|markdown
+	Last season on Command Line Heroes, we took a deep dive into an area that is central to software development, the world of programming languages. We looked at their history, the problems they solved, and how they've evolved over time. Languages like JavaScript, Python, and C, Perl, COBOL, and Go. This season, season four for those of you counting, we are diving deep again, this time into the hardware that our software runs on. We're going to tell you seven special stories about the people and teams who dared to change the rules of hardware. That laptop on your desk, that phone in your pocket, command line heroes put their soul into every piece of hardware you've owned and heroes before them. Their passion for building their bold moves to make our hardware a reality has revolutionized the way we program today.
+	
+e3f84cb969083e7084a60ad5770514d2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|23|1|V|markdown
+	I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat.
+	
+91f5bc8ccdb4ef69e04492ba72c0439c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|27|240|V|markdown
+	In our season premiere, the story of an engineering team racing to design, debug, and deliver a next-generation computer. Their work became the subject of the 1981 bestseller and Pulitzer-winning book, The Soul of a New Machine by Tracy Kidder. The book follows many of the guests you'll hear in this episode.
+	
+cd9f8d8680a821b0d9d7d30312cbe848|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|31|1|v|markdown
+	He splits up the engineering department, moving a team from its Westboro, Massachusetts headquarters to a new office in North Carolina. Their assignment? Develop an advanced 32-bit design that would crush the VAX. T
+fbb2953e8404d071073343ed4e1baa6a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|31|112|V|markdown
+	hey named their project, Fountainhead. De Castro gave the team almost unlimited support and resources. Fountainhead was going to be his company's savior. The few remaining engineers left behind in Massachusetts, they felt seriously slighted. They knew they could build a VAX killer, probably a better one than what Fountainhead could build, but de Castro wouldn't give them a chance. So the leader of that group, Tom West, decided to take matters into his own hands. A self-taught computer engineer, Tom West ran Data General's Eclipse division. Eclipse was data General's most successful line of 16-bit mini computers. Tom could build machines, he could ship them, and he knew what the market wanted. After setting up Fountainhead, de Castro told the remaining engineers to keep working on improving last year's product line. Tom and the others were unimpressed.
+	
+c618ca819e34f86e8ef395e561b10b4f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|35|1|V|markdown
+	We were not happy with that at all. Some of us left for other jobs and others of us were depressed and worried about our careers and not feeling very excited. And we predicted that the other group was going to fail.
+	
+8036c2dca212a0d6e9477964a5f8bcbd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|39|1|V|markdown
+	Carl Alsing was the manager of the micro programming group at Data General. He was Tom's second in command. They decided to come up with their own project.
+	
+0025a7ac2494e365e2d710635f4144a3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|43|1|V|markdown
+	This'll be a whole new design using the latest techniques, build a 32-bit computer that would beat the DECs’ VAXs. So we put together a proposal for that and went to the president, Ed de Castro, and he says, "Nope, no way. No, the North Carolina groups taking care of that. You don't have to worry about it." So we were discouraged and we went back and came up with another proposal called Victor. We looked at ways of making the old last year's product better. And we had in there a little switch, a mode bit in the system, that when you turned it on, it would enable the computer to act like a modern 32-bit mini computer, although slow. And we took that to Ed de Castro and proposed it. And at the end he said, "You have a mode bit in here. I don't want to see any design with a mode bit. North Carolina's taking care of the new designs." So again, we were discouraged and I think this is when Tom West decided that we were going to do something clandestine.
+b357332f2b84b4acf98676065fa7e3bc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|47|351|V|markdown
+	Tom came up with two stories. One was for de Castro. They would work on an enhancement of the old Eclipse product line, make it a little faster, add a few new buttons, a different color. Tom pitched it as insurance just in case something went wrong in North Carolina. De Castro approved it. And then Tom told another story, a better story to his team.
+	
+cd03eadbd83dfbb13a4b21dbf28a1213|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|51|1|V|markdown
+	So Tom West proposed to a few of us in the team that we build a really good modern machine that's completely compatible with the previous machines and did all the latest high tech stuff that we needed and virtual memory and 32-bits and error correcting codes and all those kinds of things. Multitasking, multiprocessing, lots of memory. "Guys, we're going to build the latest market-killing new machine."
+	
+fe15078ba2c6518d6ed5ebb72e8f845f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|55|1|V|markdown
+	The code name for this market-killing new machine, was the Eagle. Nowadays, it feels like there's no limit to what you can do with the memory built into our computers, but back then, a big breakthrough happened when 16-bits gave way to 32-bits. All of a sudden, your address space went from 65,000 bytes of information to over 4 billion. And with that increase, software could deal with larger amounts of data. That left computer companies with two basic challenges: transitioning from 16-bits to 32-bits, sure, but they also had to keep their old customers, the ones using the old software, happy. So, they had to create a machine that would keep old software running, a 32-bit computer that could be backward compatible. The VAXs, for all its power, didn't have an elegant solution to that second problem, but Tom was determined that his Eagle would.
+	
+167be2bf461cf67fd889c92505166c85|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|59|41|V|markdown
+	Eagle HQ was located in the basement of Westborough building, 14 AB. Tom assigned Carl to head up micro coding. Carl assigned Chuck Holland to manage the coders, who became known as the Micro Kids. Meanwhile, Ed Rasala would oversee hardware. He assigned Ken Holberger to manage that team, which was appropriately called the Hardy Boys. Tom had an ally in VP of Engineering, Carl Carman. Carman also had a bone to pick with de Castro because de Castro refused to put him in charge of the North Carolina group.
+	
+489684fd02429c6afec5b0c7067eabf5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|63|1|V|markdown
+	Carl Carman knew what we were up to and said nothing to his boss. And so he was funding us, but we needed to keep the salaries down, and we needed some really good smart engineers. So we decided to go after college recruits. One advantage of that is that they don't know what you can't do. They think that you can do anything.
+	
+a21e9ed2899b13fba4d1c9072275e955|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|67|1|V|markdown
+	Jim Guyer was two years out of college and working at Data General when he got assigned to the Hardy boys.
+	
+ba85fac4d04c35db4c8e2b413b1888a9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|71|91|V|markdown
+	The machine that was being developed down in North Carolina was much more high-end computing, almost mainframe in nature. And well, I mean, that's a pretty big thing to jump into to compete with IBM and the other mainframe companies at the time. We thought we had the edge because we were trying to do something that was not quite as ambitious and we were really, really, really focused on a neat, clean, simple implementation with low cost and fewest components and so forth.
+	
+665bc5248d58c78f307ce979497ec441|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|75|1|V|markdown
+	Low cost, simple design. They realized that they needed to use firmware to control everything. The more functionality they could put under firmware as opposed to hardware, the cheaper and more flexible it could be.
+	
+84863967ac3f5c2baf34d2ada898e86e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|79|1|V|markdown
+	And they'd be able to make changes as needed. Of course, modern-day computers are all built this way, but in 1978 the approach was brand new.
+	
+8a16e3f6bc05ac3776f77137762ec620|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|83|1|V|markdown
+	The kind of design we were doing was very minimal. We were looking at ways of making things simple and straightforward, uncomplicated. Because we knew that it couldn't grow to be a big, expensive machine. It had to be just a few boards, a few circuits, and that's actually an advantage in making it fast. There's a difference between designing a product that's safe, risk-free, and a product that's going to win. And we were not worried about risk. We were worried about winning. We wanted it to be fast and cheap and we wanted to design it quickly. So, we only had three or four boards in there, a minimum amount of hardware, and we made up for that with firmware.
+	
+8f37408da0065c7dddbdfb0881806fe6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|87|1|V|markdown
+	The Eagle team faced a lot of tough constraints. The VAX was the highest performance, 32-bit computer on the planet. Eagle had to match it. But on top of that, it had to be compatible with their 16-bit architecture, too. Getting all that done with less money and time than any other team, made Eagle feel like a serious gamble. But Tom West's team was all in.
+	
+d98845d44416201004cf4f5cbb80d5ba|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|91|1|V|markdown
+	There were two systems running 24/7 that we had two shifts of engineers working on them. We all have to be trying to figure out everything. So, we had to learn what everybody else's part did. That was both challenging and extremely educational for me. But we were all engaged with each other to try and go, "What's the next step to figure out this problem? What do we need to look at?" Everybody poring through schematics and other pieces of documentation to figure out, "Look at this signal, look at that computer state, look at the sequence of steps that the microcode is going through. Is it doing the right thing? Oh wait, it's going the wrong direction. Uh oh, why did it do that?"
+	
+aa6c71abf77a1fb0e29f4c3813953059|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|95|1|V|markdown
+	This was serious business and that was the work ethic. It was intense in the group. There were sometimes arguments about which way to do something. There might be one way that costs a little bit more money and another way that was cheaper but not as fast or not as effective. And there'd be heated discussions and meetings with some effort to make a consensus. And we made those choices though. And then we worked together.
+	
+0dc6cd1b2f739d61505d3d32905b34b7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|99|1|V|markdown
+	We worked day and night, we divided up the hours for the prototype. We only had two prototypes and it was really important that both teams get to work on those prototypes. So, there were people working the night shift and people working the day shift and people getting tired. But there was enough excitement about it that it was rewarding. And so nobody complained too much about the working conditions.
+	
+22322df89a02735151a00bce9f95c0b8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|103|1|V|markdown
+	The working conditions. Some accounts from that time say that to get what he wanted from the team, Tom West practiced something called mushroom management. Feed them \[beep\] and watch them grow. Inside a cramped and hot workspace, the hours were long and the schedules unrealistic. Tom himself has been described as enigmatic, cold, uncaring. One engineer even referred to him as the Prince of Darkness. Was Tom West so intent on winning that he exploited his team? Did he sacrifice the wellbeing of the Micro Kids and the Hardy Boys to get the perfect machine?
+	
+8b48aaf79a1b63fa351c96ff968831cb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|107|1|V|markdown
+	Tom was an interesting guy to work with. He expected a lot of you, and he didn't give you a lot of direction. He expected you to figure out what you needed to do, and pretty much if you weren't able to do that, you weren't on the team.
+	
+465996b8b835b6264416f3bbde98c332|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|111|1|V|markdown
+	Direction came from Carl or Ed, the line managers that Jim and the rest of the team worked with on a daily basis. But these young engineers were also in it to win and they liked the opportunity they were given, to figure it out for themselves.
+	
+f80f1b54a2118f984ce30dde113806a7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|115|1|V|markdown
+	I personally won the first honorary Micro Kid allnighter award. I don't know, maybe we were over competent, brash, young upstarts who didn't know any better. We were confident. We thought we were pretty smart and could figure things out, and we fed on each other's, maybe those are egos, in that sense. I was having a lot of fun doing it. I think most of us were having a lot of fun doing it.
+	
+d320f98aa2c789dfc7447834b70611d6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|119|1|V|markdown
+	Carl disagrees with the term mushroom management. He said it was just the opposite. They all knew exactly what was going on and what was expected. It was upper management who didn't. At the same time, Tom West was under a tremendous amount of pressure from multiple fronts, and that pressure got passed along to the group.
+	
+41e9d11e533666d4fd55dd3e740bb2ca|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|122|1|V|markdown
+	
+	Tom was keeping the true nature of the project quiet. So, he didn't speak much to the engineers, and he remained aloof and he told them, of course, that they weren't to discuss the project outside the group or at home. Not even to use the word Eagle. So we also conveyed that this was very urgent, that we had to do this in a year, that the competition was already in the market, and if we were going to hit the peak of the market with this thing, we had to get it done now. And so they were under a lot of pressure and there was an expectation that they would work nights and weekends and there would be no time for going on picnics with their family or anything that wasn't work-related.
+376777f38f82e08631cd41d4815dd46f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|126|1|V|markdown
+	
+	I wanted to find out what it was like working in the trenches of Building 14 AB. So, I sat down with Neal Firth. He was one of the Micro Kids. He joined the team fresh out of school.
+60d1cfd4e11064c1423016599b0375f0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|130|1|V|markdown
+	
+	What was it like to work for Tom West? Did you get to interact with him a lot?
+21a4bafbe102137309721e9f2036ab06|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|134|1|V|markdown
+	
+	Not necessarily. He was this ghosty figure. We saw him around. He tried not to interfere so that we could lead ourselves and achieve the goals. This was brand new stuff for what they were doing, and he didn't want to influence us by trying to impose things that had to be done for the previous generation of processors.
+37ce2ae8e32cc018c1be194cd7c666c1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|139|1|V|markdown
+	It sounds like an intense place where you really want to keep moving and keep getting things done. How did you deal with the fact that there wasn't a ton of time?
+	
+079f773746ecc0a3c8324ef3f9f9f72f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|142|1|V|markdown
+	
+	It wasn't a factor to be honest. There was really no issue with there being enough time. We would take the time it took to achieve the result. That's where the spouses had to be very supportive and understanding, because they didn't necessarily say yes immediately. You could equate it to some of the Silicon Valley people at the time or the Jobs, Wozniak type, let's just get in and get this done. We are not quite all live-in-the-same-apartment and code-on-the-floor type people, but it had some of those characteristics.
+55f38f8aa21acf92a1a2f40d5dac2526|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|146|1|V|markdown
+	
+	And during that time, what kept you going? Why were you so motivated?
+dddce212a92e9511ffa244d11be6a2c1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|150|1|V|markdown
+	
+	Quite frankly it was solving a problem. I've always been a puzzle and problem-solving guy. In fact, most of the team was that way. All of us had that in our background, and we all enjoyed it. So, solving those puzzles, getting those things solved, discovering a way to do something that had never been done before.
+ff5015d98684670f47530299125c0244|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|154|1|V|markdown
+	
+	So what was your most memorable moment on the project?
+a2fc3a78cb905f085ece2ab641d41adf|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|159|1|V|markdown
+	At the time, it was quite a ways into the project, and we were running the microcode simulator, and it was actually running what was proposed to be the production simulator, and it had been running for about 10, 12 hours. And all of a sudden, the letter E shows up on the console and then we waited a little while and another letter, then another letter, and then we suddenly realized what we were running for test code was the diagnostics that were being designed to run. And so the microcode simulator was simulating the hardware running this microcode, and it was starting to print characters as if it was actually operating. So, it was maybe a hundred thousand times slower than real life, when it actually came out and operated, but that was one of my most memorable moments.
+	
+7f41b7f4645d051f536e7238aeb1c63d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|163|1|V|markdown
+	Looking back on it now, do you feel like you were exploited?
+	
+0712df31b4c78c7236a09a8900f89d1e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|167|1|V|markdown
+	No. I was aware of what was happening. I knew what was happening. So, no. I do not feel exploited. It was actually my expectations coming out of college, it would have never been that I would be in a project that significant, or have an opportunity to play such a significant role in a project like that.
+	
+84800c979cb1f8df4494d08d48cb5f11|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|167|1|V|markdown
+	No. I was aware of what was happening. I knew what was happening. So, no. I do not feel exploited. It was actually my expectations coming out of college, it would have never been that I would be in a project that significant, or have an opportunity to play such a significant role in a project like that.
+8d6f761e6c6870f4377f2ef0a8e73ff8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|171|1|V|markdown
+	I'm wondering how you think about the sacrifice of invention, because if you think about all the great things that we make, usually we have to give up something, right? Something's got to give to make something truly amazing. Did that happen for you? And if so, what was that thing that you had to give up?
+	
+2f7590afac06f160a9b9c7191befacea|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|174|1|V|markdown
+	
+	I wouldn't say that there was a thought-driven process on my part for giving up something. I think it was much more that I became a little more attuned to what I was doing and how I did it impacted those around me.
+d999184b4dc8c3ea828993e993549101|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|178|1|V|markdown
+	
+	But I never necessarily saw it as a sacrifice, and the people I was close to, they lived in a world where that's just the way things happen. I hear the horror stories, if you will, about today, where 24/7 you wake up, you plug in your coffee IVs, grab some pizza or dim sum, and you start coding, and eventually you fall asleep in your keyboard. And then you wake up the next morning and repeat the process.
+d1049bfe77597fba78bc88e54756e69b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|182|1|V|markdown
+	
+	We certainly were nowhere near that level of sacrifice. I still had a wife, I still had friends, we still got together. It certainly wasn't a nine-to-five job, but it provided me with a lot of personal and technical achievement, and I was able to share that with my wife, and my sister, and my mother and my father, and my father-in-law. So, those people could appreciate that.
+b6552f17c824ad73986e929e60d89141|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|187|1|V|markdown
+	Yeah. So, what do you think is the key to making something truly great?
+	
+2dd0ed671ea4cc2941376a0e1b384dec|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|191|1|V|markdown
+	Key to making something truly great. Interesting question. I think it depends on the people involved doing it, because they want to, not because they have expectations of achievement, or wealth or fame. Because those things are very fleeting and almost never satisfied. But if you're going in trying to achieve a goal, and you and a bunch of people work together on it and achieve it, that really is satisfaction when you achieve that.
+	
+e3d0aca0df8e3b162d67f0a65c7eda33|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|195|1|V|markdown
+	Neal Firth was one of the Micro Kids on the Eagle Project. He's currently the president of VIZIM Worldwide, a software company.
+	
+3b8f543d1e694d12799c93a3fbbe6068|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|198|1|V|markdown
+	
+	As chronicled in Tracy Kidder's book, Tom West's aloofness and distance was deliberate. It was his attempt to keep a clear head above all the day-to-day chatter so that Eagle's goal could remain intact. Even more than that though, he wanted to protect the team, isolate them from the politics and corporate brinkmanship happening around them. He also protected the Micro Kids and the Hardy Boys from preconceived ideas about what was possible.
+7c6496ae08d544e8db51fa30c8b025e6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|202|1|V|markdown
+	
+	In 1980, the Eagle was complete. A year later than Tom had promised, but done nonetheless, unlike Fountainhead. Just as the senior team had predicted, the Fountainhead group had failed and their project was shelved. Here's Bill Foster, director of software development at the time, on Fountainhead's struggle.
+7e3cd01867fb65f7c5d75d4d00fee848|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|206|1|V|markdown
+	
+	I think the biggest mistake that was made was it wasn't given any limitations. More or less, it was let's do the world's best computer. Well, when should it be done? Oh, we don't really have a date for that. How much should it cost? Well, we're not sure about either. And I have to fail Ed with this. He didn't put enough boundaries on the programmers and the engineers.
+c7b743b6111509cec6bf8c25086c9f9d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|211|1|V|markdown
+	And if you turn a bunch of programmers and engineers loose, guess what, they're going to make something so complex, design something so big, it will never get done.
+	
+7a05fe75601f691cc42d13e59d27dece|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|215|1|V|markdown
+	Let's remember for a moment. Back when Tom and his team decided they would build the Eagle in secret, for two years this was happening. And the whole time, the president of the company had no idea what was going on. When the machine now officially called the Eclipse MV/8000 was ready to ship, the head of marketing went to Ed de Castro to green light the marketing campaign. Carl Alsing explains.
+	
+7f4b025f36b55d3f1406f536d9edec4a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|218|1|V|markdown
+	
+	The head of marketing, he said, "Well, we're ready to do the rollout for the Eagle and we're going to need several thousand dollars. We're going to have a press conference in six different cities around the world. And we're going to do a tour, and we're going to go to many cities, and we're going to shoot a film and show it, and it's going to be a big splash."
+c6efd2c4b9d91ebc8225b26ef8f774fe|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|222|1|V|markdown
+	
+	And Ed de Castro said, "I don't understand. Why are you doing that?" This is just another bag on the side of the Eclipse. A skin job. And the marketing manager said, "Nope, this is a whole new machine. This is a 32-bit machine. It's got virtual memory. It's compatible. It's going to beat the VAX. We've got the whole thing here."
+13d323c5ccf74cebffd58095a4df2b4b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|226|1|V|markdown
+	
+	And Ed de Castro was really confused for a bit. He thought we were failing in North Carolina and that was going to be the end of it, and we had saved his bacon. So, yeah, he invited us all up, and we had a little lunch meeting. There were sandwiches and soda and he said, "Well, you guys did a good job, and I'm surprised. And I didn't realize you were doing this, but we are going to roll this out, and I understand there's going to be a film, and some tours, and you guys are going to be part of that, so thank you and eat your sandwiches."
+3f46526eb265dfeeb02cebb1a28a63c1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|230|1|V|markdown
+	
+	The Eagle, now christened the MV/8000 appeared on the front cover of Computer World Magazine. All the media hoopla during the rollout turn that team of secretive, basement-dwelling employees into minor celebrities. After all, they had saved Data General.
+a6fd05cb10d1bcc6be455972e924ac26|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|234|1|V|markdown
+	
+	But the good times were short-lived. Tom West could no longer shield the group from the company's internal politics. The team was unprepared for the animosity. Others within the corporation envied their accomplishments and were appalled that they got away with the secret project for so long.
+36cdaf63f253334f8756b243fb97a668|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|238|1|V|markdown
+	
+	Soon, a new VP of Engineering replaced their ally, Carl Carman. The new guy broke up the Eagle group and shipped Tom off to Data General's Japan office all before a single MV/8000 was sold.
+e36af8d9a8e0ff5f897aedcb525ffb69|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|242|1|V|markdown
+	
+	I thought we built the best 32-bit super-mini computer that money could buy, and I thought that was a great thing for Data General, and I thought it was going to kick Digital around a little bit, and not that we ever took the world away from them. Competition in that time was just way too tough, and it's hard to be a winner in high tech, but I thought that we had done something worthwhile.
+015685f2b9f18afd8116b7ab7e9d5a01|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|246|1|V|markdown
+	
+	When the Eagle was released, it did save Data General, but after losing market share to DEC for three years, the company never really recovered, and the industry had moved on. Mini computers were no longer the big thing. The microcomputer race had already begun, paving the way to the personal computer revolution.
+ffa6eb3794a06f852aa98c0a6809aa58|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|250|1|V|markdown
+	
+	Data General went on and did other versions of that, and improvements on it in other models, and it carried them for a while, and so they enjoyed some success. But things change. The market changed and they turned themselves into a software company, and then they ended up being bought out by somebody else. Now, I think they're a file drawer at some company in Hopkinton, Massachusetts.
+7745f1cdc360aa3152066629989893e3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|254|1|V|markdown
+	
+	A year later, many in the Eagle group had left Data General. Some were burned out. Some were ready to build something different. A few headed out west to Silicon Valley, keen to find that next creative spark. Regardless, there didn't seem to be much point in staying on at a company that didn't recognize all they'd done to save it. That same year in 1981, Tracy Kidder's Soul of a New Machine was published. Now, the world would know how the Eagle got built.
+3f81a89607b8214fb3936f8d96d2e23d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|258|1|V|markdown
+	
+	If you're asking me what the soul of a new machine is, I guess I would say it's the people and the things that they go through, the sacrifices they make, and the effort they make, and the excitement they feel about that, and the satisfactions they're hoping to get. Maybe get, maybe don't, but they strive for that.
+d49cd551b0fa8e71edf421f958fd9898|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|262|1|V|markdown
+	
+	The machine, in a way, was kind of a bit character. It was the people who were the real guts of what it was about.
+0998efc277700ffa1fceb5c9950fcdac|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|266|1|V|markdown
+	
+	In the next episode of our all new season on hardware, we go back in time to the world of mainframes and tell the story of another group of rebel employees. The computer they built gave birth to a programming language that changed the world.
+c14a7fb53fa365d9b38f5a77bfcb40ea|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S04-MiniCSOM-Final.md|270|1|V|markdown
+	
+	Command Line Heroes is an original podcast from Red Hat. This season, we're compiling some great research for you so you can learn more about the history of the hardware we're talking about. Head on over to [redhat.com/commandlineheroes](//www.redhat.com/commandlineheroes) to dive deeper into the Eagle and the team behind it. I'm Saron Yitbarek. Until next time, keep on coding.
+543154e738a2057f47038467115e2a06|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|10|1|V|markdown
+	Balloon-powered internet service goes live in Kenya
+8fcefd68756505d250eac6a9526d1c29|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|14|1|V|markdown
+	[Loon][1]
+01d64101f6085c5ac2cce3296b82b1f2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|12|1|V|markdown
+	Alphabet spinout Loon uses balloons to create a floating network of cell towers.
+0955b72177391f6f401b03890f0159e7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|14|112|V|markdown
+	ISP [Telkom Kenya][2] is launching the first commercially available 4G LTE service using balloons that act as a network of cell towers floating in the stratosphere.
+	
+873b3182d47434ec105c174c19e95873|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|12|9|v|markdown
+	 衍生产品
+052f7475dde98b36b626cd1910ac62ed|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|15|1|V|markdown
+	The service will initially cover approximately 19,000 square miles in Kenya, according to Alastair Westgarth, CEO of [Loon][1], a spinout of Alphabet and the underlying technology provider. Roughly 35 or more balloons will comprise the fleet, moving continually, drifting in the stratosphere about 12 miles above the surface of the earth, Westgarth said in an article [on Medium][3]. "We refer to Loon as a floating network of cell towers," Westgarth said.
+b0c96c33daab11859314d5c723456022|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|25|1|V|markdown
+	
+	In the bigger picture, internet service delivery from the stratosphere is an attractive proposition for [IoT][5]. At altitude, network coverage footprints can be more widespread, and coverage can be shifted as demand changes—a mining area moves, for example. In addition, there's less ground-based infrastructure to build out or deal with; developers can avoid the hassle of private property easements required for laying cables, for example.
+386dd586e1587962e7bb585180a24198|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|28|144|V|markdown
+	Service outages are conceivably more controllable, too. A provider could launch another device instead of having to trace faults through elaborate, remote, ground infrastructure. Backup balloons could be staged, waiting to be placed into service.
+	
+d9ce6c22808f349d0636222aeca8d265|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|22|1|V|markdown
+	In testing, Loon achieved a downlink speed of 18.9 Mbps with 19 milliseconds latency and an uplink speed of 4.74Mbps. Westgarth said the service is capable of being used for "voice calls, video calls, YouTube, WhatsApp, email, texting, web browsing" and other applications.
+	
+4051759eb91ec88b731f23fe87c5c052|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|28|1|V|markdown
+	### Drone-based internet delivery
+c242c4fab45ab6ddd8caa8eb8e385442|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|34|1|V|markdown
+	One reason the major Japan telco is interested in stratosphere-delivered internet is because the archipelago is prone to natural disasters, such as earthquakes. Floating base stations above Earth can be more easily moved than traditional cell towers, enabling a quicker, more flexible response to natural disasters.
+7c840afdcda803ede66c9e8fdd602c40|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|30|1|V|markdown
+	Another organization that's exploring the atmospheric Internet is Softbank, which calls its 260-foot wide HAWK30 drones a "floating base station in the stratosphere." (See related story: [SoftBank plans drone-delivered IoT and internet by 2023][6])
+ddca64cbb17faeac83e7b990900aa084|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|34|123|V|markdown
+	Loon's balloons, in fact, been used successfully to deliver internet service following a disaster: Loon provided connectivity after Puerto Rico's Hurricane Maria in 2017, for example.
+	
+f6ad80669b5099961fd03130bb3b954c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|38|1|V|markdown
+	实际上，在灾难发生后，卢恩（Loon）的气球已成功用于提供互联网服务：例如，卢恩（Loon）在2017年波多黎各的飓风玛丽亚之后提供了连接。
+17f92f1f6f6c504cf15af391e15cba83|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|36|190|V|markdown
+	Westgarth said Loon's balloons have come a long way since initial development. Launching is now performed by automated devices that can propel the ground-station-linked balloons to 60,000 feet once every half-hour, as opposed to by hand, as was done in earlier days.
+	
+feeeaf2bcd6e05274acf4a7e0c307c99|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|38|182|V|markdown
+	Machine-learning algorithms handle navigation to attempt to provide sustained service to users. That's not always possible, however, because wind (although not as excessive as can be found at ground level) and restricted airspace can affect coverage despite what Westgarth calls a "carefully choreographed and orchestrated balloon dance."
+	
+1f3b5457e87a93851f0a3997dce90baa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|40|244|V|markdown
+	Plus, the devices are solar powered, which means they only function and provide internet (or reposition themselves, or feed internet to other balloons) during daylight hours. For that and other reasons, Westgarth and Kibati have pointed out that the balloons must augment existing infrastructure and plans—they're not a total solution.
+	
+77f6358100933edfca3c3675930f15a9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|46|1|V|markdown
+	Join the Network World communities on [Facebook][7] and [LinkedIn][8] to comment on topics that are top of mind.
+9b50174bcd759adf854f02be3c0d5f43|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|42|1|V|markdown
+	"To connect all the people and things that are demanding it now and into the future, we need to expand our thinking; we need a new layer to the connectivity ecosystem," Westgarth said.
+	
+b822b945c47f98e2bc847c0a22d3f848|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200720.md|18|1|V|markdown
+	Kenya is underserved by traditional internet, which is why this delivery mechanism is appropriate, said Mugo Kibati, Telkom Kenya's CEO, in a [press release][4]. "… the Internet-enabled balloons will be able to offer connectivity to the many Kenyans who live in remote regions that are underserved or totally unserved, and as such remain disadvantaged," Kibati said. Telemedicine and online education are two expected use-cases.
+	
+4353ff8f345f2b7aa34d9a7cd843ace1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S04FDCW.md|10|1|V|markdown
+	Command Line Heroes: Season 4: Floppies: The Disks That Changed the World
+0d23acb5ce86e4f5c46677598ab0e30a|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|1|62|v|markdown
+	ferried
+ee26908bf9629eeb4b37dac350f4754a|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|1|62|v|markdown
+	blob
+eb0a191797624dd3a48fa681d3061212|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|1|62|v|markdown
+	master
+bd4c3ed19a74f5d3dec8feed48b7ba9d|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|1|1|V|markdown
+	<img style="height:61px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/src/imgs/2.gif" height="50px" width="100%" />
+1a5ce68f575deb4293bb4f6c36e5dbc0|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|15|1|V|markdown
+	<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/3.gif" height="50px" width="100%" />
+780b7cf4d02a66af97bc43a357fddb9d|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|15|43|v|markdown
+	https://github.com/JonnieWayy/JonnieWayy/src/imgs/3.gif

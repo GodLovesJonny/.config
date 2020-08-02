@@ -343,6 +343,7 @@ activate task manager entry 7=Meta+7,Meta+7,激活任务管理器条目 7
 activate task manager entry 8=Meta+8,Meta+8,激活任务管理器条目 8
 activate task manager entry 9=Meta+9,Meta+9,激活任务管理器条目 9
 activate widget 2=Alt+F1,none,激活 程序启动器 部件
+activate widget 55=Ctrl+Shift+D,none,激活 词典 部件
 activate widget 70=Meta+A,none,激活 Launchpad Plasma 部件
 clear-history=none,none,清除剪贴板历史(L)
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,启用剪贴板动作

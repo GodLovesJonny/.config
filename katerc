@@ -98,7 +98,7 @@ Word Completion Minimal Word Length=3
 Word Completion Remove Tail=true
 
 [KTextEditor::Search]
-Search History=IAM2019CVPR,Tian2017Abnormal,Invariance matters: Exe,Improving Deep Visual Representation for Person Re-identification by Global and Local Image-language Association,DelC,intchangestring,coll1,temp,coll,var,new,worda,getc,ch,getword,FILE,shuang
+Search History=Learning semantic concepts and order for image and sentence matching,IAM2019CVPR,Tian2017Abnormal,Invariance matters: Exe,Improving Deep Visual Representation for Person Re-identification by Global and Local Image-language Association,DelC,intchangestring,coll1,temp,coll,var,new,worda,getc,ch,getword,FILE,shuang
 
 [MainWindow]
 Height 1080=1027
