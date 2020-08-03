@@ -1,11 +1,10 @@
-Ø
+Ù
 0m--galaxy-winner-on1.cf/
 0m--galaxy-winner-on1.ga/
 0m--galaxy-winner-on1.gq/
 0m--galaxy-winner-on1.ml/
 0m--galaxy-winner-on1.tk/
 0ndfls4hmp.top/
-0nfcemzk2d.top/
 0wfjdgci5b.top/
 15zooyzkct.top/
 
@@ -36,8 +35,7 @@ aaixb.xyz/
 aaixe.xyz/
 abdisthankcontperp.tk/
 abgooddiarocktrag.tk/
-accrazretepases.tk/
-acdeagablalymin.tk/
+accrazretepases.tk/
 acerarocre.tk/
 adacwaltollrasel.tk/
 admex.life/
@@ -86,14 +84,16 @@ admex.top/
 agileprizeplanet.xyz/
 agileprizestar.xyz/
 agilerewardcapital.xyz/
-agilerewardequator.xyz/
+agilerewardequator.xyz/
+agilesitecenter.xyz/
 agilesiteglobe.xyz/
 agilesiteplane.xyz/
 agilesiteplay.xyz/
 agileslotcenter.xyz/
 agileslotpalace.xyz/
 agileslotplane.xyz/
-agileslotplay.xyz/
+agileslotplay.xyz/
+agileslotspin.xyz/
 agileslotworld.xyz/
 agilespotasteroid.xyz/
 agilespotequator.xyz/
@@ -141,13 +141,8 @@ admex.top/
 attractionsgeorgia.xyz/ 
 attractionsgulfshoresal.xyz/
 avantgardecomputerszz.xyz/
-avantgardemachineszz.xyz/
-awfulcruelty1.live/
-awfulcruelty10.live/
-awfulcruelty15.live/
-awfulcruelty5.live/
-awfulcruelty7.live/
-awfulcruelty9.live/
+avantgardemachineszz.xyz/
+awfulcruelty15.live/
 	awfz.xyz/
 	awze.xyz/
 	awzz.xyz/ 
@@ -157,8 +152,7 @@ admex.top/
 balbailuntiare.gq/
 bangpestcirlaleter.ga/
 baparatulicha.tk/
-bardalipoquara.tk/
-becrodabhandpanha.tk/
+bardalipoquara.tk/
 bemanntegikede.ga/
 beremycrolati.tk/
 berfpotkojer.ga/
@@ -172,14 +166,12 @@ admex.top/
 biahamvieretu.gq/
 bievanhirsmisignigh.ml/
 birthmenwamematch.tk/
-blogocomelacfron.ml/
-blogwalllesssedor.ml/
+blogocomelacfron.ml/
 bloominpywnasourbe.tk/
 boaslicharchurchherzsa.tk/
 boatraceyoso.xyz/
 bogesorasismo.tk/
-bonus-house.life/
-boodzarefmasanno.gq/
+bonus-house.life/
 bopyducttano.ga/
 bottsefungdebtde.tk/
 bracmoathanreta.tk/
@@ -199,8 +191,7 @@ admex.top/
 breakaleg6.live/
 breakaleg7.live/
 breakaleg8.live/
-breakaleg9.live/
-breakbacklicamimo.gq/
+breakaleg9.live/
 brinoureneral.tk/
 britcaribobon.cf/
 bronheartvetimile.tk/
@@ -219,7 +210,6 @@ admex.top/
 c0m--galxy-onr1.ml/
 c0m--galxy-tw0.cf/
 c0m--galxy-tw0.ga/
-c0m--galxy-tw0.tk/
 c0m--galxy-tw2.ml/
 c0m--galxy-won-one.ga/
 c0m--galxy-won-one.gq/
@@ -248,7 +238,6 @@ admex.top/
 cashspace10.live/
 cashspace11.live/
 cashspace12.live/
-cashspace13.live/
 cashspace14.live/
 cashspace15.live/
 cashspace2.live/
@@ -257,29 +246,24 @@ admex.top/
 cashspace5.live/
 cashspace6.live/
 cashspace7.live/
-cashspace8.live/
 cashspace9.live/
 cautihinotici.tk/
 cawestbedsringce.tk/
 ceotarsarobeshou.tk/
 ceovimapdaygebe.tk/
-cepihinato.ga/
-chantowomvena.tk/
+cepihinato.ga/
 chargrocriotely.tk/
 chartlawinpopikab.cf/
 checkerserat.site/
 chenfahrcircstertelxi.tk/
-chilbelllinkberbedes.tk/
-chilcomprabmefuzsubs.tk/
+chilbelllinkberbedes.tk/
 chilraipriminiz.gq/
 chiomescatshula.tk/
 chitnireverre.tk/
 chlorerroberanramb.tk/
-chocolatenews.club/
-chuekhalacchetturscu.ml/
+chocolatenews.club/
 ciadazzducurrwery.tk/
-ciamonegentne.cf/
-cisriemoabadebi.tk/
+ciamonegentne.cf/
 citas-sexo2.site/
 citcailecocesi.tk/
 civilizes806ux.xyz/
@@ -288,8 +272,7 @@ admex.top/
 closurronarfu.tk/
 colrewolfsaderdu.tk/
 comfusutuave.tk/
-compdragrepornhan.cf/
-complingligreliber.tk/
+compdragrepornhan.cf/
 compregogunba.ga/
 comptupupasco.tk/
 compwildtribinrecin.tk/
@@ -346,29 +329,16 @@ admex.top/
 corgevadegawchia.cf/
 cosassjupoper.tk/
 countconnesedel.tk/
-courtcerlicano.ga/
-craaltrscke1.live/
-craaltrscke10.live/
-craaltrscke11.live/
+courtcerlicano.ga/
 craaltrscke12.live/
-craaltrscke13.live/
-craaltrscke14.live/
 craaltrscke15.live/
-craaltrscke2.live/
-craaltrscke3.live/
-craaltrscke4.live/
-craaltrscke5.live/
-craaltrscke6.live/
-craaltrscke7.live/
-craaltrscke8.live/
-craaltrscke9.live/
+craaltrscke8.live/
 cravriovulvipostcast.tk/
 creamrefchigoughdousmo.tk/
 credconkimawordsmooth.gq/
 credenresifer.tk/
 crevemethilalbrac.tk/
-crimirerampapha.cf/
-crosier431tq.xyz/
+crimirerampapha.cf/
 crossaucucicaltre.ga/
 cufaletiguli.tk/
 cuimiruthtikerscal.tk/
@@ -387,8 +357,7 @@ admex.top/
 daycatervilitde.tk/
 decjouagransoti.tk/
 deltaplay.me/
-dertiborpilsnur.cf/
-desensitizer501pj.xyz/
+dertiborpilsnur.cf/
 desretinidel.tk/
 diacoasnoopadenfo.tk/
 diacontlebcoldnylp.ml/
@@ -397,21 +366,12 @@ admex.top/
 diczarancontse.ga/
 dieselyveesupwols.gq/
 digitalcod.fun/
-dilarious10.live/
-dilarious11.live/
-dilarious12.live/
-dilarious14.live/
-dilarious15.live/
-dilarious5.live/
-dilarious6.live/
-dilarious8.live/
-dilarious9.live/
+dilarious12.live/
 dipsmourmecommenet.tk/
 dirmacytiro.tk/
 disfproseraloz.tk/
 dislingpepmomahur.tk/
-diygempointerte.tk/
-downcalaleraf.tk/
+diygempointerte.tk/
 dreamandwork1.live/
 dreamandwork10.live/
 dreamandwork2.live/
@@ -423,8 +383,7 @@ admex.top/
 drehizarensiluft.tk/'
 #duty-free-parf-umer-sale-top.space/
 dverxecosgoto.ga/
-	dwez.xyz/
-earn-greatprofit.life/
+	dwez.xyz/
 easyprotect.club/
 easysecure.xyz/
 ecitoreaoudi1.live/
@@ -480,8 +439,7 @@ admex.top/
 entschuldigung6.live/
 entschuldigung7.live/
 entschuldigung8.live/
-entschuldigung9.live/
-epitomized473jh.xyz/
+entschuldigung9.live/
 eqerizhealhe.ga/
 eraxotics1.live/
 eraxotics10.live/
@@ -528,15 +486,13 @@ admex.top/
 esllbocaykimo9.live/
 essentialize929vh.xyz/
 etdafastsordownbo.tk/
-etvethorsledo.cf/
-euphonize358rm.xyz/
+etvethorsledo.cf/
 	ewzz.xyz/
 exiritenli.ga/
 expertreviewers.club/
 ezocacalup.ml/
 falloutvisitorscenter.xyz/
-fastdisaneviga.tk/
-fastmob.space/
+fastdisaneviga.tk/
 fastmobile.fun/
 fastmobile.space/
 fastrefund.website/
@@ -561,7 +517,6 @@ admex.top/
 findprizesonline2.life/
 findsexforme.icu/
 finoccountstubamec.tk/
-floodinmineretsubs.tk/
 foatrowoogpfenerem.gq/
 focagaficarvi.tk/
 footsbacatockcene.tk/
@@ -575,14 +530,12 @@ admex.top/
 	fwzz.xyz/
 gabbmulnajerepa.tk/
 gabcallbatuawin.ml/
-gabestnbikumen.ga/
-gachorrestdehita.cf/
+gabestnbikumen.ga/
 gadget-tester.club/
 gadgethunter.club/
 gadgetreview.space/
 gaulajambate.tk/
-gayterfcoftufeme.tk/
-gcumimuadpternahsoft.tk/
+gayterfcoftufeme.tk/
 genenomaricon.tk/
 generationzretail.xyz/
 georonobfichefa.ml/
@@ -610,18 +563,19 @@ admex.top/
 ghosimahusts6.live/
 ghosimahusts7.live/
 ghosimahusts8.live/
-ghosimahusts9.live/
-giftcards2020a.website/
+ghosimahusts9.live/
 globalfoundries.xyz/
+gloryofthewin11.live/
+gloryofthewin14.live/
 gloryofthewin16.live/
 gloryofthewin17.live/
 gloryofthewin25.live/
 gloryofthewin4.live/
+gloryofthewin6.live/
 gloryofthewin8.live/
 glucistrityphedag.cf/
 glycuslinlidu.tk/
-godastechokladen.club/
-gogetem.xyz/
+godastechokladen.club/
 goldjokunmopa.tk/
 golflickworlcallback.gq/
 goodluckdog.space/
@@ -640,8 +594,7 @@ admex.top/
 goodluckkk7.live/
 goodluckkk8.live/
 goodluckkk9.live/
-googie--winner-galx.cf/
-googie--winner-galx.ml/
+googie--winner-galx.cf/
 googie--winner-galxy.cf/
 googie--winner-galxy.ga/
 googie--winner-galxy.ml/
@@ -653,8 +606,7 @@ admex.top/
 googie--won-1.tk/
 googie--won-win.cf/
 googie--won-win.gq/
-googie--won-win.ml/
-googie-com--galaxy22.ga/
+googie--won-win.ml/
 goosvahinmaililo.cf/
 gotempraskaca.tk/
 gradduncehadde.ga/
@@ -759,8 +711,7 @@ admex.top/
 hrblockmarketwatch.xyz/
 humbcomptrichlidero.gq/
 hundpostdesworkdestsil.tk/
-hungjudipectersbi.ga/
-hypocenter541og.xyz/
+hungjudipectersbi.ga/
 ibrumopicitech.tk/
 ifhaacilotoha.tk/
 igbuwheeronteipo.tk/
@@ -791,20 +742,11 @@ admex.top/
 iranretail.xyz/
 irmoipanbocomge.tk/
 itmogeaskli1.live/
-itmogeaskli11.live/
-itmogeaskli12.live/
 itmogeaskli13.live/
-itmogeaskli14.live/
-itmogeaskli15.live/
-itmogeaskli2.live/
+itmogeaskli14.live/
 itmogeaskli3.live/
-itmogeaskli4.live/
 itmogeaskli5.live/
-itmogeaskli6.live/
-itmogeaskli7.live/
-itmogeaskli9.live/
-ivpiejewicanca.cf/
-izcioutiserpaawild.tk/
+itmogeaskli7.live/
 jelmamepupsinop.ga/
 joeprimunambote.tk/
 js-cdn.xyz/
@@ -849,16 +791,14 @@ admex.top/
 kuanejapavev7.live/
 kuanejapavev8.live/
 kuanejapavev9.live/
-lalodoladen.tk/
-landpolscilessprom.gq/
+lalodoladen.tk/
 landstar.fun/
 landtraghedynun.tk/
 langjinmolatho.gq/
 larsocolfates.tk/
 latymcitirase.tk/
 laubudwijnhobetcha.tk/
-layquigailene.tk/
-lbusanacencompe.tk/
+layquigailene.tk/
 leadscenter.mobi/
 lectcithinknkilesru.ga/
 leelineppdz10.live/
@@ -873,23 +813,19 @@ admex.top/
 lendjp.site/
 lensramnaicrusargeo.tk/
 lensstumadocerge.ga/
-lentdarmlahfaiterdie.tk/
-leotenhazercui.ga/
+lentdarmlahfaiterdie.tk/
 letherconthustemen.tk/
 letrpratsingbritadta.ga/
 levenvibacheck.tk/
 levslesumymusi.tk/
 liamostkingnewpvimar.tk/
-liatedmeriprans.tk/
-lieslicwealtiter.cf/
+liatedmeriprans.tk/
 lifafermdistsiver.gq/
 lignorendreclola.gq/
 ligtepfmonconsnema.tk/
 limphelremanlola.tk/
-lindmemarumag.tk/
-linknawellkede.ga/
+lindmemarumag.tk/
 littwalklacogydumb.gq/
-lobosikibto.tk/
 localexlen.xyz/
 lohandnidecondei.tk/
 lookatit1.live/
@@ -927,15 +863,13 @@ admex.top/
 loranight7.live/
 loranight8.live/
 loranight9.live/
-lovacmalavimid.ml/
-loyalty-programs.xyz/
+lovacmalavimid.ml/
 luckndays.xyz/
 luckybargee.space/
 lustdistproneseres.tk/
 lyomohandtominva.tk/
 maiferthidocmupu.tk/
-mairupwosocusta.tk/
-maitritinmartheo.tk/
+mairupwosocusta.tk/
 mamdisolopar.tk/
 marketwatchh.xyz/
 marketwatchheatmap.xyz/
@@ -963,7 +897,6 @@ admex.top/
 merslarnonstorho.tk/
 mewatibucwillcar.tk/
 miacallimontri.tk/
-miadrinarenunfi.ga/
 mibowcaleftlent.tk/
 miccyakefacboman.tk/
 mimotallongwattu.ml/
@@ -971,7 +904,6 @@ admex.top/
 mingdornaliwer.tk/
 miscnesugabu.tk/
 misproducingmonsarrat.club/
-mnta-shrmo4-alm7.xyz/
 mobibonusequator.xyz/
 mobibonusscene.xyz/
 mobigetcenter.xyz/
@@ -989,10 +921,10 @@ admex.top/
 mobilegiftplanet.xyz/
 mobilenetcenter.xyz/
 mobilenetequator.xyz/
-mobilenetplanet.xyz/
-mobilenetscene.xyz/
+mobilenetplanet.xyz/
 mobilenetstar.xyz/
-mobilephonechance.site/
+mobilephonechance.site/
+mobileplaceplane.xyz/
 mobileplacespin.xyz/
 mobileplaceweb.xyz/
 mobileplacewonder.xyz/
@@ -1003,9 +935,7 @@ admex.top/
 mobilepointwonder.xyz/
 mobilepop-t.pro/
 mobileprizeasteroid.xyz/
-mobileprizecapital.xyz/
-mobileprizeequator.xyz/
-mobileprizeglobal.xyz/
+mobileprizeequator.xyz/
 mobileprizeglobe.xyz/
 mobileprizeplanet.xyz/
 mobileprizescene.xyz/
@@ -1018,6 +948,7 @@ admex.top/
 mobileslotsite.xyz/
 mobileslotspot.xyz/
 mobileslotwonder.xyz/
+mobilespotslot.xyz/
 mobilespotspot.xyz/
 mobilespotweb.xyz/
 mobinetasteroid.xyz/
@@ -1028,8 +959,10 @@ admex.top/
 mobiplacepoint.xyz/
 mobiplacesite.xyz/
 mobiplaceslot.xyz/
-mobiplacespin.xyz/
-mobipointplane.xyz/
+mobiplacespin.xyz/
+mobiplaceweb.xyz/
+mobipointplane.xyz/
+mobipointpoint.xyz/
 mobipointslot.xyz/
 mobipointwonder.xyz/
 mobiprizeasteroid.xyz/
@@ -1089,8 +1022,7 @@ admex.top/
 myiphone11.club/
 mylove-profitmethod.life/
 myoroditalrese.tk/
-n87ecg4-aseq20.xyz/
-nalnewsnawelpoi.gq/
+n87ecg4-aseq20.xyz/
 nannpabagtati.tk/
 narnalydenub.tk/
 ndercontparesdemes.tk/
@@ -1100,8 +1032,7 @@ admex.top/
 neoticogivee.ga/
 netsulifjisoftna.tk/
 neuricktingdownfor.tk/
-neustabtosconttu.tk/
-neususcipatpa.tk/
+neustabtosconttu.tk/
 neuswidatvinmins.ml/
 newmobiledevtop.club/
 newonlinespeedtechie.club/
@@ -1110,8 +1041,7 @@ admex.top/
 nighlangiobivanword.tk/
 nilidermobatar.tk/
 nmnewgift.xyz/
-nofpuhalconfgang.gq/
-nogtisumsilo.tk/
+nofpuhalconfgang.gq/
 noireblur10.live/
 noireblur13.live/
 noireblur14.live/
@@ -1152,8 +1082,7 @@ admex.top/
 offerhere8.live/
 offerhere9.live/
 official-voucher.online/
-ofomadanspymgua.gq/
-omymoutneto.tk/
+ofomadanspymgua.gq/
 onedaysurprising.xyz/
 onrancarrliva.ml/
 opacleavirabi.cf/
@@ -1188,14 +1117,11 @@ admex.top/
 phonegiftplanet.xyz/
 phonegiftscene.xyz/
 phonegiftstar.xyz/
-phonegiftworld.xyz/
-phonenetcapital.xyz/
 phonenetcenter.xyz/
 phonenetequator.xyz/
 phonenetglobe.xyz/
 phoneprizeasteroid.xyz/
 phoneprizecenter.xyz/
-phoneprizeglobe.xyz/
 phoneprizescene.xyz/
 phoneprizestar.xyz/
 phonerewardcenter.xyz/
@@ -1204,12 +1130,7 @@ admex.top/
 phonerewardplanet.xyz/
 phonerewardstar.xyz/
 piafibcodanedisp.tk/
-pictaimensbupis.tk/
-piecsehhatackmoo.ml/
-pinterntabsenesl.tk/
-plariumbl9.live/
-plasmasabre13.live/
-plasmasabre5.live/
+pictaimensbupis.tk/
 pleasuresinkoffer.club/
 plicatagemstif.gq/
 pobeda.space/
@@ -1219,14 +1140,12 @@ admex.top/
 portingfunclarrote.tk/
 postkibornlot.cf/
 prannitsumproran.tk/
-precamrastetabfi.tk/
-presnetsskatnasra.tk/
+precamrastetabfi.tk/
 presodinecepar.tk/
 prevmarribilita.tk/
 priccarlzutetavi.ga/
 prime-revenue-now.life/
-privacy-check.store/
-prizedraw-us.xyz/
+privacy-check.store/
 pro-fun111.club/
 prochilallege.tk/
 productxboxseries.xyz/
@@ -1236,22 +1155,23 @@ admex.top/
 profendotatan.tk/
 profitishere.life/
 promanewenatag.ga/
-pronunathitecraf.gq/
-protfenscolmijimo.tk/
 prudcontbifeneph.tk/
 ptwinners.xyz/
 pufoupoosijunta.tk/
 pusryomatatin.tk/
-quickplaceslot.xyz/
+quickplaceslot.xyz/
+quickplacespin.xyz/
 quickplacewonder.xyz/
-quickpointpoint.xyz/
+quickpointpoint.xyz/
+quickpointspot.xyz/
 quickpointweb.xyz/
 quickslotpoint.xyz/
 quickslotslot.xyz/
 quickslotspin.xyz/
 quickslotweb.xyz/
 quickslotwonder.xyz/
-quickspotplane.xyz/
+quickspotplane.xyz/
+quickspotpoint.xyz/
 quickspotsite.xyz/
 quickspotspin.xyz/
 quickspotweb.xyz/
@@ -1259,8 +1179,7 @@ admex.top/
 rachedipade.tk/
 ractightrissalpa.tk/
 raisychakmupoden.tk/
-raitotoculsorp.tk/
-ramfoodsbogolfdevis.gq/
+raitotoculsorp.tk/
 ramlarinnarebe.gq/
 ranmaithakarci.tk/
 rapsogassandpo.tk/
@@ -1293,7 +1212,8 @@ admex.top/
 readyrewardplanet.xyz/
 readyrewardscene.xyz/
 readyrewardstar.xyz/
-readysiteglobal.xyz/
+readysiteglobal.xyz/
+readysiteplay.xyz/
 readysitescene.xyz/
 readysitespin.xyz/
 readysitestar.xyz/
@@ -1336,8 +1256,7 @@ admex.top/
 retailmenotzgallerie.xyz/
 retailpdf.xyz/
 retailstoreinamerica.xyz/
-retailzreport.xyz/
-retinciosinquofar.ml/
+retailzreport.xyz/
 review-writer.space/
 rgenelanporan.cf/
 riaboladtorstumquo.tk/
@@ -1364,16 +1283,10 @@ admex.top/
 sacustoaracyci.tk/
 saipenharmvibo.tk/
 samnoelefilencent.ml/
-samplelicious.club/
-samtorojita.tk/
-sandbattmamideridg.tk/
-sandhillporrawohn.cf/
+samplelicious.club/
 saokremocazci.tk/
-sausarenjoichi.gq/
-sautiolaelina.ml/
-sautopancbilvatha.tk/
-saveyourtimes.online/
-scataleninfili.tk/
+sausarenjoichi.gq/
+saveyourtimes.online/
 schlachtfeld1.live/
 schlachtfeld10.live/
 schlachtfeld11.live/
@@ -1388,9 +1301,7 @@ admex.top/
 schlachtfeld6.live/
 schlachtfeld7.live/
 schlachtfeld8.live/
-schlachtfeld9.live/
-schrotflinte1.live/
-schrotflinte11.live/
+schlachtfeld9.live/
 scubirouttedemptes.cf/
 sculaneargrapaben.tk/
 sculanleuracilbird.tk/
@@ -1414,9 +1325,7 @@ admex.top/
 sempsumsechalila.tk/
 senciamamarkocap.gq/
 sendcreatesdajigrio.cf/
-serthinstifoundsemb.tk/
-
-sezna.xyz/
+serthinstifoundsemb.tk/
 sforirpoutosar.tk/
 shootinginsidemarket.xyz/
 sickcentrockcaptoelusw.tk/
@@ -1452,12 +1361,10 @@ sezna.xyz/
 simsvisitorswontleave.xyz/
 sinowncrers1.live/
 siorerarapel.tk/
-sioverralomleho.tk/
-slavupchaperranog.tk/
+sioverralomleho.tk/
 slient.site/
 slopedcenphelanpa.tk/
-smartbonuscenter.xyz/
-smartgetcenter.xyz/
+smartbonuscenter.xyz/
 smartgiftplanet.xyz/
 smartgiftstar.xyz/
 smartnetstar.xyz/
@@ -1525,16 +1432,13 @@ sezna.xyz/
 stesbinimugsebi.tk/
 stomanbatile.tk/
 stosryesesafvabib.gq/
-sucnanylchporepart.gq/
-suggestionalmss.club/
+sucnanylchporepart.gq/
 sundeolyjucorsi.tk/
 sundlurcomimev.ga/
 sunricaripora.tk/
-supnewscapbattfa.tk/
-survey-rewards.website/
+supnewscapbattfa.tk/
 sylvanitetetranitrate.club/
 szechnenrigalmui.ga/
-taboret644xm.xyz/
 taetymtatitti.tk/
 tages-zeitung.online/
 takebigbonus3.life/
@@ -1564,16 +1468,11 @@ sezna.xyz/
 tiabrakaconwei.gq/
 tibnighcrimphile.tk/
 tierretailers.xyz/
-timindgacepick.cf/
-tiocicehokind.gq/
+timindgacepick.cf/
 tiodemelphipegos.tk/
 tiomerlandbeltu.tk/
-tiovareslecine.gq/
-tispadstiblifeed.tk/
-toaspotoronad.ga/
-tocrukomalxe.tk/
+tiovareslecine.gq/
 toivemidvimedea.tk/
-tolandfreelicrollo.tk/
 tolbaundolexklosex.tk/
 top-parf-ums.fun/
 top1-aroma-du-tyfree.space/
@@ -1582,32 +1481,23 @@ sezna.xyz/
 topmoneynews.online/
 topsuthorematual.tk/
 torchlightgg1.live/
-torchlightgg10.live/
 torchlightgg11.live/
 torchlightgg12.live/
-torchlightgg13.live/
 torchlightgg14.live/
 torchlightgg15.live/
 torchlightgg16.live/
-torchlightgg17.live/
 torchlightgg18.live/
-torchlightgg19.live/
-torchlightgg2.live/
-torchlightgg20.live/
 torchlightgg21.live/
 torchlightgg22.live/
-torchlightgg23.live/
 torchlightgg24.live/
 torchlightgg25.live/
 torchlightgg26.live/
 torchlightgg27.live/
-torchlightgg28.live/
 torchlightgg29.live/
 torchlightgg3.live/
 torchlightgg30.live/
 torchlightgg4.live/
 torchlightgg5.live/
-torchlightgg6.live/
 torchlightgg7.live/
 torchlightgg8.live/
 torchlightgg9.live/
@@ -1619,8 +1509,7 @@ sezna.xyz/
 
 trd200.tk/
 treadostenlehophart.tk/
-treasresdelimab.ml/
-trialing796uo.xyz/
+treasresdelimab.ml/
 trionzretailers.xyz/
 tromardocalpa.tk/
 tromlicomtanan.tk/
@@ -1672,9 +1561,7 @@ trd200.tk/
 verbundenseinmit8.live/
 verbundenseinmit9.live/
 verleasegiders.tk/
-vialesgceturaft.tk/
-video4.website/
-vifigatocu.gq/
+vialesgceturaft.tk/
 vinikefococa.tk/
 virus-cleaner.online/
 visitcomactivate.xyz/ 
@@ -1697,8 +1584,7 @@ trd200.tk/
 webstechonlineapplication.club/
 weikisagifoovi.ml/
 wellworsilapci.tk/
-werrebalgeiso.tk/
-werttengnichirsarest.ml/
+werrebalgeiso.tk/
 	wfzc.xyz/
 whacvizinnodi.tk/
 whafoniggsocucy.tk/
@@ -1717,15 +1603,13 @@ trd200.tk/
 wievielmogen7.live/
 wievielmogen8.live/
 wievielmogen9.live/
-wilenemanta.ga/
-win-foz.xyz/
+wilenemanta.ga/
 win-litebonus.life/
 win-notif.club/
 winbabblatan.ga/
 windtafawane.ml/
 wingreatbonus1.life/
 winit.site/
-witchcinsympflogsole.gq/
 wohnenverheiratet1.live/
 wohnenverheiratet10.live/
 wohnenverheiratet11.live/
@@ -1751,8 +1635,7 @@ xvvx.club/
 yakuzaretail.xyz/
 yanewgift.xyz/
 yanewgiftbka.xyz/
-you-win.live/
-youcanwin.xyz/
+you-win.live/
 your-fastprofit1.life/
 your-online-profits.life/
 yourbiggest-profitnow.life/

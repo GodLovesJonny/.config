@@ -2121,3 +2121,58 @@ bd4c3ed19a74f5d3dec8feed48b7ba9d|file:///home/godlovesjonny/Jonny/Open-Source/Jo
 	<img style="height:61px;width:100%;" src="https://github.com/ferried/ferried/blob/master/imgs/3.gif" height="50px" width="100%" />
 780b7cf4d02a66af97bc43a357fddb9d|file:///home/godlovesjonny/Jonny/Open-Source/JonnieWayy/README.md|15|43|v|markdown
 	https://github.com/JonnieWayy/JonnieWayy/src/imgs/3.gif
+a71e852ea2ba97a21c5e2f3b65a95e65|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL31.md|4|1|V|markdown
+	categories: ["Better Life With Linux"]
+	tags: ["git", "Linux", "github", "fork"]
+bf215181b5140522137b3d4f6b73544a|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL32.md|5|28|v|markdown
+	github
+b2fcb4ba898f479790076dbd5daa133f|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL32.md|5|41|v|markdown
+	fork
+1703e21472e90f246fb891a9702ea005|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL32.md|12|1|V|markdown
+	Traceback (most recent call last):
+	  File "/home/godlovesjonny/.local/bin/pyinstaller", line 8, in <module>
+	    sys.exit(run())
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/__main__.py", line 111, in run
+	    run_build(pyi_config, spec_file, **vars(args))
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/__main__.py", line 63, in run_build
+	    PyInstaller.building.build_main.main(pyi_config, spec_file, **kwargs)
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/build_main.py", line 844, in main
+	    build(specfile, kw.get('distpath'), kw.get('workpath'), kw.get('clean_build'))
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/build_main.py", line 791, in build
+	    exec(code, spec_namespace)
+	  File "/home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec", line 18, in <module>
+	    pyz = PYZ(a.pure, a.zipped_data,
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/api.py", line 98, in __init__
+	    self.__postinit__()
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/datastruct.py", line 158, in __postinit__
+	    self.assemble()
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/api.py", line 128, in assemble
+	    self.code_dict = {
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/api.py", line 129, in <dictcomp>
+	    key: strip_paths_in_code(code)
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/utils.py", line 652, in strip_paths_in_code
+	    consts = tuple(
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/utils.py", line 653, in <genexpr>
+	    strip_paths_in_code(const_co, new_filename)
+	  File "/usr/lib/python3.8/site-packages/PyInstaller/building/utils.py", line 660, in strip_paths_in_code
+	    return code_func(co.co_argcount, co.co_kwonlyargcount, co.co_nlocals, co.co_stacksize,
+	TypeError: an integer is required (got type bytes)
+	
+05544ec7d922d7bc24ee22d639aef9e3|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|97|1|V|html
+	<img style="height:50px;width:100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" height="50px" width="100%" />
+7ec499fd7e65bff710328e3906b22990|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|128|4|V|html
+	    ![Jonathan Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonnieWayy&count_private=true&show_icons=true&theme=radical)
+cb171a7d99258b554d784602b0107417|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|130|9|v|html
+	style="height: 50px; width: 100%;" 
+0aa84c2f924da29da62d28977ae83834|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|130|1|V|html
+	<p><img src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/3.gif" style="height: 50px; width: 100%;" /></p>
+484a7d0e2108d5a18843287d0f79cbf1|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|97|1|V|html
+	<p><img style="height: 50px; width: 100%;" src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" height="50px" width="100%" /></p>
+9468c8996d279ed6d842bfac8a965e12|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|97|1|V|html
+	<p><img src="https://github.com/JonnieWayy/JonnieWayy/blob/master/src/imgs/2.gif" style="height: 50px; width: 100%;" /></p>
+9da7cdc05e003e264888276b4b3d5da4|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|98|1|V|html
+	<p><img src="/images/about/2.gif" style="height: 50px; width: 100%;" /></p>
+359d592ca7e0f31708b6b0fbedd9d2a8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|98|1|V|html
+	<p><img src="/images/about/2.gif" alt="banner" style="height: 60px; width: 100%;" /></p>
+334c4a4c42fdb79d7ebc3e73b517e6f8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|33|18|v|html
+	none
