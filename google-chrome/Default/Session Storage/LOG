@@ -1,3 +1,6 @@
-2020/08/03-12:51:42.714 f97 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/08/03-12:51:42.716 f97 Recovering log #106
-2020/08/03-12:51:42.716 f97 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000106.log 
+2020/08/04-16:29:18.076 2216 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/08/04-16:29:18.076 2216 Recovering log #106
+2020/08/04-16:29:18.077 2216 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000106.log 
+2020/08/04-16:52:38.833 245d Level-0 table #110: started
+2020/08/04-16:52:38.835 245d Level-0 table #110: 15960 bytes OK
+2020/08/04-16:52:38.837 245d Delete type=0 #106

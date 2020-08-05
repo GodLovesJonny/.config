@@ -14,8 +14,8 @@ Recent URLs[$e]=file:$HOME/图片/
 detailViewIconSize=80
 
 [MainWindow]
-Height 1080=1027
+Height 1080=496
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=952
 Window-Maximized 1080x1920=true

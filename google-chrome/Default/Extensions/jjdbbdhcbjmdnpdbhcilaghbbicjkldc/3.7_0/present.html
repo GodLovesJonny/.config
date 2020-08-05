@@ -1,0 +1,46 @@
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>捐助我们</title>
+	
+    <style>
+        body{
+            padding-top:6%;
+			text-align:center;
+			color:white;
+
+        }
+		
+    </style>
+	<script>
+	    try {
+            var urlhash = window.location.hash;
+            if (!urlhash.match("fromapp")) {
+            if ((navigator.userAgent.match(/(iPhone|iPod|Android|ios|iPad)/i))) {
+                window.location = 'mobilepresent.html'
+                    }
+                }
+            } catch(err) {}
+    </script>
+	<style type="text/css">
+	    body {background-image:url(images/background.jpg);}
+	    .main{margin:10% 15%;padding:0;width:70%;height:32%;}
+	    .main div{width:25%;height:100%;float:left;}
+	</style>
+</head>
+
+<body>
+    <div>
+	    <img src="images/i.png">
+    </div>
+	<div>
+	    <p>感谢您的捐助！</p>
+    </div>
+	<div class="main">
+		<div><img src="images/wechatpay.png" style="width: 226px;"><p>微信支付</p></div>
+		<div><img src="images/alipayqrcode.png" style="width: 200px;"><p>支付宝</p></div>
+		<div><img src="images/redenvelope.png" style="width: 212px;"><p>扫码领红包</p></div>
+	    <div><img src="images/qqpay.png" style="width: 208px;"><p>QQ支付</p></div>
+	</div>
+</body>
+</html>

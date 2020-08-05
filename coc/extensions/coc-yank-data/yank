@@ -2176,3 +2176,14 @@ cb171a7d99258b554d784602b0107417|file:///home/godlovesjonny/Jonny/Hugo-pages/jon
 	<p><img src="/images/about/2.gif" alt="banner" style="height: 60px; width: 100%;" /></p>
 334c4a4c42fdb79d7ebc3e73b517e6f8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/About.html|33|18|v|html
 	none
+85e8d1a83a82f111a93ff113a5851e6a|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/SE-Notes1.md|4|1|V|markdown
+	categories: ["NJTU CST Learning Notes"]
+076194e007317ab8e8a6a0497c7994eb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Math-DJ.md|4|1|V|markdown
+	categories: ["Math Preparation Notes"]
+42a5b3c609a411bb55e8d3f1783347ad|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Math-DW.md|4|1|V|markdown
+	categories: ["Math Preparation Notes"]
+	categories: ["Math Preparation Notes"]
+19c32685a36b512adb05301c644b27cf|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Eng-KY1.md|4|1|V|markdown
+	categories: ["Language Learning"]
+ce0f80f01a0d9bf87cdb3245eb875526|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/KMP.md|16|1|V|markdown
+	**3.1** 若相等，则 `Next[i] = Next[i-1] + 1`；  

@@ -5,15 +5,15 @@ update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_valu
 count=0
 
 [Session: saved at previous logout]
-clientId1=10b3d46e6e000159633335900000012760002
+clientId1=10b3d46e6e000159651038000000012830003
 clientId2=10b3d46e6e000157269290300000011380007
-clientId3=10b3d46e6e000159633336000000012760006
+clientId3=10b3d46e6e000159651038100000012830006
 count=3
 program1=/usr/bin/latte-dock
 program2=/usr/bin/msm_kde_notifier
 program3=pulseaudio
-restartCommand1=/usr/bin/latte-dock,-session,10b3d46e6e000159633335900000012760002_1596382713_446695
-restartCommand2=/usr/bin/msm_kde_notifier,-session,10b3d46e6e000157269290300000011380007_1596382713_446745
+restartCommand1=/usr/bin/latte-dock,-session,10b3d46e6e000159651038000000012830003_1596553500_208080
+restartCommand2=/usr/bin/msm_kde_notifier,-session,10b3d46e6e000157269290300000011380007_1596553500_208020
 restartCommand3=
 restartStyleHint1=0
 restartStyleHint2=0
