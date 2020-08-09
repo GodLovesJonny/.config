@@ -12,26 +12,26 @@ Width 1920=952
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/vivid stars hd.jpg
-File10[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/3.gif
-File2[$e]=$HOME/.local/share/wallpapers/Village.jpg
-File3[$e]=$HOME/.local/share/wallpapers/Untitled-7.jpg
-File4[$e]=$HOME/.local/share/wallpapers/Giraffe.jpg
-File5[$e]=$HOME/.local/share/wallpapers/ArchLinux2.jpg
-File6[$e]=$HOME/.local/share/wallpapers/ArchLinux1.jpg
-File7[$e]=$HOME/.local/share/wallpapers/Arch Cool.jpg
-File8[$e]=$HOME/.local/share/wallpapers/Cmd.jpg
-File9[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/2.gif
-Name1[$e]=vivid stars hd.jpg
-Name10[$e]=3.gif
-Name2[$e]=Village.jpg
-Name3[$e]=Untitled-7.jpg
-Name4[$e]=Giraffe.jpg
-Name5[$e]=ArchLinux2.jpg
-Name6[$e]=ArchLinux1.jpg
-Name7[$e]=Arch Cool.jpg
-Name8[$e]=Cmd.jpg
-Name9[$e]=2.gif
+File1[$e]=$HOME/.local/share/wallpapers/Untitled-7.jpg
+File10[$e]=mtp:/torch/内部存储/Pictures/Twitter/IMG_20200801_163055.jpg
+File2[$e]=$HOME/.local/share/wallpapers/Giraffe.jpg
+File3[$e]=$HOME/.local/share/wallpapers/ArchLinux2.jpg
+File4[$e]=$HOME/.local/share/wallpapers/ArchLinux1.jpg
+File5[$e]=$HOME/.local/share/wallpapers/Arch Cool.jpg
+File6[$e]=$HOME/.local/share/wallpapers/Cmd.jpg
+File7[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/2.gif
+File8[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/3.gif
+File9[$e]=mtp:/torch/内部存储/Pictures/Notepad_202004062123_03528.png
+Name1[$e]=Untitled-7.jpg
+Name10[$e]=IMG_20200801_163055.jpg
+Name2[$e]=Giraffe.jpg
+Name3[$e]=ArchLinux2.jpg
+Name4[$e]=ArchLinux1.jpg
+Name5[$e]=Arch Cool.jpg
+Name6[$e]=Cmd.jpg
+Name7[$e]=2.gif
+Name8[$e]=3.gif
+Name9[$e]=Notepad_202004062123_03528.png
 
 [SideBar]
 SideBarSplitterSizes=242,1675

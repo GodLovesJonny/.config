@@ -3,7 +3,7 @@ ConnectTimeout=20
 MarkPartial=true
 ProxyConnectTimeout=10
 ProxyUrlDisplayFlags=8
-ReadTimeout=15
+ReadTimeout=25
 ResponseTimeout=600
 
 [Proxy Settings]

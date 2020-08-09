@@ -3,7 +3,7 @@ update_info=spectacle_newConfig.upd:spectacle-new-config
 
 [GuiConfig]
 cropRegion=0,0,0,0
-window-position=230,166
+window-position=226,140
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/图片/screen.png
