@@ -12,26 +12,26 @@ Width 1920=952
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/Untitled-7.jpg
-File10[$e]=mtp:/torch/内部存储/Pictures/Twitter/IMG_20200801_163055.jpg
-File2[$e]=$HOME/.local/share/wallpapers/Giraffe.jpg
-File3[$e]=$HOME/.local/share/wallpapers/ArchLinux2.jpg
-File4[$e]=$HOME/.local/share/wallpapers/ArchLinux1.jpg
-File5[$e]=$HOME/.local/share/wallpapers/Arch Cool.jpg
-File6[$e]=$HOME/.local/share/wallpapers/Cmd.jpg
-File7[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/2.gif
-File8[$e]=$HOME/Jonny/Open-Source/JonnieWayy/src/imgs/3.gif
-File9[$e]=mtp:/torch/内部存储/Pictures/Notepad_202004062123_03528.png
-Name1[$e]=Untitled-7.jpg
-Name10[$e]=IMG_20200801_163055.jpg
-Name2[$e]=Giraffe.jpg
-Name3[$e]=ArchLinux2.jpg
-Name4[$e]=ArchLinux1.jpg
-Name5[$e]=Arch Cool.jpg
-Name6[$e]=Cmd.jpg
-Name7[$e]=2.gif
-Name8[$e]=3.gif
-Name9[$e]=Notepad_202004062123_03528.png
+File1[$e]=$HOME/图片/WinLinux.jpg
+File10[$e]=$HOME/下载/ua44a84istg51.jpg
+File2[$e]=$HOME/图片/screen.png
+File3[$e]=$HOME/.local/share/wallpapers/save/rings_of_saturn.jpg
+File4[$e]=$HOME/.local/share/wallpapers/save/hq_japan_nature_rain_fall.jpg
+File5[$e]=$HOME/.local/share/wallpapers/save/Golden Gate Bridge.jpg
+File6[$e]=$HOME/.local/share/wallpapers/save/Starry Nebula 262.png
+File7[$e]=$HOME/.local/share/wallpapers/save/Cartoon background.jpg
+File8[$e]=$HOME/下载/47rcdlecjeg51.jpg
+File9[$e]=$HOME/下载/dpdhjkecjeg51.jpg
+Name1[$e]=WinLinux.jpg
+Name10[$e]=ua44a84istg51.jpg
+Name2[$e]=screen.png
+Name3[$e]=rings_of_saturn.jpg
+Name4[$e]=hq_japan_nature_rain_fall.jpg
+Name5[$e]=Golden Gate Bridge.jpg
+Name6[$e]=Starry Nebula 262.png
+Name7[$e]=Cartoon background.jpg
+Name8[$e]=47rcdlecjeg51.jpg
+Name9[$e]=dpdhjkecjeg51.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,1675

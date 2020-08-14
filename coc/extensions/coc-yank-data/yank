@@ -2444,3 +2444,361 @@ b2391aabcb2ea4de11dbed210c19c757|file:///home/godlovesjonny/Jonny/Open-Source/Tr
 390c8ab5bbf7834097ebd96ed1a10d21|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|357|848|v|markdown
 	](//www.redhat.com/en/commandlineheroes)
 	
+80443562505d0a7b5559c186c4906a0e|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|115|1|V|markdown
+	![107](/images/2020/01/wallpaper/107.jpg)
+43bdb0d10e4116f9536d2b52e901d5f0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|357|1|V|markdown
+	David Heinemeier Hansson.
+a8a4c3599f0984dbd2f84665a6d37eb7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|393|628|v|markdown
+	[redhat.com/commandlineheroes](//www.redhat.com/en/commandlineheroes).
+0c1073f3b5477e96c963ad3f0809c97a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|431|1|V|markdown
+	继续写代码吧。  
+a9306e6cdd08e4f5f647bb331cf3482f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|440|1|V|markdown
+	[](//www.redhat.com/en/commandlineheroes)
+	
+	[](//www.redhat.com/en/commandlineheroes)
+	
+8e31e1836b27db489e9e9efeb4a2c5c9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S05WCW.md|440|1|V|markdown
+	[](//www.redhat.com/en/commandlineheroes)
+8116371b28bbfc2aeacac9cec657dd34|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|15|1|V|markdown
+	Hello, welcome to Command Line Heroes, an original podcast from Red Hat. This is episode 2 of our special mini-season all about the work life of coders. From developers to sys admins, to architects, to engineers, to programmers. I'm your host Saron Yitbarek, and joining me for the run of the season is Clive Thompson, journalist, technology writer, and author of the book Coders. Hi, Clive.
+9787b1c728755564f8c45b16e0ed9237|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|15|1|V|markdown
+	Hello, welcome to Command Line Heroes, an original podcast from Red Hat. This is episode 2 of our special mini-season all about the work life of coders. From developers to sys admins, to architects, to engineers, to programmers. I'm your host Saron Yitbarek, and joining me for the run of the season is Clive Thompson, journalist, technology writer, and author of the book Coders. Hi, Clive.
+	
+fbd9e83801d515e3446b47d79874a888|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|19|1|V|markdown
+	Hi Saron. Good to be back.
+	
+ce6cd7d92fe8081e069ef9152d6cc9bb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|39|1|V|markdown
+	Well, my name is Mary Allen Wilkes. I was a computer programmer for approximately 12 or 13 years between 1959 and 1972.
+	
+10d46bbf85a6959007bdc084a3accfa8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|39|1|V|markdown
+	Thanks for joining us Clive. In this episode, let's talk about something a large number of us, not just tech workers, are very familiar with by now, because most of us have had to do it since March of 2020. Remote work. Now, you might think that remote work in our industry is a relatively recent phenomenon. As technology has improved, the easier it's gotten to work from home. Think again, let's listen to this developer's story.
+	
+68104226d64fa3c111154ebcdb6bb106|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|39|1|V|markdown
+	Mary Allen is 82 years old. When she was a teenager, she fell in love with law and wanted to be a lawyer, but back in the fifties that wasn't a wise career choice for a woman. Mentors discouraged her and told her it would be too much of an uphill climb. By chance, one of her teachers pictured another route for her.
+	
+47cbb67e89f0597b84f2e98d791d5365|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|39|1|V|markdown
+	I had been told when I was in the eighth grade by a geography teacher in class one day, apparently I was giving him some kind of argument about something, and he just stopped and he looked at me and he said, "Mary Allen, when you grow up, you ought to be a computer programmer." Well, I had no idea what he was talking about. Years later, I wondered how he knew what he was talking about. He taught geography and French, nobody taught computer programming. But I never forgot what he said. And I think one of the reasons that stuck with me for so many years was that it was something positive that an adult told me I could do when I grew up.
+	
+1f7e95c51c7c023afafcb6f689884ad3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|39|1|V|markdown
+	When Mary Allen finished college and started applying for jobs, the only place that had a job for a computer programmer was at MIT. Nobody had any training in computer programming. Her main qualification was two logic courses she'd taken in college, but that was more than her MIT colleagues had.
+	
+57b5aa8959013b3030f633b095505c49|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	The Link had a display screen. We called it “the scope” because it was really just a laboratory oscilloscope. It had four boxes that you could set on a tabletop or a desktop, and one box held this oscilloscope, one box held two little magnetic tape units that were pocket-sized. That was basically your permanent storage, your hard drive, if you will. That was where you stored your programs, and you read in your programs. Another box was called a console box. You could use the switches to load some code, some bootstrapping code for example, into the memory of the Link. It also had a keyboard. So, you had the basic interactive setup that you have today, with a keyboard and a screen and some means of permanent storage. And then of course there were all the electronics, which were housed in a big box about the size of a refrigerator.
+	
+cdcadc607f96f76c213bb254102da1bc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	In 1961, Mary Allen got assigned to a group to work on the Link computer, a laboratory instrument mini-computer. It was one of the first truly interactive computers, not too dissimilar to a desktop computer today.
+	
+081caab68106712e76e3bbb74b0d87fa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	I started off at Lincoln Laboratory in Lexington, Massachusetts, a big MIT research facility that is funded by the Department of Defense. We're talking 1959, and I first learned they were using these big behemoth computers, the ones that occupied a whole room. That's what I first learned to program. They were IBM computers. You wrote your programs out line by line in assembly language, and then you handed these sheets of paper to a punch card operator who punched each line of code. Then you took that to the computer room and you gave it to a computer operator.
+	
+73fade689cf8ec2618dae855f64b0d98|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	In 1964 the Link Group made a tough decision to relocate for MIT to Washington University in St. Louis, Missouri, but Mary Allen didn't want to go.
+	
+cf6514f1a6dfea28abbcceae44686ed2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	I said to him, "I want to write the operating system." I was probably the only person who could write the operating system at that point. So, Wesley just said, "Well, no problem. We'll send you a Link. You can have it at home." And that's how it came about. A couple of guys from our laboratory arrived one day in a small moving van and wheeled the various four boxes, the four modules and the refrigerator size thing that held the electronics and the memories and so forth. They wheeled those into my parents' living room in Baltimore. They might've had to create 20-amp circuits for it, but otherwise, you just plugged it into the wall socket.
+	
+752a9eee918781c11d8e5ab600885e88|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	Wesley Clark, the lead of the Link Group thought it was a great idea.
+	
+3d33f2410b8c2c1508638664578af152|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	I didn't want to move to St. Louis right away. I wasn't sure I wanted to move there at all. What I wanted to do was write a proper operating system for the Link, because up to that time, all we had was pretty basic little assembly programs that I had written in 1962 and ‘63. And I said, "I could do that. I could write it at home."
+	
+0aa4a0e22301ed71cd889a085fa1feb3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	And what did her parents think of this large new intrusion in their home?
+	
+7764af0ba8d56609f888af29ef928ea2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	My father was an Episcopal clergyman and he would tell everybody he saw, "I bet you don't have a computer in your living room." It was quite a novelty to say the least. Quite a novelty.
+	
+9d1dee90d266121bb63d07b4c6df230f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|79|1|V|markdown
+	Mary Allen's parents were gone all day, so she was able to concentrate. She wrote the operating system right on the Link, no need for punch cards, so she could debug much faster. She communicated with her team by phone or good old-fashioned snail mail, and would take the odd trip to St. Louis if necessary. In just under a year, she completed the OS and wrote the programming manual.
+	
+4e75e2dd52a3e2c27fbdc05c59af9b58|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	I've been working at home now for several years, since I quit my last day job in 2001. So, I'm a work-at-home person. And in fact, when I left that day job, I said to myself, I'm going to keep working, but I do not want to go to an office, and I do not want to sit at a desk. But by that time, of course we had laptops, so I was able to sit in an easy chair.
+	
+b479a465a8e2fed25e575902e1983644|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	I never felt isolated, and I never felt frustrated. I felt challenged. I think programming is basically a job for introverts, people who work well in isolation, people who work well independently, who don't need a lot of support or interaction with others.
+	
+c683a3c6b3958f62122d391cff6f32d7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	So Clive, Mary Allen has such a great story and you got to interview her for Coders. She was not just a computer programming pioneer, but a remote work pioneer as well, wasn't she?
+	
+6aa3d1752d81be37426434e6b97f2c14|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Over the years, Mary Allen has worked in other jobs that required her to work at an office. Her preference though, is working from home.
+	
+75ef8a66ed7cbe0fdfa8a05123249ccd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Well, it's very popular, and that's because coders love working from home. The vast majority of coders, if they were given the choice, they would say, yes, I would work from home all the time. And the reason why is because it just gives them a quiet and a focus and a lack of interruptions from people tapping them on the shoulder in the cubicle. If you were to say to them, "Hey guys, everyone, where would you prefer to work?" They would all prefer to work from home.
+	
+04b45f6bceb167998b6520729f077a80|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Programming is that ideal kind of work to do remotely. Even my own experience with self-isolation has made me realize that I've been doing exactly that for a number of years. So when you talk to coders, how many of them prefer this work method? How popular has it become?
+	
+e5997930b02fc2c14496c4cb8f5da1dc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Yeah. I mean, as far as I can tell, she is the first person to have a personal computer at home that she's doing her work on. There's this amazing photo online of her and she's sitting there at the foot of her parents stairs. It was downstairs from the top floor, it’s where they have all these components where she's sitting there, a little table, and working. And it's a glimpse of the future, right? I mean, what she was doing then would take 30, 40 years to be realized en mass, that she was completely ahead of her time.
+	
+bfc5879a95ddb795ba9c2a7070696f48|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	One tech company that is a big advocate for remote work is Basecamp. They've been around for 20 years and they've been remote from the start, even before it became popular. Their staff work from home around the world. Let's listen to David Heinemeier Hansson. He co-founded Basecamp with Jason Fried. He's also the creator of Ruby on Rails.
+	
+36dc5bd36e18e7cee4bf7c236230aaac|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Actually, for the first six months after I started working with Jason, we just emailed and IMed. We didn't even talk on the phone. So it took six months, I think, before we had our first phone call, and it took over a year until we met each other in person. So for a very long time, this was not conventional wisdom. We got access to this huge talent pool of people who realized that they don't want to live in San Francisco. They didn't want to live in New York. They didn't want to live in Seattle. They didn't want to live in any of these big tech hubs, yet they're really proficient, qualified people. So the fact that Basecamp allowed them to do this was a huge factor in both our hiring strategy and our retention strategy.
+	
+872608287d3f60711be77620e1b03130|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	In 2012, I had a series of conversations with other entrepreneurs where I would ask them about their work practice, and we'd talk about remote, and they would just give me these trite defenses for why remote couldn't work. "Oh, you can't do collaboration. The magic only happens around the white board." And I thought like, what, people still think like this? How is that possible? The whiteboard is basically nonexistent at Basecamp. The number one tool we have is writing. It's asynchronous, by yourself writing and you post it, and you let some time pass by. Good collaboration happens when creative people get time and space to do deep thinking and they compile that deep thinking into deep writing. The deep writing consists not of one chat line at the time, but fully composed sentences, that form paragraphs, that form complete arguments.
+	
+4c563a6d46dda16d1c8b84cc92db5e5d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Then you consider those arguments with the advantage and calm of time. 90% is considered writing, then 5% chat, and then maybe 5%, I don't know, Zoom or Tubal or some other video connection—share-my-screen kind of collaboration.
+	
+b2acce20cdcf41f354537204cf31e112|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	So Clive, David is making some super interesting points here. Some I never would've thought of. Are there other ways of working that coders were using that make remote work as success?
+	
+a555ae670e23ef4d4fcc3b6a2d51388d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Yeah, absolutely. They arrange times when they know that they're going to be in contact and maybe in face-to-face contact. So there were definitely companies I spoke to that said, "Okay, we know our developers do their best work when they're not here, but we want them to be here some of the time, we want to have some face-to-face meetings." They still believe in that. And so they would have these schedules that were like, okay, on Tuesday and Thursday, from 1 - 5 PM, we need everyone to be in the office just so we can have some time to talk. The rest of the time, go wherever you want. You can work in the office if you want to, you can work wherever you want. It could be at a Starbucks, it could be at home. So this sort of interesting latticing of new arrangements is one thing that works really well.
+	
+86eef303dd5bddcf366fc202c8ceac7f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Another thing that I think works really well is figuring out what's the sort of mode of chat or communication that everyone likes the most. And in David's case, he likes, and his team likes, long-form email conversations. I've definitely talked to people that like that, but other ones, they actually really like Slack, or they really like good old fashioned IRC, right? Like green text on a black background. But they worked out what their co-presence was, because there's this phenomenon that psychologists who talk about online communication describe as ambient awareness, which is the ability to know what other people are sort of thinking about and doing when you're not physically there with them. There's a lot of technologies that allow us to do that. And the best remote teams think carefully about what their ambient awareness method is, and they lock in on it and they use it.
+	
+86ab8670ec3574cc1e07087903af6b02|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	One thing that I found to be really useful in my own remote working experience is to co-work via a Hangout session or a Zoom session, just letting the stream run and just having that connection open. It's been a really great way of feeling less isolated, kind of having company with the expectation that each person is still doing their own thing, but it gives that opportunity to tap someone on the shoulder, because I can just say, "Hey, I'm stuck on this one feature. Do you mind for the next 5, 10 minutes, can you pair with me and help me get unstuck?" So it's been a really useful way of having some type of social interaction and having those opportunities to get help when you need it.
+	
+8736d1800ca0bd28df021fe474394da3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	That makes total sense. I mean, I think a lot of people try to figure out some way to do that with an experienced person or even frankly, even just with a peer because you can get a lot, even if someone's not senior to you, but is just a different brain.
+	
+5782ca69a712aec52d932ea2fa0b1f26|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	Yep. Absolutely. I think it's a different type of communication, but I'm not convinced it's a lower quality of communication.
+	
+fb78c99ea14e1b1242cc627efd3668ee|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	So now that we've all been forced to work from home, companies are realizing that they can still get work done. Have attitudes changed to the point that remote work will go mainstream?
+	
+1868465ab4e83fa1444b6e9236854595|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	No, not at all. It's like what psychologists would call metacognition, thinking about thinking. Really, the task at hand is: what type of thinking am I trying to do today? And is that thinking better served by being physically with someone, or chatting with them online?
+	
+5c286c91feb19e174b4bdd9f944473e8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|159|1|V|markdown
+	That is a really big question that I don't think we have an answer for yet. I think what's going to happen is that a good chunk of the workers out there, including the developers who have never worked or been allowed to work from home a lot, I'm going to say more than 50%, are going to ask to have that be made semi-permanent. They're going to discover that they're way more productive and they'd like to do it more often, and that a certain amount of those meetings were just not necessary and interrupted their flow in their workspace.
+	
+49c76bdbf25341c75a7505084e172fac|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	So I've done remote work for a number of years, I've done it just working for myself, and then once I had a team, I had a couple people that were working with me, but my experience with remote work has been a maximum of four people, and they were everywhere. We had someone in LA and Brooklyn and Chicago, but I'm wondering: is remote work only really successful for small teams like that, for smaller companies like Basecamp?
+	
+bee520d6e3f8306272077ca7ab868b0a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	So if remote work is a great way to be productive, it's getting more popular over time, and especially for coders it's such a great way to get work done it can be a lot more convenient, and our type of work is really meant to work from home, why do these big tech companies keep building such large campuses for their workers to work in?
+	
+4370a903f6da162e545a73e25953883b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	Steve Jobs literally created Apple's headquarters to maximize the chance that people wouldn’t just work together, but they would have to sort of convene in places to create those creative sparks.
+	
+48b621ad82bb17e093a76cbc780b968a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	Yeah, that's a great question. I have seen it most successfully deployed when development teams were small, at the startup level, where they had five or six people, and in fact, the reason why they were able to get the talent they wanted is that they said, "Okay, you are in Russia. I'm in Toronto. Our other person is in Tennessee, and we're just going to work together." So you see it a lot in a certain type of startup that has a specific skill set they need and they need to get people that they think are the best and they're not going to demand or ask those people to move. Those are small teams.
+	
+758794d347764b5cc04bd63bb3443c9b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	Let's hear another argument about working remotely. Dave West is CEO of scrum.org. Fundamental to the work at this company is the first rule of the Agile Manifesto, individuals and interactions over processes and tools. Here's Dave.
+	
+60e625f4923b5ba12fa6b56d8c83723e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	I think it's a little easier to manage the communications because you can almost think of this as the communications between a set of nodes, and as the nodes grow, the number of people that need to communicate grows dramatically. So with four or five people it works really well, with like 50, it gets really hard, 150, oh my god. It gets a lot harder for a company that is 10,000 people to figure out how they're going to do that.
+	
+37abd97c0695eaf397a556f6b2cdb866|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	I think that the reality is that if you really want to build a product at vast speed, working together in a really effective way, face-to-face is still probably the best. That doesn't mean it's the only, and it doesn't mean you can't be as effective in other forms of communication, in other forms of distribution, as it were, however, the best and the easiest is face-to-face communication. I, to this day, still believe that the most enjoyable software projects that I've ever worked on and development projects and teams I've ever worked within have been located in the same physical geographic, same office. And that's for so many reasons. It's because of going out and getting a few beers on a Friday night, the ability to really get that extra level of understanding about a human being when something's going wrong that may be challenging their work, like their dog's died or something like that.
+	
+c6ecd211ae2bf5b960899ff4324279a5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	It's partly based on their idea or their concern that creative thinking only happens when people are face-to-face, and have unexpected connections to each other. And that's based in some actual science. I mean, there is a fair amount of research that shows that a certain type of communication and loose collaboration and loose idea generation happens when people in a company encounter each other that maybe didn't really know each other's existence. I mean, it's a classic water cooler effect. 3M, the big paper company that famously invented Post-it Notes, just a multibillion dollar invention, when one person that had invented this kind of sticky substance encountered someone else who was looking for a way to hold pieces of paper in place. And because of that chance running into each other, they created one of the most iconic products of that company.
+	
+1d031772eb95209a67dc112167d423c4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	You get that sort of extra stuff that's a lot harder to get from a distributed team. But on the other hand, I don't think all the best software engineers live in Silicon Valley. So I'm conflicted, I think the value of a co-located team is huge, but I also think the benefits, particularly around diversity of people in different locations, is also huge. So, there's a balance that you have to make, and it's incredibly hard. What I do know is that if you are going to distribute your team, then you must pay particular attention to facilitating and enabling the environment to actually replicate as near as possible that co-located team. Which means bringing them together frequently. So you do a lot of screen-sharing, and you spend time together, and maybe you shove on a Google Hangout and just leave it running and just share. Those sorts of things become very, very important.
+	
+435805ba244159232a22396b1ea74e9d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|199|1|V|markdown
+	So Clive, open source projects are built on collaboration and teamwork. So does remote work hinder that? How conducive is remote work to real collaboration?
+	
+d40c5e8dd101a3e4c7f5546fd46f02a6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|203|1|V|markdown
+	Well, the first part of that question about open source is easy to answer, which is that I actually think most of the big successes in open source have been extremely remote because by definition, the magic of an open source project is a developer saying, "Hey, I've got this code base I'm working on. Does anyone have any ideas?" And instead of just asking the 50 people in your company, you ask the millions and millions and millions of people online. Because only 1% of 1% of 1% of 1% are going to actually have a good idea for you. No one in your 50-person organization might care about the weird little library you're building, whereas scaled across the planet, you're going to find nine people that are just unbelievably passionate and interested in helping with that thing. So in one sense, open source is by definition heavily catalyzed by remote work, by remote collaboration.
+	
+4ee7603a0709472d1e5891e028457b65|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|223|1|V|markdown
+	Maude Mensah Simpson is a front-end developer who works from home while being a mom to two young kids. She explains one of her early challenges with remote work after she had her second child.
+	
+1d7f86f4137691250275e66a8a60b777|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|223|1|V|markdown
+	I had only been a developer for a year when I had my second. So there's so much you miss when everybody else is in the office and you're not. One of the things was the little side conversations that people have about work in general. My senior developer would, when I'm coding, he would pass by behind me, and then he would see things that I'm doing and he'd be like, "Oh yeah, I like how you did that." Or, "What are you doing?" The act of him just passing by my workspace gave him the opportunity to talk to me about coding and how to do things properly. It just might be your personal confidence to work remotely, because you just miss some of the teaching and the tutoring when you're not working inside the office.
+	
+30b3d42451b8d1ea11eb9be39b6a36b3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|223|1|V|markdown
+	It's challenged by it too though, because all the sort of stuff that Dave was just talking about is true, which is that with no face-to-face contact, it's really easy for all the social glue that helps an organization work to fall apart. And you see that in open source projects. They can really turn into nightmares of antisocial behavior online because people are bad at reading each other's tone. They'll think they're just being direct and other people read them as being unbelievably curt and insulting. And things that could be cleared up in like 30 seconds with face-to-face social interaction can tear open source communities, and have torn open source communities, apart online.
+	
+0d7ae580339f6229cca3bb2bc79d89f8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|223|1|V|markdown
+	Clive, I'm wondering if the experience of working remotely is different for an experienced coder versus an early career coder, because I can imagine for an experienced coder, who's used to working in an office environment and then has to switch to remote work the change probably isn't too bad; it's probably not too challenging. But for an early career coder, I can see them really benefiting from being around mentors, people with more experience, being able to tap people on the shoulder and ask them a question. So, are early career coders losing something by not being physically around other coders?
+	
+1d8ac588f4611963ca15f0ee8b6ffec3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|223|1|V|markdown
+	I think they are. Yeah. I think that's a very legitimate concern, and I've definitely heard it from older developers who came up through face-to-face collaboration and knew that wow, they could learn an enormous amount and get unblocked with a 30-second conversation, face-to-face with a senior developer. So Jeff Dean is a senior, senior engineering manager at Google. I heard from lots of people who worked alongside him, that he is just this incredibly useful senior resource because people would come to him with a problem, and he could literally just see the vector straight through it, and in like 20 seconds go, "Oh..." He wouldn't give him the answer, but he would tell them here's where I think the issue really lies, and they would get unblocked and they would go back and they would be unbelievably productive.
+	
+8cafe0a6e3689b8b3eee0d88cb810617|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	And so the junior people would benefit greatly from interactions like that. I wouldn't say you never get them remote, but they're harder to get. Then there's also code reviews. So at a good company, that's well-managed, you're going to have code reviews where your peers, and ideally senior people who have been around the block a bit, are looking at your code and sitting down and talking about it and asking you how and why you did it this way. And that to-and-fro takes a lot of unconscious decisions that you might've made and makes them conscious, and that's incredibly valuable for learning. To be able to understand why you did what you did, to externalize that for someone else, is incredibly valuable.
+	
+7621dd0a61068037ba74388bb8af6df6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	You possibly could underwork, but I never heard about that in all my interviews, both with developers and their managers. In fact, the opposite. I tended to hear that managers were worried that people were never turning off, never stepping away from the work. I also heard that from the developers, too, that it was hard; it's always hard to stop thinking about a problem for developers. When you work from home, you'll spend your eight hours of deep immersion and you'll get a lot of stuff done, but because you don't physically go somewhere else, your body can't help trick your mind into turning itself off. Like if you leave the office and you get in the car or the bus or the scooter or you walk home, you physically go from one place to another, and that physical signal helps your brain reset itself.
+	
+0d319ea07ff9aa715a1b26fb95640f56|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	One of the problems I've heard of with working remotely is this idea of blending, which is when you start work and then it's 6:00 and you kind of should stop working, but you're at work, you're comfortable, you'll work an extra hour or two, and you end up overworking when you're working remotely. Is that a thing? And then kind of the opposite of that, can you underwork by working remotely?
+	
+6026cd4d346df89606525b57fb0fedf8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	There's just lots and lots of science on this. I mean, literally physically going from one room to another helps your brain reset itself. When you don't have the ability to do that, when you work from home, the natural chess-like mental space of a coding problem becomes very hard to tell your brain to stop working on it. And so there's a lot of reasons why people who work from home just keep on going in a way that they know is unhealthy, but they have trouble stopping.
+	
+da4d12cf8cb7228795325325c262861b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	David Heinemeier Hansson.
+	
+58642dd7e7dce1915f2e87b894052ec9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	We have some funny anecdotes of how people at Basecamp have dealt with this over time. We had a data analyst at one time who had two sets of slippers. He had his work slippers that he would get into when he walked into the office and then you would have his home slippers. They were both just a set of slippers. They just provided the separation between work and home. And I think that separation is pretty important. I think for a lot of people who do use their home, being able to segregate one room of the house for that and then when you leave that room, you're no longer at work is also a healthy practice.
+	
+3b6b37965400032b6eba101fae1c3201|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	I love the slipper idea, like Mr. Rogers. Here's Maude again. After years of working from home with kids, she's figured out her own formula to make working from home work for her.
+	
+b74a947b69b91f53c4a6e0ece65b6a3e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	So Clive, are there other tips or tricks to managing a workforce remotely or even being a remote worker?
+	
+59ab997da4eeb04961f566d76b96f79d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	Sure, if a company is going to have a serious remote culture, one important thing is for people at the top to also work remotely so that there isn't this sense that remote is this secondary status and that big decisions are being made face-to-face by important people and the remote people are not part of that. An example of that, that I ran into while researching my book, was when I was talking to some of the engineers for Postlight, which is a terrific company here in New York City. They develop apps mostly for the media industries. The head of engineering was remote, and he was working in the woods south of Nashville. When I talked to him, he said, “This is a really important thing, because we have a lot of remote engineers, and they like knowing that I'm heading up the engineering workforce, and I myself am remote." It means that everyone in the company thinks very mindfully about how to make remote work, because the person running the show in that part of it was himself remote.
+	
+4610c760497f644ba3d8a30a79e65a25|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|263|1|V|markdown
+	It's very easy to lose track of time. You could be sitting there for a few hours and not know how long you've been coding away because you're at home. How I fixed that was I had a Pomodoro timer and I would make sure to take dedicated breaks every hour or so. Then just being able to like separate home from work. I have an office at home, and I don't let my home life come into the office to make sure I separate the two. So when I'm outside, I can be mommy or whoever I am when I'm not at work, but then when I come inside the office, it's go-time and it's a lot easier to get into the flow of working. I would do a quick status update every day. In the morning, I'd let them know this is what I'm working on today and then in the evening, I'd let them know where I was. I don't think there's any such thing as over-communication when you're working remotely. So yeah, just communicate, communicate.
+	
+637f21215f6b74cdd124636376dd923a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|283|1|V|markdown
+	Thanks, Saron.
+	
+f8ca3da90012fb23c39333dca62971d9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|283|1|V|markdown
+	Most of us had to make a drastic shift in how we work since March of 2020—working from home, whether we did that already or not. And when we work from home, it comes down to our personal work style and making sure that whatever project we're working on, whatever company we're with, whoever we're managing or being managed by, our individual preferences are respected and we're allowed the flexibility to work how we work best. Putting people over process isn't just the first rule of the Agile Manifesto, it's the open source way, and it's the approach that yields the best results. For more research on this episode, go to [redhat.com/commandlineheroes](//www.redhat.com/en/commandlineheroes). Next time, our final episode of this career-minded mini-season, Clive will be back and we'll tackle the question, what kind of coder will you become? Thank you so much for joining us Clive.
+	
+823eb6fc06797a1af72bfedb48ae1d3f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|283|1|V|markdown
+	And I'm Clive Thompson.
+	
+208f046f34e5efe84ea3bdd09ddeae08|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|283|1|V|markdown
+	You've been listening to Command Line Heroes, an original podcast from Red Hat. I'm Saron Yitbarek.
+	
+1c7170e7e728327bac1ce77e91f9cf6b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|283|1|V|markdown
+	All right. How are we going to do this?
+	
+b3f963fcdd12a3110739899dbe002c25|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|295|1|V|markdown
+	Keep on coding.
+	
+8fd315a4ad654e0cd44bfa0156cd6362|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|295|1|V|markdown
+	Oh my god. Can we use the “keep on coding” for the last time?
+	
+b3f963fcdd12a3110739899dbe002c25|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|295|1|V|markdown
+	Keep on coding.
+	
+6e484ee3354456173d701e3eb6fb20b8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|10|1|V|markdown
+	Leaving Google: Five Years On
+93b53d03ebff5499f3e28fae3ac553ce|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|13|1|V|markdown
+	About five years ago now, I handed in my Google employee badge and walked out of the Sydney Google office to start a new life of self-employment. I figured I should write up this story because I got a lot out of reading [Michael Lynch’s][1]. As you can see, it’s still taken me a couple of years to get around to writing this post, but I finally told myself that if I don’t write it for the fifth anniversary, I never will.
+5b4104d266e657ec9a9413dc0f4a5a7e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|15|442|V|markdown
+	This post is kind of long, but I hope it has something useful for new developers who are interested in working at a big tech company, or for big company employees who are wondering what it’s like to quit. I’ll talk about my story of getting into, working at and quitting Google, and what I’ve done since. Feel free to ask if you want more detail about something, though I already have a lot of blog posts to write, so I can’t promise anything in-depth straight away.
+	
+df1407ca95b190ae9c0aff22e129695f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|17|239|V|markdown
+	Also, at the risk of labouring the obvious: I haven’t worked at Google for five years, so don’t take this story as a literal description of Google today or what all Google employees experience. However, I think a lot of it’s still relevant to tech careers in general.
+	
+a1d818190b5ca381b2c047dbbc59ff08|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|19|1|V|markdown
+	### The windy road to Google
+41469892c9d769f99fc19433b60896ba|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|20|1|V|markdown
+	
+	I got my first paid programming job in 2005. It was working at the local power company, taking some old Pascal code and making it work on a different OS with a different compiler. It was basically just a summer job for extra money while doing the maths and physics degree I’d started that same year. They were happy to have an undergraduate who could do the job; I was just blown away that these grown ups were not only interested in my programming hobby, but actually going to give me real money for it.
+a3421446f890abcc49c332f542ff5546|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|23|582|V|markdown
+	I kept doing stuff like that until I graduated in 2007. I liked programming work, and Google was a cool company doing cool programming stuff, so I applied for an internship. The Google interview process was famous for being tough, so I spent weeks practising on all the Google interview problems I could find online. I don’t think the process has changed much in 13 years: I submitted a résumé, and I got invited to a few rounds of phone interviews that were mostly algorithmic problems (I remember a dynamic programming one and a divide-and-conquer geometric one). I passed the initial interviews, and got invited to come to Sydney for a day of on-site interviews with Google engineers. I went home and waited for what felt like an eternity for the phone call from Google HR. I got rejected.
+	
+6b8292c4e4d21e21859eb738fd3db941|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|25|673|V|markdown
+	It’s natural to feel bad about our rejections and failures, so we don’t talk about them much. But for the same reason, other people don’t talk about theirs, which only makes things worse. When I _did_ get into Google later, I felt like there must be something a bit wrong with me as a “ex-reject”, but one day I was at a table with a bunch of colleagues and the conversation came up. That’s when I discovered that actually a lot of people around me had been rejected at least once. I wasn’t even the “worst”. One guy joked that he must have only got in because Google HR got tired of rejecting him. I’m talking about some pretty impressive engineers, as well — some were responsible for code I use all the time, and I bet you use, too.
+	
+ba2e985722e33350a194bf3a11934105|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|27|1|V|markdown
+	Companies that do interviews usually interview two or more candidates for each hire. That means there are more rejections around than acceptances, so the average interviewee gets rejected more often than not. Yet we keep forgetting that. Four developers go into an interview; one gets hired, the other three rant on social media about how the interview was totally flawed because they personally got rejected. Sure, interviews are far from perfect, but we need to stop taking them so personally.
+b5a9c1f152e0494e75a25b2f95381a5b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|29|150|V|markdown
+	Rejection and failure aren’t so bad as long as you can figure out what went wrong and how you could improve yourself. The Google interviews were heavily algorithm-oriented, and I fumbled through a lot of them but definitely didn’t come out shining.
+	
+557285c97dcfec6176bed2b643efa9b7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|31|574|V|markdown
+	After the Google rejection, I got two things and took a kind of sabbatical year. The first thing was an Australian Business Number (ABN) that I used to do maths and science tuition, as well as tech job contracts. The other thing I got was a library card at the university science and tech library. I wasn’t planning to interview at Google again, but the interview experience told me there was a lot I didn’t know. I’d give tutorials in the library and read books in between. By the way, a few people thought I was weird for doing all that accounting and stuff for my tuition business, when most tutors just did it cash-in-hand. But I learned a lot that’s helped me later in life, so I don’t regret a thing.
+	
+2e95a696f6179e6ef277b7faf9663cc4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|33|219|V|markdown
+	In 2009, I did a maths honours year (a.k.a, bachelors fourth year) based on the work of a magician-turned-mathematician called Persi Diaconis. The computer science department let me take one of their algorithms units as part of it.
+	
+ac6ab30d5a39eba7c6118ae738a192b3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|34|1|V|markdown
+	
+	As I said, I hadn’t planned to interview for Google again, but let me fast forward to how it happened. I’d been studying Japanese since high school, so in 2012 I decided to try living in Tokyo. That mostly worked out, except I made one pretty big mistake: I didn’t have any paper qualifications in Japanese, so it was really hard to get job interviews. Eventually, a friend of mine who had been accepted at Google suggested I give it another try. Like all Google offices, the official business language at Google Tokyo is English, so they didn’t require me to have Japanese qualifications.
+b842d33cb41b644ce62a72ba57d639ad|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|37|1|V|markdown
+	### Google interviews, again
+49769896b99578f01dc25ec48bb09c4f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|140|1|v|markdown
+	[11]: https://theartofmachinery.com/2018/03/23/seto_trip_1.html
+6dff726bad857d3e96ca2760f250d437|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|39|299|V|markdown
+	My friend gave me a recommendation to Google HR. That definitely helps, but don’t get too excited if you get a recommendation, yourself. It ensures your résumé gets noticed (not trivial) and cuts one of the phone interviews, but you still have to pass the remaining phone and on-site interviews.
+	
+9caba2a0d80bb1f4ba573514da0b0ba9|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|117|1|V|markdown
+	![109](/images/2020/01/wallpaper/109.jpg)
+bec20bc27a8e00d4a50d6b42c73824c6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|115|475|v|markdown
+	New York 
+951f087367024ce16013bb623db19c7b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|115|514|v|markdown
+	Seattle 
+25d2ce70c78aa60beb08cb8bc1caf499|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|175|295|v|markdown
+	Brooklyn 
+5a6b65c1640413621aa571d6a7ddb9a3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|175|319|v|markdown
+	Chicago 
+800ea49b740ffbc383f0b6a5867130a8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|179|301|v|markdown
+	Toronto 
+460d63824484fd17ab81aaa8694d85d2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|179|331|v|markdown
+	Tennessee 
+6152559a9d93cc3f9a4783977725643d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|195|169|v|markdown
+	Silicon Valley 
+379369adbee0a9e198b2fb0350bcdcff|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|267|510|v|markdown
+	gile Manifesto 
+731a51225a7c74e2dcf59910e135a671|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|275|37|v|markdown
+	ommand Line Heroes 
+4e563c26e6ffd312727efda92d0e8393|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S05WCW-Final.md|275|55|v|markdown
+	Red Hat 
+8a226fe8c502a20e492e3412a94c82d1|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|6|1|V|python
+	data_vgg_T1 = np.array([51.33, 53.33, 54.46, 54.32, 53.62])
+2bf88ceda4980fcccecf1aa63e3721f7|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|8|15|v|python
+	.array
+4e1ea23655e03d1e19e0f2c0b44ecf3c|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|11|54|v|python
+	label_K
+26c5fa986bbd01ab014df8a1a495a90d|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|11|41|v|python
+	data_K_vgg_T1
+58e2c73772e571400a2e3ee18cb43990|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|5|1|V|python
+	import pyecharts
+57f9fd27f06eb3ff1c0c5f58473f8aaa|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|10|1|V|python
+	#  data_vgg_T1 = np.array([51.33, 53.33, 54.46, 54.32, 53.62])
+58e2513daf7c2bdf670e2d892cdaec2d|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|15|1|V|python
+	sns.lineplot(x="Acc")
+b5ce3d2718082860098eb0ce08c1b72d|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|11|18|v|python
+	51.33, 53.33, 54.46, 54.32, 53.62
+50d4e6c41898d24ff5b1b54c132b19a5|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|19|1|V|python
+	        .add_yaxis('Top-1', [51.33, 53.33, 54.46, 54.32, 53.62], is_smooth=True)
+b84aa49e7eba9305f4204c7c877da6e8|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|18|20|v|python
+	dwFaker
+ebd73ade48cb3e102d1dbbfbc0377c5f|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|18|20|v|python
+	choose
+64c0981f5c6da7eb274f37828ebb02e0|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|24|1|V|python
+	line_K_vgg.render('VGG16_K.pdf')
+d50a13c2c391cfb337f8d1aee4892331|file:///home/godlovesjonny/Jonny/Temp-Storage/MathmaticalModeling/pre/MCM-Models/Charts/pyecharts/Bar.py|2|1|V|python
+	from pyecharts.render import make_snapshot
+	from pyecharts import options as opts
+	from pyecharts.globals import ThemeType
+	
+17e038f0378606757e0f85c9d0d9a044|file:///home/godlovesjonny/Jonny/Temp-Storage/MathmaticalModeling/pre/MCM-Models/Charts/pyecharts/Bar.py|2|1|V|python
+	from pyecharts.render import make_snapshot
+	from pyecharts import options as opts
+	from pyecharts.globals import ThemeType
+	
+	from snapshot_selenium import snapshot
+e43db4e528a5495ef6bdc7f9d1d0de9c|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|1|1|V|python
+	import numpy as np
+	import pandas as pd
+	import matplotlib.pyplot as plt
+	import seaborn as sns
+	
+f6a5478fdc0c038c25aca670c6213e6f|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|5|1|V|python
+	from pyecharts import options as opts
+7ef4f8611ab4ee38a3b5303d3d89b47f|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|12|1|V|python
+	df_K_vgg_T1 = pd.DataFrame({'x': label_K, 'y': data_K_vgg_T1})
+8b8086d5fc2d51bc6e5e66e5daa5f0cc|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|9|1|V|python
+	data_K_vgg_T1 = [51.33, 53.33, 54.46, 54.32, 53.62]
+	label_K = ['2', '4', '6', '8', '10']
+999fb8bea022868e3fcbed34043e1e1b|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line1.py|16|1|V|python
+	            xaxis_opts=opts.AxisOpts(name='K'),
+02adff210b4e48f76c2620a9f358ae17|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line2.py|8|8|v|python
+	vgg 
+ae747eae2399401a652e33026f66fd2d|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line2.py|12|30|v|python
+	73.94, 75.43, 75.88, 75.67, 75.49
+373f5aea77aa30189ddaa665f50d9817|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line2.py|13|31|v|python
+	82.16, 83.91, 84.19, 84.01, 84.77
+f827cf462f62848df37c5e1e94a4da74|file:///home/godlovesjonny/Jonny/Pys/draw_figures/eccv_line2.py|11|76|v|python
+	True
+aa4075b8e2d430d20916158ec1e81ac0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|41|285|V|markdown
+	This time I practised using problems from [Project Euler][2] and [Google CodeJam][3]. I had to do some live programming in a Google Doc during the phone interview, which was a bit awkward, but otherwise the phone interviews went okay. Then I got invited to the Mori Tower office in Roppongi for a day of onsite interviews.
+	
+1add0ebd06c6fe6613a0f19412612885|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|45|220|V|markdown
+	My first interview went terribly. I got brain freeze. I knew I could solve the problem, but I couldn’t think straight until the interviewer walked out of the room. Instantly I relaxed and recognised it as a ternary search problem. That was pretty frustrating, but I decided to just keep going and see how the rest of the interviews went.
+	
