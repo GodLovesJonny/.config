@@ -1,15 +1,21 @@
 [InternalPDFViewer]
 Embedded=true
-File=../../Jonny/Latexs/eccv2020kit-re/eccv2020kit/v1.pdf
+File=../../Jonny/Latexs/IEEEtran-csvt/bare_jrnl.pdf
 
 [Session]
 Bookmarks=@Invalid()
-CurrentFile=../../Jonny/Latexs/eccv2020kit-re/eccv2020kit/v1.tex
+CurrentFile=../../Jonny/Latexs/IEEEtran-csvt/bare_jrnl.tex
 File0\Col=1464
 File0\EditorGroup=0
 File0\FileName=../../Jonny/Latexs/eccv2020kit-re/eccv2020kit/v1.tex
-File0\FirstLine=68
+File0\FirstLine=0
 File0\FoldedLines=
 File0\Line=75
+File1\Col=0
+File1\EditorGroup=0
+File1\FileName=../../Jonny/Latexs/IEEEtran-csvt/bare_jrnl.tex
+File1\FirstLine=501
+File1\FoldedLines=
+File1\Line=505
 FileVersion=1
 MasterFile=

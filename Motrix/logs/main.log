@@ -14,3 +14,6 @@
 [2020-06-12 19:19:19.440] [warn] [Motrix] auto sync tracker failed: connect ECONNREFUSED 0.0.0.0:443
 [2020-06-12 19:19:59.714] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
 [2020-06-12 19:20:53.265] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2020-08-16 15:05:58.310] [warn] [Motrix] Logger init
+[2020-08-16 15:06:05.001] [warn] [Motrix] auto sync tracker data: [ null ]
+[2020-08-16 15:06:05.016] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800

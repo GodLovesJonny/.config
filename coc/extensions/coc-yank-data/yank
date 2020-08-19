@@ -2802,3 +2802,5 @@ aa4075b8e2d430d20916158ec1e81ac0|file:///home/godlovesjonny/Jonny/Open-Source/Tr
 1add0ebd06c6fe6613a0f19412612885|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|45|220|V|markdown
 	My first interview went terribly. I got brain freeze. I knew I could solve the problem, but I couldn’t think straight until the interviewer walked out of the room. Instantly I relaxed and recognised it as a ternary search problem. That was pretty frustrating, but I decided to just keep going and see how the rest of the interviews went.
 	
+ed59710301c218be91c106c1c9bc28a0|file:///home/godlovesjonny/.vimrc|338|1|V|vim
+	" Plug 'lpinillae/Qim-codepainter'

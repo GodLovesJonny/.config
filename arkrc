@@ -1,9 +1,10 @@
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1920=1920
+Window-Maximized 1080x1920=true
 splitterSizes=1279,640
 
 [Recent Files]
@@ -11,9 +12,9 @@ File1[$e]=$HOME/Jonny/Own-Notes/Web应用/struts所用jar包.rar
 File2[$e]=$HOME/Jonny/Own-Notes/Web应用/csstest.rar
 File3[$e]=$HOME/Jonny/Own-Notes/Web应用/J2EE.rar
 File4[$e]=$HOME/Jonny/Own-Notes/操作系统原理课件/操作系统习题集.doc
-File5[$e]=/run/media/godlovesjonny/新加卷/Manjaro/Frontier/1/Pic181284.rar
+File5[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt.zip
 Name1[$e]=struts所用jar包.rar
 Name2[$e]=csstest.rar
 Name3[$e]=J2EE.rar
 Name4[$e]=操作系统习题集.doc
-Name5[$e]=Pic181284.rar
+Name5[$e]=IEEEtran-csvt.zip

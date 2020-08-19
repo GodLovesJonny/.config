@@ -5,33 +5,33 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 JPEGQuality=10612
 
 [MainWindow]
-Height 1080=1022
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+Height 1080=1027
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAOqAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=952
+Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/图片/WinLinux.jpg
-File10[$e]=$HOME/下载/ua44a84istg51.jpg
-File2[$e]=$HOME/图片/screen.png
-File3[$e]=$HOME/.local/share/wallpapers/save/rings_of_saturn.jpg
-File4[$e]=$HOME/.local/share/wallpapers/save/hq_japan_nature_rain_fall.jpg
-File5[$e]=$HOME/.local/share/wallpapers/save/Golden Gate Bridge.jpg
-File6[$e]=$HOME/.local/share/wallpapers/save/Starry Nebula 262.png
-File7[$e]=$HOME/.local/share/wallpapers/save/Cartoon background.jpg
-File8[$e]=$HOME/下载/47rcdlecjeg51.jpg
-File9[$e]=$HOME/下载/dpdhjkecjeg51.jpg
-Name1[$e]=WinLinux.jpg
-Name10[$e]=ua44a84istg51.jpg
-Name2[$e]=screen.png
-Name3[$e]=rings_of_saturn.jpg
-Name4[$e]=hq_japan_nature_rain_fall.jpg
-Name5[$e]=Golden Gate Bridge.jpg
-Name6[$e]=Starry Nebula 262.png
-Name7[$e]=Cartoon background.jpg
-Name8[$e]=47rcdlecjeg51.jpg
-Name9[$e]=dpdhjkecjeg51.jpg
+File1[$e]=$HOME/图片/screen.png
+File10[$e]=$HOME/下载/dpdhjkecjeg51.jpg
+File2[$e]=$HOME/.local/share/wallpapers/save/rings_of_saturn.jpg
+File3[$e]=$HOME/.local/share/wallpapers/save/hq_japan_nature_rain_fall.jpg
+File4[$e]=$HOME/.local/share/wallpapers/save/Golden Gate Bridge.jpg
+File5[$e]=$HOME/.local/share/wallpapers/save/Starry Nebula 262.png
+File6[$e]=$HOME/.local/share/wallpapers/save/Cartoon background.jpg
+File7[$e]=$HOME/下载/ua44a84istg51.jpg
+File8[$e]=$HOME/下载/Mind-Map-20191122.png
+File9[$e]=$HOME/下载/47rcdlecjeg51.jpg
+Name1[$e]=screen.png
+Name10[$e]=dpdhjkecjeg51.jpg
+Name2[$e]=rings_of_saturn.jpg
+Name3[$e]=hq_japan_nature_rain_fall.jpg
+Name4[$e]=Golden Gate Bridge.jpg
+Name5[$e]=Starry Nebula 262.png
+Name6[$e]=Cartoon background.jpg
+Name7[$e]=ua44a84istg51.jpg
+Name8[$e]=Mind-Map-20191122.png
+Name9[$e]=47rcdlecjeg51.jpg
 
 [SideBar]
 SideBarSplitterSizes=242,1675
