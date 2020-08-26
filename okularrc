@@ -6,33 +6,34 @@ Window-Maximized 1080x1920=true
 FullScreen=false
 
 [MainWindow]
-Height 1080=1055
+Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPyAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIAAAAAAP////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1920=1920
+Window-Maximized 1080x1920=true
 
 [Notification Messages]
 ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Spam/Paper/eccv.pdf
-File10[$e]=$HOME/Jonny/Latexs/IEEEtran-csvt/bare_jrnl.pdf
-File2[$e]=$HOME/下载/JEI-200265_AUTHOR_1.pdf
-File3[$e]=$HOME/Jonny/Paper-Lib/ReID/Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf
-File4[$e]=$HOME/下载/wacv2018_tpsearch_paper.pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/ReID/Beyond Part Models: Person Retrieval with Refined Part Pooling_ECCV_2018.pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/ReID/1707.05612 VSE++: Improving Visual-Semantic Embeddings with Hard Negatives.pdf
-File7[$e]=$HOME/下载/byte-of-vim.pdf
-File8[$e]=$HOME/Jonny/Latexs/IEEEtran-csvt/Masks.pdf
-File9[$e]=$HOME/Jonny/Latexs/IEEEtran-csvt/results.pdf
-Name1[$e]=eccv.pdf
-Name10[$e]=bare_jrnl.pdf
-Name2[$e]=JEI-200265_AUTHOR_1.pdf
-Name3[$e]=Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf
-Name4[$e]=wacv2018_tpsearch_paper.pdf
-Name5[$e]=Beyond Part Models: Person Retrieval with Refined Part Pooling_ECCV_2018.pdf
-Name6[$e]=1707.05612 VSE++: Improving Visual-Semantic Embeddings with Hard Negatives.pdf
-Name7[$e]=byte-of-vim.pdf
-Name8[$e]=Masks.pdf
-Name9[$e]=results.pdf
+File1[$e]=$HOME/Jonny/Latexs/IEEEtran-csvt/results.pdf
+File10[$e]=$HOME/Jonny/machine-learning-notes/files/bayesian.pdf
+File2[$e]=$HOME/Jonny/Spam/Paper/_Merged_PDF.pdf
+File3[$e]=$HOME/Jonny/Spam/Paper/IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
+File4[$e]=$HOME/Jonny/Spam/ideas.md
+File5[$e]=$HOME/下载/JEI-200265_AUTHOR_2.pdf
+File6[$e]=$HOME/下载/1605.05395.pdf
+File7[$e]=$HOME/Jonny/PWStudio/BookLibrary/Penetrating Test/Wifi Hacking for Beginners by James Wells (z-lib.org).pdf
+File8[$e]=$HOME/Jonny/Latexs/ECCV Rebuttal/document.pdf
+File9[$e]=$HOME/Jonny/Latexs/IEEEtran-csvt/bare_jrnl.pdf
+Name1[$e]=results.pdf
+Name10[$e]=bayesian.pdf
+Name2[$e]=_Merged_PDF.pdf
+Name3[$e]=IMG-Net: Inner-cross-modal Attentional Multi-granular Network for Description-based Person Re-identification.pdf
+Name4[$e]=ideas.md
+Name5[$e]=JEI-200265_AUTHOR_2.pdf
+Name6[$e]=1605.05395.pdf
+Name7[$e]=Wifi Hacking for Beginners by James Wells (z-lib.org).pdf
+Name8[$e]=document.pdf
+Name9[$e]=bare_jrnl.pdf

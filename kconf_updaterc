@@ -41,9 +41,9 @@ done=gtk_theme
 mtime=1595947200
 
 [gwenview.upd]
-ctime=1595240979
+ctime=1598181827
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1594109600
+mtime=1596794975
 
 [icons_remove_effects.upd]
 ctime=1597583339
@@ -51,8 +51,8 @@ done=IconsRemoveEffects
 mtime=1595947569
 
 [kcalcrc.upd]
-ctime=1595240981
-mtime=1594114323
+ctime=1598181828
+mtime=1596799755
 
 [kde4breeze.upd]
 ctime=1597583324
@@ -60,8 +60,8 @@ done=5.0KDE4Breeze_2
 mtime=1595945830
 
 [kget.upd]
-ctime=1595240983
-mtime=1594119264
+ctime=1598181828
+mtime=1596796380
 
 [konversation.upd]
 ctime=1587277638
@@ -102,18 +102,19 @@ done=replace-placement-string-to-enum
 mtime=1595945927
 
 [okular.upd]
-ctime=1595240999
-mtime=1594110005
+ctime=1598181834
+done=annotation-toolbar
+mtime=1596795379
 
 [spectacle_newConfig.upd]
-ctime=1595241003
+ctime=1598181834
 done=spectacle-new-config
-mtime=1594110116
+mtime=1596795493
 
 [spectacle_shortcuts.upd]
-ctime=1595241003
+ctime=1598181834
 done=spectacle-migrate-shortcuts
-mtime=1594110116
+mtime=1596795493
 
 [style_widgetstyle_default_breeze.upd]
 ctime=1597583339

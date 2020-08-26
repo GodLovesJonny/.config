@@ -34,6 +34,30 @@ Mode Set By User=false
 Time=2020,8,1,11,6,25
 URL=file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec
 
+[file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib]
+Bookmarks=
+Checksum=0994be3e73f751a5cef439338a08191a233f8307
+Encoding=UTF-8
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+Time=2020,8,22,15,46,21
+URL=file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib
+
+[file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib]
+Bookmarks=
+Checksum=9b5d104c0772c829eaf8ad183b00447b53620eac
+Encoding=UTF-8
+Highlighting=BibTeX
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=BibTeX
+Mode Set By User=false
+Time=2020,8,22,15,46,21
+URL=file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib
+
 [file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib]
 Bookmarks=
 Checksum=f71831753f885214e9a52b35533bc49148782140
@@ -45,6 +69,18 @@ Mode=BibTeX
 Mode Set By User=false
 Time=2020,7,29,7,17,14
 URL=file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib
+
+[file:///home/godlovesjonny/Jonny/Spam/plan]
+Bookmarks=
+Checksum=ef59ff4939ef02e381a5edd9200a1e6ce33479e4
+Encoding=UTF-8
+Highlighting=None
+Highlighting Set By User=false
+Indentation Mode=normal
+Mode=Normal
+Mode Set By User=false
+Time=2020,8,23,6,19,14
+URL=file:///home/godlovesjonny/Jonny/Spam/plan
 
 [file:///home/godlovesjonny/下载/s10845-018-1431-x.ris]
 Bookmarks=
