@@ -1,38 +1,26 @@
-[file:///etc/v2rayL/v2ray-core/v2rayL.service]
+[file:///home/godlovesjonny/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib]
 Bookmarks=
-Checksum=a02ef6952e56fedd683620fbfdc6ed3e33ce5f87
+Checksum=604d3aca721185dfa6314d75da0138dcb21f893d
 Encoding=UTF-8
-Highlighting=None
+Highlighting=BibTeX
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=BibTeX
 Mode Set By User=false
-Time=2020,8,1,8,12,57
-URL=file:///etc/v2rayL/v2ray-core/v2rayL.service
+Time=2020,8,28,14,37,56
+URL=file:///home/godlovesjonny/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib
 
-[file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2ray-core/v2rayL.service]
+[file:///home/godlovesjonny/Jonny/Latexs/CVPR2020/egbib.bib]
 Bookmarks=
-Checksum=1b3a858b3151f2d3bbb78169c8c4504fecc880fa
+Checksum=dc84095751793ebadfab54200d38f00615f11c9e
 Encoding=UTF-8
-Highlighting=None
+Highlighting=BibTeX
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=Normal
+Mode=BibTeX
 Mode Set By User=false
-Time=2020,8,1,11,6,15
-URL=file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2ray-core/v2rayL.service
-
-[file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec]
-Bookmarks=
-Checksum=8313efb67f7782e9582acc70cc2f6d5455d82476
-Encoding=UTF-8
-Highlighting=RPM Spec
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=RPM Spec
-Mode Set By User=false
-Time=2020,8,1,11,6,25
-URL=file:///home/godlovesjonny/Jonny/Installs/v2rayL-master/v2rayL-GUI/v2rayLui.spec
+Time=2020,8,27,12,31,14
+URL=file:///home/godlovesjonny/Jonny/Latexs/CVPR2020/egbib.bib
 
 [file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib]
 Bookmarks=
@@ -55,20 +43,20 @@ Highlighting Set By User=false
 Indentation Mode=normal
 Mode=BibTeX
 Mode Set By User=false
-Time=2020,8,22,15,46,21
+Time=2020,8,27,15,16,55
 URL=file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib
 
-[file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib]
+[file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-1/eccv2020kit/egbib.bib]
 Bookmarks=
-Checksum=f71831753f885214e9a52b35533bc49148782140
+Checksum=cdeb811f550a076b95ec9d4123b815ee6717c3b8
 Encoding=UTF-8
 Highlighting=BibTeX
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=BibTeX
 Mode Set By User=false
-Time=2020,7,29,7,17,14
-URL=file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-re/eccv2020kit/egbib.bib
+Time=2020,8,27,12,29,11
+URL=file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-1/eccv2020kit/egbib.bib
 
 [file:///home/godlovesjonny/Jonny/Spam/plan]
 Bookmarks=
@@ -94,38 +82,14 @@ Mode Set By User=false
 Time=2020,8,18,15,19,23
 URL=file:///home/godlovesjonny/下载/s10845-018-1431-x.ris
 
-[file:///opt/deepinwine/apps/Deepin-TIM/deepin.com.qq.office.desktop]
+[file:///run/media/godlovesjonny/̨______/TCPIP实验箱资料/MAC.txt]
 Bookmarks=
-Checksum=ced7fa3718b8672e16d05a7886fc38112c7a7c2b
+Checksum=5c4516ae1dca0180071d0c8df0e88a2b776a8065
 Encoding=UTF-8
-Highlighting=.desktop
+Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
-Mode=.desktop
+Mode=Normal
 Mode Set By User=false
-Time=2020,7,29,8,5,35
-URL=file:///opt/deepinwine/apps/Deepin-TIM/deepin.com.qq.office.desktop
-
-[file:///usr/share/applications/v2rayL.desktop]
-Bookmarks=
-Checksum=b6d17ffa12d4e277f959415f8e2d6f027b940dd6
-Encoding=UTF-8
-Highlighting=.desktop
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=.desktop
-Mode Set By User=false
-Time=2020,8,1,8,13,48
-URL=file:///usr/share/applications/v2rayL.desktop
-
-[file:///usr/share/applications/v2rayL.desktop.1]
-Bookmarks=
-Checksum=b6d17ffa12d4e277f959415f8e2d6f027b940dd6
-Encoding=UTF-8
-Highlighting=Troff Mandoc
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=Troff Mandoc
-Mode Set By User=false
-Time=2020,8,1,8,14,3
-URL=file:///usr/share/applications/v2rayL.desktop.1
+Time=2020,9,5,13,48,5
+URL=file:///run/media/godlovesjonny/̨______/TCPIP实验箱资料/MAC.txt

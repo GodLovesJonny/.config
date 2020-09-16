@@ -2804,3 +2804,652 @@ aa4075b8e2d430d20916158ec1e81ac0|file:///home/godlovesjonny/Jonny/Open-Source/Tr
 	
 ed59710301c218be91c106c1c9bc28a0|file:///home/godlovesjonny/.vimrc|338|1|V|vim
 	" Plug 'lpinillae/Qim-codepainter'
+8bf1acf53c03ab2f6f01740364b4bae8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|121|1|V|markdown
+	![113](/images/2020/01/wallpaper/113.jpg)
+5bfa8f4040a9f0bb6486190764a5d122|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|122|1|V|markdown
+	![114](/images/2020/01/wallpaper/114.jpg)
+8069f56023937e93978866436b39a549|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|124|34|V|markdown
+	![115](/images/2020/01/wallpaper/115.jpg)
+3dc85164f9da20f66d399cd9d381173d|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|125|34|V|markdown
+	![116](/images/2020/01/wallpaper/116.jpg)
+e0b3de398298b229d7bc2dfc7a265095|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|126|34|V|markdown
+	![117](/images/2020/01/wallpaper/117.jpg)
+1b63bf5c4fc9e9fe38004a1f6f0837a2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-AYS.md|10|1|V|markdown
+	Command Line Heroes: Season 2: At Your Serverless
+315c7bf1130dbdbd499c13767f490d06|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-AYS.md|256|1|V|markdown
+	在我早先时候抛出那个术语“功能即服务”时，你有过些许畏缩吗？过去，基于云的开发为我们带来了大量的“ …… 即服务”的术语。我们有基础架构即服务，我们有平台即服务，我没有软件即服务、数据即服务、数据库即服务 …… 你明白了吧。  
+0c921c1ffe041e5e9cf922a04ae9a3b5|file:///home/godlovesjonny/.vimrc|379|1|V|vim
+	colorscheme deus
+bbdca68cbee3a9d88718a7519ef740be|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL1.md|79|56|v|markdown
+	[滴滴云](www.didiyun.com)上购买GPU/vGPU/机器学习产品可享受 9 折优惠
+a21ab9f9a31bd16027af1f0de3c2a695|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|7|1|V|html
+	                Written by <a itemprop="name" href="{{.Site.BaseURL }}" rel="author">{{ if isset .Params "author" }}{{ .Params.author }}{{ else }}{{ .Site.Params.author }}{{ end }}</a> with ♥ 
+8d002072094958c28801e2b18fbb9605|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|8|185|v|html
+	 with 
+33dceae095113e13f40cef7eb7039e28|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|70|15|V|html
+	            <p>
+	                <span>PS:</span>
+	            </p>
+60c76fec350c94b2219475a40e3aa0d2|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|67|116|v|html
+	AI大师活动购
+8df66366b1ced82749d48acbcaba24af|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|67|116|v|html
+	AI大师活动
+55ca91d6b44b5652ad2420eecb67e428|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|67|277|v|html
+	></s
+5504ceea91e62031eccf9496eab44be7|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/themes/LeaveIt/layouts/_default/single.html|67|274|v|html
+	</b>
+1a5ec72941f5a5b44fac92cf9e8022f7|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL1.md|77|1|V|markdown
+	
+	---
+	PS：欢迎参与[滴滴云](www.didiyun.com)AI大师活动购买GPU/vGPU/机器学习产品，使用我的滴滴AI大师码 0724 可享受 9 折优惠！  
+04da5a679b388db2977e015d9ed8bd04|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-AYS.md|628|66|v|markdown
+	普林斯顿
+33f85fbe1c43476ae13dd9cff9feda75|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|126|1|V|markdown
+	![118](/images/2020/01/wallpaper/118.jpg)
+cbdad1189a001a877d34433e25ce7266|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|127|1|V|markdown
+	![119](/images/2020/01/wallpaper/119.jpg)
+6b17bdd6f66eae74696b74f6709fbde5|file:///home/godlovesjonny/.vimrc|13|1|V|vim
+	set cursorline
+c4f6377e812d5b67801ae9791b5e786d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|14|1|V|markdown
+	But now, of course, all over the United States of America and all over the world the internet is revolutionizing our lives.
+	
+cd01a30c50e6170e817a4bad32ecbab9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|18|1|V|markdown
+	It's 1998. Google just hired its first employee, and Vice President Al Gore is talking to the press.
+	
+9a604c5949d18d7c06f5f1b66b1cd1d9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|22|1|V|markdown
+	This technology is still in its infancy. When president Bill Clinton and I came into the White House there were only 50 sites. And look at it now. I got a bouquet of virtual flowers on my birthday.
+	
+310a8d661c5f726b8a8adfc5c44b94c4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|26|1|V|markdown
+	Okay. I can sense your eyebrow arching already. Why am I playing you some bit of 20-year-old internet history? It's because I want to remind you that the basics of the internet are still the same.
+	
+dd8239c7c840059e50883fe3333aebee|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	Sure, there are more than 50 sites now. I get it. But, we're still sending virtual flowers. And from a developer's perspective, if you strip away all our incredible advances, you've still got that same client-server model that started it all. A client-server model that allows for a distributed network.
+	
+6a4aee08dd3489471608094084a89de0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	Today, developers talk a lot about going serverless, which sounds like Al Gore's client-server internet just got trashed. And if we're not careful, we can abstract away so much infrastructure that we forget there are still servers out there doing their server thing.
+	
+031e8bf124c81f4ebb103a04537e9008|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	Did you know wireless internet has wires somewhere?
+	
+35eff764c6655b6b14c6a78a910826dc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	Andrea Passwater works for a company called ... Wait for it, Serverless. They created a popular, open source framework for developing serverless applications. Andrea is noticing how organizations are hungry for ways to abstract away infrastructure, which is what that magical word serverless is always promising.
+	
+f6a9bea100c8a92936b85190ca07de76|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	For Andrea, the attractions of serverless are pretty obvious.
+	
+587e3c5afa16e7d6ef56e7d0b77a7c27|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	I think the term is mostly just supposed to convey the fact that as a developer who works in serverless applications, that's abstracted for you. You don't have to worry about those servers. You just get to code and deploy that code up to a cloud provider and not have to worry about the administration. That's really what serverless means.
+	
+967f84dfe4431bcde87ac96059bcccbf|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	And another big serverless bonus is you're less likely to find yourself reinventing the wheel.
+	
+6d3f8ddfcf242a3bd797f5817f5332dd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	But does serverless literally mean no servers? Really? Or is the developer's relationship with servers just evolving? In this episode, we are talking with people from around the world to explore this thing called serverless.
+	
+fb28ed28224832fdb78fe62f5ffbf6e0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|66|1|V|markdown
+	If you develop applications in a serverless way, it gives you the ability to not have to think about the mundane parts of deploying that application and maintaining that application. It just means that you can focus on business value. You can focus on being creative.
+	
+f1fcda3012cd00e3ae276d83b3b0d34c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Why would you create your own way to handle authentication when services like Auth0 exist that you can just use and tap into? At the end of the day, serverless is about giving developers the opportunity to be able to more easily and more rapidly build all of these ideas in their heads that they want to get out into the world.
+	
+78bf9829d8ad1e20d5ff7703c140fbe9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	I did it!
+	
+74f093da8c5054c4afa92becff611ed6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Allow me.
+	
+2846a3ef948d30b7e7f6e1ace70fd311|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Andrea has been hearing a lot of talk about non-developer development.
+	
+80919ef0dfa638b42bc0b27a687ec919|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Imagine you've got your arms full of groceries, and you're stumbling toward a door. The door slides open in a simple, friendly-
+	
+82282ec4aa31e380b9b9b19805c0af0e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	... kind of way. That's serverless. It's opening the door for you, making development a lot less cumbersome. In fact, as organizations flock toward hybrid cloud setups and the serverless movement gets underway, the barriers toward development are vanishing.
+	
+9c1f36b2061593fb35d8678f09205aa2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	There's something you do on your job that is so rote, like you do it every single day and it's this thing that you're like, "You know, couldn't a computer do this for me?" I started to feel that way. I happened to work at this company called Serverless and they were like, "You realize that the product we make can help you with that. Right?"
+	
+1b1d6fedda2e3d93775d2bbb26d06c26|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Sort of stories from people who traditionally thought they couldn't code, and who are now actually able to get into the software engineering game because of serverless. And able to make these tools that automate their own workflows and stuff like that. It doesn't matter what job you do.
+	
+8bf03307f20fca0d3b24074e26a0f3aa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	With Lambda, I've never had to pay for any of these small applications that I've made. I can make these bots that do part of my job for me, and I can become more efficient at my job, yes. But, I also don't have to do that boring stuff anymore. I can do something that's more fun.
+	
+53d26ce60d65028715a11f84ba8b4ed7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Andrea figures that pretty soon a lot of people who never considered themselves developers are going to realize they can build simple apps themselves. At essentially no cost.
+	
+cdd14533fc3445e2a2e47a8cd129a328|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Even for pro developers, that automatic door effect is pretty tempting in an arms-full-of-groceries kind of world.
+	
+0a7a51eb0a54cf2e34d26e52125e9034|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	I'm going to throw another term at you. Ready? Functions-as-a-service. That's the offering at serverless places like AWS Lambda, or Apache OpenWhisk. Functions-as-a-service means a single function can be executed on demand, only when triggered. And that's a lot more efficient.
+	
+ae6498e3e9a3a62a53f2b851c5035230|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	I think people are very attracted to the idea that they can get prototypes working with a one- or two-person team in a very short amount of time. Like, a handful of days. They can get a prototype up and running. I think it makes it very exciting for people to start realizing that they get to just focus on what drives business value in their application, or for their product, for their company. They get to focus on that business value.
+	
+c09ca0932c95fd440917107dcb63bd35|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Plus, I'm way less worried about compute capacity and run time. End of the day, that serverless deal can be a pretty sweet setup. In fact, some folks have even started wondering, are we going all in on serverless? Does it maybe replace containers?
+	
+0cfefbbeec9dd04d4f7b994efc4f768d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Michael Hausenblas is the developer advocate for the OpenShift® team over at Red Hat.
+	
+02e1f80901e5dc6bdb02e386bb12bea9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	I see the point.
+	
+56001a0bc9d19b003c16fd7c9ba78ad0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Yeah. That sounds pretty good. It kind of sounds like that dream of a “noops”environment. Where everything is automated and abstracted away. It's like the developer's version of minimalist interior design. Nice, clean surfaces.
+	
+542bb881b52349fa3e4be8d17858e9c5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	If you look at all of these things we have here, OpenShift and Cloud Foundry and what not, you have essentially these abstractions. This idea that the Heroku, essentially, bent it more or less. Right? This very simple way of, don't worry about how the execution will run, don't worry about what it looks like. Just give us the code and we take care of the rest.
+	
+2be67d47491d2af867884bc312a9ffb0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	But, Michael wants to give you a little reality check.
+	
+274f35716be77de1285203bbef041e60|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	No ops! Right? You know, it magically just will somehow go away. You see these jokes on HackerNews and Twitter, and wherever. Serverless, of course there are servers! I know, of course there are. There's operations.
+	
+cf8ad898c0fe43eca1c819cdb2535443|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Someone has to do that, someone has to rack the servers. Someone has to patch the operating system. Someone has to create containerimages, because guess where these functions are executing? Of course, in some kind of computer.
+	
+46f992f3eeead795e7d92e792bc7d777|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	You cannot simply call or page an infrastructure administrator. Obviously, someone in your organization has to do it. But, I fear that many organizations only see it's so simple and cheap. We don't need to move this, and this, and this. Then forget about who is on call, and who really is on call? Do you have a strategy for that?
+	
+7db27a22f9599ea486a3ee39cecbbf5d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	It's not a zero-sum game. Functions-as-a-service don't outright replace containers. Instead, they add a tool to the tool box. And I've got some more news for you. Using that new tool, going serverless doesn't just mean the ops is somebody else's problem. You've still got ops of your own to think about.
+	
+8d4990b2d18c207f2eb0d2bec03b3c17|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	You see there is operations bits on the infrastructure side. But, also with the developers. If you're in an extreme case, using let's say Lambda, then you have zero access to any kind of administrators. Right?
+	
+1ed68b48c5e16f957504bc2762f630ea|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	If no, then you might want to come up with a strategy first before you go all in there.
+	
+64ff44caaa7e4065eb80abfeb4c5c3f7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	Someone needs to be on call. Even if you do go "serverless,." you still need to have your head wrapped around that bigger picture. You still need to get your operations in order.
+	
+ce0b21c48f41ca75ed41d475719f548c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	When I threw out that term earlier, functions-as-a-service, did you cringe a little? Over the last while cloud-based development has brought us an army of “as-a-service”terms. We've got infrastructure-as-a-service, we've got platform-as-a-service, we've got software-as-a-service, data-as-a-service. Database-as-a-service. You get the idea.
+	
+6aa7c0abe1d4df18544f05afe56f9065|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	If you're having trouble keeping the differences straight, you're not alone. That's why we tracked down Himanshu Pant. He's a tech lead at the Royal Bank of Scotland, over in Delhi, India. He spent years parsing out the differences here.
+	
+1403c81f85cac719bcd02a6c7671e16d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	So, serverless is not the same as containers. Serverless is not platform-as-a-service. But Himanshu wanted to nail it down. What can functions-as-a-service provide, exactly? And what can't it?
+	
+05341ff2941b63f801a4ef59da50a596|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|186|1|V|markdown
+	These other computing paradigms are so similar sounding in name to serverless that one tends to forget, or tends to get confused as to why, this is not being called serverless. Or why this is being called a serverless.
+	
+4685d3c64a02d157ba344824cf4a5340|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	As I did, I realized that cost aspect was one aspect, which kind of really tippedthe skill in my favor. So even though all the other participants, they had a much better ... I would say coverage, or maybe coverage of logic. The NLP situations or their scenarios.
+	
+e5ded7510af6560718b2dadec454977c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	But, as far as cost is concerned, and scalability, I was going hands down to win over there because with serverless it all depended on how many invocations people are doing on that chat bot. Accordingly, the functions will be triggered. This was one use case when I was very much happy to do serverless, because of the cost—there was no cost. Faster development time, and to be honest, it was not exactly a production-scale workload at that moment.
+	
+531aa8d6e826ee5d4a4c2e1d39f5103c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	He shared two anecdotes with us, two times when he figured out when to go with serverless and when to forgo. The first moment came during a 24-hour hackathon. Himanshu was trying to make a chat bot.
+	
+19b33769cbb8f4574353f019fea2fdf9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	I could make do with the somewhat infant tooling of the platform. It was a win for me.
+	
+925736004c1eee2284f12f3a2e71fb52|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Nice. That was a time when serverless madesense. But at the bank Himanshu is working in right now, they're migrating their systems from legacy to cloud. And that's bringing up different kinds of goals.
+	
+da8e6cb86de9c14ce5ed64619ed63325|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	There were various vectors on which this was going to be a sales. For example, that coverage of logic, the cost which would be incurred and the scalability. I sat down to do this work in serverless.
+	
+5f80eba3f3c9abb3884a46e5bfe0f849|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	We are trying to see which workload can go on to which paradigm. I should just go into IS, BAS, FAS, obviously the ones who come down to enterprise space. You need to see that there are no aspects, like number one, let’s say vendor looking. And number two, that technology should be proven, extensively. More so for a risk-averse industry like, you know, the banking sector.
+	
+d9ba11b9f19aa3f745c9c3011912eb99|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	This is where a platform-as-a-service, but still has a better proving, and a better capability, and a better tooling kind of takes the upper hand.
+	
+a0a3d9f4a62e4a038cc3484d22e793c3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Himanshu is looking at his own needs, and his own comfort levels, and curating which workloads make sense in which cloud computing paradigm.
+	
+d145763eefbf40a10df610dedbe7fa53|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Let's say a listener is working on a trading shop, and he wants to build something, just an entry one. For him or her, serverless may not really be apt because the latency may not really be desirable in that kind of a machine-particular application.
+	
+14ec1c8a7e4db61b896410afeaddac8f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	End of the day, it's a measured approach. Instead of throwing everything into one bucket. When we're thinking about which cloud-based architecture is actually right for the work we want to do, there's one more thing to consider. How all that abstracting, all that taking things off your hands, can end up changing not just our work lives, but the finished work itself.
+	
+020b9aa344f4b34860d1d8930d87157b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Abstracting away part of our workload can mean less ability to customize. Think of a car you bought off the lot. It works. It drives. But then, think of a car you built on your own. That one works the way you decided it would work.
+	
+ab0a15b14625d10d6639a13f5c020c0f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	It comes at a cost.
+	
+6e7c05104f87921f2758ba98d4c7ffac|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	In using these serverless applications, you may not have full control of everything that's going on. You don't have control of scheduling, or when they'll run, or where.
+	
+b2a93815e459079ec13b98bc703377ad|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Rania Khalaf is the director of AI Engineering at IBM research.
+	
+6fad2d5af819a423c6a0472fd4b93851|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	There's a trade off taking place, right? Fine-grain control may slip when you're using serverless.
+	
+73f81192df76b462e74a17174bcfc5cb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	It abstracts so much away from the end-user that if you do want to have more control, different scheduling, more checks and balances, different values on how long a function can run for. So on and so forth. Then you really want to be able to get in there and tinker, and maybe create your own deployments.
+	
+ea7bb856dc4addbbf5488d70b6167431|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	That would require something new, though. A new kind of serverless that open source communities are already building for themselves. Rania and her team of IBMers are part of that movement.
+	
+93ac85beb057e4e4a6fc938e292a03f6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	Just combining these two trends and saying, there is this idea of being able to build higher order function for many small pieces that may or may not come from you.
+	
+06b003168b06d3264573fcb5212bc9c0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|266|1|V|markdown
+	We first worked on a language that was ... It’s basically JavaScript extensions to let you create these multi-threaded interactive service compositions as a starting point to give you a lighter-weight way. That was around the same time that cloud and microservices and platform-as-a-service were really picking up.
+	
+791a0395b0dd3c8912c4bdb39ced43f5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Rania and her team were building Apache OpenWhisk. An open source functions platform.
+	
+51d7269b7703d6ec777d96910864cb4e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	But, also provide the kind of finer-grain control that people wouldn't have with it if it was only offered as a service.
+	
+75ff8daed5287788eb39fc9944fb3a34|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	With OpenWhisk, from the beginning, we made it open source. A big part of that was to really enable the community to participate with us. But also to peel away the covers. And give control to the people that are wanting to operate their own serverless computing environments, so that they can customize it to their needs. Maybe put in their own controls, see how it really works, and control it better.
+	
+9c15e3d51d15b3a4f5c0e9e042663905|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Giving control back to anyone who wants to operate their own serverless environment. It's next-stage serverless. Joining OpenWhisk, you've got other open source platforms like Fission and Gestalt. We start to see the serverless arena evolving into something more adaptable, and more powerful than before.
+	
+3233b36c7a6a852c63ae0a6e4059394a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	To really get why an open source version of serverless matters, I got chatting with one of the founders of OpenWhisk.
+	
+fbc73a883e340f9d442c77951973e866|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Hi, Rodric. How is it going?
+	
+524a4ae7c1e59051f7c3fc0a3940b3bc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Good. How are you? Thanks for having me on.
+	
+bd313ceeec36d2a8fd7d995a069f83d7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Rodric Rabbah was one of the three developers who conceived of, and founded, OpenWhisk. Here is our conversation.
+	
+717632a3c1291acfdcbda619f96379f9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	It tends to be confusing for others or tends to get snickers, because people tend to think, “How could you possibly compute without servers?”
+	
+b56b34b93cc5d1086f7a8d6e5dea33cd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Right. Server is there somewhere, it's just I don't have to worry about it.
+	
+ac53d2cdd769e9b21de85f0dc84abd3b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Exactly. That's really the beauty of this model. When you start developing in a serverless style, you never really want to go back. You know, I've been in it for close to four years now,and I've developed some production-quality applications.
+	
+03a04fce1c20c3c88ea6a683fc4cb660|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	This is the only way I develop now. If you tell me I have to provision a machine and install an OS, it's completely foreignto me. I'm not even sure I'd know how to do it anymore.
+	
+0d268dd4d937afdaeb8eccb70fc3c8aa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	Yeah. When you put it like that, it sounds like a huge load off,you know? Because when you initially hear of serverless, at least I think, "Man, it's yet another thing I have to learn."
+	
+6cbba45c59acfcf2409f50e6f92f41aa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	But, when you put it that way it sounds nice.
+	
+40c2b86431cd3e952ba773ede37a10e0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	It does sound nice. Then you have to realize that you have to take a little bit of air out of the bubble. It's not a silver bullet.
+	
+07fec5b1910543e7ba9a4d333cb2b387|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	What are some of the surprising risks or issues that people may not see or be aware of when they get started?
+	
+0dd15847b99091953201f569ce8a0382|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	I think the lack of transparency is possibly the biggest one. It's sort of reminiscent to me of sort of the technology that came about when new languages came about and raised a level of abstraction relative to the computer. It's a similar kind of, sort of, startling effect in serverless today.
+	
+fd5d7ba6f7d43f2ccac337c190f8b398|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	In that you write, typically a function, then you just deploy that function. It's instantaneously available to run, say on the web as an APIN point. It scales massively. I mean, you can run thousands of instances without any work on your part.
+	
+013488fffe21aebf3a556564d3803ad0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	But, if something goes wrong, it's like, how do I debug this? Or I actually want to inspect the context within which my function failed. Typically, these functions run within processes, are isolated from you—you can't even log into the machine to see where your code is running. They might run in container environments that are closed off. You don't know what's in them.
+	
+62a5aeefab6b8e55e6184a3a6170bb05|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|346|1|V|markdown
+	It becomes hard for you to get that little bit of transparency. This is where tools will eventually help. But, the lack of tools sort of makes that pretty significant pitfall for people to get their heads around.
+	
+b1361702ac72cfff936eeea1fae243b9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	A small team of us, basically three people-
+	
+7de74d376e0136934f20783dc0440ef8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	That was really good. Okay. Let's go back to OpenWhisk, alright? Tell me about that.
+	
+4b0299ec68444f2dbf0b359a0591b4ba|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	Wow.
+	
+8a2d92d5ed5a4510cc1cbe516597955c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	... got together to essentially do the initial development and prototyped what became, eventually, OpenWhisk, with respect to the command line tools, which is really the programming interface for serverless today. The programming model concepts, and then the actual architecture that it has to support, essentially, this function of the service model and give you all the benefits that serverless espouses.
+	
+5a4a8e2b1f6b0ea78604fc9f268c0fea|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	How long did it take? Or the first version anyway.
+	
+65b939ccd98d8a9711d684d146a6d5dc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	The genesis was really Amazon Lambda coming on the scene and saying there's this new model of computing. Pay attention.
+	
+0a5def421214055d7add09458a5a8e73|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	The project started right around the time Amazon Lambda announced their offering, which was really where serverless started to get into the nomenclature and started to gain mindshare in the space. When we saw Lambda, we started thinking, “There is a lot of technology here that has to be developed. Not just at the base layer in terms of a new cloud computer, but really in terms of your programming model that you put on top of it to make it more easily accessible to programmers.”You know, coming out of IBM research, we had pretty strong ... Instead of skills around programming language design, compiler expertise, and run time expertise.
+	
+9e2b5b81375ae70a51698e062dcf6bc5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	It happened quite fast. In fact, when IBM announced ... Well, it was at the time IBM OpenWhisk. It was one year to the date from our first commit.
+	
+b84cb4c11c9da1afd1a85c5001400869|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	Wow. Oh my goodness.
+	
+7c5155a056edca34a38601cdbf6ced12|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|386|1|V|markdown
+	That was quite exciting.
+	
+22ee91cdc1229535d32dfaa66855fc94|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Whisk was the internal name, that's right. I'm responsible for the name. The idea behind the name was to move quickly and nimbly.
+	
+218fb5059d5e61f2782f4bb07b5e15c8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	You whip up a function and there it is. You can put it in the oven and bake it.
+	
+25f43364e651d34b2e97531b2d6ca113|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	That's wonderful, because I was definitely thinking eggs when I saw that. I was thinking, let's whisk some eggs.
+	
+006b6377d4560227ccdf3fb3cf76271d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Right. We've done some positives and some negatives on the name. When we open source a technology, and sort of put it out on GitHub, we put the open prefix on it to sort of emphasize that this is open as in open source and free to use, free to download, free to contribute to.
+	
+539cf141f457d2d17d4253891ab2e2e0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	And our goal in putting it on open source was really to sort of raise the bar in terms of what's available to execute these days as a serverless platform. It was important to us to sort of build a platform that is not only production-ready, and share it with the world,but also to make it possible for academic research or research in general. Maybe coming out of IBM research, we cared about that a little too much.
+	
+40815347f982bc4dccfc21f127b76803|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Yeah.
+	
+b31aeca1b98bb11e8fe20527c2cf65f6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	That's really impressive. Actually, when it first started, it wasn't OpenWhisk, it was just Whisk. Right?
+	
+baddd692bc9e47855aacf6df32f98d80|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	But, it sort of paid off in that I know of universities that actually use OpenWhisk for their own research—from Cornell to Princeton. I've gone to several universities like Brown, Williams College, MIT, CMU, and I've given talks with the purpose of encouraging students to really look at the problems around serverless and functions of the service. The tooling, the programming model, and get them excited about the technology.
+	
+0ac8d3bafdca65d1912c45de4cbb0e04|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Showing them that there's a path to where if they actually contribute to the open source project, it's picked up by IBM cloud functions and run in production, usually within a week.
+	
+f07083929493097e909a363672523389|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Wow. That's so fast.
+	
+9bfd870cc09074be5cc898b883e0bc3d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	That's been surprising to some people.
+	
+881328a119fd10e958cd219509d7a370|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	That's a super-efficient process.
+	
+87f3af02c2dbb32b1a68ca7e950e5812|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	It's really a testament to how we develop a lot of technology in the open. It's not an open core model where there are some components that have been held back. What's running in the IBM cloud is really what's in the Apache OpenWhisk project.
+	
+e94fd69fbb74ef0ec2ca3f23dac8de83|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	When you think about the future of serverless and the options we may have moving forward, do you feel like they will inevitably be open?
+	
+f6067f6d63f4d95eda5b4764a134ccae|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	I think there's a raging debate these days about the value of open source, especially in the cloud.
+	
+11ab423d66352e5fb4c0b824b89f3691|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	Right, yeah.
+	
+14f07f1e13555a594551a89c7a296231|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	If you consider why people go to the cloud, or why they might have aversions to go into the cloud, it's this whole concept of vendor lock-in being ... losing transparency. Open source has played an important role in sort of alleviating some of these issues. Then you look at efforts like Kubernetes, which is just gobbling up the cloud in terms of a container and management system. How successful that's been.
+	
+44cdc7a42054a1583ec3cf2f77dad38a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	If you're doing something that even touches containers, does it even warrant having a discussion about keeping it closed source, giving how dominate it is? I tend to think that openness helps. It's compelling from developers’ perspectives.
+	
+b6f2ea31659df3db6d932c9420a6baf1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|466|1|V|markdown
+	When you think about the future of the serverless ecosystem and tools, and projects, and services that we're going to see, what does that look like? What does the future of serverless look like for you?
+	
+3210abbe4ec1bb25e846e79a5b52fbbf|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	In a similar way there's a layer that's going to come on top, which is the function of the service layering to give you that kind of serverless notion. Then it's really about what's the new middleware that you're putting on top of it. How are you empowering developers to really take advantage of this new cloud computer and the toiling that you're going to put around it to make their experience pleasant.
+	
+0304cfd4ac78e0844dabc721d6f10fd7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	All of these are sort of fundamentally important, I think. The underlying mechanics of how you run your function, whether they run in a container or some future technology, whether you can run them on one cloud, or multi-cloud, I think fades into the background. Kind of like what Kubernetes did for containers and container management.
+	
+de7bee5c3fc379350e4db7b449c4e5c0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	I think you start to think less and less about the underlying technology, and it becomes more and more about the programming experience, and the tooling around it. The tooling for debugging, the tooling for deployment management, the tooling for performance analysis, the tooling for security.
+	
+cbf8ae70e7e4693370e52d990d8472c2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Yeah. What does that empowerment look like?
+	
+54200e39f33be4183f7cacae26effaef|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Now you can really innovate in terms of rededicating that brain power to just innovating more rapidly, delivering more value to your end-users. I'd lump that all into just better efficiency.
+	
+a28f906502b358e1993f9c492ca728ad|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Rodric Rabbah is a founder of OpenWhisk. Remember what I said at the top of the show? That old client-server model that the internet is based on really isn't going anywhere. What's changing, and I mean radically changing, is the way we think about those servers.
+	
+0ab9490f1e70e273f7b4b636d52fb83b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Efficiency, to put it in one word. It's the ability to just focus on the things that are of value to me as a developer, or the value to my company if I'm working at a corporation. It's more rapid in evasion that, then, you beget out of that, because you freed up your brain cells to not think about infrastructure and how things scale, and how things are secured at the hardware level.
+	
+0bdd18ed65d9ddba035e5b9b4fa00888|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	In a so-called serverless world, the hope is that we concentrate on the code itself and don't have to worry about infrastructure. But the level of abstraction we select, and how we maintain control over work we don't abstract away, are where that serverless world gets interesting.
+	
+8e03dbe01ec6a058f15f7a0892ac53f2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Serverless should, ultimately, be about developer empowerment. The freedom from patching, scaling, and infrastructure management. But, at the same time, we have to stay curious about how that big picture works even as we abstract some tasks away. We're going to be asking, what controls am I giving up and what controls do I want to take back?
+	
+8d7bd489a1ca169309c4754e486082cb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|506|1|V|markdown
+	Next episode it's our epic season two finale. Command Line Heroes is taking a journey to Mars. We're learning how NASA's martian rover is kicking off an open source revolution of its own. And we're hanging out with the CTO at NASA's Jet Propulsion Laboratory. No biggie. To learn how open source is shaping the future of space exploration.
+	
+ea7b8f5ce948453f8fa8b8df8bb80a8a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|510|1|V|markdown
+	Meantime, if you want to dive deeper into the question of serverless development, or any of the subjects we've explored this season, check out the free resources waiting for you at redhat.com/commandlineheroes. While you're there, you can even contribute to our very own Command Line Heroes game.
+	
+5a9e820b6fa4936c3b7246d97d4ff85c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-AYS-Final.md|514|1|V|markdown
+	I'm Saron Yitbarek. Thanks for listening, and keep on coding.
+	
+444aa8e1041a3afed8cd2d2c3dcba64e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-BASIC.md|10|1|V|markdown
+	Command Line Heroes: Season 3: Learning the BASICs
+0fa3edd79a4617cdacc6dee2b65ebd0e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|47|1|v|markdown
+	Two of the interviews were bad. One is still today the worst interview question I’ve ever had. The interviewer said, “You run a program twice with the same input and get different results. Tell me why.” I replied, “When that’s happened on modern computers and I didn’t expect it, it’s usually been a race condition.” He just said, “No, it’s not a race condition,” and looked at me waiting for my next answer. 
+b89d2ee8eeb436b436c08f8104ae3159|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|47|1|v|markdown
+	The question could have been a great question if he’d been interested in a discussion, but apparently he really did just want to play “guess the secret number”. For almost everything I said, he simply replied, “No.”
+9cbefbdc536f1a387e6cef6f836e4d6c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|47|1|v|markdown
+	Apparently the program was fully deterministic, stored no state, and had no dependence on the environment (such as disk or the real time clock), but gave different results each time it was executed. 
+9320fa36f0ec4daafd4211bc991e9005|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|46|1|V|markdown
+	
+	I suspect we had a different understanding of what “stored state” or “environment” meant or something, but I had no way to tell. At one point (getting desperate) I tried asking if temperature changes in the electronic components were having an effect, and he said, “No, that would be a race condition, and I’ve already told you it’s not a race condition.” Eventually the interview ended, and I still don’t know what that secret number was.
+f2581b20d90541edbcdd4c8be4f216ed|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|48|1|V|markdown
+	
+	I’m telling that story because I’ve heard much tamer horror stories being told as proof that interviewers are terrible people who hate interviewees. But, contrary to popular stereotype, most of the interviews that day were basically okay, and the interviewers were friendly and respectful. Interviewing is genuinely really hard, too, so it’s good to cut interviewers some slack. Hopefully, the “guess the number” interviewer got feedback from Google HR that his question just wasn’t helpful for making hiring decisions.
+3b5d60d680449b3fabeb53de2eb83b80|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|51|289|V|markdown
+	This time, the interviews resulted in an offer, but with a little catch: the job was in Sydney, working as a site reliability engineer. I’d never heard of SRE before, but I had a phone call with a senior Sydney SRE who explained that he’d noticed my experience doing embedded engineering in the natural gas industry, and thought SRE would be a good fit because of a similar emphasis on reliability and fitting tight constraints.
+	
+7105360b4b460eec73adfeb01ee2752d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|57|25|V|markdown
+	### Google Maps SRE at Sydney
+	
+ab07947ff0c36584cff5b518d38d4be6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|53|1|V|markdown
+	Having spent about a year building up a life in Tokyo, I didn’t want to drop everything and move to Sydney, but no way in hell was I in a position to turn down an offer from Google. I did make one very stupid mistake when talking with the recruiter: I got asked how much money I was making, and I blurted it right out. [Don’t do that.][5] It means it doesn’t matter what happens in the interview, or how much you were being underpaid at your previous job, or whatever; you’ll probably either be rejected or get offered some token amount on top of your old pay and be treated as crazy and unreasonable if you try to negotiate more. In my case, I was making much less than even an entry-level position at Google. I can’t say for sure that’s the whole story, but in 2013 I moved to Sydney to be a new-grad level SRE on Google Maps.
+	
+0852733bd1d29d25f58d5cbf1915dc9a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|56|1|V|markdown
+	
+	A product like Maps is really several software projects, each with its own team of developers. Even a feature like route-finding is really multiple software projects — from gathering transport timetable data, to calculating routes, to rendering results, etc. There are two sides to the SRE job: One is being oncall for the various projects, responding in real time to any production incidents. The other side of the job (when there aren’t any fires to fight) is applying experience from production incidents to other projects and pre-emptively finding ways they could go wrong, or opportunities to make them perform better. Google’s SREs also act like an internal consulting group for developers with questions about deployment practices, or automation, or monitoring, or things like that.
+498df740fbd482d633a6b010e8e0e9e7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|59|265|V|markdown
+	The work was pretty intense. As a team, we were expected to deal with at least one production incident a week, or else take on responsibility for more services. Every week, all the SREs in Sydney would get together to swap stories of failures that had happened, or new tips for how to make things work better. The learning curve felt like being an undergraduate again.
+	
+8cb7609ca69da0ec9c1deb3f9801f202|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|61|1|v|markdown
+	I sometimes get a shocked, “But don’t you miss the benefits?!” from people who hear I chose to quit Google. The material benefits (like meals, etc.) are definitely nice, but they’re things that you can buy, so, no, they’re not things I miss. 
+71cf2402c8b17e55af05b5ae5d553dfc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|61|1|v|markdown
+	If you ask me what I miss, I’d say it’s the people who worked there. Contrary to what you might have heard, arrogant people don’t enjoy working at places like Google. 
+d676cb24526ab02c6336f2d629ac74c9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|61|1|v|markdown
+	There’s an infamous story of a narcissist who got a job at Google and kept embarrassing himself by pretending to be a top expert in all kinds of things. 
+571eb195f9c7a52cfbd8ff24602761b5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|61|241|V|markdown
+	He lasted less than half a year before leaving. Overall, the culture was very low on arrogance and blame slinging and politics compared to other places I’ve worked at. On the other hand, Google doesn’t have a monopoly on nice colleagues.
+	
+3affb8d111f4c24d6c2af71e1d8f9f99|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|63|1|v|markdown
+	There’s one kind of corporate politics that was a big problem, though. Getting promoted required “demonstrating impact”, and it was well known that the easiest way to do that was to launch some new thing (not the only way, but easiest). 
+6f7003a93753959aaebede2dbcb71d36|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|63|1|v|markdown
+	The result was Googlers who were more interesting in promoting their own alpha-quality, prototype solutions to problems than improving existing solutions. 
+1250ed086b4ce023480073f2f5b0dbfd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|63|495|V|markdown
+	We had a standing joke in SRE that there were two kinds of software inside Google: old things that worked well but were deprecated and were Ungoogly to even consider using, and hot new things that were the 100% official tools to use today even though they didn’t work yet. As SREs, we often saw first hand what went wrong with the new hotness (which sometimes became the old deprecated thing before it even got out of alpha). ([I’ve talked more in depth about this kind of thing before.][6])
+	
+0ac93abc91595f1b74066f2b67430316|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|65|149|V|markdown
+	This isn’t something that we cynical SREs just imagined; it was openly recognised as a problem in the company, and I remember being reassured that promotion committees had started looking for evidence of impact through things like maintenance work.
+	
+c519c2c607982066a6bee7f8190400a6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|67|1|V|markdown
+	### The promotion application
+4adb4527b38335c181bf7cd130699044|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|69|1|v|markdown
+	In 2015, after working at Google for a couple of years, my manager told me it really was about time to apply for a promotion above my new-grad level.
+f682bb00b0cf0289a5c6bec260bafc00|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|68|1|V|markdown
+	
+	The promotion process was centrally managed through promotion committees twice a year. You’d make your application and back it up with a short description of projects you’d worked on, supported by references from your colleagues. The committee would do a review and give you the thumbs up or down. Your manager’s recommendation alone wasn’t enough because your manager had an incentive to get you promoted. Having high-ranked staff under you helps your own career advancement.
+ae4edec444f8446658d004919da5bd0d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|71|1|v|markdown
+	To cut a long story short, I made my application and the committee said no. Actually, it was a pretty damning no. I don’t remember the response in detail, but it felt like the committee had just gone hunting through my application looking for things to be dismissive about. 
+d0f65fbd92aa55b07d1d3f237f0544db|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|71|1|v|markdown
+	For example, one project I’d worked on was an internal tool that was building up a backlog of feature requests. I’d looked at the project and figured out that the root problem was that it had outgrown the key-value store it had been built on, and needed a proper database. 
+d5592679c42f92c57e5d70c04096c716|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|71|1|v|markdown
+	I argued for switching to a relational DB, and I went ahead and implemented it: schema, data migration, queries, the live site migration, etc. The new queries were much faster, and (more importantly) the new features could be supported efficiently. 
+972e403b24f4aa81b4220e5a75221dd4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|70|1|V|markdown
+	
+	One problem I had to solve before migrating was that most of the code wasn’t covered by tests, and that was because most of the code wasn’t testable. I refactored the code using dependency injection and [other tricks I’ve talked about before][7], and that let me build a regression test suite. I remember that project was mostly dismissed with the comment that writing unit tests is “new-grad-level work”.
+34d4f8926508c687e3f59de7068202cb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|73|200|V|markdown
+	My manager was really supportive and wrote an appeal. He didn’t show it to me, but I think it was several pages that could be reduced down to “WTF” (argued more eloquently and with more detail). Here are some of the reasons I also thought this response was a bit WTF:
+	
+21fa4da6e9a0a4cd1b05e6b4bb105a49|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|75|1|v|markdown
+	Google SRE has a concept of “point-personship”. The point person for a project has two roles: One is to know the software project to a greater depth than other SREs, so that you can answer questions they might have. 
+6e0c1a044c7a3fd52f969c95f8621f95|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|75|337|V|markdown
+	The other role is to be the first point of contact for the devs on the project itself, so that they can get answers to all their SRE questions. The Google job ladder guide said that point-personship wasn’t required at the new-grad level, but looked good for promotion. As my application had said, I was point person for three projects.
+	
+822be6547c1ad914ba9f28869080187a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|77|165|V|markdown
+	My point-personships made it easy to find senior developers who agreed to help support my promotion application. They were all shocked when they found out I was new-grad level. They’d all agreed to support my application assuming I was already at a higher level.
+	
+498a912bc8e5ceeb277fb3ef87f4a79c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|79|172|V|markdown
+	On my application, I mentioned being a mentor for a group of new-grad interns we had. When I made my application, many of them were being hired as permanent employees. I was senior enough to be their mentor, but firmly not enough to be promoted above their level.
+	
+39bbbc302a92ddb1fe464b8091336891|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|80|1|V|markdown
+	
+	The response to my manager’s appeal took a completely different tack from the original review. This time I was “strongly exceeding expections for my [new-grad] job level”, but the problem was that they just needed a little bit more time to be sure I could be promoted to new-grad-plus-one. I was told I could keep strongly exceeding expectations for another six months until the next promotion cycle, and maybe I’d get a promotion then. The appeal was over; that was the deal.
+a0aac9a8c08e26930ec0f86df6e16f08|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|83|1|V|markdown
+	I wrote an email that I was taking another option. Like many tech companies, Google has an employee stock program. You’re given a nominal grant when you start work, and you actually receive real shares at various “vestment” milestones. My next stock vestment was a couple of months away. The day after that, I wouldn’t be working for Google any more.
+	
+fef496685b7f0c8035846de18bbfb9db|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|85|1|V|markdown
+	### My reasons for quitting
+a5e404795af050a30cd83ec83046bd05|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|87|150|V|markdown
+	The decision to quit any job isn’t easy, and one day you might face the same decision. Here are some of the factors that helped me make my choice. ([Some of this thinking I explained in more depth in an older post.][8])
+	
+62505400ae193117d808d81a7515dd05|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|88|1|V|markdown
+	
+	If you think about it, given that I wasn’t literally a new grad, Google’s review should have been something like, “You’re doing some things very wrong. You simply won’t get a promotion until you improve at X and Y and Z.” Being told, “You’re strongly exceeding expectations, but we need another six months or so,” didn’t make any sense. No one raised concerns about whether I was capable of doing my job. I was getting a lot of excuses, but not any useful feedback to help me do better. (NB: sometimes you have to explicitly ask for feedback. Managers can fall into the trap of defending the performance ratings they give, instead of thinking about the report’s need for feedback.)
+2ac0c3af2f46ccf8d04d96e546c77e7f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|91|251|V|markdown
+	I also wasn’t sure what the promotion committee might see in six months that they hadn’t already seen in two years. Why wouldn’t they ask for another six months again? If I needed to prove myself for years to get new-grad-plus-one, how old would I be before I got new-grad-plus-two?
+	
+212b00eff621aef573a7692f81287a2d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|93|1|v|markdown
+	When I first started at Google, my job level was irrelevant because I was learning so much and getting a famous company on my résumé. Two years in, the equation was different. The value of the future that Google was offering me was waning, while the value of opportunities outside Google had gone up. 
+45874a0aa9d04bd96b960b44c8bde3c8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|92|1|V|markdown
+	
+	Google job levels mean practically nothing outside Google. In the past five years, plenty of people have asked about what I did at Google, but not a single person has asked me what my Google job level was, or called me a new grad. Although I took a financial hit short term, I effectively got a promotion that day I handed in my badge.
+8c4d0548a6dcbe3ee4aec190e27f3a66|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|95|1|v|markdown
+	Credit where it’s due, Google didn’t do anything like this, but it’s common in other companies: trying to make employees feel guilty about asking for pay rises. 
+6cab96f6d157247c50cbfbddb0beaf16|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|95|1|v|markdown
+	At a place I worked a few years ago, some engineers asked for a payrise after a highly successful launch following a lot of crunch time. Management played the victim and accused the engineers of “twisting their arms”. (About six months later they lost most of their engineering team.) 
+70cd102e371d8f46e46493a7882809d4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|94|1|V|markdown
+	
+	If you’re genuinely co-operative about the timing of when you might quit (e.g., after a launch date, not the week before) and willing to document your knowledge and clean up after yourself, etc., you’re only twisting your employers’ arms by as much as they’re underpaying you.
+58ea3b016159f060ed6ec29c854af88f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|97|361|V|markdown
+	Nominally, I left a large amount of unvested stock behind at Google. But stock isn’t yours until it’s yours. I just had a promise of being paid shares in future, and I could convert it to an equivalent pay rate by dividing it by time required. Working two months for that vestment was worth it. Working years for the remaining vestments wasn’t. Don’t fall for endowment bias.
+	
+77da8d9a45fd2f6fcea677e4d5abda15|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|99|288|V|markdown
+	When shouldn’t you quit? Well, are you’re getting a good deal compared to what you could get elsewhere? Corporate career paths aren’t mandated by heaven; they’re a series of business offers representing what the company estimates you’ll work for. If you think you’re getting a good deal (considering all compensation and intangibles like the work environment), great! Otherwise, it’s time to think hard about what to do next.
+	
+2a45da5afa435afe71ab913efbb98660|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|101|1|V|markdown
+	### After Google
+907016de353efa11a522bdecdd7494a0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|103|1|v|markdown
+	I should warn you that I took a strategy that was high growth, at the expense of short-term stability. If stability is more important to you, you’ll do things differently. My plan A, plan B and plan C all fell apart, and I ended up spending a few months struggling to find a way. 
+18621680497a7d654f5538813d0fd04b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|103|1|v|markdown
+	Eventually I got a contract at a small web shop, working on [Safety Town][9], a government road safety website for kids. 
+316949176f105623bcc7c8e78d8d9d59|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|103|1|v|markdown
+	The pay was a big cut from Google, especially considering it was my first work in months. But, you know, I really enjoyed that project. Sure, it wasn’t “cool” like Google, and maybe some kids at school didn’t think it was cool. 
+fb95078a43853c4a9d1012d8c7f2509f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|102|1|V|markdown
+	
+	On the other hand, at Google I was a tiny part of a huge thing. Safety Town had a small team, with everyone playing a crucial role. For part of the Safety Town project, I was _the_ backend engineer, and Safety Town was the only thing I had to worry about at that time. And, heck, maybe some kids have learned a thing or two about road safety from that website. I’ve done plenty of projects since then, most of them bigger, but I still show people Safety Town.
+1a2821f8d79231d3f6026e22b02dca77|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|107|280|V|markdown
+	I remember a poster in the Sydney Google office that said, “Shoot for the moon! Even if you miss, you’ll land among the stars!” It’s easy to forget that you can have a quality life even if you’re not doing moonshots for famous companies, or doing moonshots for startups.
+	
+ff4f9620706659a2220a2d7b1b231e96|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|109|1|v|markdown
+	Here’s one trick that helped me get contracts. I’d go to Sydney tech events, stand within view of the job board, and wait until I saw someone writing on it. 
+8ba557eb605aa2f68c718d5d32199cdb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|109|1|v|markdown
+	Suppose they were writing about CSS development for an insurance company project. Even if I weren’t especially interested in CSS or insurance, I’d wander over and say, “Hi, what kind of insurance project is that?” It’s the easiest conversation starter because their head’s full of the project while they’re trying to fit it into a tiny space on the job board. 
+f98ad3887bce7034589736664192d55a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|109|1|v|markdown
+	Usually the conversation still wouldn’t lead to a job for me, but occasionally I’d discover something I could help with. 
+de311d25c9889d533fed1d596d8db6db|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|108|1|V|markdown
+	
+	Some events don’t have a job board, but the organisers are often glad to offer the microphone to someone for a few minutes. It adds community engagement to their events.
+f528cbab836ef17d3e91da06b86ca9ee|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|111|222|V|markdown
+	I got a major break after working on a website for government procurement, just because I learned to not be so clueless about government procurement. It’s hard to say exactly how much that knowledge was worth, but less than a year afterwards I signed a government contract for about 40% more than I would have hoped was possible before. (I don’t do so much government and big enterprise work nowadays, though.)
+	
+f4eb673648c45b30538e3a023c245b6e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|112|1|V|markdown
+	
+	After about a year and a half, I had my own one-person company. As I built up a reputation, I gradually got more SRE-like work. Basically, doing dev work was my “in”, then several months later I’d get contacted by someone who needed SRE/DevOps help and remembered me. I actually like both SRE and pure dev work, but supply and demand means SRE work is good business. I can still do programming in my spare time.
+c7c01b62cbc9fafdfb04e805001debc9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|115|1|v|markdown
+	Speaking of which, work/life balance is my favourite thing about my new lifestyle. 
+dbe5ed52067583a3256e97937ef4e624|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|115|1|v|markdown
+	No one pays me between contracts, but I can make the most of it by learning new things doing side projects. After one long, intense contract, I took a break and did [a month-long backpacking trip exploring rural Japan][11]. 
+38b285d46b6c13bb71fd5b94c60e7eb5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|115|1|v|markdown
+	It was a trip I’d wanted to do for a long time, but before Google I needed more money, and during Google I needed more time. 
+bde7f9c1b73be94c84552650c75ef0ff|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/20200804.md|114|1|V|markdown
+	
+	Being self-employed is far from stress free and isn’t for everyone, but there’s stress that makes you feel dead, and there’s stress that makes you feel more alive. For me, self-employment is the second kind, and I’d say I’ve been less stressed overall in the past five years than I was while at Google. In my case, at least, I can honestly say I don’t regret joining Google when I did, and I don’t regret leaving when I did, either.
+d62f4796d523b07f771d2b7457ca7a0a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|10|1|V|markdown
+	Command Line Heroes: Season 2: Bonus_Developer Advocacy Roundtable
+6660514ce119b791e745b0024a070c57|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|64|43|v|markdown
+	从凤凰城外和我一起来的是
+199f479c0c3d53a94dcde33f61bbf0fa|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|64|1|v|markdown
+	Red Hat 的社区架构师
+b28ef4ed61948c05b1328454b1ba3916|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|159|1|V|markdown
+	kkkkkkkkkkk
+a5fb1eccfbafc57901d26e637807a4af|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL32.md|4|1|V|markdown
+	categories: ["Better Life With Linux"]
+	tags: ["python", "Linux", "pyinstall", "pip"]
+23eeeb4347bdd26bfc6b7ee9a3b755dd|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|5|9|v|markdown
+	python
+7e8400fd9347f40669d7a8b30bb2ba3c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|9|1|V|markdown
+	Docker 是一个开源软件，是一个开放平台，用于开发应用、交付应用、运行应用。 Docker 允许用户将基础设施中的应用单独分割出来，形成更小的颗粒，从而提高交付软件的速度。
+4fab08c7eb5acf30f2ed2fdca6a14aa1|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|13|22|V|markdown
+	作者：落羽成霜丶
+	链接：https://www.jianshu.com/p/ee959322a8f6
+	来源：简书
+	著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+8b8881bcc1bd9f56534b1674f32d3aed|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|111|1|V|markdown
+	之后再次拉取应该就能够享受到镜像的加速效果了。  
+26a2454ae089a0c52f7b02e4c04addaa|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|19|1|v|markdown
+	### 
+4c6c57a8b7fc65726c910bd2d18398c4|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|124|6|V|markdown
+	    NAME                                              DESCRIPTION                                     STARS               OFFICIAL            AUTOMATED
+	    pytorch/pytorch                                   PyTorch is a deep learning framework that pu…   229
+	    floydhub/pytorch                                  pytorch                                         43                                      [OK]
+	    anibali/pytorch                                   Docker images for the PyTorch deep learning …   20                                      [OK]
+	    stepankuzmin/pytorch-notebook                     Jupyter Notebook Pytorch Stack                  7                                       [OK]
+	    thechaos16/pytorch_tf                             ubuntu docker with pytorch, tensorflow          4                                       [OK]
+	    bitnami/pytorch                                    Bitnami PyTorch Docker Image                   4
+	    spellrun/pytorch-jupyter                                                                          3
+	    spellrun/pytorch                                                                                  2
+	    pytorch/pytorch-binary-docker-image-ubuntu16.04                                                   2
+	    shatu/pytorch                                     Collection of Docker Images for PyTorch         1
+	    pytorchlightning/pytorch_lightning                PyTorch Lightning image                         1
+	    dsksd/pytorch                                     0.4 : python3.6, cuda8, cudnn6, pytorch==0.4    1
+	    jetware/pytorch                                   PyTorch Production                              1
+	    mapler/pytorch-cpu                                Dockerfile of PyTorch on CPU                    1                                       [OK]
+	    nakosung/pytorch                                  pytorch                                         0                                       [OK]
+	    uodcvip/pytorch                                   Rebuild of PyTorch base GPU image for Jupyte…   0
+	    spellrun/pytorch0.2.0-jupyter                                                                     0
+	    clipper/pytorch-container                         Model container for PyTorch models              0
+	    spellrun/pytorch0.2.0                                                                             0
+	    clipper/pytorch36-container                       Python 3.6 PyTorch container                    0
+	    ucsdets/pytorch-notebook                                                                          0
+	    spellrun/pytorch0.4.0                                                                             0
+	    nakosung/pytorch_dev                              pytorch                                         0                                       [OK]
+	    spellrun/pytorch0.4.0-jupyter                                                                     0
+	    xiaoxiaoxh/pytorch                                pytorch-based repo                              0
+1afa0eddd6a79d800660a83196a20cf8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|121|20|v|markdown
+	pytorch
+70b0df54f9f162182b7f136724719735|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL33.md|218|10|V|markdown
+	查看当前已安装的 Docker 镜像列表：  
+	    
+	    $ docker images
+b2642a3fd00550edb22417a1f3c39fb9|file:///home/godlovesjonny/.config/i3/config|13|1|V|conf
+	set $mod Mod4
+a1cc3fc51d8d4e55c583aa7156bcbaea|file:///home/godlovesjonny/.config/i3/config|65|11|V|conf
+	From: Kevin
+	Author: 留洋
+c9d2d786d802c57f5cca158d2371866d|file:///home/godlovesjonny/.config/i3/config|65|1|V|conf
+	From: Kevin
+4fe5363d487f81d200d413714813852a|file:///home/godlovesjonny/.config/i3/config|65|1|V|conf
+	Author: 留洋
+d22778d9018c1ca94199a2dde99c0db8|file:///home/godlovesjonny/.config/i3/config|65|1|V|conf
+	Link: https://godliuyang.wang/2019/08/24/manjaro-i3wm-huan-jing-pei-zhi-pian/
+7ef222efa3a6202e2904bebc865b63d7|file:///home/godlovesjonny/.config/i3/config|65|1|V|conf
+	本文章著作权归作者所有，任何形式的转载都请注明出处。
+50dd20eb60a63d32e0e64ce8bcebc3cb|file:///home/godlovesjonny/.config/i3/config|64|1|V|conf
+	bindsym $mod+b exec firefox
+d6a5c9544eca9b5ce2266d1c34a93222|file:///home/godlovesjonny/.config/i3/config|64|21|v|conf
+	firefox
+6147a49967a7a7681c4c1bac5783b0c5|file:///home/godlovesjonny/.config/i3/config|12|14|v|conf
+	  # Enter
+2cda3fc2bb7e14c3497dd198e147f174|file:///home/godlovesjonny/.config/i3/config|13|15|v|conf
+	  # Alt
+ae90090fb5ad0d982124055781a3631c|file:///home/godlovesjonny/.config/ranger/rifle.conf|151|1|V|cfg
+	ext pdf, has okular,   X, flag f = okular -- "$@"

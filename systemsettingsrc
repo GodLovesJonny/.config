@@ -1,7 +1,6 @@
 [DownloadDialog Settings]
-Height 1080=573
+Height 1080=556
 Width 1920=700
-Window-Maximized 1080x1920=true
 
 [KFileDialog Settings]
 Recent Files[$e]=close_planet.jpg,file:$HOME/.local/share/wallpapers/save/close_planet.jpg
@@ -11,7 +10,7 @@ detailViewIconSize=100
 [MainWindow]
 Height 1080=700
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQDAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAQMAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1272
+Width 1920=1024
 Window-Maximized 1080x1920=true

@@ -1,5 +1,5 @@
-2020/08/23-22:20:29.986 594c Reusing MANIFEST /home/godlovesjonny/.config/GeoGebra/Local Storage/leveldb/MANIFEST-000001
-2020/08/23-22:20:29.989 594c Recovering log #3
-2020/08/23-22:20:29.992 594c Level-0 table #3: started
-2020/08/23-22:20:29.993 594c Level-0 table #3: 78585 bytes OK
-2020/08/23-22:20:29.994 594c Delete type=0 #3
+2020/09/07-22:52:12.475 34c2 Reusing MANIFEST /home/godlovesjonny/.config/GeoGebra/Local Storage/leveldb/MANIFEST-000001
+2020/09/07-22:52:12.476 34c2 Recovering log #4
+2020/09/07-22:52:12.478 34c2 Level-0 table #6: started
+2020/09/07-22:52:12.481 34c2 Level-0 table #6: 78514 bytes OK
+2020/09/07-22:52:12.483 34c2 Delete type=0 #4

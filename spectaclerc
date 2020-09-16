@@ -1,9 +1,14 @@
 [$Version]
 update_info=spectacle_newConfig.upd:spectacle-new-config
 
+[General]
+copyImageToClipboard=true
+useReleaseToCapture=true
+
 [GuiConfig]
-cropRegion=0,0,0,0
-window-position=198,28
+captureMode=5
+cropRegion=451,406,1347,513
+window-position=878,266
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/图片/screen.png

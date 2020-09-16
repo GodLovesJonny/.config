@@ -6,32 +6,32 @@ JPEGQuality=10612
 
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAOtAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAO2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/下载/2007.07875.pdf
-File10[$e]=$HOME/下载/User_Manual.pdf
-File2[$e]=$HOME/下载/2007.08785.pdf
-File3[$e]=$HOME/下载/Bryan_Plummer_Conditional_Image-Text_Embedding_ECCV_2018_paper.pdf
-File4[$e]=$HOME/下载/byte-of-vim.pdf
-File5[$e]=$HOME/下载/dpdhjkecjeg51.jpg
-File6[$e]=$HOME/下载/JEI-200265_AUTHOR_1.pdf
-File7[$e]=$HOME/下载/The Art of UNIX Programming.pdf
-File8[$e]=$HOME/下载/Stiebel_Reconstructing_Spectral_Images_CVPR_2018_paper.pdf
-File9[$e]=$HOME/下载/ua44a84istg51.jpg
-Name1[$e]=2007.07875.pdf
-Name10[$e]=User_Manual.pdf
-Name2[$e]=2007.08785.pdf
-Name3[$e]=Bryan_Plummer_Conditional_Image-Text_Embedding_ECCV_2018_paper.pdf
-Name4[$e]=byte-of-vim.pdf
-Name5[$e]=dpdhjkecjeg51.jpg
-Name6[$e]=JEI-200265_AUTHOR_1.pdf
-Name7[$e]=The Art of UNIX Programming.pdf
-Name8[$e]=Stiebel_Reconstructing_Spectral_Images_CVPR_2018_paper.pdf
-Name9[$e]=ua44a84istg51.jpg
+File1[$e]=$HOME/.local/share/wallpapers/slides/rainbow_over_snow_covered_mountain_4k_8k_hd-7680x4320.jpg
+File10[$e]=$HOME/下载/jcgtylyfkfn51.jpg
+File2[$e]=$HOME/.local/share/wallpapers/slides/sci_fi_twilight.jpg
+File3[$e]=$HOME/.local/share/wallpapers/slides/space_meteorites_4k.jpg
+File4[$e]=$HOME/.local/share/wallpapers/slides/solar_eclipse.jpg
+File5[$e]=$HOME/.local/share/wallpapers/slides/starry_night_sky.jpg
+File6[$e]=$HOME/下载/ua44a84istg51.jpg
+File7[$e]=$HOME/.local/share/wallpapers/slides/moon_sea.jpg
+File8[$e]=$HOME/下载/Mind-Map-20191122.png
+File9[$e]=$HOME/下载/IMG_20191101_195937.jpg
+Name1[$e]=rainbow_over_snow_covered_mountain_4k_8k_hd-7680x4320.jpg
+Name10[$e]=jcgtylyfkfn51.jpg
+Name2[$e]=sci_fi_twilight.jpg
+Name3[$e]=space_meteorites_4k.jpg
+Name4[$e]=solar_eclipse.jpg
+Name5[$e]=starry_night_sky.jpg
+Name6[$e]=ua44a84istg51.jpg
+Name7[$e]=moon_sea.jpg
+Name8[$e]=Mind-Map-20191122.png
+Name9[$e]=IMG_20191101_195937.jpg
 
 [SideBar]
-SideBarSplitterSizes=242,1675
+SideBarSplitterSizes=242,1659
