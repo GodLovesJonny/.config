@@ -13,8 +13,13 @@ Recent Files[$e]=head1.jpg,file:$HOME/图片/bg1.jpg,file:$HOME/图片/head1.jpg
 Recent URLs[$e]=file:$HOME/图片/
 detailViewIconSize=80
 
+[KonsoleWindow]
+ShowMenuBarByDefault=false
+
 [MainWindow]
-Height 1080=1036
-State=AAAA/wAAAAD9AAAAAAAAA7QAAAPjAAAABAAAAAQAAAAIAAAACPwAAAAA
+Height 1080=1052
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAQMAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=948
+Width 1920=1920
+Window-Maximized 1080x1920=true

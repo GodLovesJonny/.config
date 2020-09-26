@@ -3453,3 +3453,205 @@ d6a5c9544eca9b5ce2266d1c34a93222|file:///home/godlovesjonny/.config/i3/config|64
 	  # Alt
 ae90090fb5ad0d982124055781a3631c|file:///home/godlovesjonny/.config/ranger/rifle.conf|151|1|V|cfg
 	ext pdf, has okular,   X, flag f = okular -- "$@"
+84030e9781ac8cf60bf5bc4b2eaebd09|file:///home/godlovesjonny/.vimrc|59|13|V|vim
+	" " Color name (:help cterm-colors) or ANSI code
+	" let g:limelight_conceal_ctermfg = 'gray'
+	" let g:limelight_conceal_ctermfg = 240
+	" " Color name (:help gui-colors) or RGB color
+	" let g:limelight_conceal_guifg = 'DarkGray'
+	" let g:limelight_conceal_guifg = '#777777'
+	" " Default: 0.5
+	" let g:limelight_default_coefficient = 0.7
+	" " Number of preceding/following paragraphs to include (default: 0)
+	" let g:limelight_paragraph_span = 1
+	" " Beginning/end of paragraph
+	" "   When there's no empty line between the paragraphs
+	" "   and each paragraph starts with indentation
+	" let g:limelight_bop = '^\s'
+	" let g:limelight_eop = '\ze\n^\s'
+	" " Highlighting priority (default: 10)
+	" "   Set it to -1 not to overrule hlsearch
+	" let g:limelight_priority = -1
+8ea23e4ed185f130e0c68f8eb92eba3f|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/token-toggle.vim|1|1|V|vim
+	
+	" --------------------------------
+	" Add our plugin to the path
+	" --------------------------------
+8aa060e478a4bfebf248b1b372519083|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token-toggle.py|3|9|V|python
+	        'True': 'True',
+29eaebcfcce2c2df1c15f1b3c48c2529|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token-toggle.py|23|9|V|python
+	        catch:
+dd83023c345189377b36badd5d9bd219|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token-toggle.py|23|9|V|python
+	        except:
+fa445a26c2267f30cc2f10ebc1bf3cc0|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token-toggle.py|3|9|V|python
+	        'false'
+8d1dc3c660433f289282debc4dba780a|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|8|14|v|vim
+	expr
+e3eb16afdbabab150c5da0ade825a14d|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|10|6|v|vim
+	the 
+aef56e8b83779b537394355a743c44a4|file:///home/godlovesjonny/.vimrc|190|15|V|vim
+	xmap <leader>f  <Plug>(coc-format-selected)
+	nmap <leader>f  <Plug>(coc-format-selected)
+c38998cd55fc7c48f1273524bc0619df|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/test|1|11|v|
+	tRue
+2f48664f084822fd0a5a510468911936|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|33|24|v|python
+	format_token
+559254e976a6138ab60f01b5ee7aa3a0|file:///home/godlovesjonny/Jonny/1|2|9|v|
+	ture
+95b2f281e2303c31ea74db7cc87c6bb9|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|15|4|v|vim
+	token_under_cursor
+8472df8bae8d8d9bc1a22250c9fff828|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|18|8|v|vim
+	len(token_under_cursor
+8e3e0f80532dbe00fd24f6281a2102fe|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|5|17|v|markdown
+	support 
+3390d8798f640f145e502947e15c59fb|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|7|3|V|markdown
+	+ true <-> false
+	+ == <-> !=
+	+ > <-> <=
+	+ 
+	
+0cf31b2c283ce3431794586df7b0996d|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|39|4|V|markdown
+	    
+9200324c3b85a587296550b2eafb7b7c|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|7|1|V|markdown
+	| No. | Token1 | Token2 |
+	|-----|--------|--------|
+	| 1   | true   | false  |
+	| 2   | ==     | !=     |
+	| 3   | >      | <=     |
+	| 4   | <      | >=     |
+	| 5   | \+     | \-     |
+	| 6   | \*     | /      |
+	| 7   | yes    | no     |
+	| 8   | on     | off    |
+	| 9   | 1      | 0      |
+78e5268472cb19c573ec551a1badf926|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|23|1|V|markdown
+	If you use [vim-plug](https://github.com/junegunn/vim-plug), you can just add the following line to your `vimrc` file:  
+	    
+	    Plug 'JonnieWayy/token-toggle'
+	
+	Then run the following command in vim:  
+	    
+	    :PlugInstall
+	
+	Or you can also use other plugin managers:  
+	
+	+ [Vundle](https://github.com/VundleVim/Vundle.vim)
+	+ [neobundle](https://github.com/Shougo/neobundle.vim)
+	+ [pathogen](https://github.com/tpope/vim-pathogen)
+86c516af98925c6d57b0caa90b9aaa2d|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|67|155|v|markdown
+	 the following line to your `vimrc` file:  
+5c2cbf511370e5ca7f2286a70a76ed6f|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|71|1|V|markdown
+	Then run the following command in vim:  
+1709df484f56915428eb6fdf3632d564|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|76|1|V|markdown
+	Or you can also use other plugin managers:  
+c0603157e00c1803bb9ed7891adc16fb|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|37|1|V|markdown
+	## Usage
+	
+	When cursor is on the target token, run the following command
+	    
+	    :TokenToggle
+6df13ff121642772ee4a7a0d0074dfa1|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/README.md|84|1|V|markdown
+	When cursor is on the target token, run the following command
+27b49d8fa6c02878f0e763c5c795dac3|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|129|1|V|markdown
+	![121](/images/2020/01/wallpaper/121.png)
+5a7053f1c3933ae0c87c527f72f53587|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|130|1|V|markdown
+	![122](/images/2020/01/wallpaper/122.png)
+715430f4f52e9c9b05c2ce760c05aa0f|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|131|1|V|markdown
+	![123](/images/2020/01/wallpaper/123.png)
+4facf06aaf74bbe5d97464201b7a56db|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|133|34|V|markdown
+	![124](/images/2020/01/wallpaper/124.png)
+e42931973b6df3d1948b21b550f804b0|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|134|34|V|markdown
+	![125](/images/2020/01/wallpaper/125.png)
+7563175cae8ef5f4ba9f7885c2904fa8|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|135|34|V|markdown
+	![126](/images/2020/01/wallpaper/126.png)
+120d9ecbeab4a08e3d85afd82fb6e3cb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|136|34|V|markdown
+	![127](/images/2020/01/wallpaper/127.png)
+c597c0ac052f73f265a775d148ba89b8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|250|161|v|markdown
+	BBack in 2002, Mechner was working on Prince of Persia: The Sands of Time. The programmers wanted
+bfd5fb649f09de474bf491c259e96623|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL8.md|21|1|V|markdown
+	    sudo pacman -S gnome-settings-daemon
+0d477a61f56e9be71e1e068c66c8a6fe|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL8.md|15|1|V|markdown
+	    sudo pacman -S deepin.com.qq.office
+	    sudo pacman -S deepin.com.qq.im
+8f25a1bcfd00e5ded753b28e52b9c4a0|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL8.md|14|5|V|markdown
+	    dd
+963d66abcb1c31d02021423de4b60ddd|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL8.md|30|1|V|markdown
+	    系统设置 -> 开机或关机 -> 自动启动 ->添加脚本 -> 输入/usr/lib/gsd-xsettings
+426859f80a782d2fc0c23724ea7eb0bb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/BLWL12.md|13|1|V|markdown
+	Edraw Max 的跨平台性使其成为了 Visio 很好的替代品  
+eefc452a138439cbcb8527a6896c206c|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|38|1|V|python
+	def 
+589d9ea50c6dd0e10f97a10a7e0bdbe7|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|8|38|v|vim
+	, add_token
+a9965fbe07be10b9eddb4e46d3b656ce|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|3|1|V|python
+	token_pairs = {
+	        'true': 'false',
+	        'false': 'true',
+	        'yes': 'no',
+	        'no': 'yes',
+	        '1': '0',
+	        '0': '1',
+	        'on': 'off',
+	        'off': 'on',
+	        '==': '!=',
+	        '!=': '==',
+	        '>': '<=',
+	        '<=': '>',
+	        '<': '>=',
+	        '>=': '<',
+	        '+': '-',
+	        '-': '+',
+	        '*': '/',
+	        '/': '*',
+	        }
+47ea18fe5ce16cc67418a23b1b828333|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/write.py|3|1|V|python
+	token_pairs = 
+10115058ff6eb94e269ecc1256efbff8|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|6|1|V|python
+	print(token_pairs)
+041a7ee6687833d5fa1f8885e7dee88b|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|7|1|V|python
+	print(type(token_pairs))
+e40fb58217c9629837e815b777ff1f43|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|35|1|V|vim
+	
+	command! -nargs=+ TokenAdd <token1> <token2> call TokenAdd(<q-args>)
+a70192a882ce44f6406d4dcc31cf5655|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.vim|5|1|V|vim
+	function! TokenAdd(token1, token2)
+	py << EndOfPython
+	
+	from token_toggle import add_token
+	
+	add_token(token1, token2)
+	
+	EndOfPython
+	endfunction
+8610d2197de8fabbe934524e5cad6219|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|6|1|V|python
+	#  token_pairs = {
+	        #  'true': 'false',
+	        #  'false': 'true',
+	        #  'yes': 'no',
+	        #  'no': 'yes',
+	        #  '1': '0',
+	        #  '0': '1',
+	        #  'on': 'off',
+	        #  'off': 'on',
+	        #  '==': '!=',
+	        #  '!=': '==',
+	        #  '>': '<=',
+	        #  '<=': '>',
+	        #  '<': '>=',
+	        #  '>=': '<',
+	        #  '+': '-',
+	        #  '-': '+',
+	        #  '*': '/',
+	        #  '/': '*',
+	        #  }
+be4ac6ee5d19da7ba864973cfc06f22d|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|6|1|V|python
+	def add_token(token1, token2):
+	    token_pairs[token1] = token2
+	    token_pairs[token2] = token1
+	    with open("./tokens.json", "w") as f:
+	        json.dump(token_pairs, f)
+29ec376ee199d02bd30a0ef2cf159ed8|file:///home/godlovesjonny/Jonny/Open-Source/vim-devs/token-toggle/plugin/token_toggle.py|6|9|V|python
+	        print("Token Added Successfully.")
+89c6df7918e7b0556f7457f2f2154496|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|518|1035|V|markdown
+	A lot of times, it's people who come to you and they've got some roadblock in their way, whether it's, you know, "Somehow my PR fell through the robot cracks," but a lot of times, it's also people who are like, "Hey, I had this cool idea. Maybe it doesn't quite fit in here, but I thought maybe it might improve how the community is running, or might be a good companion tool to other stuff that we're working on. What do I do?" And it's like, "Well, you know, how can I help you get started," you know? " What can I do? Like, do you just need someone to say yes? Because I am here to say yes all day long, to basically anything, and just let people know that yes, of course you have permission to do that," so that's, you know, I think the best thing that you can do, at least in my position, is make sure people don't have things in their way, or if the one thing that's in their way is waiting for someone to just say yes, I keep reiterating all the time that you don't need permission, but if someone needs it, then by god, give it to them.
+	

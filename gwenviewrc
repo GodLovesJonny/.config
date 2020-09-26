@@ -6,32 +6,30 @@ JPEGQuality=10612
 
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAO2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/slides/rainbow_over_snow_covered_mountain_4k_8k_hd-7680x4320.jpg
-File10[$e]=$HOME/下载/jcgtylyfkfn51.jpg
-File2[$e]=$HOME/.local/share/wallpapers/slides/sci_fi_twilight.jpg
-File3[$e]=$HOME/.local/share/wallpapers/slides/space_meteorites_4k.jpg
-File4[$e]=$HOME/.local/share/wallpapers/slides/solar_eclipse.jpg
-File5[$e]=$HOME/.local/share/wallpapers/slides/starry_night_sky.jpg
-File6[$e]=$HOME/下载/ua44a84istg51.jpg
-File7[$e]=$HOME/.local/share/wallpapers/slides/moon_sea.jpg
-File8[$e]=$HOME/下载/Mind-Map-20191122.png
-File9[$e]=$HOME/下载/IMG_20191101_195937.jpg
-Name1[$e]=rainbow_over_snow_covered_mountain_4k_8k_hd-7680x4320.jpg
-Name10[$e]=jcgtylyfkfn51.jpg
-Name2[$e]=sci_fi_twilight.jpg
-Name3[$e]=space_meteorites_4k.jpg
-Name4[$e]=solar_eclipse.jpg
-Name5[$e]=starry_night_sky.jpg
-Name6[$e]=ua44a84istg51.jpg
-Name7[$e]=moon_sea.jpg
-Name8[$e]=Mind-Map-20191122.png
-Name9[$e]=IMG_20191101_195937.jpg
+File1[$e]=$HOME/.local/share/wallpapers/Lage_dark.jpg
+File2[$e]=$HOME/.local/share/wallpapers/Tooned Landscapes And Places 243.png
+File3[$e]=$HOME/.local/share/wallpapers/No Logo SCE 154.png
+File4[$e]=$HOME/.local/share/wallpapers/Starry Nebula 265.png
+File5[$e]=$HOME/.local/share/wallpapers/Starry Nebula 295.png
+File6[$e]=$HOME/.local/share/wallpapers/Starry Nebula 296.png
+File7[$e]=$HOME/.local/share/wallpapers/Starry Nebula 299.png
+File8[$e]=$HOME/.local/share/wallpapers/Starry Night HD.jpg
+File9[$e]=$HOME/.local/share/wallpapers/slides/moon_sea.jpg
+Name1[$e]=Lage_dark.jpg
+Name2[$e]=Tooned Landscapes And Places 243.png
+Name3[$e]=No Logo SCE 154.png
+Name4[$e]=Starry Nebula 265.png
+Name5[$e]=Starry Nebula 295.png
+Name6[$e]=Starry Nebula 296.png
+Name7[$e]=Starry Nebula 299.png
+Name8[$e]=Starry Night HD.jpg
+Name9[$e]=moon_sea.jpg
 
 [SideBar]
-SideBarSplitterSizes=242,1659
+SideBarSplitterSizes=242,1675
