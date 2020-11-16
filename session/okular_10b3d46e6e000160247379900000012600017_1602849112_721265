@@ -1,0 +1,15 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/下载/bv_cvxslides.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=0
+HDMI-1 YPosition=28
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAPfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADL/////8AAAAAAAAAAA==

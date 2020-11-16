@@ -1,24 +1,45 @@
+[ExtractDialog]
+DirHistory[$e]=$HOME/下载/
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME,file:$HOME
+Recent URLs[$e]=file:$HOME/下载/
+detailViewIconSize=0
+
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAO2AAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAHWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
-splitterSizes=1268,635
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=1928
+eDP-1 HDMI-1 YPosition=557
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=557
+splitterSizes=631,316
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Own-Notes/Web应用/struts所用jar包.rar
-File2[$e]=$HOME/Jonny/Own-Notes/Web应用/csstest.rar
-File3[$e]=$HOME/Jonny/Own-Notes/Web应用/J2EE.rar
-File4[$e]=$HOME/Jonny/Own-Notes/操作系统原理课件/操作系统习题集.doc
-File5[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt.zip
-File6[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt-v2.zip
-File7[$e]=/run/media/godlovesjonny/ETERNITY/Student-Union.rar
-Name1[$e]=struts所用jar包.rar
-Name2[$e]=csstest.rar
-Name3[$e]=J2EE.rar
-Name4[$e]=操作系统习题集.doc
-Name5[$e]=IEEEtran-csvt.zip
-Name6[$e]=IEEEtran-csvt-v2.zip
-Name7[$e]=Student-Union.rar
+File1[$e]=$HOME/Jonny/Own-Notes/操作系统原理课件/操作系统习题集.doc
+File10[$e]=$HOME/Jonny/朱老师的采访.docx
+File2[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt.zip
+File3[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt-v2.zip
+File4[$e]=$HOME/下载/学前(专）19（7）班火车票优惠统计名单.xlsx
+File5[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/z:/home/godlovesjonny/下载/王同学为何要拒绝哈工大.docx
+File6[$e]=$HOME/下载/2020 通师高专第二届“colour run”活动方案.docx
+File7[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/csrnet.rar
+File8[$e]=$HOME/下载/csrnet/INTRODUCTION.docx
+File9[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/南通师范高等专科学校“国家励志.docx
+Name1[$e]=操作系统习题集.doc
+Name10[$e]=朱老师的采访.docx
+Name2[$e]=IEEEtran-csvt.zip
+Name3[$e]=IEEEtran-csvt-v2.zip
+Name4[$e]=学前(专）19（7）班火车票优惠统计名单.xlsx
+Name5[$e]=王同学为何要拒绝哈工大.docx
+Name6[$e]=2020 通师高专第二届“colour run”活动方案.docx
+Name7[$e]=csrnet.rar
+Name8[$e]=INTRODUCTION.docx
+Name9[$e]=南通师范高等专科学校“国家励志.docx

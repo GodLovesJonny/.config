@@ -1,0 +1,5 @@
+2020/11/16-12:11:49.628 3b39 Reusing MANIFEST /home/godlovesjonny/.config/baidunetdisk/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/16-12:12:16.540 4494 Level-0 table #5: started
+2020/11/16-12:12:16.542 4494 Level-0 table #5: 4274 bytes OK
+2020/11/16-12:12:16.544 4494 Delete type=0 #3
+2020/11/16-12:12:16.544 4494 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

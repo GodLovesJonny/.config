@@ -1,0 +1,25 @@
+[1]
+Active=0
+Tabs=[{"Orientation":"Horizontal","Widgets":[{"SessionRestoreId":1}]}]
+
+[Number]
+NumberOfSessions=1
+NumberOfWindows=1
+
+[Session1]
+Encoding=UTF-8
+LocalTab=%d : %n
+Profile[$e]=$HOME/.local/share/konsole/配置方案 1.profile
+RemoteTab=(%u) %H
+SessionGuid={437d5dbc-e7ca-4053-8fe8-4258d60d3c24}
+TabColor=
+WorkingDir[$e]=$HOME/Jonny/Ideas
+
+[WindowProperties1]
+ClassName=Konsole::MainWindow
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAQOAAAABAAAAAQAAAAIAAAACPwAAAAA
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=1928
+eDP-1 HDMI-1 YPosition=34

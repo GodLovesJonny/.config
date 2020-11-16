@@ -8,4 +8,5 @@ Autolock=false
 Theme=org.kde.breath.desktop
 
 [Greeter][Wallpaper][org.kde.image][General]
-Image=file:///home/godlovesjonny/.local/share/wallpapers/Mavs.jpg
+Image=/home/godlovesjonny/.local/share/wallpapers/save/unknown_universe.jpg
+SlidePaths=/home/godlovesjonny/.local/share/wallpapers,/usr/share/wallpapers

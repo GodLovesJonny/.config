@@ -17,3 +17,21 @@
 [2020-08-16 15:05:58.310] [warn] [Motrix] Logger init
 [2020-08-16 15:06:05.001] [warn] [Motrix] auto sync tracker data: [ null ]
 [2020-08-16 15:06:05.016] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2020-09-27 21:20:18.625] [warn] [Motrix] Logger init
+[2020-09-27 21:20:19.888] [warn] [Motrix] auto sync tracker data: [ null ]
+[2020-09-27 21:20:19.902] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800
+[2020-09-27 21:20:20.883] [warn] [Motrix] UPnPManager map 21301 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:327:16
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+[2020-09-27 21:20:20.885] [warn] [Motrix] UPnPManager map 26701 failed, error:  Error: UPnP port mapping failed
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:226:25
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/index.js:327:16
+    at /usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/index.js:24:23
+    at Timeout._onTimeout (/usr/lib/motrix/app/node_modules/@motrix/nat-api/lib/upnp/index.js:193:7)
+    at listOnTimeout (internal/timers.js:531:17)
+    at processTimers (internal/timers.js:475:7)
+[2020-09-27 21:26:24.735] [warn] [Motrix] call client fail: request to http://127.0.0.1:16800/jsonrpc failed, reason: connect ECONNREFUSED 127.0.0.1:16800

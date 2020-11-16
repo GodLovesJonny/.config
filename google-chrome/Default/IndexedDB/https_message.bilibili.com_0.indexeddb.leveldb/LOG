@@ -1,0 +1,15 @@
+2020/11/07-14:54:49.294 e11e8 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/07-14:54:49.294 e11e8 Recovering log #4
+2020/11/07-14:54:49.294 e11e8 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/000004.log 
+2020/11/07-14:54:54.965 e11e9 Level-0 table #8: started
+2020/11/07-14:54:54.966 e11e9 Level-0 table #8: 35304 bytes OK
+2020/11/07-14:54:54.967 e11e9 Delete type=0 #4
+2020/11/07-14:54:54.967 e11e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/07-14:54:54.967 e11e9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x07\x02\x01\x0a\x001\x00_\x003\x007\x000\x009\x000\x000\x004\x008' @ 1021 : 1
+2020/11/07-14:54:54.967 e11e9 Compacting 1@1 + 1@2 files
+2020/11/07-14:54:54.969 e11e9 Generated table #9@1: 191 keys, 21552 bytes
+2020/11/07-14:54:54.969 e11e9 Compacted 1@1 + 1@2 files => 21552 bytes
+2020/11/07-14:54:54.969 e11e9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/07-14:54:54.969 e11e9 Delete type=2 #8
+2020/11/07-14:54:54.969 e11e9 Delete type=2 #5
+2020/11/07-14:54:54.969 e11e9 Manual compaction at level-1 from '\x00\x01\x07\x02\x01\x0a\x001\x00_\x003\x007\x000\x009\x000\x000\x004\x008' @ 1021 : 1 .. (end); will stop at (end)

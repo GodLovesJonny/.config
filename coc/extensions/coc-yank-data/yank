@@ -3655,3 +3655,1304 @@ be4ac6ee5d19da7ba864973cfc06f22d|file:///home/godlovesjonny/Jonny/Open-Source/vi
 89c6df7918e7b0556f7457f2f2154496|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S02-BDAR.md|518|1035|V|markdown
 	A lot of times, it's people who come to you and they've got some roadblock in their way, whether it's, you know, "Somehow my PR fell through the robot cracks," but a lot of times, it's also people who are like, "Hey, I had this cool idea. Maybe it doesn't quite fit in here, but I thought maybe it might improve how the community is running, or might be a good companion tool to other stuff that we're working on. What do I do?" And it's like, "Well, you know, how can I help you get started," you know? " What can I do? Like, do you just need someone to say yes? Because I am here to say yes all day long, to basically anything, and just let people know that yes, of course you have permission to do that," so that's, you know, I think the best thing that you can do, at least in my position, is make sure people don't have things in their way, or if the one thing that's in their way is waiting for someone to just say yes, I keep reiterating all the time that you don't need permission, but if someone needs it, then by god, give it to them.
 	
+20e880f39dc123e20aab7667a2a3a571|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|14|1|V|markdown
+	Hi everybody, I'm Saron Yitbarek and this is a special bonus episode of Command Line Heroes, an original podcast from Red Hat. This podcast went a lot of places in Season 2. We explored programming languages, data overload, security crises, the advent of serverless. I mean, we even went to Mars.
+	
+5ccee39ea77c4e09be361580696d63d5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|18|1|V|markdown
+	But after closing out Season 2, there was still one more place we wanted to go. We wanted to go inside the minds of the advocates and thought leaders who help shape all the work that developers do. Sometimes they're called developer advocates or they're in developer relations or they're developer evangelists.
+	
+7574bd5fe524da507aed5c9bc28aa487|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|22|1|V|markdown
+	Whatever their exact titles, from the developer's perspective, they seem to do a lot of the same things. You've seen them give keynotes at conferences. You've heard them getting interviewed on podcasts, like this one. You've probably read their blog posts. But who are they, and what exactly are they using their voices to get done?
+	
+e272b5489b4b8ecfe0c10318ec40e204|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Hello. And also in San Francisco we have Ricky Robinett. He's the Director of the Developer Network over at Twilio.
+	
+9b3008b5901b6469b9b204012d6de3d6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Hi, Saron.
+	
+b429c10b74313c4afd6ec0914b307b72|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	To ring in 2019, we've pulled together a roundtable of amazing people for you. While their titles are all different, their purpose is the same. They're here to help developers and make sure their needs and voices are heard. These folks are classic command line heroes.
+	
+a684e1d40a770e9e849fdb12c1fe114c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	From the Bay Area, Sandra Persing is a Mozilla Global Strategist and creator of the DevRel Summit.
+	
+8c653f5a319513fe7dd626d2d7891d79|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	What's up?
+	
+8414e567e7036b8d931b6d3d2c8705dd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Hi there. How are you?
+	
+91195d30e1ec125201bb6024ea7466af|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Joining me from just outside of Phoenix is Robyn Bergeron, a community architect at Red Hat.
+	
+7266b2e4e29c25a078d17b1753828592|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Excellent.
+	
+68d180d850f5ae33c782e3d323c1da7c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	I'm doing great.
+	
+ba52ec1cc815fd8de6fb9c054c644be1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	So there are a lot of titles floating around. There's Developer Advocate, Developer Evangelist, Developer Relations, and with all these new things, basic definitions are super important. So, I think a good place to start is just to define what these things are and specifically, what you all do in this space. So, can you tell me your job title and what that title actually means? Ricky, let's start with you.
+	
+6aeee140112cf8d26e412ea2135a4a7a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Okay, sounds good. My title is the Director of the Developer Network. What I have the privilege of doing is serving a team of developer relations professionals. We have an evangelism team, we have a education team and we have a community team. So, it's definitely a mishmash of all the different titles of you hear, we kind of collect them on the team.
+	
+f2317a1939bebf9a185569ae40eac051|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Awesome. And Sandra, what about you?
+	
+f4d8e22ef03c7661972ce67d805e1d8d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	I am at Mozilla as the Global Strategist for events and sponsorship and I work with our developer outreach team in the emerging tech group at Mozilla.I usually explain my day to day activities as a lot of research and communications and explorations that really leads to evaluating and deciding, you know, how we should all invest our resources: our time, money, swag, speakers, et cetera, in order to give back to the developer community, but also to receive feedback from the developer community. So both the evangelism side and the advocate side.
+	
+0fa283848f8250f508d1526c41e6e042|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Awesome. And Robyn, you're up next.
+	
+71e01fb5be6c5d2d7777ad16ab54ddda|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Hi. Well so, my official title is Community Architect. I get a lot of questions about this title. I've gone by Community Manager. I've gone by Developer Advocate. I've even gone by Operations Advocate at one job in the past. But I like to think of what I do is, you know, when you're a community manager, like the idea that you're really managing all these people who are contributing out of the goodness of their heart is sort of a silly notion. So, I like to think of what I do as building frameworks in which people can actually successfully participate and make sure that roadblocks aren't in their way and that they can get done all the things they want to get done.
+	
+e6be82f083ae7cebb33dd6c84c6f69d7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	And Ricky, since you are essentially the Director of the entire network, you're not just in advocacy or evangelism or community, it kind of feels like you're running the whole show. How do you understand this idea of being an advocate either for developers or advocating to developers?
+	
+9e2ac5e29ae0deff3c2b8ea32b58eb6f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Yeah, that's a great question. Phil Nash, who's one of the evangelists on our team had a great framing for this that I'm going to steal, which is we have a lot of different ways of describing what we do, but ultimately a lot of them just being help.
+	
+22d713b0df6ce795053baf96306369ae|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	I like that. Yeah.
+	
+3dcff79566b809bee1e9c4a5739c3e82|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	We help developers, and so sometimes that help looks like answering a question on Stack Overflow. Sometimes it looks like building a new tool. Sometimes it looks like organizing an event and then sometimes it looks like initiating a product change internally. So, I think that's the best framing I've heard is really our responsibility is to help.
+	
+4ed2655b6e8cc7ea5fc68eebea1ccb68|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|102|1|V|markdown
+	Absolutely. Sandra, what I'm so interested in about your position is that you're not just a Strategist, you're a Global Strategist and you're all over the world trying to bring developers together and help them as part of your job at Mozilla. When we think about advocacy on a global scale, what does that look like? Does it mean something different across different countries, continents?
+	
+328d8748a50ce56e303e944652b306de|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	But if I work for a company, then will I have to sacrifice that? Am I going to be in a position where I have to put the company before the needs of the community and how do I balance that relationship?
+	
+fd48f9d34346cb7aed0034fb152903e1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And one thing I'm noticing is that everyone has mentioned community in some way. And I run a community myself. I do Code Newbie and I regularly get recruited by companies to be an evangelist or a community manager for their company and one thing that I've always been a little worried about, maybe a little squeamish about is thinking, okay, I've spent the last three, four years taking care of this community with no strings attached, on my terms,I'm doing what I think is best.
+	
+a4c60af17ef7e72ba8c6848832b49f07|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Yeah, absolutely. We just wrapped our third annual DevRel Summit this year in Singapore and the past two years, we hosted the event in Seattle and getting out to Singapore, we saw a different perspective. When we get outside of the Bay Area, it can be something as basic as, you know, how do we make sure everything just works offline, because connectivity is such an issue or something like how do we just make sure a developer who's working in Indonesia feels just connected to a developer community, whether that's online or onsite through meetups.
+	
+9b5aeed4add6a9922f89012d2f6be148|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And always going back to recognizing that some of our quote unquote "basic things," some of our easy things like creating a simple meetup in the Bay Area, which is so a dime a dozen, right? You throw a rock and there's a meetup everywhere is still something really special and something that a developer in let's say Vietnam still sees to be incredibly important and valuable and enriching their developer community life.
+	
+24b215ce22ad3ba5f7f53326bd31e046|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	So I'm wondering, Robyn, maybe we could start with you as a Community Architect, how do you separate that? How do you maintain that church and state relationship, so to speak?
+	
+a947784b368d9f58ed36f54db00137e7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Well, it's certainly an interesting balance. I mean, one of my former jobs was actually being the Fedora project leader. And you know, Fedora is the upstream for Red Hat Enterprise Linux, you know, part of your role there is really to be sort of the balancing act, right? The balance between are people happy in the community, is the company happy with what the community is doing and making sure that basically everybody's one big happy family.
+	
+e1019e8e0ffb2da3c9625003cd29801a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And you know, I think when you're doing your job best in that position yeah, you're pretty much bound to probably anger someone at the corporate headquarters once in a while. But you know, the proof is in the pudding at the end of the day. Right?
+	
+a9357aa3e5bc9040b47ddb0751c1a797|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And it was like, that would be defeating the whole purpose of having this entire project. Like, we haven't gotten to 4,000 contributors by being terrible.
+	
+b76ab0eeb2dbd432e6efbabc13ff3502|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Making sure that your management trusts in you and that you have clear communication with folks all the time about what's actually going on and that there aren't surprises on either side of the aisle is part of what makes the difference between success and maybe not always success, but certainly people being surprised.
+	
+9f70039d49d0c4c9e8e12b8c0508f8f4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Mm-hmm (affirmative). Absolutely. And Ricky, what about you? How do you think about church and state in that relationship when you're doing so many different things?
+	
+de30f2203731245b0c3b349bfb22e5e2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	I think you have to believe in the company and the technology. You have to believe that what you are bringing to developers is going to have an impact on their lives and their careers and their companies.
+	
+92c9cbc7e4e6ce5716575db2fcb921fe|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	People ask me all the time like, how do you balance, what's going on with Ansible and Red Hat and you know, like when Ansible got bought by Red Hat, like, oh my God, is Red Hat going to take it over and do something terrible to it and get rid of, Ubuntu support?
+	
+44debfa043980c65ab752dc589c1e63a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And then on the flip side, you have to have executives who believe in this approach to your work. So, we're very lucky that our CEO is a developer and in many ways was the driving force behind the way that we approach our developer community. Our evangelists have a mission to inspire and equip developers. And so, there are times when we say, is this going to inspire and equip them?Because if it's not, we shouldn't really be doing it because it's something that's outside of our purview.
+	
+8a1e1563d9030870c9ed2b9ca4ae8b08|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Mm-hmm (affirmative). Sandra, I feel like you're a little bit at an advantage because Mozilla's a nonprofit, right? So I feel like maybe—
+	
+57b76302b810c60804cc41280f295a29|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	I was going to say.
+	
+15db45ae9163cd26375b8319ef04fe86|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	and the Internet is an open and free resource for all. I mean, we still, every one of us, every Mozillian believes this mantra and we hold it dear to our heart. So it's absolutely an amazing company that has embraced the community side 100%.
+	
+2b2172f26889c8f130cc5eee609c2423|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Tell me about that.
+	
+0536eb9b3729f69d45ddac674ea9013c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	The history of Mozilla is that we're a rebellious company. We've always rebelled against the corporate man, right? The whole history of coming out of Netscape and with one of our founders, Mitchell Baker, in making sure that the web is
+	
+7e3033d49809677ade3ce1c03a04b656|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Well, that's very kind of you to say. We do really believe we stand on the shoulders of giants here. You think of Guy Kawasaki with Apple, of people doing this style of marketing way before us. I think that we got to be fortunate enough to be at the right time to take this to developers.
+	
+cc381f6afecb75939a5680738cf68266|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Absolutely. So Ricky, I vividly remember the red-like sports jacket and I remember seeing you personally onstage doing these awesome demos and it feels like that whole approach to connecting with developers and helping developers was very new. Where did that idea even come from at Twilio?
+	
+1241438af08afe8984df76f07bf9063e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And there's just so many people who came in with the idea of how we can do this and how to keep leveling up how we approached it. I don't actually know who invented the red track jacket though, so now I need to go find the history—
+	
+8917c0a44fb103ba528445b5e5ad3749|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	You gotta find that out.
+	
+44f1b62c065a69ac44234c05e7b196f3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And I'm wondering how has that idea of evangelism, and advocacy, how has that changed over time at Twilio, given the fact that, you know, at one point you were a small little startup or a little rebellious startup, and then now you're kind of a big company. How is the shape of evangelism changed as the company itself has changed?
+	
+007a27e90cd4fb407769f63358c685c7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	—of where that started.
+	
+aca1d84cbce3337914aa2693c3c80888|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	That's a great jacket.
+	
+01bceef6fbfbc95e0a1c49b73e8349af|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	I know. That's my mission for this afternoon now.
+	
+b6a20af91b469140b2d6836e62086473|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	So I talk about evangelists inspiring and equipping. And so the nice thing is that hasn't changed in all the years, so the ways that they inspire and equip keep going differently, but the mission itself doesn't change.
+	
+373a11ef46f0125126ca4964400c52eb|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Yeah, when I started here, I feel like I could have spent 365 days a year at hackathons and in New York every weekend you had to pick from five or six hackathons. So much of what we did with evangelism was the hackathon scene and now, that's not the same scene. Really, the biggest changes have been driven outside the company rather than inside.
+	
+4cc59837d0e63b48657c10b7c687f3df|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	Well, actually that was ... I mean, my first job after dropping out of school, don't recommend it, kids. Don't do that at home.
+	
+a17d9a55707d1d06d0a6696fca50baff|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|222|1|V|markdown
+	And Robyn, with the rise of DevOps and DevSecOps, what does advocacy look like for you and for being that community architect? Is there gonna be a Ops advocate?
+	
+a429152de771e51fa179182c0edae35c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Stay in school.
+	
+2168440cdd1fc196d931476e9fdc6899|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Listening. Look at looking at you, daughter. My first job was actually as a SysAdmin at Motorola for a number of years and when I moved on from being in charge of Fedora, I worked at Elastic Search for a while and you know, had this title of Developer Advocate and was like, yeah, so I hacked my way through several semesters of C in college. But my heart was always in operations. I started feeling like am I really a developer advocate? I feel like I'm just advocating to ops folks mostly. And I just started calling myself an operations advocate which nobody blinked an eye at.
+	
+1e75da5ff49d3f81f471a9e1990aaa4b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	You know, what is developer relations? Are we pitching our product being more salesy? You know, and I notice that even large corporations are moving away from that tactic. Understanding that being authentic, being truly mindful of listening and responding to the needs of developers is key above all else, not pitching product.
+	
+b296599e52c513e07b3d1f3a7f70e6d4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Everyone said, well, that's a really cool title. I'm like, you know, I'm just advocating in general mostly to the inside of my company about what everybody else is doing.
+	
+2cdb65c7e4b1f8a0fe387e37abc00f25|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Oh, I really like that. I like this idea of many different skill sets, I guess, backgrounds need to come together to really serve developers well and to help developers help themselves, too.
+	
+70206fa4a6f538866f1a2c30422356b7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	I always go back and share with my team at Mozilla that developers are actually one of the smartest and creative customer base that we'll ever work with. They can smell that BS from miles away. So, we have to be smart about how we are sharing information, like it has to be a diverse group of talented and intelligent minds all coming together to become creative in our approach of communicating to our developer community.
+	
+76719799e64627ff79d36dff9ea04440|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	So Sandra, we talked about how advocacy and evangelism looks different in different parts of the world, but I'm wondering over the years as we become increasingly more global and more connected, has the larger picture, the larger shape of evangelism shifted over time for you?
+	
+3bdd4cc9724211d502d12892fdacb415|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	When I think about the rise of developer advocates, to me it feels very connected to the rise of open source. It almost feels like the more open source contributors there were and the bigger deal open source became and the more big companies took it seriously, they almost had to establish better relationships with these open source contributors, these developers, and it feels like those two are really connected to me.
+	
+9509e13437186a9d9457400f7e4546ef|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	If I were to say the phrase I've heard the most when I talk to developers, it's, "I'm not a developer, but," and that's probably one of the biggest things that's always on my mind is broadening the definition of developer.
+	
+107fa1acd29a5165ecd160773db777fd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Yeah, that's generally a bad idea. Cool. So, I want to know from each of you what you all have been focusing on, really thinking about. So Ricky, let's start with you. What kind of improvements do you try to bring about in the developer culture in your role at Twilio?
+	
+b6721750ed7dededaf8594b55bcc5b3e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	If you are a company who is selling software that or selling whatever licenses, long termsupport, you know, whatever your open source company's business model actually is, if you don't have that feedback loop or you're not actually paying attention to what people are saying, you're going to wind up delivering the proverbial wrong thing. And really being able to encompass that, you know, around the world and just day to day in what you do is the difference between success and I guess making the wrong thing, which nobody wants to spend time doing. That's a bad idea.
+	
+b6a8e07e2a9f9fec3f9b96a0e836e9be|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	So I'm curious about your ideas about that. So Robyn, let's start with you. Is that true at all? Is that idea of advocacy connected at all to the rise of open source?
+	
+3c20a6376382ad7a91a6945b737245e0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Imposter syndrome for so many of us is a very real thing. It's just amazing how even some of the best developers you know are struggling with it. And for me, that's one of the biggest things we can all do in our culture is give people permission to say, "You know what? I am a developer. I am solving problems with code."
+	
+d10c548caac20ed0d139b0cb769cf223|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	And so, one of my favorite stories is we have a member of our community named Doug McKenziethat's a magician. And he taught himself PHP so he could use tech in his magic tricks.
+	
+9a8ca015b49fae41a2e905631e0683c1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Doug is so cool because he was super humble about like, "Oh, I'm not a developer." And suddenly you see, like, he's writing more complicated code than many people have ever seen, to do things that blow minds. And so, I just feel like there's so many Doug McKenzies in the world who are doing great things with code and we have the opportunity to give them permission to be part of the community and to have an identity in that work.
+	
+56585a9f77919930416f0f03ca0f54ef|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Oh, neat.
+	
+b16778f67e5edf9e9f46b49e45a03564|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	I love that story because it reminds me of someone I interviewed for the Code Newbie podcast actually, and she was a writer and she had a bunch of assignments where she had to learn Git in order to write about Git and she'd written so many of these articles and it grew to be on other coding topics and eventually, you know, a couple of years had passed and she'd essentially become a developer and didn't know it.
+	
+005c89f74c1283f71252c5b8a5fd40a6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	And by the time I interviewed her and I said, "Hey, do you know that you're a developer?" She's like, "No, I'm a writer." And I said, "You can be both. They're not mutually exclusive." But yeah, that shift in perspective of saying, "Hey, I'm actually coding and creating, therefore I can now call myself a coder," it's tough for people. It takes a while to get there.
+	
+f3321c5a0773bca2e8e6d2ee89a372f6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Yeah, absolutely.
+	
+0eb13c431cdf22df34d5360dd30a8e4b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|302|1|V|markdown
+	Yeah. So Robyn, for you, what's been the most positive change that you've managed to push forward in recent years?
+	
+f53e031b927b01d0f748959e65ad9f6e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	When we did a panel at Sundance with some famous names like Reggie Watts and Chris Milk, we gave an opportunity for filmmakers, producers, decision makers to say, "Oh, we can do that, too. We don't have to be bound by restrictions of what can we do as creative filmmakers."
+	
+00f52f686644c6eeb2dd52b162f14304|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Just making sure that as we grow, that we're not losing track of the big picture, that our main goals around keeping it simple for people to use, simple for people to contribute to, simple to actually get stuff done with in your life, making sure we're not losing track of that or getting more engineering help to just work on some of the structure of the actual project and make sure that we're doing a good job of keeping all that stuff in order was, I don't know, I thought that was important. I don't know that I'm going to win a Nobel Peace Prize for that, but I know it's something that mattered a lot to lots of the contributors.
+	
+c17b2c6d961d35ca8e8d7f0ff3a92465|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	That works for me. Sandra, what about you? What's been the most positive change that you've managed to push forward in recent years as a Global Strategist?
+	
+4d4bb0a4c9ac9ca4770159cbad519b82|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	So we created two simple templates, to say, "Try it out," but it's not programming that we wanted to push towards. It's not coding. It was, "Yes, there's some lines of code. It's language, but what you want to do is create a few lines that now can translate into art," and that brought so many new people into our fold, literally brought them to our table, and then they would write their lines of code, go and walk over under the Arch, to see their light expressions now being looped in the structure. That was amazing.
+	
+f1433219ff644e44494539e923cbf053|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Two things that really stand out from my mind is expanding this definition, the persona of developer, has been something that's been very important. We'd love to grow our community, right? So why restrict the definition and description of a developer?
+	
+4ed5eef23ed75bd4547a9c221e124f4c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Oh, that's beautiful. I approve.
+	
+ac32c7e4f985fa4681c4d166589cd43d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Wow. That sounds beautiful, absolutely beautiful. So, I'm wondering, when we talk about advocating for developers, and we talked a ton about community, and this idea of at the end of the day, whatever our job titles are, we're really just trying to help people, what do developers need help with? Ricky, let's start with you. What do developers say that they need from you?
+	
+6ef1a72a74f881f6f317f75d73155ef5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Yeah. So Robyn, for you at Red Hat, what are Red Hat developers looking for?
+	
+83e1ec040b575ef176cc62d0e289d3d0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Well, thank you. Yes. That's exciting. So we built a tool called TwilioQuest, to help people discover that power, to help them know where to get started, but I just sense, you know, there's been this theme of people finding their identity, or getting permission to have that identity, and for every person that's writing code already, or solving problems with code or software, there's so many more who want to, and just don't know where to start yet. So that's a thing that's on our mind a lot.
+	
+24808f95d40ae35096345bedeeb64936|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	We can adopt technology, and we too can become developers, and that was very refreshing to see. Another moment that we had at Mozilla was bringing an artist, Ian Brill, a light artist in Chicago, to work with us on a project that we label Arch, and we brought this huge plastic light, LED light, with seven Raspberry Pis being programmed structure, to two significant JavaScript developer events this year. And in order to invite more programmers, whether they call themselves developers or not, to try out two languages that Mozilla was advocating this year pretty strongly, WebAssembly and Rust.
+	
+9cf75e368a4150e55102afdf9acbdc28|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Wow. Yeah, that is a good question. I think that one of the things that we've found is that, like technology's changing so quickly, and a lot of what we get asked about is just, "Where do I start? What do I do first? How do I know I'm on the right path?" For us, that's probably one of the areas we have been investing the most, is we call it like helping people discover their power to change the world with code.
+	
+cc940a23c5530073ecdf46664ee3f211|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Oh, love that. Ricky, what about you?
+	
+1b65c83d1380b6a2aa539cd7c092cdef|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	So, the last question, we need to wrap things up, so I'm going to ask you each something. What is the single-most important thing that you're going to be advocating for in 2019? If you had a magic wand, what's the next big thing you'd want to change? Sandra, let's start with you.
+	
+d9c1b56b1e0b1c863b7e0436a692fa88|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Oh, I knew you were going to do that. Well, the biggest challenges, and yet the most exciting projects that we're going to be working on for 2019, is to truly deliver on our promise of the web being one of the greatest, biggest, most accessible platform. We always tell developers it's where you should build, and deploy everywhere, but knowing that the web itself is incredibly complex, and that we have multiple browser vendors out there, sometimes that's not a true statement, and it's been a perennial challenge for us, especially at Mozilla, where we want to keep the web open, and free, and accessible for all. We want to continue to make sure that we are fulfilling that promise to our developers, that the web is indeed open, accessible, and available to all.
+	
+6d4dc6adda4596d7f992fc69f2894525|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Just making sure we're serving developers where they gather, online and offline, throughout the entire world. It canbe super easy to get focused on what you see and forget that there's developers everywhere, even when you don't see them. So, I would wave my magic wand and just be more places all over the world, finding out how we can help developers there.
+	
+fe28d67f7f71058301c90291bcb7cd85|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	I just want to say, I loved Jarod's talk about dark matter developers. It was incredible.
+	
+fe5a5c6643041a11e2ec20ce8c63e20e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	It's like such an amazing concept when you hear it for the first time. It's like, "Wow, that really is a thing."
+	
+d489d53260708a966010022632f6f5a3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	So tell us about that. What's a dark matter developer?
+	
+f1b5deb8608f99ac8c012299095609be|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|382|1|V|markdown
+	Essentially, there are developers out there, there are those who do not show up to your meetups, who do not participate in GitHub, online communities, do not contribute to Stack Overflow. Those are the developers who are still actively working and contributing, but we do not know. We know that they're there, but we cannot see them. We cannot identify them, and those are actually a very important segment of the developer community that we tend to ignore, and we cannot. It will be to our detriment working in developer relations, to ignore the community that does not speak up, and we need to be more proactive in searching those dark matter developers out in our universe.
+	
+e2b5bcd324f6f7f21e477f87d5d98f39|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|386|1|V|markdown
+	Oh, I love ... Oh, that's very cool. Yeah, and Jarod actually works at Twilio, right?
+	
+e005f2fb98ae65ce207b763f8021ab58|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|398|1|V|markdown
+	One of my former Red Hat colleagues, who's now at a company called Tidelift, Chris Grams, actually used to have a blog that was titled Dark Matter Matters, because it's sort of the—
+	
+47e0d70e2f26b0b151d92a2fa8557e6c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|398|1|V|markdown
+	Yes. Yes, he runs the APAC DevRel.
+	
+20beb36223c19908222a83af7b426633|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|398|1|V|markdown
+	Mm-hmm (affirmative).
+	
+52c80b12eba14ed0164e8bea96ca86e5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|418|1|V|markdown
+	Traction is always just so good. It's so exciting. Well, I want to thank all of you so, so much for joining us today and sharing your minds, and your thoughts, and your stories. Thank you all so much. You want to say goodbye?
+	
+0ac5fe94ffff818cb1f91c116ca8263d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|418|1|V|markdown
+	Oh, with my magic wand, so many things, but I guess pursuant to this conversation, getting better at managing our dependencies upon each other, and maybe not surprising each other, especially when so many of us work in OpenStack, and OPNFV, and Ansible, and all of these things that build on top of each other. Just making sure that the relationships between our projects is more obvious than things can be when you're head-down in stuff. So that's a thing I'm really looking forward to over the coming year, because we're getting traction on stuff. It's very exciting right now.
+	
+0a11210e0dc2b01c9b984f886518aa0e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|418|1|V|markdown
+	You know, the things you don't see still actually matter, so—
+	
+32acb0d59e016fe44dcabb979325db26|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|418|1|V|markdown
+	Absolutely. And Robyn, what about you. What would you do with your magic wand?
+	
+f4362fd95442fac943976810f3c8036f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|418|1|V|markdown
+	Bye, y'all.
+	
+50aaffe6ba29eeb1b2b55303ddf78f85|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|422|1|V|markdown
+	Nice. Thank you so much, Saron. It's been a pleasure being on this panel.
+	
+4271ea9d4008bcc0b7dde7e038acf98e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|426|1|V|markdown
+	It's already starting to happen, a shift towards open source attitudes in the gaming studios.
+	
+4cbdb8dbf9ffe17c774c1e7a1417db17|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|430|1|V|markdown
+	Absolutely. Today's roundtable included Robyn Bergeron, Community Architect at Red Hat, Sandra Persing, Global Strategist at Mozilla, and Ricky Robinet, Director of the Developer Network at Twilio. I consider myself hugely lucky to have platforms where I get to share my vision for what our community could become, whether here on this podcast or elsewhere, but I want to point out, you do not have to have your own podcast to be an advocate. Being an advocate simply means you keep your eyes open and you speak up on behalf of others. It really can be everybody's job. So I'm hoping Robyn, Sandra, and Ricky give you a little inspiration to advocate for matters to you.
+	
+908662e4980276e93d1825ab36b17554|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S02-BDAR-Final.md|434|1|V|markdown
+	Meanwhile, Season 3of Command Line Heroes is already in the works. You can be one of the first to learn about new episodes when they drop this spring. If you haven't already, subscribe over at Apple Podcasts, Google Podcasts, or wherever you get your podcasts. It's one click, and it's 100% free. I'm Saron Yitbarek. Thank you so much for listening, and until season 3, keep on coding.
+	
+444733081a578880ba8a563d3c59d22d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|410|11|v|markdown
+	Flying
+5092aeb01b9c7c352624bd7ae994f576|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|410|11|v|markdown
+	FeiFia
+93aa984841c569aa9c16d67d7cbb8835|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|410|42|v|markdown
+	Flying-
+980bdbf883dff6f5696f1f525438a774|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|10|1|V|markdown
+	Command Line Heroes: Season 3: Heroes in a Bash Shell
+c73bc57fdd756fc98bcdb0cd03854bfa|file:///home/godlovesjonny/.vimrc|53|35|V|vim
+	" set the runtime path to include Vundle and initialize
+	" set rtp+=~/.vim/bundle/Vundle.vim
+	
+fa91d36acc04de9dd1940ac786422ea7|file:///home/godlovesjonny/.vimrc|100|1|V|vim
+	" Plug 'Valloric/YouCompleteMe', { 'do': './install.py' }
+	" let g:ycm_global_ycm_extra_conf='~/.ycm_extra_conf.py'
+	" let g:ycm_python_binary_path = '/usr/bin/python'
+	" let g:ycm_confirm_extra_conf = 0
+	" let g:ycm_complete_in_comments = 1
+	" let g:ycm_complete_in_strings = 1
+	" let g:ycm_enable_diagnostic_signs = 0
+	" let g:ycm_enable_diagnostic_highlighting = 0
+	" nnoremap gd :YcmCompleter GoToDefinitionElseDeclaration<CR>
+	" nnoremap g/ :YcmCompleter GetDoc<CR>
+	" nnoremap gt :YcmCompleter GetType<CR>
+	" nnoremap gr :YcmCompleter GoToReferences<CR>
+c4c0c152e1b3d8aa6feef42eeb10bd88|file:///home/godlovesjonny/.vimrc|312|1|V|vim
+	" Plug 'dracula/vim', { 'as': 'dracula' }
+99708d531c50ad1df237dc5064e6e6c6|file:///home/godlovesjonny/.vimrc|374|1|V|vim
+	let mapleader=" "
+9e6a65a1c2200d1a564b8a0abd6194b2|file:///home/godlovesjonny/.vimrc|374|1|V|vim
+	let mapleader=" "
+	
+cab8f8b289b545ccc0708aa6ff584376|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|22|228|v|markdown
+	一次一件地
+748c2adfa13ce01450b8311d50188c17|file:///home/godlovesjonny/Jonny/Ideas/20200925.md|7|1|V|markdown
+	目的：用文本去检索图像，而文本所提及的细节并不包含图像里
+5b591526041fdb5eea501a30e6a1513e|file:///home/godlovesjonny/Jonny/Ideas/notes.md|16|1|V|markdown
+	1801.01760 Sec4.3 Lalign
+8777de8db0bf830e5d4a7e14347c6556|file:///home/godlovesjonny/Jonny/Ideas/notes.md|22|1|V|markdown
+	Bert 生成 3 维 feature map  
+3a06d2fc5a90100d680957c630e3224a|file:///home/godlovesjonny/.vimrc|190|1|V|vim
+	let g:mkdp_path_to_chrome = "qutebrowser"
+1f2e3d15855696edad3a431a7329cf5c|file:///home/godlovesjonny/.vimrc|190|30|v|vim
+	qutebrowser
+756b990d8010271945505952d9ae2c04|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|42|1|V|markdown
+	
+	## 1607.01719 Deep CORAL: Correlation Alignment for Deep Domain Adaptation
+c7f029aec0eea3dc5df6bdee07d07070|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|135|1|V|markdown
+	![127](/images/2020/01/wallpaper/127.jpg)
+f8b01837077df9a3c9c15c067fd87bfc|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|136|1|V|markdown
+	![128](/images/2020/01/wallpaper/128.jpg)
+b6cede2563fb6be8e2a3955012cb27d1|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|137|1|V|markdown
+	![129](/images/2020/01/wallpaper/129.jpg)
+7a25017e8d3dcc9338185e66ff537160|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|139|34|V|markdown
+	![130](/images/2020/01/wallpaper/130.jpg)
+ae428cfcb2604a10b2f34ed463a0de8b|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|140|34|V|markdown
+	![131](/images/2020/01/wallpaper/131.jpg)
+b1a5ace102817fc9bb039f891e57a786|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![133](/images/2020/01/wallpaper/133.jpg)
+9923079cdd52272374d5333d37fa7907|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![132](/images/2020/01/wallpaper/132.jpg)
+da042d8e969bf5f8529efe8de7ebd53c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![134](/images/2020/01/wallpaper/134.jpg)
+eb4d383db3ccec506b5ee3ad4344e0d7|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![135](/images/2020/01/wallpaper/135.jpg)
+c8019560cb24c623154ad3d0dc6ab4ac|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![136](/images/2020/01/wallpaper/136.jpg)
+f3a43f9d9831b62831be6eaffb02a2f1|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![137](/images/2020/01/wallpaper/137.jpg)
+9402a44c4a6ea8fce1cb16da95ca87c2|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|34|V|markdown
+	![138](/images/2020/01/wallpaper/138.jpg)
+40027bf113f7bf50480f90d0c402aff2|file:///home/godlovesjonny/Jonny/Ideas/flower-book-notes.md|18|1|V|markdown
+	\\(\\)
+cc022f4823a8d572569e727c63139cdd|file:///home/godlovesjonny/Jonny/Ideas/flower-book-notes.md|18|1|V|markdown
+	范数是将向量映射到非负值的函数
+e4ff1dff40b512225115b9dc8d807e2a|file:///home/godlovesjonny/Jonny/Ideas/flower-book-notes.md|1|1|V|markdown
+	# Chapter 1
+	硬编码知识体系 —— **知识库方法**（Cyc）  
+	
+	从原始数据中提取模式 —— **机器学习**  
+	简单的机器学习算法的性能很大程度上以来于给定数据的**表示**  
+	很难知道该提取哪些特征  
+	
+	解决途径之一：使用机器学习来发掘表示本身，而不仅仅把表示映射到输出 —— **表示学习**  （自编码器）  
+	**变差因素**的组合过于复杂  
+	
+	**深度学习**将复杂映射分解为一系列嵌套的简单映射  
+	
+	**联结主义**的中心思想：当网络将大量简单的计算单元连接在一起时可以实现智能行为。  
+	**分布式表示**：系统的每一个输入都应该由多个特征表示，并且每一个特征都应该参与到多个可能输入的表示。  
+	
+	# Chapter 2
+	## 范数
+	
+	范数是将向量映射到非负值的函数。  
+	
+	范数满足下列性质：  
+	+ f(x) = 0 -> x = 0
+	+ f(x+y) <= f(x) + f(y) （三角不等式）
+	+ f(ax) = |a|f(x)
+	
+	当机器学习问题中**零和非零元素**之间的差异非常重要时，通常会使用 L1 范数。  
+	
+	## 特征分解
+	
+	可以将 A 看作沿方向 v_i 延展 lambda_i 倍的空间。  
+	
+	## 行列式
+	
+	行列式的绝对值可以用来衡量矩阵参与矩阵乘法后空间扩大或缩小了多少。  
+	
+	# Chapter 3
+	不确定性的三种可能来源：    
+	+ 被建模系统内在的随机性
+	+ 不完全观测
+	+ 不完全建模
+	
+	
+d1db192749bb1b3982c14332fd0203b9|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/flower-book-notes.md|38|48|v|markdown
+	lambda_i 
+edc9f0a5a5d57797bf68e37364743831|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/flower-book-notes.md|5|17|v|markdown
+	Linux
+f3e7da8e9c0cb8121d9e075df3f7436c|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|42|1|V|markdown
+	# 20201005
+1cd084006cd5af15a6a0b0c1af3c7d7d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|42|1|V|markdown
+	## 1607.01719 Deep CORAL: Correlation Alignment for Deep Domain Adaptation
+a39573c2f72b4bcfa118c4433b435d6c|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|49|4|v|markdown
+	知识蒸馏
+3a37d41b9f66916d65c51db84142899f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|328|1|V|markdown
+	然而，空谈不如实践。
+4e5f4d2332c433ae695e0cfd1cf2cfdd|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|100|10|V|markdown
+	# 20201015
+	## 讨论后的一些点子
+	+ ASPD + GAN
+	+ 跨模态检索 + GAN
+	
+35c578cfc26e63e20d04ff2ae418b764|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|111|1|V|markdown
+	RGB <==> IR  
+5880e41b5dc1202a8f6a242f82651a17|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|117|1|V|markdown
+	## 1912.01230 Hi-CMD: Hierarchical Cross-Modality Disentanglement for Visible-Infrared Person Re-Identification (CVPR 2019)
+	RGB <==> IR  
+3fda52da65cec2fd59842407366efa81|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|122|3|V|markdown
+	## 1710.05106 CM-GANs: Cross-modal Generative Adversarial Networks for Common Representation Learning
+	同模态重构特征向量  
+	### 两种 discriminator
+	inter-modality discriminator: 判断所生成的特征来自哪种模态（ASPD 用过）  
+	intra-modality discriminator: 区分原向量和重构生成的向量  
+9b6ed04fa1ca3b82192fe897338485a6|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|132|1|V|markdown
+	### 一个可行性有待商榷的想法
+	维护一个文本池，通过文本相似去检索到相似的文本，用检索到的文本和源文本一同用于图像检索。  
+6cef3aca22f0318ad2cecc724307bcd7|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|138|1|V|markdown
+	图文检索
+e22d0aa44da06b3398822b4f3814f25e|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|144|1|V|markdown
+	菜谱 <==> 食物图像 (图文检索)  
+121ada0c4da5e29012d3649c2e822161|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|184|5|V|markdown
+	## Multimodal adversarial network for cross-modal retrieval
+	
+f082b88a3c86245c2d7d3b3999db5168|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|43|7|V|markdown
+	## 1607.01719 Deep CORAL: Correlation Alignment for Deep Domain Adaptation
+	toread  
+	
+120e22ac12f61e8126d45f3276320f84|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|478|27|v|markdown
+	Senior Ansible Automations Consultant
+96cd91d0fdb0112b943bc202d18adcfc|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|230|1|V|markdown
+	difference loss
+3e4ae5b44de5e72493791afa97e6e0f3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S03-HBS.md|590|200|v|markdown
+	[redhat.com/commandlineheroes](//www.redhat.com/en/command-line-heroes).
+d7dbb9973bf5de6511a1dd01b549920b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|14|1|V|markdown
+	It's 1987. Ronald Reagan's America is in full swing, and a 27-year-old high school dropout with big dreams is driving to his new home in Santa Barbara. That man's name is Brian Fox, and in the trunk of his car, he's got two massive tapes filled with the code he's been writing.
+	
+95401564bf59dc68335f3916f171a84a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|18|1|V|markdown
+	Fox has spent years working as a programmer in something called the free software movement. He believes the code he's got locked in that trunk is part of a new reality, a new software paradigm, that his community is bringing to life, one piece at a time.
+	
+93ee3a3089b9e94014601042eb8ffbfe|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	That year, a team of coders at Richard Stallman's Free Software Foundation were trying to set the programming world free. They wanted to build an alternative to the UNIX operating system that had dominated programming since the '70s. Their GNU, which stood for GNU's not UNIX, was going to be an operating system for the people, one that anybody could use without worrying about license fees or copyright.
+	
+d9ff091b851a7f98a6c84bd58346cc53|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	I'm Saron Yitbarek and this is Command Line Heroes, an original podcast from Red Hat. This episode, we're looking at our heroes in a Bash shell. We're uncovering the history of shells and why they're so crucial to our work today. Think of shell scripts like a script you would give an actor. They deliver a whole sequence of commands that the shell can then rattle off on its own, the same way an actor can read her lines one after another. It's the ultimate workaround if you've got repetitive or convoluted commands. It's the key to automation. You might say that shell scripting super charges our development. But could a shell be written that gave that superpower away to the whole world? That was the challenge.
+	
+1b0870e6203da83cc4a3ea05770001d3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	The foundation had been cobbling this brave new operating system together for years. And those two massive tapes of code in the trunk of Brian Fox's car? They held a crucial component. Written on those tapes was a free and hackable shell that could complete the GNU operating system, Brian Fox's gift to the free software movement. He called it Bash.
+	
+726a799ef1df277c4fdff9313c7a15e1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	Back in 1969, a couple of computer scientists here at Bell Labs started to develop some programs they needed for their own use.
+	
+71c9075aa55e1fe2a08ad13ddb2a9d74|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	That's pioneering command line hero, Ken Thompson. The UNIX operating system, designed at Bell Labs, really was intended for their personal use. Originally, it was just an internal system. UNIX encouraged close communication among programmers, but it wasn't intended to change the way the whole world worked. It was intended to change Bell Labs.
+	
+43480316f0bf9bfbf80cf456fabe5d17|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	A UNIX shell designed by Ken Thompson was released in 1971. The Thompson shell was designed to be a command line interpreter, but it really wasn't capable of full-on scripting. It wasn't until six years later, in 1977, that scripting started to take off.
+	
+289fa27eac8c10b4b4f21d3ff4897bf7|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	The shell parameters, the special parameters, the variables that we sort of take for granted today, originated with Steve Bourne and the Bourne shell.
+	
+2a50f771cf24fe6e95bf998dfe0cb478|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	By now, it's used all over Bell Labs. We have close to 20,000 computer terminals in this company, and most of them are used for communicating with UNIX systems.
+	
+616e27621ba9b99b0df2918dfe95a0b5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	That's Chet Ramey, an IT architect at Case Western Reserve University. Chet works at maintaining Bash, but he's also a great resource for our origin story. He describes Bell Labs just as it was figuring out what the UNIX shell was going to look like.
+	
+2279438beeccbbe9f36964687ec1129e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	The programming constructs that we use without thinking today originated with Steve Bourne, and his shell basically won the bake-off. There was a significant user community using the Mashey shell. There was a significant user community beginning to use the Bourne shell. There was a committee that was set up to decide which one would win, which one would be the officially supported UNIX shell coming out of Bell Labs from then on, and Bourne's shell won. And the rest, as they say, is history.
+	
+af2a1cfdb407273270fedaf35e153eb8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	The constraints under which Bourne wrote his shell are almost unimaginable today. Obviously, when you have those constraints, you have to give up a lot, and Bourne gave up a lot. It's remarkable that he was able to put as much into the Bourne shell as he did given the space, memory, and CPU constraints he worked with.
+	
+4463ae1535919f7d100b4b398f08a97c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	It's not the end of history, though. Sure, the Bourne shell was a huge leap forward. It opened a door toward super-powered operations, toward greater automation, yet while there was a kind of Bourne supremacy for a while, the Bourne shell didn't solve all our scripting needs.
+	
+2409f25f6d93c0d4bd840ababba89acf|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	And remember, the Bourne shell was still part of Bell Labs' UNIX system. It was still tied to the UNIX license. That meant it wasn't free. It wasn't open. This shell was owned.
+	
+df447df3f5d44a45a33c7dfbe4f0858a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	It was incredibly difficult to get UNIX source if you were not at a university. Obviously, that had an effect on the popularity of Berkeley UNIX, for instance, which started at a university, grew up among a community of universities, and kind of took off on the path of least resistance, as it were. So, getting access to the Bourne shell code was not difficult if you were at the right place, but in general, it wasn't viable.
+	
+f858aabec439a52758f5f94ddfe34e0b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	Chet Ramey is the maintainer of the Bash shell.
+	
+a2add51492f903fe6e29c21070b9387e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	So, we've got the beginnings of shells, the start of this crucial component to programming, but the best shell out there is tied to a license. It's closed. For Richard Stallman and his Free Software Foundation, that arrangement just wasn't okay. What was needed was a shell that wasn't tied to any one company, a shell for the people.
+	
+ac6beff2bc83f3cbf3d8fa3eb8734f85|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	But here's the trick. That meant writing something that did everything the Bourne shell could do without infringing on any of those pesky copyrights. Copy the Bourne shell's code verbatim, and you'd have a lawsuit on your hands.
+	
+6a75becbaf803f7c301af30bf71f0346|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	To free people from the Bourne shell, you'd have to find a coder with the ability to write a program that complex, a program that did everything the Bourne shell could do, but who hadn't actually seen any of the Bourne source code. You'd have to find a kind of outsider genius. And Richard Stallman had just the coder for the job.
+	
+48b9e008bf383963c1cd3505006ca70e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	Brian Fox was a 20-something high school dropout who knew code better than most of the folks at Bell Labs. He'd never been in a position to see any of the source code that made the Bourne shell work, and that made him ideal for the task at hand.
+	
+0e648f65279d67032932f2418c33730d|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|98|1|V|markdown
+	My name is Brian Fox.
+	
+2902ab3eb264a66815e926c30a795cec|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	I figured why not get the story from the man himself? These days, Fox is an open source advocate and the CEO of Opus Logica. But back in the late '80s, he was just a young guy who believed in the free software movement. We chatted about the old days and how Bash evolved from there.
+	
+e13da8f636f4a26d1ac718b75b8c0b41|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So Richard Stallman asks you to create a shell for UNIX. That one will be a free shell, and it's a replacement for the Bourne shell. What was your response to that request?
+	
+66ccd08f865548db2a84a1a1257df8cf|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	"Can't we make a better one?"
+	
+160b07cdad59addba70c9037aaa19fa6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	I love that. Tell me more.
+	
+366811ded7080481b76cc3f79ce85ffe|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So the very first thing I did for Stallman was actually work on this tech info documentation system. I surprised Richard at the speed at which this type of programming would be done. He's a good programmer and he works quickly, but he doesn't judge that other people would work that quickly.
+	
+2d7268c419b487ebab27e72f840bfbff|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So, within the first week, I finished the first implementation of a program called GNU Info, and Richard was kind of stunned by that. I said, "What's my next project? What's my next project?" And he said, "Well, now do a compiler for this." And I did that, and I was done in a week with that, right? And then I said, "What's my next project? What's my next project?" And he said, "Well, this other guy's been working on this shell, but he hasn't gotten very far." I was like, "Okay," and nine months later, the Bourne replacement shell was done.
+	
+91dee77a17cad80784507b15a65c92b6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Nine months. Wow. Tell me about that. Why was it so challenging?
+	
+f611859d9414c7a16b8e1fe639d86bfc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	That's actually a fascinating question. The reason it was so challenging is because we had to faithfully mimic all of the behaviors of the Bourne shell, of Stephen Bourne's original shell, while at the same time being allowed to extend it and make a better tool for people to use.
+	
+17f68bbd5e378d466ccf5c3c36c2078a|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	While that was happening, I was in a quiet undercover argument with David Korn, the author of the Korn shell. The POSIX committee, which is the committee that says what's standard UNIX, they got involved and said, "Oh good, we need to find what the standard shell is," and 2 most important people on input for that were myself and David Korn. And David Korn had already written this shell called KSH, and every feature that he had put into KSH, he said, "That should be a standard feature," right? This would be easy for him than to have the most perfect POSIX shell, if it was simply his shell.
+	
+8f4dec25b60d6209eb7a34e380e526be|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Some of those features were not good features, were not good choices and made the shell somewhat incompatible with the Bourne shell, or I felt were missed features, and so there were several discussions and arguments about that, and so building a POSIX-compliant shell that was 100% perfectly compatible with every single shell script that had ever been written for the Bourne shell took longer than 3 months.
+	
+2a4bdfdea3fe429268be7606b2d96791|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So, if you are designing something that not only replaces the Bourne shell, but also is trying to mimic every part of the Bourne shell, it sounds like you might've run into some copyright issues. How did you approach that?
+	
+8713f392667248dc33319f1eeffe7377|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	In order to build true open source and free software, you have to do it in a clean room. You can't look at somebody else's code, start from there, and re-implement it. So I'd never seen any of the software associated with any Bell systems, UNIX or even Berkeley UNIX, I'd never seen the source code for any of these things.
+	
+937cfd45e7f37c6a0c51e85a236315e4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	When I started building the Bash shell, I used a parser called Bison, which was something that Richard had started to put together at the Free Software Foundation, and that was completely different from basically any other program that had come before it. So I knew already that the thing I was building was not ever going to be a copyright infringement on something that had been built previously.
+	
+3d37a064e47fa1f1c5e27c14518b5716|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	The work to create Bash had plenty of hiccups. Here is just one example, for the hardcore heroes out there.
+	
+710356f412f60511efed28ebf3f473da|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	At one point, I was working on implementing globbing in the shell. This is the wild card expansion that allows you to match a large number of files, for example. You could say star dot C, and that would match every file that had an extension of dot C.
+	
+a622f956b7ff13ede727537aab1b8c44|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So I worked on globbing for several hours, and I got it working, and I was excited about it. It was a good implementation. And in the course of creating this implementation, I had created a file in my directory called asterisk dot C, star dot C, and I thought, "Well, I should get rid of that file," and I typed in RM space, quote, star dot C, close quote, which in a modern shell, when you use the quotes, it means, "Do not expand this," and then I pressed return, and it was taking a long time for the prompt to come back because we're using Sun 350s and things are slow. And I realized, it's taking a long time because it's deleting all of the source files in this directory.
+	
+d4395d5cfba8f41634d05b4f89c5f433|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Oh no.
+	
+6b441fb9428a037f27974c8573726231|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Yeah. So I deleted the source to Bash at that point.
+	
+d4395d5cfba8f41634d05b4f89c5f433|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Oh no.
+	
+b542421f41747bc4e2f264852b6712c3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Which-
+	
+d10ed3995eca3d7a8affb33cb5f86d63|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Oh my goodness, yeah.
+	
+f11e824db7c0d0673bc5180b51a2a675|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Which caused me to just laugh kind of loudly for a really long time. I wasn't even slightly upset. And then over the next couple days, I typed it all back in. The code was completely fresh in my mind.
+	
+9e3a7bc48ee621eccc2b6686409a4fc6|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Okay. So most people would completely freak out at that moment. You laughed and you just said, "Oh, I guess I have to do it all over again." Why were you so calm?
+	
+8cab84e7c7919b6a5b703e0866c6b94e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	The problems had been solved. It was just a matter of putting it down into files.
+	
+830d3e15d62ca2f70fefab7f6648e390|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	It struck me as insanely absurd and very funny that I'm building this tool, and to make sure it's good to eat your own dog food, to make sure the tool works correctly, you use the tool while you're building it. But the tool didn't work correctly. I had not yet implemented quoting, and because I hadn't implemented quoting, this command that I casually typed did not do what I expected it to do, and I thought that was really funny.
+	
+89429193c7ec1e2dd9aed32989afca46|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	That's amazing.
+	
+4c21fdd64dfc6c7df11e396a372049a1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Even that story about a mistake speaks to Fox's brilliance, though. They say that Mozart finished symphonies in his head and then just had to write them down once he'd finished. Fox had a similar talent.
+	
+8b89c41157007904af52633c5bec0ed1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	So, when you were finally done and you got to deliver Bash, how did that feel?
+	
+6f1513f05f106369d2973098122d79ba|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Oh, it actually felt spectacular. So here's a story that I don't actually usually tell. It was about 8 months into building the shell. I knew I needed about a month before I'd be done, and another shell was released. ASH, an open source shell got released, and I was crestfallen because we had not released the Bash shell to anyone yet, so only a handful of people were using it. I knew it needed another month's worth of work and I thought, "Oh, this is terrible. All this energy and effort I've put in will not be appreciated. It might not even be seen," and so I was pretty distraught. I was not laughing.
+	
+6e28b5dbcd6f321c2bd73d008d77dc74|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	The proof was in the pudding, though. GNU's Bash was released in 1989 and became the default shell for Linux. Today, it saturates our whole computing experience.
+	
+bafe4db3a01d4e83eabdf9aa9843d93e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	But it is everywhere. So many people use it every single day. It's on every single computer. How does it feel being the author of Bash?
+	
+97789fa88537c1d16fe9d911c8cc34cd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Most of the time, I don't even notice that Bash is a thing other than a tool that I use in my daily life. I don't really think about it. Every so often, I'll walk into an Apple store and look around and think, "Wow, every computer in here is not only running software I wrote 27 years ago, or more now, it also has my name in it," and then I think, "Every computer on the internet, every server on the internet is running the Bash shell and has my name in it." And then Windows last year or the year before came out with the Power shell, which is Bash, and I was like, "Oh my goodness. My name is in every computer on the planet."
+	
+9a47922e16041ae2420cf5cf35969708|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	I want you to really hear what Fox told me next, though, because it's so important. He was never trying to code his way through this global domination. He was trying to help, trying to help the culture of programming that he was part of.
+	
+db6c7fca0853ca0d09525935bde72b66|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	I didn't set out to achieve some grandiose goal of being on everybody's computer. I wasn't interested in that at all. I wanted to make a useful piece of software and I expected it to have a kind of typical software lifespan of 3 - 5 years, not this kind of crazy 30-year term that it's had.
+	
+ae6ad9e7dfff119b0a5c71517b0693f4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Were you always so, frankly, so nonchalant about the impact that you've had on computing?
+	
+54aa639bc1f2e7725a04f47afc7bd076|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	I'm proud that I wrote Bash and I have an ego, so I do things like accept podcast requests to talk about the shell.
+	
+c8a2da7c49b42c1fee4439e2e6921e69|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Thank you. But it is not something that is there in my everyday life. Fortunately, I'm just an obscure person, right? It is true that my software's running on everybody's computer in everybody's house and it's also true that nobody knows that, right? So I have plenty of anonymity, and the fact that the shell exists and that somebody wrote it and that person lives in Santa Barbara is getting more known, and I'm beginning to notice it more in my life. People sometimes come to see me play music and then tell me, "You're the guy that wrote the shell," and I feel a little like Keanu Reeves.
+	
+82d1fda33ee4afbbe7e3b93e9634dd97|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Thank you very much.
+	
+a504613b2f842979b245000863e85724|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|258|1|V|markdown
+	Very cool. So you said that you didn't set out to make sure Bash is on every single computer. What did you set out to do? What were your hopes for Bash?
+	
+83de9a756989ecfe867d3e407854d073|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	A useful replacement tool to be part of the project GNU and to help create this free open source operating system. I actually assumed that once we had finished creating this open source operating system, that the software on that system would advance and I would get a chance to create the kind of shell that I wanted to create, which would help people to advance the science in a manner of speaking.
+	
+52aeb258267d043ab884b25705be6dc2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	Absolutely.
+	
+b9d7eeeac6bc2c351c1d6e7d7372532e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	I eventually came to the realization that the reason Bash was created was to in fact be backwards compatible with the entire world of UNIX that already existed, and that momentum has kind of kept it alive, which is another unique position to be in, that your tool is so fundamental, it's so much of a nut and bolt that it's not something that will be removed.
+	
+24c643d883554b9ef54f5f1c8673d1e2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	Brian Fox is the creator of the Bash shell and CEO of Opus Logica.
+	
+3af00579428738cca66b6a47aa2f0827|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	It's been a great feeling to know that I've created something of value in the world, something that other people are still using, and that is a good feeling. And then as I look at how that came about, I realize the more important thing is the words free software and open source are in everyday English, everyday language across the globe, and that certainly wasn't true on day one. That was a creation of the efforts that Richard Stallman and myself and others put in. And to be part of that movement, that's lucky to have been early, but it's also extremely satisfying when I look back at that and I think, "Wow, open source software exists, and I was a part of that."
+	
+dbe4122b7e277d538738565e2fa0a00b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	That's Steve Bourne, creator of the Bourne shell, that Brian Fox worked to replace. We wanted to know what Bourne thought about Fox's work. Did he think of Bash, that born-again shell, as an open source clone of his own work? I mean, was he cool with Bash?
+	
+83538676b49f0546c227147c4996bc56|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	I did hear about Bash, actually.
+	
+a51f4c5e1bca164aec61cc679358f092|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	The person that wrote it came up to me in a conference one day and gave me a t-shirt which said “Bourne again” on the front of it.
+	
+eaccb9efd20091d98a64e200954f180b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	That'd be Brian Fox.
+	
+9d8d7be1c6383e3204592fe37b6f3b21|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	It was a friendly sentiment, and it was, "Well, I hope you don't mind, but I just rewrote your shell," and I said, "That sounds great," and he gave me a t-shirt.
+	
+d1393986c457c0a79beb2b58584089e4|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	If there's one thing I've learned in the coding world, it's that everybody loves swag. Stephen Bourne, turns out, saw Bash as a necessary extension of the work he and others did at Bell Labs. There's no bitterness at all.
+	
+3eb221bc59442c31a638af4f9ad649b3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	There were things that people wanted to do in variable substitution and doing string management that I didn't do, but that were put into Bash, that people use a lot these days. The relationship between Bash and the original shell, my impression at the time was it was just a reimplementation of the language, and over time, it did have features added to it, so it did sort of progress beyond what I wrote, certainly in the string management area. I use it all the time now.
+	
+03011b744d67451310c2f9796e1879cc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	Steve Bourne is creator of the Bourne shell and CTO at Rally Ventures.
+	
+150a2dbc68e8410361a62b0aeded3025|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	It's been many years now since Bash was stowed away in Brian Fox's truck on that long drive to Santa Barbara. In 2019, version 5.0 was released, and like Fox mentioned, Bash is now built into Linux, into Mac OS, and even into Microsoft Windows. As UNIX gives way to Linux, Bash has become a cornerstone of scripting in an open source world. It's fundamental to our automation.
+	
+b742f6d288279ed7c4a93648dfffeaf0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	It became almost crucial, as organizations got bigger, to use something that would allow us to get things done quicker. It became a necessity.
+	
+2ec8069d8600a9e8dd3a4287b6c448b5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	I definitely think that someone starting in the beginning stage of their career should definitely use Bash. Instead of using the GUI or graphical user interface, you would tend to be taken more seriously as an admin or as a DevOps person.
+	
+fea01c024c531c2e0f2b889e6d81774e|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	Taz Brown is a Senior Ansible Automations Consultant at Red Hat, so she's well-acquainted with the value of Bash.
+	
+9fb110b3d59a5aa36aa93f5b0de8ba72|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	And that's because a Bash coder will have one of those core skills that simply levels you up.
+	
+71c7a7831bdd06a4a77ffe2237659a88|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	There's a value in learning scripting because it prepares you to be much more of a long-term sort of thinker when it comes to automation itself, because you can see how a script runs, then you can start to say, "Well, okay, I can do this. I can automate this task. I can automate this," and it starts to make you a different thinker and a different technologist.
+	
+8787b072295dfd5e4c08b0afffae7090|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|338|1|V|markdown
+	For the ops side of things, that automation has become indispensable. Sophisticated programs, applications, and tools are all being supported by legacy Bash code.
+	
+162b8362b8a4cc94ca1f4af28bd63dc2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	You don't have to reinvent the wheel, if you will. You can continue and just pull those in from a GitHub repository or wherever you store those particular files. Bash allows you to do that. Bash allows you to take those common tasks and allows you to scale across to, say, from 10 servers to 1000 servers.
+	
+e51233efe6b4c92498beb84fec19eeb0|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	The great thing about automation is once you have a plan in place, it allows you to do it at a very cost sort of efficient manner. It allows you to do things that would be impossible to do manually.
+	
+6fd9bc871e237b1c321764d34c8c1bbd|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	And then, more recent arrivals, like Ansible®, which Taz Brown works on, can always be integrated with Bash to get the job done.
+	
+e970e0d0c6e4dc461de02944ca3af8fc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	Things have evolved, but I don't think Bash is ever going to not be a tool that an admin would apply, especially if you want a quick automation.
+	
+7735cc907325e1d5221b10477b25bf28|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	In the end, all this success can be traced back to the fact that it's a free and hackable program. Brian Fox's desire to give something to the world with no licenses, no strings, has been the key to Bash's success. In fact, he's not even calling the shots anymore. Hasn't for a long time. Here's Chet Ramey again, who's been maintaining Bash for decades.
+	
+5ad419f76e4123dd7bb408ed9824edc3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	And Ramey will have to pass on the mantle, too, just like Fox, because Bash is bigger than any one maintainer.
+	
+7222944d87d363389d1d0f2daafb85c1|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	Brian had decided after releasing, I think, version 1.05 that he wanted to move on and work on other things. He had been given other assignments at the Free Software Foundation and he wanted to do things besides Bash, and I was the most active contributor. He and I worked together on a lot of new features. We worked together on a lot of bug fixes, and so when it came time for someone else to take over, I was the logical candidate.
+	
+e8058c1a62801b31e2c173ffac4641c9|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	I started when I was 23, and Bash and I have kind of grown together. At some point, I will need to solicit a team. I will need to solicit folks who are willing and able to put the time in and move the shell forward.
+	
+c1054569bf1f1ba392e097c94c955fdc|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	By the way, something's been bugging me, Brian Fox driving all that Bash code to Santa Barbara. Why the move? I mean, did he have a new job at some tech company, or?
+	
+185a843cc127ce83e78bf15ca13412e3|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|378|1|V|markdown
+	Bash, the born-again shell, will turn 30 next year, and it's showing no signs of shrinking away. Bash has ridden the free software wave, and then the open source wave, until it spread to every corner of the programming world. But it's amazing to remember that, at one point, it was just code on a tape in the trunk of Brian Fox's car. It was just a dream of a shell language that a few committed coders were willing to give away. Almost by accident, Brian Fox became a huge command line hero in the process.
+	
+6d955a13fc08bffac1b10a59e32061f8|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|398|1|V|markdown
+	I wanted to continue my music career, and I thought the best place to do that was where the weather was always about 72 degrees and there are no clouds in the sky and the beaches are beautiful.
+	
+d7b9dc47e7c2bdd9673ea92c4b302781|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|398|1|V|markdown
+	Nice. I like that reason better.
+	
+6722388e3396550b02499dcd1cae85d5|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|398|1|V|markdown
+	Next episode, we take our interest in automation to a whole new level and look at the languages of AI with a special focus on John McCarthy's creation, LISP.
+	
+209c851b88d0c325f3f3ccdd84aa8177|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|398|1|V|markdown
+	Shoutout to Wayne A. Lee, who suggested our title for this episode, Heroes in a Bash Shell. Nice one, Wayne.
+	
+e1e5fd9d0db8bd389078aaf96c4d780f|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|398|1|V|markdown
+	Command Line Heroes is an original podcast from Red Hat. You can dive deeper into the story of Bash or any of the programming languages we covered this season, if you head over to the show's site at [redhat.com/commandlineheroes](//www.redhat.com/en/command-line-heroes).
+	
+61137fdd8bd9abf62ec15563f479453c|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/finished/LCRH-S03-HBS-Final.md|402|1|V|markdown
+	I'm Saron Yitbarek. Until next time, keep on coding.
+	
+eb6222023853702da3bdfd81ab0ffd0e|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|147|1|V|markdown
+	![139](/images/2020/01/wallpaper/139.jpg)
+46b904662e439a714a221c274247465c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|148|1|V|markdown
+	![140](/images/2020/01/wallpaper/140.jpg)
+78e5a1ed9acc7b8943d6f1f88586a2eb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|149|1|V|markdown
+	![141](/images/2020/01/wallpaper/141.jpeg)
+5edbec605dc771e4c60445bcd2d569a5|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|150|1|V|markdown
+	![142](/images/2020/01/wallpaper/142.jpeg)
+538fa0a778188c9b8b8ef6832b2134b9|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|151|1|V|markdown
+	![143](/images/2020/01/wallpaper/143.png)
+4b6d29e866d9902443e3c8a575dfc127|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid.py|134|9|V|python
+	        network.zero_grad()
+91e02cd2b8621d0c05197f645668c5c4|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid.py|10|21|v|python
+	network
+6475a289daedcf0f7a5fd7ad813e3172|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid.py|57|5|v|python
+	network 
+5e35e4d512142b7270adb853a640ccd4|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid.py|69|1|V|python
+	network = network.cuda()
+1586cf3499716114b56f3d4854570ad3|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid.py|63|1|V|python
+	model = model.cuda()
+65f1888a3c372d37daf2b2ed2e7f6132|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|239|1|V|markdown
+	## Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE)
+93272dff3a33e2aefe0a878d2601e1d3|file:///home/godlovesjonny/Jonny/Ideas/DualGAN-test-matrix.md|1|2|V|markdown
+	## 算法本身并不是不合理，测试算法需要修改  
+	+ img\_feature[i], sentence\_representation[i]
+	+ img\_guided\_feature[i, j], sentence\_guide\_feature[i, j]
+	+ img\_common\_feature[i, j], sentence\_common\_feature[i, j]
+e1820e82cbc842bb1db208961a13bfa4|file:///home/godlovesjonny/Jonny/Ideas/DualGAN-test-matrix.md|2|1|V|markdown
+	+ img\_feature[i], sentence\_representation[i]
+	+ img\_guided\_feature[i, j], sentence\_guide\_feature[i, j]
+	+ img\_common\_feature[i, j], sentence\_common\_feature[i, j]
+2a266ea03ec6cdb10cdb8218b4ace33d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|239|1|V|markdown
+	### 测试算法调整，预存数据修改
+674a4a1a966a6e07692829b593642378|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|246|1|V|markdown
+	# 20201029
+e4d2910e57622f960412225564c8e54e|file:///home/godlovesjonny/Jonny/Pys/RDB-code/network.py|29|1|V|python
+	        self.conv2 = nn.Conv2d(in_channels=64, out_channels=64, kernel_size=3, padding=1)
+24e9d09e8444d0561b13b2a5beef1d98|file:///home/godlovesjonny/Jonny/Pys/RDB-code/network.py|46|1|V|python
+	        f_DF = f_GF + f_0
+3145ccfed29323b20b6c573fcef1fc7c|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|257|1|V|markdown
+	+ 在dd最后再加一组
+d6a0e661db12e0c9e64cb4f18bfb583a|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|248|1|V|markdown
+	## 1802.08797 Residual Dense Network for Image Super-Resolution
+	## sensors-19-03809 Dynamic Residual Dense Network for Image Denoising
+	### RDN 存在的问题
+	+ 只在 single noise level 的降噪有好的表现
+	+ 计算量随着 RDB 数量增多大幅度上升，而 RDB 数量的增多对降噪效果的提升较小
+	
+	### DRDN
+	+ 动态网络，根据输入图像的噪音量选择性地跳过一些RDB。  
+	+ 允许修改降噪强度来手动获取最好输出，使其能够更有效处理 real-world 降噪。  
+	
+	### DRDB
+	引入门控机制， gate module 之间使用 LSTM 传递信息。
+6105347ebb9825ac754615ca55ff3b0c|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|259|1|V|markdown
+	---
+	
+b095dd4940d77c00eab8913b18c51be7|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|269|1|V|markdown
+	
+	### 条件增强技术 (Conditioning Augmentation technique)
+78ac103ebbc7e0159c28fef3a99caec1|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|280|4|v|markdown
+	(Afourasetal AAM 2020
+e2c87dc25ae97121c4567372baeddbee|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|280|4|v|markdown
+	(Afourasetal AAM 2020)
+cb8de3f607d17a124afd0070543645fe|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|232|1|V|markdown
+	
+	## Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE)
+72ab203b76e231b948119afb923c5975|file:///home/godlovesjonny/Jonny/Ideas/Vocab.md|1|1|V|markdown
+	|-|-|
+43e985c11dbe4cd31365127cd8ca9e4e|file:///home/godlovesjonny/Jonny/Ideas/Vocab.md|4|1|V|markdown
+	|----------------|-------------|------|
+dd3d55e6a30043ebe0ae9c4ea516f31f|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|316|8|V|markdown
+	## CycleMatch: A cycle-consistent embedding network for image-text matching (Pattern Recognition 2019)
+	
+9632b1191e39718993aa8b420afd162c|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|316|8|V|markdown
+	## CycleMatch: A cycle-consistent embedding network for image-text matching (Pattern Recognition 2019)
+	
+	
+6997bb180ada86e4806ca3c744201447|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|359|1|V|markdown
+	
+	在 ranking objective 之外，加上语义一致性限制 (minimizes the deviation of the corresponding similarities measured in both embedding spaces)。  
+c2cd84a5bf119953a8c732989ed21924|file:///home/godlovesjonny/Jonny/Pys/RDB-code/color_train.py|49|1|V|python
+	    train_set = DatasetFromHdf5("./data/SIDD_train_srgb.h5")
+	    training_data_loader = DataLoader(dataset=train_set, num_workers=opt.threads, batch_size=opt.batchSize, shuffle=True, pin_memory=True)
+a8921cbfc9dd7efd4adca5e92c4be82a|file:///home/godlovesjonny/Jonny/Pys/RDB-code/color_train.py|7|1|V|python
+	from torch.autograd import Variable
+	from torch.utils.data import DataLoader
+83ce955876951802fd02911b33837182|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid_sRGB.py|32|1|V|python
+	torch.manual_seed(dd)
+9cd09f14eda8786d80345a8788fd09b3|file:///home/godlovesjonny/Jonny/Pys/RDB-code/train_SIDD_Pyramid_sRGB.py|89|1|V|python
+	assert torch.cuda.is_available(), 'GPU is not available'
+ee4dc7f4be6a686e985272117900501b|file:///home/godlovesjonny/Jonny/Pys/RDB-code/RDN_train.py|9|6|v|python
+	color_modelwavelets 
+4ef01977158bab9aea85cfae2ef3adf7|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|6|1|V|python
+	'''
+0697d4fe9b2144045f58960ca08d58c2|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|6|1|V|python
+	Residual Dense Network for Image Super-Resolution
+fead170543f394b1474cf2571274320f|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|6|1|V|python
+	Yulun Zhang, Yapeng Tian, Yu Kong, Bineng Zhong, Yun Fu
+da1456577715c8a9927738193d5a43f4|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|6|1|V|python
+	arXiv:1802.08797 [cs.CV]
+19270105ff24286262b60533abe956c1|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|6|1|V|python
+	https://arxiv.org/abs/1802.08797
+2d0eb851eba22d8006e580d27706db93|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|37|1|V|python
+	        #  f_DF = f_GF + f_
+19addb31d6aaa718acb7213a5ef134cd|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|22|9|V|python
+	        # self.criterion = nn.L1Loss()
+	        # self.optimizer = torch.optim.Adam(self.parameters())
+	        # self.scheduler = torch.optim.lr_scheduler.MultiStepLR(self.optimizer, milestones=[50, 75, 100], gamma=0.5)
+c6187b21e47a184f7de8f009461c48b9|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|12|5|V|python
+	        # self.RDB1 = RDB(nb_layers=rdb_number[0], input_dim=16, growth_rate=16)
+5a3a98f613d223a375609ed5f40d9463|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|51|1|V|python
+	class RDB(nn.Module):
+	    def __init__(self, nb_layers, input_dim, growth_rate):
+	        super(RDB, self).__init__()
+	        self.ID = input_dim
+	        self.GR = growth_rate
+	        self.layer = self._make_layer(nb_layers, input_dim, growth_rate)
+	        self.conv1x1 = nn.Conv2d(in_channels=input_dim + nb_layers * growth_rate,
+	                                 out_channels=growth_rate,
+	                                 kernel_size=1,
+	                                 stride=1,
+	                                 padding=0)
+	
+	    def _make_layer(self, nb_layers, input_dim, growth_rate):
+	        layers = []
+	        for i in range(nb_layers):
+	            layers.append(BasicBlock(input_dim + i * growth_rate, growth_rate))
+	        return nn.Sequential(*layers)
+	
+	    def forward(self, x):
+	        out = self.layer(x)
+	        out = self.conv1x1(out)
+	        return out + x
+bb1b3707b99765c9f15b2bc2ee6de023|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|57|49|v|python
+	kernel_size=),
+ca5001e1ba85a0f51dd420490bcc9ae4|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|57|49|v|python
+	kernel_size
+f9b3b193671e3fc93831318083d3ed52|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|15|1|V|python
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+528700ef841d6a65be3573620f9d0a6c|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|23|49|V|python
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.GFF1 = nn.Conv2d(in_channels=64*4, out_channels=64, kernel_size=1, padding=0)
+287cb6c7c2fd0b69ccc3836202baf085|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|23|49|V|python
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+	        self.DRDB4 = DRDB(nb_layers=rdb_number[3], input_dim=64, growth_rate=64)
+0e12f449fb7612f26c86de867348261a|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|22|1|V|python
+	        self.DRDB11 = DRDB(nb_layers=rdb_number[10], input_dim=64, growth_rate=64)
+e167cbd6c3b1f53ae04a5e3ce5354e90|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|23|1|V|python
+	        self.DRDB12 = DRDB(nb_layers=rdb_number[11], input_dim=64, growth_rate=64)
+4e2c0bdbfcaff540caec2cff20809f82|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|24|1|V|python
+	        self.DRDB13 = DRDB(nb_layers=rdb_number[12], input_dim=64, growth_rate=64)
+550eeebd3f243a28a88dd8a8ece0eebf|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|26|49|V|python
+	        self.DRDB14 = DRDB(nb_layers=rdb_number[13], input_dim=64, growth_rate=64)
+5672947d204b69567268397753b35fd7|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|27|49|V|python
+	        self.DRDB15 = DRDB(nb_layers=rdb_number[14], input_dim=64, growth_rate=64)
+c5a459df3b1304dc4658ba101fd3a450|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|30|49|V|python
+	        self.DRDB17 = DRDB(nb_layers=rdb_number[16], input_dim=64, growth_rate=64)
+92a1364f4c46ba1ce63f347d03aea6e2|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|30|49|V|python
+	        self.DRDB18 = DRDB(nb_layers=rdb_number[17], input_dim=64, growth_rate=64)
+96ed46e61d0599bb86bc205985085560|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|30|49|V|python
+	        self.DRDB16 = DRDB(nb_layers=rdb_number[15], input_dim=64, growth_rate=64)
+43e76056b3541df12eb46d8fcd5aaed5|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|31|49|V|python
+	        self.DRDB19 = DRDB(nb_layers=rdb_number[18], input_dim=64, growth_rate=64)
+97cbf1cd4e56fc00b08bc78b43576c61|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|43|1|V|python
+	        f_4 = self.DRDB4(f_3)
+18baa0db5e056dfec4100c014e5cc135|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_5 = self.DRDB5(f_4)
+5b5ea2cbf5d30277a3361a08bae0b5a7|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_6 = self.DRDB6(f_5)
+01fb4c34dd912bf7b938a1b4e2ad2de6|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_7 = self.DRDB7(f_6)
+d278a866317b7c2c7659550706544d6d|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_8 = self.DRDB8(f_7)
+bf769964ae2becabf941b8d67d50d3a5|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_9 = self.DRDB9(f_8)
+fa82bb2b4144da36725785d16cc447b6|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_10 = self.DRDB10(f_9)
+6084ab76212dade1d41999e1f296c18e|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_11 = self.DRDB11(f_10)
+8dd9965b9b91cf3143b1509a7fd534fb|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_12 = self.DRDB12(f_11)
+72c58095a3dacff73470b979f1439603|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_13 = self.DRDB13(f_12)
+634e3ac838a9ffab3ee33eceffeda74b|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_14 = self.DRDB14(f_13)
+80f8df45d8c7c17da0a71f86209ae4a5|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_15 = self.DRDB15(f_14)
+9d18ce36cd2498272343b52e4211ee88|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_16 = self.DRDB16(f_15)
+349c1cda471a5f36efe10c50cf42aab0|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_17 = self.DRDB17(f_16)
+7e0324624ee4a6320bcc29fe193888e3|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_18 = self.DRDB18(f_17)
+8e6e44e174945f622f39c1082e55d4a0|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|1|1|V|python
+	        f_19 = self.DRDB19(f_18)
+0889574c0b044e59c6f830eebbf3530a|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|60|41|v|python
+	f_4)
+22c48d049aadae49220506d82d061af9|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|108|33|v|python
+	out_lstm
+58413c7796580df1ff595c52dcaaae04|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|110|21|V|python
+	        print(gate_in.shape)
+	        input()
+aa86f863ee84062ba5e0423fe20b3a9f|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN_train.py|39|19|v|python
+	5, 5, 5, 5, 5]
+ad2c816f95af2d39094613011f36311c|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|92|40|v|python
+	growth_rate
+bc4820889147faada994440c23bc8f89|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|94|29|v|python
+	growth_rate 
+f4c136ab164301f18f9770c6b336523f|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|112|1|V|python
+	        h0 = torch.rand(3, 16, 16)
+3d3137819046568dc12299086043a38f|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|116|29|V|python
+	        print(out_lstm.shape)
+	        input()
+76c5c4d2f2243f3bf1d6e972b47a106b|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|120|22|V|python
+	        print(gate_state.shape)
+	        input()
+7da0540f4d61d2d0164f6ced5402ef6b|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|119|9|V|python
+	        input()
+e9bbed6a08b202401b58e2613eee5c9e|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|120|9|V|python
+	        print(gate_state)
+e35ac532985f3b2d87a41b65e96cec38|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|118|9|V|python
+	        print(gate_out)
+772136ed5d0c522b7ff281d45b007786|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|119|9|V|python
+	        if gate_out.detach() >= self.TH:
+a958c4c45d836bff3d09456cd362959c|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|122|9|V|python
+	        else:
+a27b40a765f5563b0b4f8f1bdcfd73b8|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|122|13|V|python
+	            return x
+37e4af2c1cd9e9d54404e454a0635127|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|114|9|V|python
+	        th = torch.ones((16, 1)).cuda() * self.TH
+407150f9c9718ef9b6f70229557aa8f1|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|120|17|V|python
+	        print(out.shape)
+	        print(x.shape)
+	        input()
+e252228c5d921879e66e697bb41621e6|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|121|9|V|python
+	        print(out)
+e11ccd438c91df17552ef45e7d6c1119|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|83|74|v|python
+	batch_size
+326f92c03da33c64316da4c77e0c0d77|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	godlovesjonny
+820b4ad02742e6630b554a48de7d2d9f|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	Jonny
+d0a662a5235ecde30739fe50cf0de830|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	Paper
+bbfebd9018f9ac2fa9562ddd4de0b14d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	ReID
+c111e2209dcd275ff9ac418118155647|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	202009
+e76b449b9fc8536af7557ffa6321d269|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	Cross
+854bb0707ac6ddc39fcc0c51effd6585|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|1|V|markdown
+	## -ModalPerfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval
+47bcd860b6a5f3171eea1b5f0c850fe1|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|380|4|V|markdown
+	# 20201105
+	## ModalPerfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval
+ebbb988ab47de2beda0831a3d7fa0c92|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	ModalPerfect 
+6da89265a9a8b0b28eb4946bb2ec0c6d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|4|v|markdown
+	Match
+3759d15bf17b8e92a587f00413b68352|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|381|1|V|markdown
+	## Perfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval
+17ab2480144690930347b206aa5f2b0e|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|152|1|V|markdown
+	![144](/images/2020/01/wallpaper/144.jpg)
+4b40f350b3a635bb35c7074dd22982f0|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|156|1|V|markdown
+	![148](/images/2020/01/wallpaper/148.jpg)
+bfbfa8b014122a8eac6cbb943346e1f5|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|389|54|v|markdown
+	(但是跨模态 Reid 应该是共同的标签空间)
+d8cd9bba452995a98dec18a6ad76cfba|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|96|9|V|python
+	        nn.LSTM()
+a4c527bc912168d577b78f9784781512|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|8|43|v|python
+	, batch_size
+05bd0abd520e8de675fa2392e650e657|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|113|22|V|python
+	        bs = x.size(0)
+	        h0 = torch.rand(3, self.BS, 256).cuda()
+590f53e8699817c6fa498cc11a4cbe63|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|114|28|v|python
+	self
+36bc0a7f7065d6ab8a91e07f21fdd118|file:///home/godlovesjonny/Jonny/Pys/RDB-code/DRDN.py|115|28|v|python
+	self.BS
+7c9c07337d298da3c51ec6d3647d4b0b|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Crowd_Counting/README.md|9|4|v|markdown
+	CSRNet Architecture
+e54a71957b3c17e5424a1fbf6f346c71|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Crowd_Counting/README.md|11|1|V|markdown
+	![CSRNet Architecture](./imgs/Picture1.png)
+feacae72a0d7a14e7fa59e1c0b1d983b|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Crowd_Counting/README.md|15|3|v|markdown
+	CSRNet 
+2d242bb36ec91b32005f9296ff03a912|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Crowd_Counting/README.md|15|3|v|markdown
+	Architecture
+e00ec9cfb1f2ea304812d3269164f3b8|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Cross_Modal_Reid/README.md|1|3|v|markdown
+	modal 
+20c88b5915f4bd66054a6168ae16185f|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Cross_Modal_Reid/README.md|3|1|V|markdown
+	Given a natural language description, description-based person re-identification aims to retrieve images of the matched person from a large-scale visual database. Due to the existing modality heterogeneity, it is challenging to measure the cross-modal similarity between images and text descriptions. Many of the existing approaches usually utilize a deep-learning model to encode local and global fine-grained features with a strict uniform partition strategy. This breaks the part coherence, making it difficult to capture meaningful information from the within-part and semantic information among body parts. To address this issue, we proposed an inner-cross-modal attentional multigranular network (IMG-Net) to incorporate inner-modal self-attention and cross-modal hard-region attention with the fine-grained model for extracting the multigranular semantic information. Specifically, the inner-modal self-attention module is proposed to address the within-part consistency broken problem using both spatial-wise and channel-wise information. Following it is a multigranular feature extraction module, which is used to extract rich local and global visual and textual features with the help of group normalization (GN). Then a cross-modal hard-region attention module is proposed to obtain the local visual representation and phrase representation. Furthermore, a GN is used instead of batch normalization for the accurate batch statistics estimation. Comprehensive experiments with ablation analysis demonstrate that IMG-Net achieves the state-of-the-art performance on the CUHK-PEDES dataset and outperforms other previous methods significantly.  
+50ad14138ed7d7f401d85fe98729b541|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Cross_Modal_Reid/README.md|6|1|V|markdown
+	## 数据库
+a335d03c6b8e44903e049c2a631488f0|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/Cross_Modal_Reid/README.md|14|29|v|markdown
+	accuracy 
+62b43237d2c7d7d3edf9399d3c360eca|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/README.md|2|1|V|markdown
+	Projects of NjtechCVLab
+b5d01c2eec36c8927d55a9fb0e7b8f2a|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_2/README.md|7|1|V|markdown
+	+ Action Recognition
+242071653ec07e4d3b9a223ee9a1f1fc|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_1/README.md|3|1|V|markdown
+	入门资料  
+c1727f0c0a162fcd390b94f1c9685edf|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_1/README.md|1|2|V|markdown
+	# Level_1
+	
+3057d7ce58c36045d33d30f181f2e6ae|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_1/%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99%E6%8E%A8%E8%8D%90.md|1|1|V|markdown
+	# 学习资料推荐
+	
+	+ [《动手学深度学习（PyTorch 版）](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
+	+ [2017CS231n 斯坦福李飞飞计算机视觉](https://www.bilibili.com/video/BV1Yt41157Lb?from=search&seid=6857653119748371893)
+0ac1d40f0a208a379ec2bd4236c2c11a|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|397|23|V|markdown
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+	### Cross-modal Hashing
+	+ 通常的方法学习一个共享的隐含空间，但是处理大规模的高维多模态数据在计算上低效。
+	+ Cross-modal Hashing 学习压缩二进制编码，用于构建不同模态间的联系。
+fc96bf76c4fe88ac9ff5ce36a6d3e1da|file:///home/godlovesjonny/.local/lib/python3.8/site-packages/qutebrowser/misc/crashsignal.py|222|1|V|python
+	            cmd_history = []
+9e20d7c3c66476b4614e636f94c2215f|file:///home/godlovesjonny/.local/lib/python3.8/site-packages/qutebrowser/misc/backendproblem.py|366|13|V|python
+	            print("ok")
+d6b6112988c70ef1de6dc3c81b2aba60|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|403|1|V|markdown
+	## 1511.05644 Adversarial Autoencoders
+18ebebfa000b6a4d2f171c7d9a00891d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|419|1|V|markdown
+	+ Employ dd
+36ec4392349c500dc78eed0082428711|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|423|1|V|markdown
+	## 由当前模型想到的
+9221f9627d6b6890d74c7ebab5a99b1d|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|421|1|V|markdown
+	Domain Shift 问题  
+	
+	Cross-domain Image-based Person Search + Cross-modal Text-based Person Image Search  
+24278626a9a5ed0608a8cdef974f479e|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|422|1|V|markdown
+	
+	## Cross-Modal Cross-Domain Moment Alignment Network for Person Search (CVPR 2020)
+dc76ec08d315df6656dc6325cf1994b1|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|131|20|V|markdown
+	### 一个可行性有待商榷的想法
+	维护一个文本池，通过文本相似去检索到相似的文本，用检索到的文本和源文本一同用于图像检索。  
+	
+a35d527c9e6ae97614850f7b2cb7505b|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S06-JL.md|10|1|V|markdown
+	Command Line Heroes: Season 6: Jerry Lawson
+1859aa73710f77ec501addf9b21554af|file:///home/godlovesjonny/Jonny/NjTechCVLab/Level_1/README.md|5|1|V|markdown
+	+ [动手学深度学习（PyTorch 版）](http://tangshusen.me/Dive-into-DL-PyTorch/#/)
+d6e34da64369e0b0acd0cde302fa69af|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/ldp1.md|2|9|v|markdown
+	Ldp1
+d7e121189eca1bfc512b5841ffa518ee|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/dl-notes1.md|4|1|V|markdown
+	categories: ["Alchemy Of CV"]
+	tags: ["cv", "notes", "deep learning"]
+f82c7d9e49bf0a59074e8886ca0c5cc4|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|453|1|V|markdown
+	## Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019)
+7432c8d83222d5a32ec8192e44ae5595|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|454|1|V|markdown
+	dd## 
+2fbccdc638282650f76ea78b2260e725|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|461|1|V|markdown
+	### dd
+46c6606008ca5fd71336c9da7b57c195|file:///home/godlovesjonny/.config/plasma-org.kde.plasma.desktop-appletsrc|1|1|V|
+	[ActionPlugins][0]
+	MidButton;NoModifier=org.kde.paste
+	RightButton;NoModifier=org.kde.contextmenu
+	wheel:Vertical;NoModifier=org.kde.switchdesktop
+	
+	[ActionPlugins][1]
+	RightButton;NoModifier=org.kde.contextmenu
+	
+	[Containments][1]
+	activityId=a85fbee8-8fa6-4145-bdff-c602ef4eb125
+	formfactor=0
+	immutability=1
+	lastScreen=0
+	location=0
+	plugin=org.kde.plasma.folder
+	wallpaperplugin=org.kde.image
+	
+	[Containments][2]
+	activityId=
+	formfactor=2
+	immutability=1
+	lastScreen=0
+	location=4
+	plugin=org.kde.panel
+	wallpaperplugin=org.kde.image
+	
+	[Containments][2][Applets][16]
+	immutability=1
+	plugin=org.kde.plasma.digitalclock
+	
+	[Containments][2][Applets][17]
+	immutability=1
+	plugin=org.kde.plasma.showdesktop
+	
+	[Containments][2][Applets][3]
+	immutability=1
+	plugin=org.kde.plasma.kickoff
+	
+	[Containments][2][Applets][3][Configuration][General]
+	favoritesPortedToKAstats=true
+	
+	[Containments][2][Applets][3][Configuration][Shortcuts]
+	global=Alt+F1
+	
+	[Containments][2][Applets][3][Shortcuts]
+	global=Alt+F1
+	
+	[Containments][2][Applets][4]
+	immutability=1
+	plugin=org.kde.plasma.pager
+	
+	[Containments][2][Applets][5]
+	immutability=1
+	plugin=org.kde.plasma.icontasks
+	
+	[Containments][2][Applets][6]
+	immutability=1
+	plugin=org.kde.plasma.systemtray
+	
+	[Containments][2][Applets][6][Configuration]
+	PreloadWeight=55
+	SystrayContainmentId=7
+	
+	[Containments][2][General]
+	AppletOrder=3;4;5;6;16;17
+	
+	[Containments][21]
+	activityId=a85fbee8-8fa6-4145-bdff-c602ef4eb125
+	formfactor=0
+	immutability=1
+	lastScreen=2
+	location=0
+	plugin=org.kde.plasma.folder
+	wallpaperplugin=org.kde.image
+	
+	[Containments][7]
+	activityId=
+	formfactor=2
+	immutability=1
+	lastScreen=0
+	location=4
+	plugin=org.kde.plasma.private.systemtray
+	wallpaperplugin=org.kde.image
+	
+	[Containments][7][Applets][10]
+	immutability=1
+	plugin=org.kde.plasma.nightcolorcontrol
+	
+	[Containments][7][Applets][11]
+	immutability=1
+	plugin=org.kde.plasma.printmanager
+	
+	[Containments][7][Applets][12]
+	immutability=1
+	plugin=org.kde.plasma.devicenotifier
+	
+	[Containments][7][Applets][13]
+	immutability=1
+	plugin=org.kde.plasma.notifications
+	
+	[Containments][7][Applets][14]
+	immutability=1
+	plugin=org.kde.plasma.keyboardindicator
+	
+	[Containments][7][Applets][15]
+	immutability=1
+	plugin=org.kde.plasma.volume
+	
+	[Containments][7][Applets][18]
+	immutability=1
+	plugin=org.kde.plasma.bluetooth
+	
+	[Containments][7][Applets][19]
+	immutability=1
+	plugin=org.kde.plasma.networkmanagement
+	
+	[Containments][7][Applets][20]
+	immutability=1
+	plugin=org.kde.plasma.battery
+	
+	[Containments][7][Applets][8]
+	immutability=1
+	plugin=org.kde.kdeconnect
+	
+	[Containments][7][Applets][9]
+	immutability=1
+	plugin=org.kde.plasma.clipboard
+	
+	[Containments][7][General]
+	extraItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.notifications
+	knownItems=org.kde.plasma.bluetooth,org.kde.plasma.printmanager,org.kde.plasma.clipboard,org.kde.plasma.nightcolorcontrol,org.kde.plasma.mediacontroller,org.kde.plasma.keyboardindicator,org.kde.plasma.battery,org.kde.kdeconnect,org.kde.plasma.volume,org.kde.plasma.devicenotifier,org.kde.plasma.networkmanagement,org.kde.plasma.notifications
+	
+	[ScreenMapping]
+	itemsOnDisabledScreens=
+c9876fcff85166cc5481b6d3414fbc42|file:///home/godlovesjonny/.config/kdeglobals|137|13|v|
+	chameleon

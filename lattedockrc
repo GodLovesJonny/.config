@@ -3,6 +3,7 @@ outlineWidth=1
 
 [ScreenConnectors]
 10=eDP-1
+11=HDMI-1
 
 [UniversalSettings]
 badges3DStyle=true
@@ -12,7 +13,7 @@ downloadWindowSize=800,550
 lastNonAssignedLayout=默认
 launchers=
 layoutsColumnWidths=95,77,69,0
-layoutsWindowSize=700,661
+layoutsWindowSize=700,685
 memoryUsage=0
 metaPressAndHoldEnabled=true
 mouseSensitivity=1

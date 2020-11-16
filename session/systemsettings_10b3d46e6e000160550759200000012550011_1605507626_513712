@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=SettingsBase
+MenuBar=Disabled
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAQfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=0
+eDP-1 HDMI-1 YPosition=25

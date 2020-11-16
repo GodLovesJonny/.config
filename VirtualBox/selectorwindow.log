@@ -1,0 +1,18 @@
+00:00:00.360246 VirtualBox GUI VM Selector Window 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.360250 Log opened 2020-09-27T13:13:17.907011000Z
+00:00:00.360250 Build Type: release
+00:00:00.360254 OS Product: Linux
+00:00:00.360254 OS Release: 5.4.60-1-lily
+00:00:00.360255 OS Version: #5 SMP Sat, 22 Aug 2020 04:45:28 +0000
+00:00:00.360302 DMI Product Name: Inspiron 5493
+00:00:00.360310 DMI Product Version: 
+00:00:00.360320 Firmware type: UEFI
+00:00:00.360844 Secure Boot: Disabled
+00:00:00.360877 Host RAM: 15782MB (15.4GB) total, 12494MB (12.2GB) available
+00:00:00.360879 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.360880 Process ID: 4241
+00:00:00.360880 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.360899 Qt version: 5.15.0
+00:00:00.383783 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.837036 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 8x36 x 948x1036
+00:00:00.844310 GUI: UIMediumEnumerator: Medium-enumeration finished!

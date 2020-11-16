@@ -1,0 +1,19 @@
+[1]
+Active Tab Index=0
+Tab Count=1
+Tab Data 0=\x00\x00\x00\x02\x00\x00\x00\x00"file:///home/godlovesjonny/.config\x00\x00\x00\x00\x01\x00\x00\x00Bfile:///home/godlovesjonny/.config/plasma_calendar_holiday_regions\x00\x00\x00\x01\x00\x00\x00Bfile:///home/godlovesjonny/.config/plasma_calendar_holiday_regions\x00\x00\x00\x00\x00\x00\x05Y\x00\x00\x00\x00\x01\x00\x00\x00\x1b\x00\x00\x00\xff\x00\x00\x00\x01\x00\x00\x00\x01\x00\x00\x01\x00\x00\xff\xff\xff\xff\x01\x00\x00\x00\x01\x00
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=DolphinMainWindow
+MenuBar=Disabled
+ObjectName=Dolphin#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD3fwCAAAAAvsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAAAoBAAAD+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAtAAAD3QAAAF0BAAADAAAAAQAAAAAAAAAA/AIAAAAB+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAACgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAAoBAAADAAAGrwAAA90AAAAEAAAABAAAAAgAAAAI/AAAAAEAAAACAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAQAAAAD/////AAAAAAAAAAA=
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Height 1080=1034
+eDP-1 HDMI-1 Width 1920=1896
+eDP-1 HDMI-1 XPosition=12
+eDP-1 HDMI-1 YPosition=34

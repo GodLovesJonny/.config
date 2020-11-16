@@ -5,31 +5,43 @@ update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBa
 JPEGQuality=10612
 
 [MainWindow]
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=8
+HDMI-1 YPosition=558
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=964
+eDP-1 HDMI-1 YPosition=32
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=36
 
 [Recent Files]
-File1[$e]=$HOME/.local/share/wallpapers/Lage_dark.jpg
-File2[$e]=$HOME/.local/share/wallpapers/Tooned Landscapes And Places 243.png
-File3[$e]=$HOME/.local/share/wallpapers/No Logo SCE 154.png
-File4[$e]=$HOME/.local/share/wallpapers/Starry Nebula 265.png
-File5[$e]=$HOME/.local/share/wallpapers/Starry Nebula 295.png
-File6[$e]=$HOME/.local/share/wallpapers/Starry Nebula 296.png
-File7[$e]=$HOME/.local/share/wallpapers/Starry Nebula 299.png
-File8[$e]=$HOME/.local/share/wallpapers/Starry Night HD.jpg
-File9[$e]=$HOME/.local/share/wallpapers/slides/moon_sea.jpg
-Name1[$e]=Lage_dark.jpg
-Name2[$e]=Tooned Landscapes And Places 243.png
-Name3[$e]=No Logo SCE 154.png
-Name4[$e]=Starry Nebula 265.png
-Name5[$e]=Starry Nebula 295.png
-Name6[$e]=Starry Nebula 296.png
-Name7[$e]=Starry Nebula 299.png
-Name8[$e]=Starry Night HD.jpg
-Name9[$e]=moon_sea.jpg
+File1[$e]=$HOME/.local/share/wallpapers/save/Mavs.jpg
+File10[$e]=$HOME/下载/U106a6cea0be04260a9424618e08086001.webp
+File2[$e]=$HOME/.local/share/wallpapers/slides/digital_japanese_garden.jpg
+File3[$e]=$HOME/图片/Screenshot_20190802_154134.png
+File4[$e]=$HOME/图片/Screenshot_20190802_154201.png
+File5[$e]=$HOME/下载/User_Manual.pdf
+File6[$e]=$HOME/下载/Uce46479ad40542e59ce531d46b100c34W.webp
+File7[$e]=$HOME/下载/ua44a84istg51.jpg
+File8[$e]=$HOME/下载/U22612adcadc34d1989211c1ff3c47720l.webp
+File9[$e]=$HOME/下载/Stiebel_Reconstructing_Spectral_Images_CVPR_2018_paper.pdf
+Name1[$e]=Mavs.jpg
+Name10[$e]=U106a6cea0be04260a9424618e08086001.webp
+Name2[$e]=digital_japanese_garden.jpg
+Name3[$e]=Screenshot_20190802_154134.png
+Name4[$e]=Screenshot_20190802_154201.png
+Name5[$e]=User_Manual.pdf
+Name6[$e]=Uce46479ad40542e59ce531d46b100c34W.webp
+Name7[$e]=ua44a84istg51.jpg
+Name8[$e]=U22612adcadc34d1989211c1ff3c47720l.webp
+Name9[$e]=Stiebel_Reconstructing_Spectral_Images_CVPR_2018_paper.pdf
 
 [SideBar]
-SideBarSplitterSizes=242,1675
+SideBarSplitterSizes=242,703

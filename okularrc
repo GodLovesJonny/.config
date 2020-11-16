@@ -1,33 +1,57 @@
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPWAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAPfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEvv////8AAAAAAAAAAA==
 Window-Maximized 1080x1920=true
 
 [Desktop Entry]
 FullScreen=false
 
 [MainWindow]
-Height 1080=1052
+:0.0 Window-Maximized 1080x1920=true
+:0.0 XPosition=0
+:0.0 YPosition=26
+HDMI-1 Height 1080=1054
+HDMI-1 Width 1920=1920
+HDMI-1 XPosition=0
+HDMI-1 YPosition=26
+Height 1080=1036
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAPfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEvv////8AAAAAAAAAAA==
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADL/////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=948
 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 Height 1080=1040
+eDP-1 HDMI-1 Width 1920=948
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=964
+eDP-1 HDMI-1 YPosition=32
+eDP-1 Height 1080=990
+eDP-1 Width 1920=1920
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=26
 
 [Notification Messages]
 ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-File2[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/z:/home/godlovesjonny/Jonny/Latexs/20200827/IEEEtran-csvt/bare_jrnl.pdf
-File3[$e]=$HOME/Jonny/Temp-Storage/Spam/Paper/_Merged_PDF.pdf
-File4[$e]=$HOME/Jonny/Temp-Storage/Spam/Paper/JEI-200265_online.pdf
-File5[$e]=$HOME/Jonny/Penetration-Testing/Micro8/第一百二十一课：http加密代理深度应用 [ abptts ].pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/NTIRE/NTIRE 2020 Challenge on Real Image Denoising Data.pdf
-File7[$e]=$HOME/下载/Liu_MMDM_Multi-Frame_and_Multi-Scale_for_Image_Demoireing_CVPRW_2020_paper.pdf
-Name1[$e]=1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
-Name2[$e]=bare_jrnl.pdf
-Name3[$e]=_Merged_PDF.pdf
-Name4[$e]=JEI-200265_online.pdf
-Name5[$e]=第一百二十一课：http加密代理深度应用 [ abptts ].pdf
-Name6[$e]=NTIRE 2020 Challenge on Real Image Denoising Data.pdf
-Name7[$e]=Liu_MMDM_Multi-Frame_and_Multi-Scale_for_Image_Demoireing_CVPRW_2020_paper.pdf
+File1[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/10.1109@TCYB.2020.3009004 Learning Cross-Modal Common Representations by Private–Shared Subspaces Separation.pdf
+File10[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE).pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Image-Text Retrieval with Semantic Consistency.pdf
+File4[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Variational Alignment of Latent Spaces (CVPRW 2020).pdf
+File5[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Fusing Two Directions in Cross-domain Adaption for Real Life Person Search by Language (CVPRW 2019).pdf
+File6[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep Supervised Cross-Modal Retrieval (CVPR 2019).pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/A Cross-Modal Variational Framework For Food Image Analysis.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Perfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval.pdf
+File9[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Text-based Person Search via Attribute-aided Matching (WACV 2020).pdf
+Name1[$e]=10.1109@TCYB.2020.3009004 Learning Cross-Modal Common Representations by Private–Shared Subspaces Separation.pdf
+Name10[$e]=Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
+Name2[$e]=Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE).pdf
+Name3[$e]=Cross-Modal Image-Text Retrieval with Semantic Consistency.pdf
+Name4[$e]=Cross-Modal Variational Alignment of Latent Spaces (CVPRW 2020).pdf
+Name5[$e]=Fusing Two Directions in Cross-domain Adaption for Real Life Person Search by Language (CVPRW 2019).pdf
+Name6[$e]=Deep Supervised Cross-Modal Retrieval (CVPR 2019).pdf
+Name7[$e]=A Cross-Modal Variational Framework For Food Image Analysis.pdf
+Name8[$e]=Perfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval.pdf
+Name9[$e]=Text-based Person Search via Attribute-aided Matching (WACV 2020).pdf

@@ -47,6 +47,9 @@ Fallback Encoding=ISO 8859-15
 
 [KTextEditor Renderer]
 Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=SpaceMono Nerd Font Mono,16,-1,5,50,0,0,0,0,0
 Schema=Normal
 Show Indentation Lines=false
 Show Whole Bracket Expression=false
@@ -59,6 +62,7 @@ Auto Center Lines=0
 Auto Completion=true
 Backspace Remove Composed Characters=false
 Bookmark Menu Sorting=0
+Bracket Match Preview=false
 Chars To Enclose Selection=
 Default Mark Type=1
 Dynamic Word Wrap=true
@@ -102,10 +106,13 @@ Search History=Learning semantic concepts and order for image and sentence match
 
 [MainWindow]
 Height 1080=1027
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAPaAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAPjAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=1928
+eDP-1 HDMI-1 YPosition=34
 
 [filetree]
 editShade=211,190,222

@@ -5,7 +5,7 @@ switch-to-activity-a85fbee8-8fa6-4145-bdff-c602ef4eb125=none,none,切换到活�
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to 汉语=none,none,切换到键盘布局 汉语
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,切换到下一个键盘布局
-_k_friendly_name=Keyboard Layout Switcher
+_k_friendly_name=键盘布局切换器
 
 [kaccess]
 Toggle Screen Reader On and Off=Meta+Alt+S,Meta+Alt+S,切换屏幕阅读器开关
@@ -15,7 +15,7 @@ _k_friendly_name=辅助功能
 Disable Touchpad=Touchpad Off,Touchpad Off,禁用触摸板
 Enable Touchpad=Touchpad On,Touchpad On,启用触摸板
 Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,切换触摸板
-_k_friendly_name=Touchpad
+_k_friendly_name=触摸板
 
 [kded5]
 Show System Activity=Ctrl+Esc,Ctrl+Esc,显示系统活动
@@ -48,11 +48,11 @@ _k_friendly_name=KRunner
 _launch=Alt+Space\tAlt+F2\tMeta+Space\tSearch,Alt+Space\tAlt+F2\tMeta+Space\tSearch,KRunner
 
 [ksmserver]
-Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,关机前不确认
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,Ctrl+Alt+Shift+PgDown,关机前不确认
 Lock Session=\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,锁定会话
-Log Out=Ctrl+Alt+Del,none,注销
-Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,注销前不确认
-Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,重启前不确认
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,注销
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,Ctrl+Alt+Shift+Del,注销前不确认
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,Ctrl+Alt+Shift+PgUp,重启前不确认
 _k_friendly_name=会话管理
 
 [kwin]
@@ -151,9 +151,9 @@ Switch to Desktop 6=Alt+Shift+S,none,切换到桌面 6
 Switch to Desktop 7=Alt+Shift+D,none,切换到桌面 7
 Switch to Desktop 8=Alt+Shift+F,none,切换到桌面 8
 Switch to Desktop 9=none,none,切换到桌面 9
-Switch to Next Desktop=Meta+L,none,切换到下一个桌面
+Switch to Next Desktop=Meta+V,none,切换到下一个桌面
 Switch to Next Screen=none,none,切换到下一屏幕
-Switch to Previous Desktop=Meta+H,none,切换到上一个桌面
+Switch to Previous Desktop=Meta+Z,none,切换到上一个桌面
 Switch to Previous Screen=none,none,切换到上一个屏幕
 Switch to Screen 0=none,none,切换到屏幕 0
 Switch to Screen 1=none,none,切换到屏幕 1
@@ -282,10 +282,10 @@ view_zoom_out=Meta+-,Meta+-,缩小(O)
 _k_friendly_name=Latte Dock
 activate entry 1=,Meta+1,激活项目 1
 activate entry 10=,Meta+0,激活项目 10
-activate entry 11=Meta+Z,Meta+Z,激活项目 11
+activate entry 11=,Meta+Z,激活项目 11
 activate entry 12=Meta+X,Meta+X,激活项目 12
-activate entry 13=Meta+C,Meta+C,激活项目 13
-activate entry 14=Meta+V,Meta+V,激活项目 14
+activate entry 13=,Meta+C,激活项目 13
+activate entry 14=,Meta+V,激活项目 14
 activate entry 15=,Meta+B,激活项目 15
 activate entry 16=Meta+N,Meta+N,激活项目 16
 activate entry 17=,Meta+M,激活项目 17
@@ -387,6 +387,8 @@ activate task manager entry 7=Meta+7,Meta+7,激活任务管理器条目 7
 activate task manager entry 8=Meta+8,Meta+8,激活任务管理器条目 8
 activate task manager entry 9=Meta+9,Meta+9,激活任务管理器条目 9
 activate widget 2=Alt+F1,none,激活 程序启动器 部件
+activate widget 3=,none,激活 程序启动器 部件
+activate widget 4=,none,激活 程序启动器 部件
 activate widget 55=Ctrl+Shift+D,none,激活 词典 部件
 activate widget 70=Meta+A,none,激活 Launchpad Plasma 部件
 clear-history=none,none,清除剪贴板历史(L)
@@ -394,7 +396,7 @@ clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,启用剪贴板动作
 cycleNextAction=none,none,下一个历史项
 cyclePrevAction=none,none,上一个历史项
 edit_clipboard=none,none,编辑内容(E)...
-manage activities=Meta+Q,Meta+Q,活动...
+manage activities=Meta+Q,Meta+Q,显示活动切换器
 next activity=Meta+Tab,Meta+Tab,遍历活动
 previous activity=Meta+Shift+Tab,Meta+Shift+Tab,反向遍历活动
 repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,在当前剪贴板上手动执行动作

@@ -255,3 +255,78 @@ INFO 2020/7/28 上午11:41:49  [focus] 1
 INFO 2020/7/28 上午11:41:49  [blur] 1
 INFO 2020/7/28 上午11:41:50  ----------------before-quit-----------------
 INFO 2020/7/28 上午11:41:50  ------------------will-quit------------------
+INFO 2020/10/13 上午9:09:35  luanchFromDiffVersion, pre version is 0.9.92
+INFO 2020/10/13 上午9:09:35  overwriteThemeFolder
+INFO 2020/10/13 上午9:09:35  ------------------start------------------
+INFO 2020/10/13 上午9:09:35  typora version: 0.9.95
+DEBUG 2020/10/13 上午9:09:35  [
+  '/usr/share/typora/Typora',
+  '/home/godlovesjonny/Jonny/Ideas/ideas.md'
+]
+DEBUG 2020/10/13 上午9:09:35  app.openFile
+INFO 2020/10/13 上午9:09:35  addRecentDocument
+INFO 2020/10/13 上午9:09:35  [Raven] instanceKey = 1a71aacc-8108-48bc-9a63-69f641454ec1
+INFO 2020/10/13 上午9:09:35  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/10/13 上午9:09:35  [focus] 1
+INFO 2020/10/13 上午9:09:43  load file [/tmp/1602551383272-0.6593287667192269.html] for PDF export
+INFO 2020/10/13 上午9:09:43  [blur] 1
+INFO 2020/10/13 上午9:09:43  generate print window with id 2
+INFO 2020/10/13 上午9:09:48  [focus] 1
+INFO 2020/10/13 上午9:09:48  [RenderProcess 1][Log] export PDF to /home/godlovesjonny/Jonny/Ideas/ideas.pdf
+INFO 2020/10/13 上午9:09:51  ----------------before-quit-----------------
+INFO 2020/10/13 上午9:09:51  ------------------will-quit------------------
+INFO 2020/10/17 下午10:19:19  ------------------start------------------
+INFO 2020/10/17 下午10:19:19  typora version: 0.9.95
+DEBUG 2020/10/17 下午10:19:19  [ '/usr/share/typora/Typora' ]
+INFO 2020/10/17 下午10:19:19  [Raven] instanceKey = 8b86854a-3311-41ac-a623-e635fb1ba922
+DEBUG 2020/10/17 下午10:19:19  app.openFile
+INFO 2020/10/17 下午10:19:19  [Raven] userId = f4cc6a33-d47b-4127-8ea6-8e6dc467deab
+INFO 2020/10/17 下午10:19:19  [focus] 1
+INFO 2020/10/17 下午10:19:22  [blur] 1
+INFO 2020/10/17 下午10:19:43  [focus] 1
+DEBUG 2020/10/17 下午10:19:43  false
+INFO 2020/10/17 下午10:19:43  addRecentDocument
+INFO 2020/10/17 下午10:19:50  load file [/tmp/1602944390194-0.6549579486304336.html] for PDF export
+INFO 2020/10/17 下午10:19:50  [blur] 1
+INFO 2020/10/17 下午10:19:50  generate print window with id 2
+INFO 2020/10/17 下午10:19:54  [focus] 1
+INFO 2020/10/17 下午10:19:54  [RenderProcess 1][Log] export PDF to /home/godlovesjonny/Jonny/Ideas/ideas.pdf
+INFO 2020/10/17 下午10:20:09  [blur] 1
+INFO 2020/10/17 下午10:23:34  [focus] 1
+INFO 2020/10/17 下午10:23:40  [blur] 1
+INFO 2020/10/17 下午10:28:24  [focus] 1
+INFO 2020/10/17 下午10:28:27  [blur] 1
+INFO 2020/10/17 下午10:29:28  [focus] 1
+INFO 2020/10/17 下午10:45:01  updateTheme
+INFO 2020/10/17 下午10:45:04  updateTheme
+INFO 2020/10/17 下午10:45:10  updateTheme
+INFO 2020/10/17 下午10:45:18  window.File && (function() {
+					ClientCommand.zoomOut();
+				})();
+INFO 2020/10/17 下午10:45:18  window.File && (function() {
+					ClientCommand.zoomIn();
+				})();
+INFO 2020/10/17 下午10:45:21  window.File && (function() {
+					ClientCommand.zoomIn();
+				})();
+INFO 2020/10/17 下午10:45:21  window.File && (function() {
+					ClientCommand.zoomIn();
+				})();
+INFO 2020/10/17 下午10:46:04  [blur] 1
+INFO 2020/10/17 下午10:46:16  [focus] 1
+INFO 2020/10/17 下午10:46:16  [blur] 1
+INFO 2020/10/17 下午10:46:19  [focus] 1
+INFO 2020/10/17 下午10:46:27  [blur] 1
+INFO 2020/10/17 下午10:46:30  [focus] 1
+INFO 2020/10/17 下午10:46:30  [blur] 1
+INFO 2020/10/17 下午10:46:30  [focus] 1
+INFO 2020/10/17 下午10:46:31  [blur] 1
+INFO 2020/10/17 下午10:46:33  [focus] 1
+INFO 2020/10/17 下午10:46:34  [blur] 1
+INFO 2020/10/17 下午10:46:36  [focus] 1
+INFO 2020/10/17 下午10:46:36  [blur] 1
+INFO 2020/10/17 下午10:46:36  [focus] 1
+INFO 2020/10/17 下午10:46:36  [blur] 1
+INFO 2020/10/17 下午10:46:43  [focus] 1
+INFO 2020/10/17 下午10:46:46  ----------------before-quit-----------------
+INFO 2020/10/17 下午10:46:46  ------------------will-quit------------------

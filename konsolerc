@@ -1,5 +1,5 @@
 [Desktop Entry]
-DefaultProfile=配置方案 1.profile
+DefaultProfile=Profile 1.profile
 
 [DownloadDialog Settings]
 Height 1080=573
@@ -17,9 +17,27 @@ detailViewIconSize=80
 ShowMenuBarByDefault=false
 
 [MainWindow]
-Height 1080=1052
+:0.0 Window-Maximized 1080x1920=true
+:0.0 XPosition=0
+:0.0 YPosition=26
+HDMI-1 Height 1080=1036
+HDMI-1 Width 1920=1904
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=0
+HDMI-1 YPosition=51
+Height 1080=514
 MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB3AAAAQMAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
-Width 1920=1920
+Width 1920=1904
 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 Height 1080=1055
+eDP-1 HDMI-1 Width 1920=1920
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=8
+eDP-1 HDMI-1 YPosition=556
+eDP-1 Height 1080=1038
+eDP-1 Width 1920=948
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=514

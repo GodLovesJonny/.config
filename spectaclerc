@@ -7,7 +7,8 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureMode=5
-window-position=866,188
+cropRegion=870,121,327,363
+window-position=858,136
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/图片/screen.png

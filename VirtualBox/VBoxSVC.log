@@ -1,51 +1,57 @@
-00:00:00.001323 main     VirtualBox XPCOM Server 6.1.8 r137981 linux.amd64 (May 18 2020 06:23:25) release log
-00:00:00.001325 main     Log opened 2020-06-22T03:43:24.023037000Z
-00:00:00.001326 main     Build Type: release
-00:00:00.001327 main     OS Product: Linux
-00:00:00.001328 main     OS Release: 5.6.16-1-MANJARO
-00:00:00.001328 main     OS Version: #1 SMP PREEMPT Wed Jun 3 14:26:28 UTC 2020
-00:00:00.001359 main     DMI Product Name: Inspiron 5493
-00:00:00.001363 main     DMI Product Version: 
-00:00:00.001366 main     Firmware type: UEFI
-00:00:00.001772 main     Secure Boot: Disabled
-00:00:00.001807 main     Host RAM: 15783MB (15.4GB) total, 10783MB (10.5GB) available
-00:00:00.001809 main     Executable: /usr/lib/virtualbox/VBoxSVC
-00:00:00.001809 main     Process ID: 16622
-00:00:00.001809 main     Package type: LINUX_64BITS_GENERIC (OSE)
-00:00:00.003018 main     IPC socket path: /tmp/.vbox-godlovesjonny-ipc/ipcd
-00:00:00.108560 nspr-2   VirtualBox: object creation starts
-00:00:00.108813 nspr-2   Home directory: '/home/godlovesjonny/.config/VirtualBox'
-00:00:00.117293 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.123359 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.129751 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.130127 nspr-2   HostDnsMonitor: initializing
-00:00:00.130271 nspr-2   NAT: resolv.conf: nameserver 45.113.201.47
-00:00:00.130279 nspr-2   NAT: resolv.conf: nameserver 114.114.114.114
-00:00:00.130285 nspr-2   HostDnsMonitor: updating information
-00:00:00.130293 nspr-2   HostDnsMonitor: old information
-00:00:00.130295 nspr-2     no server entries
-00:00:00.130297 nspr-2     no domain set
-00:00:00.130298 nspr-2     no search string entries
-00:00:00.130299 nspr-2   HostDnsMonitor: new information
-00:00:00.130301 nspr-2     server 1: 45.113.201.47
-00:00:00.130303 nspr-2     server 2: 114.114.114.114
-00:00:00.130305 nspr-2     domain: DHCP
-00:00:00.130307 nspr-2     search string 1: DHCP
-00:00:00.130309 nspr-2     search string 2: HOST
-00:00:00.133584 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.134080 nspr-2   VD: VDInit finished with VINF_SUCCESS
-00:00:00.134317 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
-00:00:00.134882 nspr-2   VirtualBox: object created
-00:00:00.141874 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.142056 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.142117 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.142173 nspr-2   Failed to open "/dev/vboxdrvu", errno=2, rc=VERR_VM_DRIVER_NOT_INSTALLED
-00:00:00.190924 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.194018 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet1: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:00.197219 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link status for vmnet8: VBoxNetAdpCtl: ioctl failed: Operation not supported
-00:00:05.258006 main     VirtualBox: object deletion starts
-00:00:05.258308 main     HostDnsMonitor: shutting down ...
-00:00:05.264074 main     HostDnsMonitor: shut down
-00:00:05.636542 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
-00:00:10.264277 main     {00007f0570015d40} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
-00:00:10.264598 main     VirtualBox: object deleted
+00:00:00.000129 main     VirtualBox XPCOM Server 6.1.14 r140239 linux.amd64 (Sep  7 2020 21:01:30) release log
+00:00:00.000130 main     Log opened 2020-09-27T13:13:17.735162000Z
+00:00:00.000131 main     Build Type: release
+00:00:00.000132 main     OS Product: Linux
+00:00:00.000133 main     OS Release: 5.4.60-1-lily
+00:00:00.000133 main     OS Version: #5 SMP Sat, 22 Aug 2020 04:45:28 +0000
+00:00:00.000145 main     DMI Product Name: Inspiron 5493
+00:00:00.000148 main     DMI Product Version: 
+00:00:00.000151 main     Firmware type: UEFI
+00:00:00.000632 main     Secure Boot: Disabled
+00:00:00.000656 main     Host RAM: 15782MB (15.4GB) total, 12501MB (12.2GB) available
+00:00:00.000658 main     Executable: /usr/lib/virtualbox/VBoxSVC
+00:00:00.000658 main     Process ID: 4266
+00:00:00.000659 main     Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.001676 main     IPC socket path: /tmp/.vbox-godlovesjonny-ipc/ipcd
+00:00:00.105240 nspr-2   VirtualBox: object creation starts
+00:00:00.105395 nspr-2   Home directory: '/home/godlovesjonny/.config/VirtualBox'
+00:00:00.105504 nspr-2   Loading settings file "/home/godlovesjonny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:00:00.117921 nspr-2   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:00.124384 nspr-2   HostDnsMonitor: initializing
+00:00:00.124521 nspr-2   NAT: resolv.conf: nameserver 192.168.43.1
+00:00:00.124531 nspr-2   NAT: resolv.conf: nameserver 2409:8920:8a0:c15f::2a
+00:00:00.124537 nspr-2   HostDnsMonitor: updating information
+00:00:00.124546 nspr-2   HostDnsMonitor: old information
+00:00:00.124548 nspr-2     no server entries
+00:00:00.124549 nspr-2     no domain set
+00:00:00.124550 nspr-2     no search string entries
+00:00:00.124552 nspr-2   HostDnsMonitor: new information
+00:00:00.124553 nspr-2     server 1: 192.168.43.1
+00:00:00.124554 nspr-2     server 2: 2409:8920:8a0:c15f::2a
+00:00:00.124556 nspr-2     no domain set
+00:00:00.124557 nspr-2     no search string entries
+00:00:00.126057 nspr-2   VD: VDInit finished with VINF_SUCCESS
+00:00:00.126097 nspr-2   ERROR [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={027bc463-929c-40e8-bf16-fea557cd8e7e} aComponent={SystemPropertiesWrap} aText={Cannot determine default Guest Additions ISO location. Most likely they are not available}, preserve=false aResultDetail=0
+00:00:00.128179 nspr-2   Loading settings file "/home/godlovesjonny/VirtualBox VMs/Win10/Win10.vbox" with version "1.15-linux"
+00:00:00.128748 nspr-2   VirtualBox: object created
+00:00:00.658726 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.925171 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:00.925871 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.485703 nspr-2   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.972984 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:02.979709 nspr-3   NetIfAdpCtlOut: VBoxNetAdpCtl: Error while retrieving link speed for wlp3s0: VBoxNetAdpCtl: ioctl failed: Operation not supported
+00:00:02.987479 nspr-4   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:02.987731 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.188564 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:00:03.189985 nspr-3   WARNING [COM]: aRC=NS_ERROR_FAILURE (0x80004005) aIID={16ced992-5fdc-4aba-aff5-6a39bbd7c38b} aComponent={HostWrap} aText={VirtualBox is not currently allowed to access USB devices.  You can change this by adding your user to the 'vboxusers' group.  Please see the user manual for a more detailed explanation}, preserve=true  aResultDetail=0
+00:13:02.741531 nspr-3   Saving settings file "/home/godlovesjonny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:02.744058 nspr-4   Saving settings file "/home/godlovesjonny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:02.758748 nspr-4   Saving settings file "/home/godlovesjonny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:02.761044 nspr-4   Saving settings file "/home/godlovesjonny/.config/VirtualBox/VirtualBox.xml" with version "1.12-linux"
+00:13:08.271144 main     VirtualBox: object deletion starts
+00:13:08.271210 main     ERROR [COM]: aRC=VBOX_E_OBJECT_IN_USE (0x80bb000c) aIID={ad47ad09-787b-44ab-b343-a082a3f2dfb1} aComponent={MediumWrap} aText={Medium '/home/godlovesjonny/VirtualBox VMs/Win10/Win10.vdi' cannot be closed because it is still attached to 1 virtual machines}, preserve=false aResultDetail=0
+00:13:08.271635 main     HostDnsMonitor: shutting down ...
+00:13:08.272176 main     HostDnsMonitor: shut down
+00:13:08.383273 Watcher  ERROR [COM]: aRC=E_ACCESSDENIED (0x80070005) aIID={d0a0163f-e254-4e5b-a1f2-011cf991c38d} aComponent={VirtualBoxWrap} aText={The object is not ready}, preserve=false aResultDetail=0
+00:13:13.272325 main     {00007fc4f8016a60} HostPowerServiceLinux::~HostPowerServiceLinux: RTThreadWait() for 5000 ms failed with VERR_TIMEOUT
+00:13:13.272558 main     VirtualBox: object deleted

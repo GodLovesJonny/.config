@@ -1,1 +1,25 @@
-fcitx: BadWindow (invalid Window parameter)
+=========================
+FCITX 4.2.9.7 -- Get Signal No.: 6
+Date: try "date -d @1604843118" if you are using GNU date ***
+ProcessID: 2061
+fcitx(+0x17d6)[0x55df8ec4b7d6]
+/usr/lib/libc.so.6(+0x3d6a0)[0x7f2c15e956a0]
+/usr/lib/libc.so.6(gsignal+0x145)[0x7f2c15e95615]
+/usr/lib/libc.so.6(abort+0x116)[0x7f2c15e7e862]
+/usr/lib/libc.so.6(+0x26747)[0x7f2c15e7e747]
+/usr/lib/libc.so.6(+0x35bf6)[0x7f2c15e8dbf6]
+/usr/lib/libgooglepinyin.so.0(_ZN10ime_pinyin12MatrixSearch18cancel_last_choiceEv+0x113)[0x7f2c11cca5e3]
+/usr/lib/fcitx/fcitx-googlepinyin.so(+0x3096)[0x7f2c125cc096]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceProcessKey+0x55e)[0x7f2c1608483e]
+/usr/lib/fcitx/fcitx-xim.so(+0x546b)[0x7f2c11d4d46b]
+/usr/lib/fcitx/fcitx-xim.so(+0x4288)[0x7f2c11d4c288]
+/usr/lib/fcitx/fcitx-xim.so(+0xda01)[0x7f2c11d55a01]
+/usr/lib/fcitx/fcitx-xim.so(+0xf3da)[0x7f2c11d573da]
+/usr/lib/fcitx/fcitx-xim.so(+0x10e54)[0x7f2c11d58e54]
+/usr/lib/fcitx/fcitx-x11.so(+0x27d7)[0x7f2c160ac7d7]
+/usr/lib/fcitx/fcitx-x11.so(+0x337d)[0x7f2c160ad37d]
+/usr/lib/libfcitx-core.so.0(+0x9612)[0x7f2c16079612]
+/usr/lib/libfcitx-core.so.0(FcitxInstanceRun+0x57)[0x7f2c16079db7]
+fcitx(+0x113e)[0x55df8ec4b13e]
+/usr/lib/libc.so.6(__libc_start_main+0xf2)[0x7f2c15e80152]
+fcitx(+0x11be)[0x55df8ec4b1be]

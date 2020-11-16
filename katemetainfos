@@ -1,95 +1,47 @@
-[file:///home/godlovesjonny/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib]
+[file:///home/godlovesjonny/.config/KDE/UserFeedback.conf]
 Bookmarks=
-Checksum=604d3aca721185dfa6314d75da0138dcb21f893d
-Encoding=UTF-8
-Highlighting=BibTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=BibTeX
-Mode Set By User=false
-Time=2020,8,28,14,37,56
-URL=file:///home/godlovesjonny/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib
-
-[file:///home/godlovesjonny/Jonny/Latexs/CVPR2020/egbib.bib]
-Bookmarks=
-Checksum=dc84095751793ebadfab54200d38f00615f11c9e
-Encoding=UTF-8
-Highlighting=BibTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=BibTeX
-Mode Set By User=false
-Time=2020,8,27,12,31,14
-URL=file:///home/godlovesjonny/Jonny/Latexs/CVPR2020/egbib.bib
-
-[file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib]
-Bookmarks=
-Checksum=0994be3e73f751a5cef439338a08191a233f8307
-Encoding=UTF-8
-Highlighting=BibTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=BibTeX
-Mode Set By User=false
-Time=2020,8,22,15,46,21
-URL=file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib
-
-[file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib]
-Bookmarks=
-Checksum=9b5d104c0772c829eaf8ad183b00447b53620eac
-Encoding=UTF-8
-Highlighting=BibTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=BibTeX
-Mode Set By User=false
-Time=2020,8,27,15,16,55
-URL=file:///home/godlovesjonny/Jonny/Latexs/PyramidReid/egbib.bib
-
-[file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-1/eccv2020kit/egbib.bib]
-Bookmarks=
-Checksum=cdeb811f550a076b95ec9d4123b815ee6717c3b8
-Encoding=UTF-8
-Highlighting=BibTeX
-Highlighting Set By User=false
-Indentation Mode=normal
-Mode=BibTeX
-Mode Set By User=false
-Time=2020,8,27,12,29,11
-URL=file:///home/godlovesjonny/Jonny/Latexs/eccv2020kit-1/eccv2020kit/egbib.bib
-
-[file:///home/godlovesjonny/Jonny/Spam/plan]
-Bookmarks=
-Checksum=ef59ff4939ef02e381a5edd9200a1e6ce33479e4
+Checksum=c2848370f05e2a6d836e041367b749f9738940a3
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2020,8,23,6,19,14
-URL=file:///home/godlovesjonny/Jonny/Spam/plan
+Time=2020,11,16,6,14,9
+URL=file:///home/godlovesjonny/.config/KDE/UserFeedback.conf
 
-[file:///home/godlovesjonny/下载/s10845-018-1431-x.ris]
+[file:///home/godlovesjonny/.config/plasma-org.kde.plasma.desktop-appletsrc]
 Bookmarks=
-Checksum=7df36e2ff5848bbdf01a3fba50ff73b31e577673
+Checksum=d9da149345c7251fe0b6c2778cf10337d71e47ca
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2020,8,18,15,19,23
-URL=file:///home/godlovesjonny/下载/s10845-018-1431-x.ris
+Time=2020,11,16,5,12,42
+URL=file:///home/godlovesjonny/.config/plasma-org.kde.plasma.desktop-appletsrc
 
-[file:///run/media/godlovesjonny/̨______/TCPIP实验箱资料/MAC.txt]
+[file:///run/media/godlovesjonny/新加卷/Manjaro/Tools/resources.txt]
 Bookmarks=
-Checksum=5c4516ae1dca0180071d0c8df0e88a2b776a8065
+Checksum=fb8baa1a20eee383e82a035625a8b8622e012491
 Encoding=UTF-8
 Highlighting=None
 Highlighting Set By User=false
 Indentation Mode=normal
 Mode=Normal
 Mode Set By User=false
-Time=2020,9,5,13,48,5
-URL=file:///run/media/godlovesjonny/̨______/TCPIP实验箱资料/MAC.txt
+Time=2020,11,5,8,22,41
+URL=file:///run/media/godlovesjonny/新加卷/Manjaro/Tools/resources.txt
+
+[file:///usr/lib/qt/qml/org/kde/kirigami.2/styles/org.kde.desktop.plasma/Units.qml]
+Bookmarks=
+Checksum=2893e1efb9d2393c4d09c043df50da0300e9da27
+Encoding=UTF-8
+Highlighting=QML
+Highlighting Set By User=false
+Indentation Mode=cstyle
+Mode=QML
+Mode Set By User=false
+Time=2020,11,16,5,0,46
+URL=file:///usr/lib/qt/qml/org/kde/kirigami.2/styles/org.kde.desktop.plasma/Units.qml

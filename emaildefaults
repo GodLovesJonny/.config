@@ -3,5 +3,7 @@ Profile=默认
 
 [PROFILE_默认]
 EmailAddress=zijiewang9928@gmail.com
+EmailClient[$e]=thunderbird.desktop
 FullName=Jonathan Wang
 ServerType=
+TerminalClient=false

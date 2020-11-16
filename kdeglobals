@@ -108,11 +108,11 @@ ForegroundPositive=0,170,127
 ForegroundVisited=211,218,227
 
 [DirSelect Dialog]
-DirSelectDialog Size=1920,1027
-History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
+DirSelectDialog Size=1920,1031
+History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]
-BrowserApplication[$e]=org.qutebrowser.qutebrowser.desktop
+BrowserApplication=firefox.desktop
 ColorScheme=Imagination
 Name=Breath
 XftHintStyle=hintslight

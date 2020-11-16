@@ -1,12 +1,23 @@
 [MainWindow]
 CommandList=
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=964
+HDMI-1 YPosition=36
 Height 1080=1027
 HostList=
 SelectedSheets[$e]=ProcessTable.sgrd,SystemLoad2.sgrd
 SplitterSizeList=10,90
-State=AAAA/wAAAAD9AAAAAAAAA8AAAAHAAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAPCAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 currentSheet=0
+eDP-1 HDMI-1 Height 1080=1031
+eDP-1 HDMI-1 Width 1920=1920
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=8
+eDP-1 HDMI-1 YPosition=32
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=964
+eDP-1 YPosition=36
 isMinimized=false
