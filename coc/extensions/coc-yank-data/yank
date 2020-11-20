@@ -4956,3 +4956,24 @@ f82c7d9e49bf0a59074e8886ca0c5cc4|file:///home/godlovesjonny/Jonny/Ideas/ideas.md
 	itemsOnDisabledScreens=
 c9876fcff85166cc5481b6d3414fbc42|file:///home/godlovesjonny/.config/kdeglobals|137|13|v|
 	chameleon
+75fdf5d9706edc3c933e3e73fb6000e7|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|479|1|V|markdown
+	### Image Graph Attention Network
+ed11e35965ae293e169bbbdd9aeb0024|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|480|5|v|markdown
+	Image 
+2a4b3732519ab37d59b7267e9dbc41c7|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|479|1|V|markdown
+	### Image Graph Attention Network
+	+ 5 residual blocks + visual scene graph module + joint embedding layer
+	+ 用 Faster-RCNN 探测图像中的目标，用 Motifs relationship classifier 作为关系分类器去预测目标之间的关系，用 attribute classifier 预测所得到目标的属性
+	+ 提取四种特征： apprearance feature, spatial feature, label embedding, attribute embedding，用于形成节点特征 (node feature)
+	+ 边特征 (edge feature) 包含三种特征： apprearance feature, spatial feature, label embedding
+90f77909714ddfea2183e4ce58dfb649|file:///home/godlovesjonny/Jonny/Ideas/ideas.md|486|1|V|markdown
+	### Text Graph Attention Network
+ce79f628dc0a8c4169d6d27bf3f9a281|file:///home/godlovesjonny/Jonny/Ideas/ICME_ideas.md|11|1|V|markdown
+	+ VAE?
+4065bb5d18b41ee9de15787d46ba1dce|file:///home/godlovesjonny/Jonny/Latexs/IEEEtran-csvt/egbib.bib|327|1|V|bib
+	@InProceedings{faghri2017vse++,
+	  Title                    = {VSE++: Improving Visual-Semantic Embeddings with Hard Negatives},
+	  Author                   = {Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler},
+	  Year                     = {2018},
+	  Journal                  = {BMVC}
+	}

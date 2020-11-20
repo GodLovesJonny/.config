@@ -1,0 +1,12 @@
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=MainWindow
+ObjectName=MainWindow#1
+State=AAAA/wAAAAD9AAAAAAAAAAAAAAAAAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+eDP-1 Height 1080=558
+eDP-1 Width 1920=1536
+eDP-1 XPosition=192
+eDP-1 YPosition=26

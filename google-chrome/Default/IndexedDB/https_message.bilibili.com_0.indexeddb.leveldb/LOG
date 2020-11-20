@@ -1,15 +1,15 @@
-2020/11/07-14:54:49.294 e11e8 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/07-14:54:49.294 e11e8 Recovering log #4
-2020/11/07-14:54:49.294 e11e8 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/000004.log 
-2020/11/07-14:54:54.965 e11e9 Level-0 table #8: started
-2020/11/07-14:54:54.966 e11e9 Level-0 table #8: 35304 bytes OK
-2020/11/07-14:54:54.967 e11e9 Delete type=0 #4
-2020/11/07-14:54:54.967 e11e9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/11/07-14:54:54.967 e11e9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x07\x02\x01\x0a\x001\x00_\x003\x007\x000\x009\x000\x000\x004\x008' @ 1021 : 1
-2020/11/07-14:54:54.967 e11e9 Compacting 1@1 + 1@2 files
-2020/11/07-14:54:54.969 e11e9 Generated table #9@1: 191 keys, 21552 bytes
-2020/11/07-14:54:54.969 e11e9 Compacted 1@1 + 1@2 files => 21552 bytes
-2020/11/07-14:54:54.969 e11e9 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/11/07-14:54:54.969 e11e9 Delete type=2 #8
-2020/11/07-14:54:54.969 e11e9 Delete type=2 #5
-2020/11/07-14:54:54.969 e11e9 Manual compaction at level-1 from '\x00\x01\x07\x02\x01\x0a\x001\x00_\x003\x007\x000\x009\x000\x000\x004\x008' @ 1021 : 1 .. (end); will stop at (end)
+2020/11/18-15:17:47.657 1daf2 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-15:17:47.657 1daf2 Recovering log #7
+2020/11/18-15:17:47.657 1daf2 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_message.bilibili.com_0.indexeddb.leveldb/000007.log 
+2020/11/18-15:41:43.318 2380e Level-0 table #12: started
+2020/11/18-15:41:43.319 2380e Level-0 table #12: 37208 bytes OK
+2020/11/18-15:41:43.320 2380e Delete type=0 #7
+2020/11/18-15:41:43.320 2380e Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/18-15:41:43.320 2380e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x07\x02\x01\x0a\x001\x00_\x002\x006\x003\x006\x006\x003\x006\x006' @ 1328 : 1
+2020/11/18-15:41:43.320 2380e Compacting 1@1 + 1@2 files
+2020/11/18-15:41:43.321 2380e Generated table #13@1: 200 keys, 21800 bytes
+2020/11/18-15:41:43.322 2380e Compacted 1@1 + 1@2 files => 21800 bytes
+2020/11/18-15:41:43.322 2380e compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/18-15:41:43.323 2380e Delete type=2 #9
+2020/11/18-15:41:43.323 2380e Delete type=2 #12
+2020/11/18-15:41:43.323 2380e Manual compaction at level-1 from '\x00\x01\x07\x02\x01\x0a\x001\x00_\x002\x006\x003\x006\x006\x003\x006\x006' @ 1328 : 1 .. (end); will stop at (end)

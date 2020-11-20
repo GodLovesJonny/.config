@@ -1,3 +1,15 @@
-2020/11/14-19:13:42.075 4e6f9 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/11/14-19:13:42.075 4e6f9 Recovering log #19
-2020/11/14-19:13:42.082 4e6f9 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000019.log 
+2020/11/18-14:17:39.589 3a7e Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/18-14:17:39.589 3a7e Recovering log #19
+2020/11/18-14:17:39.598 3a7e Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000019.log 
+2020/11/18-19:31:06.992 8816f Level-0 table #23: started
+2020/11/18-19:31:06.996 8816f Level-0 table #23: 263941 bytes OK
+2020/11/18-19:31:06.997 8816f Delete type=0 #19
+2020/11/18-19:31:06.998 8816f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/11/18-19:31:06.998 8816f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\x08\xa9Q\x94A' @ 7972 : 1
+2020/11/18-19:31:06.998 8816f Compacting 1@1 + 1@2 files
+2020/11/18-19:31:07.001 8816f Generated table #24@1: 114 keys, 9063 bytes
+2020/11/18-19:31:07.001 8816f Compacted 1@1 + 1@2 files => 9063 bytes
+2020/11/18-19:31:07.002 8816f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/11/18-19:31:07.002 8816f Delete type=2 #17
+2020/11/18-19:31:07.003 8816f Delete type=2 #23
+2020/11/18-19:31:07.003 8816f Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\x08\xa9Q\x94A' @ 7972 : 1 .. (end); will stop at (end)

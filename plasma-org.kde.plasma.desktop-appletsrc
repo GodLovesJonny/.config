@@ -53,6 +53,18 @@ location=3
 plugin=org.kde.panel
 wallpaperplugin=org.kde.image
 
+[Containments][1][Applets][122]
+immutability=1
+plugin=org.kde.latte.spacer
+
+[Containments][1][Applets][122][Configuration][ConfigDialog]
+DialogHeight=720
+DialogWidth=960
+
+[Containments][1][Applets][122][Configuration][General]
+containmentType=Plasma
+lengthType=Expanding
+
 [Containments][1][Applets][2]
 immutability=1
 plugin=org.kde.plasma.kickoff
@@ -105,16 +117,6 @@ PreloadWeight=0
 [Containments][1][Applets][5][Configuration][ConfigDialog]
 DialogHeight=900
 DialogWidth=1200
-
-[Containments][1][Applets][53]
-immutability=1
-plugin=org.kde.plasma.panelspacer
-
-[Containments][1][Applets][53][Configuration]
-PreloadWeight=0
-
-[Containments][1][Applets][53][Configuration][General]
-length=437
 
 [Containments][1][Applets][54]
 immutability=1
@@ -224,14 +226,14 @@ favoritesPortedToKAstats=true
 global=Meta+A
 
 [Containments][1][ConfigDialog]
-DialogHeight=86
+DialogHeight=93
 DialogWidth=1920
 
 [Containments][1][Configuration]
 PreloadWeight=0
 
 [Containments][1][General]
-AppletOrder=2;3;54;53;46;7;66;56;55;70;69;6;5
+AppletOrder=2;3;54;122;46;7;66;56;55;70;69;6;5
 
 [Containments][119]
 activityId=
@@ -257,12 +259,40 @@ DialogWidth=960
 [Containments][119][Applets][121][Configuration][General]
 useWindowTitleReplace=true
 
+[Containments][119][Applets][123]
+immutability=1
+plugin=org.kde.plasma.digitalclock
+
+[Containments][119][Applets][123][Configuration]
+PreloadWeight=70
+
+[Containments][119][Applets][123][Configuration][Appearance]
+italicText=true
+showSeconds=true
+use24hFormat=2
+
+[Containments][119][Applets][123][Configuration][ConfigDialog]
+DialogHeight=720
+DialogWidth=960
+
+[Containments][119][Applets][124]
+immutability=1
+plugin=org.kde.latte.spacer
+
+[Containments][119][Applets][124][Configuration][ConfigDialog]
+DialogHeight=720
+DialogWidth=960
+
+[Containments][119][Applets][124][Configuration][General]
+containmentType=Plasma
+lengthType=Expanding
+
 [Containments][119][ConfigDialog]
-DialogHeight=86
+DialogHeight=93
 DialogWidth=1920
 
 [Containments][119][General]
-AppletOrder=120;121
+AppletOrder=120;121;124;123
 
 [Containments][67]
 ItemGeometriesHorizontal=Applet-68:1472,32,400,976,0;
@@ -488,7 +518,7 @@ DialogWidth=960
 
 [Containments][99][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=768
+ToolBoxButtonX=692
 ToolBoxButtonY=24
 
 [Containments][99][Wallpaper][com.github.zren.inactiveblur][General]
@@ -508,4 +538,4 @@ immutability=1
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/左右极限例题.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200127185346.png,0
+screenMapping=desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/左右极限例题.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200126111554.png,0

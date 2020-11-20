@@ -7,15 +7,15 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=870,121,327,363
-window-position=858,136
+cropRegion=257,225,1361,523
+window-position=565,64
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/图片/screen.png
-Recent URLs[$e]=file:$HOME/图片/
+Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/Jonny/Screenshot_20201116_203118.png,file:$HOME/Jonny/Screenshot_20201116_202217.png,file:$HOME/Jonny/Screenshot_20201116_202044.png,file:$HOME/Jonny/Screenshot_20201116_201932.png,file:$HOME/Jonny/Screenshot_20201116_201848.png
+Recent URLs[$e]=file:$HOME/图片/,file:$HOME/Jonny/,file:$HOME/,file:$HOME/文档/
 detailViewIconSize=0
 
 [Save]
-lastSaveAsLocation=file:///home/godlovesjonny/图片/screen.png
-lastSaveLocation=file:///home/godlovesjonny/图片/screen.png
+lastSaveAsLocation=file:///home/godlovesjonny/Jonny/Screenshot_20201116_203118.png
+lastSaveLocation=file:///home/godlovesjonny/Jonny/Screenshot_20201116_203118.png
 lastUsedSaveMode=0
