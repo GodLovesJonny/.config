@@ -1,5 +1,5 @@
 [Desktop Entry]
-DefaultProfile=Profile 1.profile
+DefaultProfile=配置方案 1.profile
 
 [DownloadDialog Settings]
 Height 1080=573
@@ -31,13 +31,13 @@ State=AAAA/wAAAAD9AAAAAAAAB3AAAAQMAAAABAAAAAQAAAAIAAAACPwAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1904
 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 Height 1080=516
-eDP-1 HDMI-1 Width 1920=1904
+eDP-1 HDMI-1 Height 1080=1056
+eDP-1 HDMI-1 Width 1920=1920
 eDP-1 HDMI-1 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 XPosition=964
+eDP-1 HDMI-1 XPosition=8
 eDP-1 HDMI-1 YPosition=32
-eDP-1 Height 1080=1080
+eDP-1 Height 1080=1054
 eDP-1 Width 1920=1920
 eDP-1 Window-Maximized 1080x1920=true
 eDP-1 XPosition=8
-eDP-1 YPosition=34
+eDP-1 YPosition=557

@@ -7,114 +7,131 @@ Color=56,56,56
 ColorAmount=0
 ColorEffect=0
 ContrastAmount=0.65
-ContrastEffect=1
+ContrastEffect=0
 Enable=
 IntensityAmount=0.1
-IntensityEffect=2
+IntensityEffect=0
 
 [ColorEffects:Inactive]
 ChangeSelectionColor=true
 Color=112,111,110
-ColorAmount=0.025000000000000001
-ColorEffect=2
-ContrastAmount=0.10000000000000001
-ContrastEffect=2
+ColorAmount=-0.9500000000000001
+ColorEffect=0
+ContrastAmount=0.1
+ContrastEffect=0
 Enable=false
 IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=29,33,49
-BackgroundNormal=21,25,40
-DecorationFocus=0,188,212
-DecorationHover=0,129,143
+BackgroundAlternate=77,77,77
+BackgroundNormal=54,71,80
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
 ForegroundActive=61,174,233
-ForegroundInactive=166,172,186
-ForegroundLink=0,188,212
-ForegroundNegative=255,0,127
-ForegroundNeutral=255,170,127
-ForegroundNormal=195,199,209
-ForegroundPositive=0,170,127
-ForegroundVisited=211,218,227
+ForegroundInactive=172,180,196
+ForegroundLink=41,128,185
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=201,212,230
+ForegroundPositive=31,140,236
+ForegroundVisited=127,140,141
 
 [Colors:Complementary]
-BackgroundAlternate=29,33,49
-BackgroundNormal=22,25,37
-DecorationFocus=0,100,111
-DecorationHover=0,142,158
-ForegroundActive=0,85,255
-ForegroundInactive=166,172,186
-ForegroundLink=0,188,212
-ForegroundNegative=85,170,127
-ForegroundNeutral=255,255,127
-ForegroundNormal=239,240,241
-ForegroundPositive=85,170,0
-ForegroundVisited=211,218,227
+BackgroundAlternate=38,50,56
+BackgroundNormal=38,50,56
+DecorationFocus=49,91,239
+DecorationHover=49,91,239
+ForegroundActive=246,116,0
+ForegroundInactive=136,136,136
+ForegroundLink=49,91,239
+ForegroundNegative=237,21,21
+ForegroundNeutral=201,206,59
+ForegroundNormal=222,222,222
+ForegroundPositive=17,209,22
+ForegroundVisited=49,91,239
+
+[Colors:Header]
+BackgroundAlternate=38,50,56
+BackgroundNormal=38,50,56
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
+ForegroundActive=61,174,233
+ForegroundInactive=172,180,196
+ForegroundLink=41,128,185
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=183,186,195
+ForegroundPositive=31,140,236
+ForegroundVisited=127,140,141
 
 [Colors:Selection]
-BackgroundAlternate=29,153,243
-BackgroundNormal=0,85,212
-DecorationFocus=0,188,212
-DecorationHover=0,129,143
+BackgroundAlternate=38,50,56
+BackgroundNormal=16,166,212
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
 ForegroundActive=252,252,252
-ForegroundInactive=211,218,227
-ForegroundLink=0,188,212
-ForegroundNegative=255,0,127
-ForegroundNeutral=255,170,127
-ForegroundNormal=14,17,27
-ForegroundPositive=0,170,127
+ForegroundInactive=201,212,230
+ForegroundLink=253,188,75
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=201,212,230
+ForegroundPositive=31,140,236
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=29,33,49
-BackgroundNormal=21,25,40
-DecorationFocus=0,188,212
-DecorationHover=0,129,143
+BackgroundAlternate=38,50,56
+BackgroundNormal=38,50,56
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
 ForegroundActive=61,174,233
-ForegroundInactive=166,172,186
-ForegroundLink=0,188,212
-ForegroundNegative=255,0,127
-ForegroundNeutral=255,170,127
-ForegroundNormal=211,218,227
-ForegroundPositive=0,170,127
-ForegroundVisited=211,218,227
+ForegroundInactive=172,180,196
+ForegroundLink=41,128,185
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=237,240,242
+ForegroundPositive=31,140,236
+ForegroundVisited=127,140,141
 
 [Colors:View]
-BackgroundAlternate=20,26,33
-BackgroundNormal=21,25,40
-DecorationFocus=0,188,212
-DecorationHover=0,129,143
-ForegroundActive=0,193,228
-ForegroundInactive=166,172,186
-ForegroundLink=0,188,212
-ForegroundNegative=255,0,127
-ForegroundNeutral=255,170,127
-ForegroundNormal=211,218,227
-ForegroundPositive=0,170,127
-ForegroundVisited=211,218,227
+BackgroundAlternate=38,50,56
+BackgroundNormal=38,50,56
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
+ForegroundActive=61,174,233
+ForegroundInactive=172,180,196
+ForegroundLink=31,140,236
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=237,240,242
+ForegroundPositive=31,140,236
+ForegroundVisited=127,140,141
 
 [Colors:Window]
-BackgroundAlternate=29,33,49
-BackgroundNormal=21,25,40
-DecorationFocus=0,188,212
-DecorationHover=0,129,143
+BackgroundAlternate=38,50,56
+BackgroundNormal=38,50,56
+DecorationFocus=84,110,122
+DecorationHover=84,110,122
 ForegroundActive=61,174,233
-ForegroundInactive=166,172,186
-ForegroundLink=0,188,212
-ForegroundNegative=255,0,127
-ForegroundNeutral=255,170,127
-ForegroundNormal=211,218,227
-ForegroundPositive=0,170,127
-ForegroundVisited=211,218,227
+ForegroundInactive=172,180,196
+ForegroundLink=41,128,185
+ForegroundNegative=201,212,230
+ForegroundNeutral=246,116,0
+ForegroundNormal=183,186,195
+ForegroundPositive=31,140,236
+ForegroundVisited=127,140,141
+
+[DesktopIcons]
+Size=48
 
 [DirSelect Dialog]
-DirSelectDialog Size=1920,1031
-History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
+DirSelectDialog Size=1920,1030
+History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/下载/Edna,file:$HOME/下载/Edna,file:$HOME/下载/Edna/contents/layouts,file:$HOME/下载/Edna/contents,file:$HOME/下载/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]
 BrowserApplication=firefox.desktop
-ColorScheme=Imagination
-Name=Breath
+ColorScheme=Edna
+Name=Edna
 XftHintStyle=hintslight
 XftSubPixel=bgr
 dbfile=/home/godlovesjonny/.mozilla/firefox/q822uufr.default/places.sqlite
@@ -126,15 +143,15 @@ smallestReadableFont=Ubuntu Nerd Font,13,-1,5,50,0,0,0,0,0
 toolBarFont=Ubuntu Nerd Font,14,-1,5,25,1,0,0,0,0,Light Italic
 
 [Icons]
-Theme=McMojave-circle-dark
+Theme=Tela-circle-dark
 
 [KDE]
-LookAndFeelPackage=org.kde.breath.desktop
+LookAndFeelPackage=Edna
 ShowIconsInMenuItems=true
 ShowIconsOnPushButtons=true
 SingleClick=false
-contrast=4
-widgetStyle=Breeze
+contrast=7
+widgetStyle=kvantum-dark
 
 [KFileDialog Settings]
 Allow Expansion=false
@@ -160,10 +177,10 @@ ToolButtonStyle=TextBesideIcon
 ToolButtonStyleOtherToolbars=TextBesideIcon
 
 [WM]
-activeBackground=21,25,40
-activeBlend=21,25,40
+activeBackground=38,50,56
+activeBlend=183,186,195
 activeFont=Ubuntu Nerd Font,16,-1,5,50,1,0,0,0,0,Italic
-activeForeground=211,218,227
-inactiveBackground=21,25,40
-inactiveBlend=21,25,40
-inactiveForeground=166,172,186
+activeForeground=237,240,242
+inactiveBackground=38,50,56
+inactiveBlend=38,50,56
+inactiveForeground=172,180,196

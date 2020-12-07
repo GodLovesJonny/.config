@@ -1,3 +1,18 @@
-2020/11/17-11:11:37.646 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/11/17-11:11:37.647 3 Recovering log #276
-2020/11/17-11:11:37.647 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000276.log 
+2020/12/06-23:41:21.360 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/06-23:41:21.368 3 Recovering log #405
+2020/12/06-23:41:21.375 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000405.log 
+2020/12/07-00:00:33.375 11 Level-0 table #409: started
+2020/12/07-00:00:33.376 11 Level-0 table #409: 12827 bytes OK
+2020/12/07-00:00:33.377 11 Delete type=0 #405
+2020/12/07-00:43:33.360 30 Level-0 table #411: started
+2020/12/07-00:43:33.361 30 Level-0 table #411: 12054 bytes OK
+2020/12/07-00:43:33.362 30 Delete type=0 #408
+2020/12/07-00:43:33.362 2e Compacting 4@0 + 1@1 files
+2020/12/07-00:43:33.372 2e Generated table #412@0: 1049 keys, 742019 bytes
+2020/12/07-00:43:33.372 2e Compacted 4@0 + 1@1 files => 742019 bytes
+2020/12/07-00:43:33.373 2e compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/07-00:43:33.373 2e Delete type=2 #403
+2020/12/07-00:43:33.373 2e Delete type=2 #411
+2020/12/07-00:43:33.373 2e Delete type=2 #406
+2020/12/07-00:43:33.373 2e Delete type=2 #409
+2020/12/07-00:43:33.373 2e Delete type=2 #400

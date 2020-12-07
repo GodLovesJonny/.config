@@ -1,0 +1,5 @@
+2020/11/21-08:57:30.369 13c2 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.jszwfw.gov.cn_0.indexeddb.leveldb/MANIFEST-000001
+2020/11/21-09:10:39.365 13c5 Level-0 table #5: started
+2020/11/21-09:10:39.367 13c5 Level-0 table #5: 810 bytes OK
+2020/11/21-09:10:39.368 13c5 Delete type=0 #3
+2020/11/21-09:10:39.368 13c5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

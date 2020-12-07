@@ -4977,3 +4977,39 @@ ce79f628dc0a8c4169d6d27bf3f9a281|file:///home/godlovesjonny/Jonny/Ideas/ICME_ide
 	  Year                     = {2018},
 	  Journal                  = {BMVC}
 	}
+f541dad26dbe06a64d86e006b1347f58|file:///home/godlovesjonny/Jonny/Open-Source/autologin/wifiautologin.sh|6|11|v|sh
+	这里输入账号
+2f412bcc37d321eebc6deeb8c6c3d2e6|file:///home/godlovesjonny/Jonny/Open-Source/autologin/wifiautologin.sh|7|11|v|sh
+	这里输入密码
+4ba24b03c57f82da1559e5940eb6bedd|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|158|1|V|markdown
+	![150](/images/2020/01/wallpaper/150.jpg)
+e31b0ba91fe19fa415307fe3e490c628|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|159|1|V|markdown
+	![151](/images/2020/01/wallpaper/151.jpg)
+40a5f5de3f5c03b3ea7ad2cf817d9f5f|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|160|1|V|markdown
+	![152](/images/2020/01/wallpaper/152.jpg)
+c5ce4f2ce44ced8134c72fadb41d37bf|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|161|1|V|markdown
+	![153](/images/2020/01/wallpaper/153.jpg)
+2bf7cafd3ec3ca1cc454f671ddd0a814|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|162|1|V|markdown
+	![154](/images/2020/01/wallpaper/154.webp)
+8c54b07cd58b74d6bb62eb8e1a0bf23b|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Sharp4.md|163|1|V|markdown
+	![155](/images/2020/01/wallpaper/155.webp)
+d545b0a09b32e2cf92ee9f78fbb2b922|file:///home/godlovesjonny/.vimrc|427|1|V|vim
+	inoremap <C-h> **
+ff19dfcdd703fae0e9025137748b6e86|file:///home/godlovesjonny/.vimrc|359|1|v|vim
+	Plug 'matze/vim-move'
+	l
+6ab72dfb14df32bc13cd003c506da8b2|file:///home/godlovesjonny/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/LCRH-S06-JL.md|94|122|v|markdown
+	从根本上来说
+e4979c2921670e77505efbd43b15baa4|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/Numpy-clip.md|4|1|V|markdown
+	categories: ["Alchemy Of CV"]
+	tags: ["cv", "numpy", "python", "notes"]
+2ea9510c37f7f89e4941ff75f62f21cb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/latex_vspace.md|5|15|v|markdown
+	numpy
+6cc3a0d3085fe71a835d9211bb42ba3d|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/latex_vspace.md|2|14|v|markdown
+	vspace
+1d314a95689b6fcbe727538cfd26fa33|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/latex_vspace.md|19|18|v|markdown
+	The overall architecture of our proposed Adversarial Multi-space Embedding Network (AMEN) is illustrated in (a). Following an encoder-decoder manner, three spaces including a common space, a visual space and a textual space are learned to complement each other. Inter-modal and intra-modal reconstruction paradigms are utilized to realize the cross modal embedding while learning a stronger common space. Losses for training and similarities for testing AMEN are shown in (b). $ID$, $M$, $A$, $CC$ and $RCC$ denote the proposed ID loss, triplet ranking loss, adversarial loss, consistency constraint and reconstruction consistency constraint, respectively. $S_C$, $S_{TL}$, $S_{VL}$, $S_{VR}$ and $S_{TR}$ are the five corresponding cosine similarities employed to test AMEN.
+32747d0e8d00fc67449c968ba3eb8203|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/latex_vspace.md|16|9|V|markdown
+	        % \centerline{\epsfig{figure=image1.ps,width=8.5cm}}
+5ede10a6c19d1c446b9f2cb869b7e798|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2020/latex_vspace.md|16|49|v|markdown
+	ICME_model5

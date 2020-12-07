@@ -1,8 +1,11 @@
 [General]
-history=ya,setting,y,ea,32,122312,Kdenlive,kquitapp5 plasmashell && kstart5 plasmashell,kquitapp5 plasmashell && kstart plasmashell,Kon,p
+FreeFloating=false
+HistoryEnabled=true
+RetainPriorSearch=true
+history=setting,ya,y,ea,32,122312,Kdenlive,kquitapp5 plasmashell && kstart5 plasmashell,kquitapp5 plasmashell && kstart plasmashell,Kon,p
 
 [PlasmaRunnerManager]
-LaunchCounts=2 services_applications:systemsettings.desktop,1 services_com.teamviewer.TeamViewer.desktop,2 services_org.kde.konsole.desktop,1 services_deepin.com.qq.office.desktop,1 services_applications:msm_kde_notifier_settings.desktop,1 baloosearch_/home/godlovesjonny/文档/Tencent Files/All Users/TIM/Misc/QQSkin/329060396,2 services_applications:manjaro-settings-manager.desktop,1 services_org.kde.konversation.desktop,2 services_applications:EasyConnect.desktop,16 services_applications:org.kde.yakuake.desktop
+LaunchCounts=1 services_com.teamviewer.TeamViewer.desktop,2 services_org.kde.konsole.desktop,1 services_deepin.com.qq.office.desktop,1 services_org.kde.konversation.desktop,1 baloosearch_/home/godlovesjonny/文档/Tencent Files/All Users/TIM/Misc/QQSkin/329060396,3 services_applications:systemsettings.desktop,19 services_applications:org.kde.yakuake.desktop,3 services_applications:manjaro-settings-manager.desktop,1 services_applications:msm_kde_notifier_settings.desktop,2 services_applications:EasyConnect.desktop
 
 [Plugins]
 CharacterRunnerEnabled=true

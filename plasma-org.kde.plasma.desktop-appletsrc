@@ -57,6 +57,9 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.latte.spacer
 
+[Containments][1][Applets][122][Configuration]
+PreloadWeight=18
+
 [Containments][1][Applets][122][Configuration][ConfigDialog]
 DialogHeight=720
 DialogWidth=960
@@ -65,12 +68,33 @@ DialogWidth=960
 containmentType=Plasma
 lengthType=Expanding
 
+[Containments][1][Applets][125]
+immutability=1
+plugin=org.kde.plasma.betterinlineclock
+
+[Containments][1][Applets][125][Configuration]
+PreloadWeight=89
+
+[Containments][1][Applets][125][Configuration][Appearance]
+customSpacing=0
+enabledCalendarPlugins=/usr/lib/qt/plugins/plasmacalendarplugins/astronomicalevents.so,/usr/lib/qt/plugins/plasmacalendarplugins/holidaysevents.so
+fixedFont=true
+fontSize=20
+italicText=true
+showSeconds=true
+showWeekNumbers=true
+use24hFormat=2
+
+[Containments][1][Applets][125][Configuration][ConfigDialog]
+DialogHeight=720
+DialogWidth=960
+
 [Containments][1][Applets][2]
 immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][2][Configuration]
-PreloadWeight=100
+PreloadWeight=92
 
 [Containments][1][Applets][2][Configuration][ConfigDialog]
 DialogHeight=840
@@ -131,13 +155,16 @@ DialogWidth=1120
 
 [Containments][1][Applets][54][Configuration][General]
 bold=true
+noWindowText=Wish You A Good Day, My Lord.
+noWindowType=text
+useWindowTitleReplace=true
 
 [Containments][1][Applets][55]
 immutability=1
 plugin=org.kde.plasma_applet_dict
 
 [Containments][1][Applets][55][Configuration]
-PreloadWeight=75
+PreloadWeight=43
 
 [Containments][1][Applets][55][Configuration][ConfigDialog]
 DialogHeight=840
@@ -151,7 +178,7 @@ immutability=1
 plugin=fokus
 
 [Containments][1][Applets][56][Configuration]
-PreloadWeight=50
+PreloadWeight=18
 
 [Containments][1][Applets][56][Configuration][ConfigDialog]
 DialogHeight=840
@@ -167,23 +194,6 @@ plugin=org.kde.plasma.trash
 [Containments][1][Applets][6][Configuration]
 PreloadWeight=0
 
-[Containments][1][Applets][66]
-immutability=1
-plugin=org.kde.plasma.digitalclock
-
-[Containments][1][Applets][66][Configuration]
-PreloadWeight=100
-
-[Containments][1][Applets][66][Configuration][Appearance]
-italicText=true
-showDate=true
-showSeconds=true
-use24hFormat=2
-
-[Containments][1][Applets][66][Configuration][ConfigDialog]
-DialogHeight=840
-DialogWidth=1120
-
 [Containments][1][Applets][69]
 immutability=1
 plugin=org.kde.plasma.colorpicker
@@ -195,12 +205,15 @@ PreloadWeight=0
 DialogHeight=840
 DialogWidth=1120
 
+[Containments][1][Applets][69][Configuration][General]
+history=#f5f5f5
+
 [Containments][1][Applets][7]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=100
+PreloadWeight=84
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -226,14 +239,14 @@ favoritesPortedToKAstats=true
 global=Meta+A
 
 [Containments][1][ConfigDialog]
-DialogHeight=93
+DialogHeight=98
 DialogWidth=1920
 
 [Containments][1][Configuration]
 PreloadWeight=0
 
 [Containments][1][General]
-AppletOrder=2;3;54;122;46;7;66;56;55;70;69;6;5
+AppletOrder=2;3;54;122;46;7;125;56;55;70;69;6;5
 
 [Containments][119]
 activityId=
@@ -248,9 +261,15 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.kde.plasma.appmenu
 
+[Containments][119][Applets][120][Configuration]
+PreloadWeight=26
+
 [Containments][119][Applets][121]
 immutability=1
 plugin=org.communia.apptitle
+
+[Containments][119][Applets][121][Configuration]
+PreloadWeight=26
 
 [Containments][119][Applets][121][Configuration][ConfigDialog]
 DialogHeight=720
@@ -264,7 +283,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][119][Applets][123][Configuration]
-PreloadWeight=70
+PreloadWeight=46
 
 [Containments][119][Applets][123][Configuration][Appearance]
 italicText=true
@@ -279,6 +298,9 @@ DialogWidth=960
 immutability=1
 plugin=org.kde.latte.spacer
 
+[Containments][119][Applets][124][Configuration]
+PreloadWeight=26
+
 [Containments][119][Applets][124][Configuration][ConfigDialog]
 DialogHeight=720
 DialogWidth=960
@@ -290,6 +312,9 @@ lengthType=Expanding
 [Containments][119][ConfigDialog]
 DialogHeight=93
 DialogWidth=1920
+
+[Containments][119][Configuration]
+PreloadWeight=26
 
 [Containments][119][General]
 AppletOrder=120;121;124;123
@@ -327,8 +352,8 @@ DialogWidth=960
 PreloadWeight=0
 
 [Containments][67][General]
-ToolBoxButtonState=topcenter
-ToolBoxButtonX=692
+ToolBoxButtonState=top
+ToolBoxButtonX=605
 ToolBoxButtonY=26
 iconSize=0
 sortMode=-1
@@ -351,12 +376,15 @@ plugin=org.kde.plasma.folder
 wallpaperplugin=com.github.zren.inactiveblur
 
 [Containments][72][ConfigDialog]
-DialogHeight=1031
+DialogHeight=1030
 DialogWidth=1920
+
+[Containments][72][Configuration]
+PreloadWeight=18
 
 [Containments][72][General]
 ToolBoxButtonState=topcenter
-ToolBoxButtonX=768
+ToolBoxButtonX=676
 ToolBoxButtonY=24
 
 [Containments][72][Wallpaper][com.github.zren.inactiveblur][General]
@@ -366,6 +394,10 @@ Image=file:///home/godlovesjonny/.local/share/wallpapers/slides/Spiderman Homeco
 SlideInterval=3610
 SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
 Slideshow=true
+
+[Containments][72][Wallpaper][org.kde.image][General]
+Image=file:///usr/share/wallpapers/Path/contents/images/1920x1080.jpg
+SlidePaths=/home/godlovesjonny/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][8]
 activityId=
@@ -381,14 +413,14 @@ immutability=1
 plugin=org.kde.kdeconnect
 
 [Containments][8][Applets][36][Configuration]
-PreloadWeight=10
+PreloadWeight=0
 
 [Containments][8][Applets][37]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][37][Configuration]
-PreloadWeight=100
+PreloadWeight=84
 
 [Containments][8][Applets][38]
 immutability=1
@@ -402,28 +434,28 @@ immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=100
+PreloadWeight=76
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=100
+PreloadWeight=76
 
 [Containments][8][Applets][41]
 immutability=1
 plugin=org.kde.plasma.keyboardindicator
 
 [Containments][8][Applets][41][Configuration]
-PreloadWeight=15
+PreloadWeight=0
 
 [Containments][8][Applets][42]
 immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=100
+PreloadWeight=73
 
 [Containments][8][Applets][42][Configuration][ConfigDialog]
 DialogHeight=840
@@ -434,7 +466,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][43][Configuration]
-PreloadWeight=100
+PreloadWeight=73
 
 [Containments][8][Applets][43][Configuration][ConfigDialog]
 DialogHeight=840
@@ -445,7 +477,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=100
+PreloadWeight=76
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840
@@ -456,7 +488,7 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][45][Configuration]
-PreloadWeight=92
+PreloadWeight=68
 
 [Containments][8][Applets][48]
 immutability=1
@@ -474,7 +506,7 @@ immutability=1
 plugin=org.kde.plasma.nightcolorcontrol
 
 [Containments][8][Applets][57][Configuration]
-PreloadWeight=20
+PreloadWeight=0
 
 [Containments][8][Configuration]
 PreloadWeight=0
@@ -496,9 +528,15 @@ wallpaperplugin=org.kde.image
 immutability=1
 plugin=org.communia.apptitle
 
+[Containments][97][Applets][98][Configuration]
+PreloadWeight=18
+
 [Containments][97][ConfigDialog]
 DialogHeight=86
 DialogWidth=1920
+
+[Containments][97][Configuration]
+PreloadWeight=18
 
 [Containments][97][General]
 AppletOrder=98
@@ -515,6 +553,9 @@ wallpaperplugin=com.github.zren.inactiveblur
 [Containments][99][ConfigDialog]
 DialogHeight=720
 DialogWidth=960
+
+[Containments][99][Configuration]
+PreloadWeight=26
 
 [Containments][99][General]
 ToolBoxButtonState=topcenter
@@ -538,4 +579,4 @@ immutability=1
 
 [ScreenMapping]
 itemsOnDisabledScreens=
-screenMapping=desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/深度截图_选择区域_20200127185438.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/27_极限例题.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/左右极限例题.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200126111554.png,0
+screenMapping=desktop:/深度截图_选择区域_20200127190632.png,0,desktop:/深度截图_选择区域_20200131211954.png,0,desktop:/深度截图_选择区域_20200121153114.png,0,desktop:/左右极限例题.png,0,desktop:/深度截图_选择区域_20200120233900.png,0,desktop:/深度截图_选择区域_20200121155610.png,0,desktop:/深度截图_选择区域_20200122223531.png,0,desktop:/深度截图_选择区域_20200126111928.png,0,desktop:/深度截图_选择区域_20200127200426.png,0,desktop:/深度截图_选择区域_20200131211437.png,0,desktop:/23_极限例题.png,0,desktop:/深度截图_选择区域_20200211122010.png,0,desktop:/深度截图_选择区域_20200121153557.png,0,desktop:/深度截图_选择区域_20200129192316.png,0,desktop:/深度截图_选择区域_20200127185346.png,0,desktop:/深度截图_选择区域_20200127204727.png,0,desktop:/深度截图_选择区域_20200122224626.png,0,desktop:/深度截图_选择区域_20200122224120.png,0,desktop:/深度截图_选择区域_20200127184711.png,0,desktop:/深度截图_选择区域_20200131212059.png,0,desktop:/27_极限例题.png,0,desktop:/需要分左右8_极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200121155342.png,0,desktop:/深度截图_选择区域_20200127194346.png,0,desktop:/25_极限例题(避免泰勒的解法).png,0,desktop:/深度截图_选择区域_20200122223925.png,0,desktop:/深度截图_选择区域_20200126111554.png,0,desktop:/深度截图_选择区域_20200122205546.png,0,desktop:/需要分左右极限的主要三种问题.png,0,desktop:/深度截图_选择区域_20200120230152.png,0,desktop:/深度截图_选择区域_20200219193816.png,0,desktop:/深度截图_选择区域_20200121155420.png,0,desktop:/深度截图_选择区域_20200126111852.png,0,desktop:/深度截图_选择区域_20200125105658.png,0,desktop:/深度截图_选择区域_20200121155929.png,0,desktop:/深度截图_选择区域_20200121153419.png,0,desktop:/深度截图_选择区域_20200127185438.png,0

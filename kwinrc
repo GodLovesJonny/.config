@@ -14,14 +14,14 @@ Id_5=796cb3d9-3993-4b7a-af7e-d7d363b52958
 Id_6=d64da589-86e9-4437-a25c-bfc9a6c8327d
 Id_7=ce27c16c-fe41-47ed-b295-cd57e1efe9ac
 Id_8=0f1f7f0c-3b5e-4955-9166-eacd265b6087
-Name_1=Desktop1
-Name_2=Desktop2
-Name_3=Desktop3
-Name_4=Desktop4
-Name_5=Desktop5
-Name_6=Desktop6
-Name_7=Desktop7
-Name_8=Desktop8
+Name_1=1
+Name_2=2
+Name_3=3
+Name_4=4
+Name_5=5
+Name_6=6
+Name_7=7
+Name_8=8
 Number=8
 Rows=2
 
@@ -39,7 +39,7 @@ BorderActivate=9
 
 [Effect-FlipSwitch]
 TabBox=true
-TabBoxAlternative=false
+TabBoxAlternative=true
 
 [Effect-PresentWindows]
 BorderActivate=9
@@ -80,6 +80,7 @@ LongitudeAuto=-122.609
 NightTemperature=6500
 
 [Plugins]
+contrastEnabled=true
 coverswitchEnabled=true
 cubeEnabled=true
 cubeslideEnabled=true
@@ -88,11 +89,15 @@ grid-tilingEnabled=true
 highlightwindowEnabled=true
 krohnkiteEnabled=false
 kwin-script-tilingEnabled=false
+kwin4_effect_dimscreenEnabled=true
+kwin4_effect_eyeonscreenEnabled=true
 kwin4_effect_squashEnabled=false
+kwin4_effect_windowapertureEnabled=false
 magiclampEnabled=true
 minimizeallEnabled=false
 sheetEnabled=true
 slideEnabled=false
+slidebackEnabled=true
 synchronizeskipswitcherEnabled=false
 videowallEnabled=false
 windowgeometryEnabled=false
@@ -106,6 +111,7 @@ TextOnly=false
 dividerBound=0.3
 dividerStep=0.06
 gap=8
+ignoredNames=wine, yakuake, sunloginclient
 
 [TabBox]
 ActivitiesMode=1
@@ -116,7 +122,7 @@ DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breeze.desktop
+LayoutName=flipswitch
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
@@ -128,7 +134,7 @@ ActivitiesMode=1
 ApplicationsMode=0
 DesktopMode=1
 HighlightWindows=true
-LayoutName=org.kde.breeze.desktop
+LayoutName=flipswitch
 MinimizedMode=0
 MultiScreenMode=0
 ShowDesktopMode=0
@@ -174,4 +180,4 @@ ButtonsOnRight=SM
 CloseOnDoubleClickOnMenu=true
 ShowToolTips=true
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Breezemite_dark
+theme=__aurorae__svg__Edna

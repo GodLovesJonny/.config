@@ -1,6 +1,9 @@
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAPfAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEvv////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAPSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEpP////8AAAAAAAAAAA==
 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=34
 
 [Desktop Entry]
 FullScreen=false
@@ -15,49 +18,61 @@ detailViewIconSize=0
 :0.0 Width 1920=1912
 :0.0 XPosition=8
 :0.0 YPosition=26
-HDMI-1 Height 1080=1054
-HDMI-1 Width 1920=1920
-HDMI-1 Window-Maximized 1080x1920=true
-HDMI-1 XPosition=1928
+HDMI-1 Height 1080=1038
+HDMI-1 Width 1920=1904
+HDMI-1 XPosition=8
 HDMI-1 YPosition=34
 Height 1080=1036
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAPhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEjf////8AAAAAAAAAAA==
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAEgf////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1920=948
 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 Height 1080=1040
+eDP-1 HDMI-1 Height 1080=1038
 eDP-1 HDMI-1 Width 1920=1904
 eDP-1 HDMI-1 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 XPosition=1928
-eDP-1 HDMI-1 YPosition=557
-eDP-1 Height 1080=1038
+eDP-1 HDMI-1 XPosition=8
+eDP-1 HDMI-1 YPosition=32
+eDP-1 Height 1080=1054
 eDP-1 Width 1920=1904
 eDP-1 Window-Maximized 1080x1920=true
-eDP-1 XPosition=8
-eDP-1 YPosition=34
+eDP-1 XPosition=0
+eDP-1 YPosition=26
+
+[MainWindow][Toolbar annotationToolBar]
+IconSize=16
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=16
 
 [Notification Messages]
 ShowTabWarning=true
 
 [Recent Files]
 File1[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE).pdf
-File10[$e]=$HOME/Jonny/Latexs/ICME2021/v0.pdf
-File2[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Image-Text Retrieval with Semantic Consistency.pdf
-File3[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Variational Alignment of Latent Spaces (CVPRW 2020).pdf
-File4[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Text-based Person Search via Attribute-aided Matching (WACV 2020).pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/3394171.3413864 Hierarchical Gumbel Attention Network for Text-based Person Search (MM 2020).pdf
-File7[$e]=$HOME/Jonny/Temp-Storage/Spam/Paper/JEI-200265_online.pdf
-File8[$e]=$HOME/Jonny/Latexs/20200827/IEEEtran-csvt/bare_jrnl.pdf
-File9[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep adversarial metric learning for cross-modal retrieval.pdf
+File10[$e]=$HOME/Jonny/Paper-Lib/NTIRE/1802.08797 Residual Dense Network for Image Super-Resolution.pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/Read/Cross-Modal Cross-Domain Moment Alignment Network for Person Search (CVPR 2020).pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/3394171.3413864 Hierarchical Gumbel Attention Network for Text-based Person Search (MM 2020).pdf
+File4[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
+File5[$e]=$HOME/Jonny/Latexs/ICME2021/v0.pdf
+File6[$e]=$HOME/Jonny/Paper-Lib/ReID/1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
+File7[$e]=$HOME/下载/bv_cvxslides.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/NTIRE/GRDN Grouped Residual Dense Network for Real Image Denoising and GAN-Based Real-World Noise Modeling (CVPRW 2020).pdf
+File9[$e]=$HOME/Jonny/Paper-Lib/NTIRE/sensors-19-03809 Dynamic Residual Dense Network for Image Denoising.pdf
 Name1[$e]=Cross-Modal Attention With Semantic Consistence for Image-Text Matching (2020 IEEE).pdf
-Name10[$e]=v0.pdf
-Name2[$e]=Cross-Modal Image-Text Retrieval with Semantic Consistency.pdf
-Name3[$e]=Cross-Modal Variational Alignment of Latent Spaces (CVPRW 2020).pdf
-Name4[$e]=Text-based Person Search via Attribute-aided Matching (WACV 2020).pdf
-Name5[$e]=Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
-Name6[$e]=3394171.3413864 Hierarchical Gumbel Attention Network for Text-based Person Search (MM 2020).pdf
-Name7[$e]=JEI-200265_online.pdf
-Name8[$e]=bare_jrnl.pdf
-Name9[$e]=Deep adversarial metric learning for cross-modal retrieval.pdf
+Name10[$e]=1802.08797 Residual Dense Network for Image Super-Resolution.pdf
+Name2[$e]=Cross-Modal Cross-Domain Moment Alignment Network for Person Search (CVPR 2020).pdf
+Name3[$e]=3394171.3413864 Hierarchical Gumbel Attention Network for Text-based Person Search (MM 2020).pdf
+Name4[$e]=Deep Adversarial Graph Attention Convolution Network for Text-Based Person Search (MM 2019).pdf
+Name5[$e]=v0.pdf
+Name6[$e]=1906.09610 Improving Description-based Person Re-identification by Multi-granularity Image-text Alignments.pdf
+Name7[$e]=bv_cvxslides.pdf
+Name8[$e]=GRDN Grouped Residual Dense Network for Real Image Denoising and GAN-Based Real-World Noise Modeling (CVPRW 2020).pdf
+Name9[$e]=sensors-19-03809 Dynamic Residual Dense Network for Image Denoising.pdf
+
+[Toolbar annotationToolBar]
+IconSize=16
+
+[Toolbar mainToolBar]
+IconSize=16

@@ -1,10 +1,12 @@
 [DownloadDialog Settings]
 Height 1080=556
 Width 1920=700
+eDP-1 Height 1080=528
+eDP-1 Width 1920=700
 
 [KFileDialog Settings]
-Recent Files[$e]=close_planet.jpg,file:$HOME/.local/share/wallpapers/save/close_planet.jpg
-Recent URLs[$e]=file:$HOME/.local/share/wallpapers/save/
+Recent Files[$e]=close_planet.jpg,file:$HOME/.local/share/wallpapers/slides/bdmczemvg2r51.png,file:$HOME/.local/share/wallpapers/slides/b4elekxrdqp51.jpg,file:$HOME/.local/share/wallpapers/slides/ar0uw1kwoo261.jpg,file:$HOME/.local/share/wallpapers/slides/aqua_blue_night.jpg,file:$HOME/.local/share/wallpapers/slides/1563597616660.jpeg,file:$HOME/.local/share/wallpapers/slides/1563597613777.jpeg,file:$HOME/.local/share/wallpapers/slides/154783-winter-cottage-in-the-forest.jpg,file:$HOME/.local/share/wallpapers/slides/89ewztzlc7x51.jpg,file:$HOME/.local/share/wallpapers/slides/71yzlwbr8z161.jpg,file:$HOME/.local/share/wallpapers/slides/9f1xjap8sze51.jpg,file:$HOME/.local/share/wallpapers/slides/8izl0rxd3v161.jpg,file:$HOME/.local/share/wallpapers/slides/7x4r23683mn51.jpg,file:$HOME/.local/share/wallpapers/slides/3z7oda457sc51.jpg,file:$HOME/.local/share/wallpapers/slides/3be7t32qe4p51.jpg,file:$HOME/.local/share/wallpapers/slides/2mp7gif55qz51.jpg,file:$HOME/.local/share/wallpapers/save/169347-Fog in the Forest.jpg,file:$HOME/.local/share/wallpapers/save/168849-forest clearing.jpeg,file:$HOME/.local/share/wallpapers/save/156075-DSC_0019-elab-1600.jpg,file:$HOME/.local/share/wallpapers/save/154783-winter-cottage-in-the-forest.jpg,file:$HOME/.local/share/wallpapers/save/154576-pine-trees-covered-with-snow.jpg,file:$HOME/.local/share/wallpapers/save/152863-TwoTrees_1.jpg,file:$HOME/.local/share/wallpapers/save/147214-dsc_0080-1920.jpg,file:$HOME/.local/share/wallpapers/save/365-FHD.jpg,file:$HOME/.local/share/wallpapers/save/81Tjc6UFCblzFK354BFo4bSydR87V5MGWr0BtmW3z3Y.jpg,file:$HOME/.local/share/wallpapers/save/47rcdlecjeg51.jpg,file:$HOME/.local/share/wallpapers/save/25eymkwhlgk51.jpg,file:$HOME/.local/share/wallpapers/save/9aLh_qQ3z4fybQVUSERRtZUn_qOZgSsAvVGAvda5Ua0.jpg,file:$HOME/.local/share/wallpapers/save/2veek29rath51.jpg,file:$HOME/.local/share/wallpapers/save/1otauzjv35m51.jpg,file:$HOME/.local/share/wallpapers/save/0cidk26dp1u51.jpg,file:$HOME/.local/share/wallpapers/save/close_planet.jpg
+Recent URLs[$e]=file:$HOME/.local/share/wallpapers/save/,file:$HOME/.local/share/wallpapers/slides/
 detailViewIconSize=100
 
 [MainWindow]
@@ -13,15 +15,20 @@ HDMI-1 XPosition=8
 HDMI-1 YPosition=36
 Height 1080=700
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAB4AAAAQHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAQOAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1024
 Window-Maximized 1080x1920=true
 eDP-1 HDMI-1 Height 1080=1040
-eDP-1 HDMI-1 Width 1920=1904
+eDP-1 HDMI-1 Width 1920=948
 eDP-1 HDMI-1 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 XPosition=964
-eDP-1 HDMI-1 YPosition=32
+eDP-1 HDMI-1 XPosition=1928
+eDP-1 HDMI-1 YPosition=34
+eDP-1 Height 1080=1054
+eDP-1 Width 1920=1920
 eDP-1 Window-Maximized 1080x1920=true
 eDP-1 XPosition=8
 eDP-1 YPosition=34
+
+[systemsettings_sidebar_mode]
+HighlightNonDefaultSettings=true

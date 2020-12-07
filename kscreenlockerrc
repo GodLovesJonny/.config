@@ -5,8 +5,12 @@ update_info=kscreenlocker.upd:0.1-autolock
 Autolock=false
 
 [Greeter]
-Theme=org.kde.breath.desktop
+Theme=Edna
+WallpaperPlugin=org.kde.image
 
 [Greeter][Wallpaper][org.kde.image][General]
-Image=/home/godlovesjonny/.local/share/wallpapers/save/unknown_universe.jpg
+Image=/usr/share/backgrounds/manjaro-wallpapers-18.0/manjaro_maia_logo.jpg
 SlidePaths=/home/godlovesjonny/.local/share/wallpapers,/usr/share/wallpapers
+
+[Greeter][Wallpaper][org.kde.slideshow][General]
+SlidePaths=/home/godlovesjonny/.local/share/wallpapers/slides
