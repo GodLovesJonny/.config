@@ -1,0 +1,5 @@
+2020/12/08-13:00:04.837 ab20 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_ui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/08-13:00:08.875 ab20 Level-0 table #5: started
+2020/12/08-13:00:08.876 ab20 Level-0 table #5: 5338 bytes OK
+2020/12/08-13:00:08.877 ab20 Delete type=0 #3
+2020/12/08-13:00:08.877 ab20 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

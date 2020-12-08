@@ -1,21 +1,18 @@
-2020/12/07-13:52:03.168 5 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2020/12/07-13:52:03.170 5 Recovering log #214
-2020/12/07-13:52:03.171 5 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000214.log 
-2020/12/07-13:52:17.489 3 Level-0 table #218: started
-2020/12/07-13:52:17.491 3 Level-0 table #218: 50428 bytes OK
-2020/12/07-13:52:17.492 3 Delete type=0 #214
-2020/12/07-13:52:17.493 5 Compacting 4@0 + 1@1 files
-2020/12/07-13:52:17.497 5 Generated table #219@0: 2447 keys, 74143 bytes
-2020/12/07-13:52:17.497 5 Compacted 4@0 + 1@1 files => 74143 bytes
-2020/12/07-13:52:17.498 5 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/07-13:52:17.498 5 Delete type=2 #208
-2020/12/07-13:52:17.498 5 Delete type=2 #215
-2020/12/07-13:52:17.498 5 Delete type=2 #212
-2020/12/07-13:52:17.498 5 Delete type=2 #218
-2020/12/07-13:52:17.498 5 Delete type=2 #210
-2020/12/07-21:47:37.116 160 Level-0 table #221: started
-2020/12/07-21:47:37.118 160 Level-0 table #221: 51678 bytes OK
-2020/12/07-21:47:37.120 160 Delete type=0 #217
-2020/12/07-21:47:55.591 155 Level-0 table #223: started
-2020/12/07-21:47:55.592 155 Level-0 table #223: 20876 bytes OK
-2020/12/07-21:47:55.594 155 Delete type=0 #220
+2020/12/08-05:07:44.623 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2020/12/08-05:07:44.625 3 Recovering log #222
+2020/12/08-05:07:44.625 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000222.log 
+2020/12/08-05:07:54.905 3 Level-0 table #226: started
+2020/12/08-05:07:54.908 3 Level-0 table #226: 23128 bytes OK
+2020/12/08-05:07:54.911 3 Delete type=0 #222
+2020/12/08-12:52:27.150 13e Level-0 table #228: started
+2020/12/08-12:52:27.152 13e Level-0 table #228: 67395 bytes OK
+2020/12/08-12:52:27.154 13e Delete type=0 #225
+2020/12/08-12:52:27.154 13b Compacting 4@0 + 1@1 files
+2020/12/08-12:52:27.158 13b Generated table #229@0: 2494 keys, 137770 bytes
+2020/12/08-12:52:27.158 13b Compacted 4@0 + 1@1 files => 137770 bytes
+2020/12/08-12:52:27.160 13b compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/08-12:52:27.160 13b Delete type=2 #226
+2020/12/08-12:52:27.160 13b Delete type=2 #228
+2020/12/08-12:52:27.160 13b Delete type=2 #221
+2020/12/08-12:52:27.161 13b Delete type=2 #223
+2020/12/08-12:52:27.161 13b Delete type=2 #219

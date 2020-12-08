@@ -1,27 +1,3 @@
-2020/12/06-23:41:22.880 d529e Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2020/12/06-23:41:22.880 d529e Recovering log #485
-2020/12/06-23:41:22.881 d529e Reusing old log /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/000485.log 
-2020/12/06-23:46:49.174 d52a1 Level-0 table #490: started
-2020/12/06-23:46:49.175 d52a1 Level-0 table #490: 70232 bytes OK
-2020/12/06-23:46:49.176 d52a1 Delete type=0 #485
-2020/12/06-23:50:16.952 d7794 Level-0 table #492: started
-2020/12/06-23:50:16.954 d7794 Level-0 table #492: 69533 bytes OK
-2020/12/06-23:50:16.956 d7794 Delete type=0 #489
-2020/12/06-23:53:44.712 d52a1 Level-0 table #494: started
-2020/12/06-23:53:44.743 d52a1 Level-0 table #494: 69495 bytes OK
-2020/12/06-23:53:44.744 d52a1 Delete type=0 #491
-2020/12/06-23:57:13.604 d6680 Level-0 table #496: started
-2020/12/06-23:57:13.607 d6680 Level-0 table #496: 69493 bytes OK
-2020/12/06-23:57:13.609 d6680 Delete type=0 #493
-2020/12/06-23:57:13.609 d7794 Compacting 4@0 + 1@1 files
-2020/12/06-23:57:13.612 d7794 Generated table #497@0: 43 keys, 3797 bytes
-2020/12/06-23:57:13.612 d7794 Compacted 4@0 + 1@1 files => 3797 bytes
-2020/12/06-23:57:13.614 d7794 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/06-23:57:13.614 d7794 Delete type=2 #487
-2020/12/06-23:57:13.614 d7794 Delete type=2 #492
-2020/12/06-23:57:13.614 d7794 Delete type=2 #494
-2020/12/06-23:57:13.614 d7794 Delete type=2 #496
-2020/12/06-23:57:13.614 d7794 Delete type=2 #490
-2020/12/07-00:03:07.475 d7794 Level-0 table #499: started
-2020/12/07-00:03:07.476 d7794 Level-0 table #499: 68909 bytes OK
-2020/12/07-00:03:07.477 d7794 Delete type=0 #495
+2020/12/07-13:52:04.591 30b3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2020/12/07-13:52:04.591 30b3 Recovering log #498
+2020/12/07-13:52:04.593 30b3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/000498.log 

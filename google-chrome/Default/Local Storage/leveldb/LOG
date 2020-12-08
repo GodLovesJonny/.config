@@ -1,30 +1,39 @@
-2020/12/07-13:52:02.932 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/12/07-13:52:02.932 3 Recovering log #410
-2020/12/07-13:52:02.934 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000410.log 
-2020/12/07-14:05:17.690 d Level-0 table #415: started
-2020/12/07-14:05:17.691 d Level-0 table #415: 13598 bytes OK
-2020/12/07-14:05:17.692 d Delete type=0 #410
-2020/12/07-15:57:54.904 64 Level-0 table #417: started
-2020/12/07-15:57:54.907 64 Level-0 table #417: 10958 bytes OK
-2020/12/07-15:57:54.910 64 Delete type=0 #414
-2020/12/07-17:50:55.449 be Level-0 table #419: started
-2020/12/07-17:50:55.450 be Level-0 table #419: 9215 bytes OK
-2020/12/07-17:50:55.452 be Delete type=0 #416
-2020/12/07-19:10:55.456 fa Level-0 table #421: started
-2020/12/07-19:10:55.458 fa Level-0 table #421: 9337 bytes OK
-2020/12/07-19:10:55.461 fa Delete type=0 #418
-2020/12/07-19:10:55.461 f9 Compacting 4@0 + 1@1 files
-2020/12/07-19:10:55.473 f9 Generated table #422@0: 1049 keys, 742869 bytes
-2020/12/07-19:10:55.473 f9 Compacted 4@0 + 1@1 files => 742869 bytes
-2020/12/07-19:10:55.474 f9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/07-19:10:55.474 f9 Delete type=2 #415
-2020/12/07-19:10:55.475 f9 Delete type=2 #421
-2020/12/07-19:10:55.475 f9 Delete type=2 #419
-2020/12/07-19:10:55.475 f9 Delete type=2 #417
-2020/12/07-19:10:55.475 f9 Delete type=2 #412
-2020/12/07-21:46:05.891 160 Level-0 table #424: started
-2020/12/07-21:46:05.893 160 Level-0 table #424: 32757 bytes OK
-2020/12/07-21:46:05.895 160 Delete type=0 #420
-2020/12/07-21:47:16.571 155 Level-0 table #426: started
-2020/12/07-21:47:16.572 155 Level-0 table #426: 50367 bytes OK
-2020/12/07-21:47:16.574 155 Delete type=0 #423
+2020/12/08-05:07:44.445 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/08-05:07:44.446 3 Recovering log #425
+2020/12/08-05:07:44.446 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000425.log 
+2020/12/08-05:07:53.796 5 Level-0 table #429: started
+2020/12/08-05:07:53.799 5 Level-0 table #429: 40515 bytes OK
+2020/12/08-05:07:53.800 5 Delete type=0 #425
+2020/12/08-06:50:51.378 50 Level-0 table #431: started
+2020/12/08-06:50:51.380 50 Level-0 table #431: 13009 bytes OK
+2020/12/08-06:50:51.382 50 Delete type=0 #428
+2020/12/08-06:50:51.383 4c Compacting 4@0 + 1@1 files
+2020/12/08-06:50:51.397 4c Generated table #432@0: 1053 keys, 727562 bytes
+2020/12/08-06:50:51.397 4c Compacted 4@0 + 1@1 files => 727562 bytes
+2020/12/08-06:50:51.398 4c compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/08-06:50:51.400 4c Delete type=2 #422
+2020/12/08-06:50:51.400 4c Delete type=2 #426
+2020/12/08-06:50:51.400 4c Delete type=2 #429
+2020/12/08-06:50:51.400 4c Delete type=2 #424
+2020/12/08-06:50:51.400 4c Delete type=2 #431
+2020/12/08-09:04:35.346 b3 Level-0 table #434: started
+2020/12/08-09:04:35.347 b3 Level-0 table #434: 9350 bytes OK
+2020/12/08-09:04:35.348 b3 Delete type=0 #430
+2020/12/08-10:35:35.138 10e Level-0 table #436: started
+2020/12/08-10:35:35.140 10e Level-0 table #436: 9502 bytes OK
+2020/12/08-10:35:35.143 10e Delete type=0 #433
+2020/12/08-13:03:05.283 143 Level-0 table #438: started
+2020/12/08-13:03:05.285 143 Level-0 table #438: 15872 bytes OK
+2020/12/08-13:03:05.288 143 Delete type=0 #435
+2020/12/08-17:30:07.621 1f9 Level-0 table #440: started
+2020/12/08-17:30:07.622 1f9 Level-0 table #440: 9739 bytes OK
+2020/12/08-17:30:07.623 1f9 Delete type=0 #437
+2020/12/08-17:30:07.624 1d8 Compacting 4@0 + 1@1 files
+2020/12/08-17:30:07.632 1d8 Generated table #441@0: 1061 keys, 711794 bytes
+2020/12/08-17:30:07.632 1d8 Compacted 4@0 + 1@1 files => 711794 bytes
+2020/12/08-17:30:07.633 1d8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/08-17:30:07.634 1d8 Delete type=2 #436
+2020/12/08-17:30:07.634 1d8 Delete type=2 #440
+2020/12/08-17:30:07.634 1d8 Delete type=2 #432
+2020/12/08-17:30:07.634 1d8 Delete type=2 #434
+2020/12/08-17:30:07.634 1d8 Delete type=2 #438

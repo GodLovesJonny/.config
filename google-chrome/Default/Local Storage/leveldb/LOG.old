@@ -1,18 +1,30 @@
-2020/12/06-23:41:21.360 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/12/06-23:41:21.368 3 Recovering log #405
-2020/12/06-23:41:21.375 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000405.log 
-2020/12/07-00:00:33.375 11 Level-0 table #409: started
-2020/12/07-00:00:33.376 11 Level-0 table #409: 12827 bytes OK
-2020/12/07-00:00:33.377 11 Delete type=0 #405
-2020/12/07-00:43:33.360 30 Level-0 table #411: started
-2020/12/07-00:43:33.361 30 Level-0 table #411: 12054 bytes OK
-2020/12/07-00:43:33.362 30 Delete type=0 #408
-2020/12/07-00:43:33.362 2e Compacting 4@0 + 1@1 files
-2020/12/07-00:43:33.372 2e Generated table #412@0: 1049 keys, 742019 bytes
-2020/12/07-00:43:33.372 2e Compacted 4@0 + 1@1 files => 742019 bytes
-2020/12/07-00:43:33.373 2e compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/07-00:43:33.373 2e Delete type=2 #403
-2020/12/07-00:43:33.373 2e Delete type=2 #411
-2020/12/07-00:43:33.373 2e Delete type=2 #406
-2020/12/07-00:43:33.373 2e Delete type=2 #409
-2020/12/07-00:43:33.373 2e Delete type=2 #400
+2020/12/07-13:52:02.932 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2020/12/07-13:52:02.932 3 Recovering log #410
+2020/12/07-13:52:02.934 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000410.log 
+2020/12/07-14:05:17.690 d Level-0 table #415: started
+2020/12/07-14:05:17.691 d Level-0 table #415: 13598 bytes OK
+2020/12/07-14:05:17.692 d Delete type=0 #410
+2020/12/07-15:57:54.904 64 Level-0 table #417: started
+2020/12/07-15:57:54.907 64 Level-0 table #417: 10958 bytes OK
+2020/12/07-15:57:54.910 64 Delete type=0 #414
+2020/12/07-17:50:55.449 be Level-0 table #419: started
+2020/12/07-17:50:55.450 be Level-0 table #419: 9215 bytes OK
+2020/12/07-17:50:55.452 be Delete type=0 #416
+2020/12/07-19:10:55.456 fa Level-0 table #421: started
+2020/12/07-19:10:55.458 fa Level-0 table #421: 9337 bytes OK
+2020/12/07-19:10:55.461 fa Delete type=0 #418
+2020/12/07-19:10:55.461 f9 Compacting 4@0 + 1@1 files
+2020/12/07-19:10:55.473 f9 Generated table #422@0: 1049 keys, 742869 bytes
+2020/12/07-19:10:55.473 f9 Compacted 4@0 + 1@1 files => 742869 bytes
+2020/12/07-19:10:55.474 f9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/12/07-19:10:55.474 f9 Delete type=2 #415
+2020/12/07-19:10:55.475 f9 Delete type=2 #421
+2020/12/07-19:10:55.475 f9 Delete type=2 #419
+2020/12/07-19:10:55.475 f9 Delete type=2 #417
+2020/12/07-19:10:55.475 f9 Delete type=2 #412
+2020/12/07-21:46:05.891 160 Level-0 table #424: started
+2020/12/07-21:46:05.893 160 Level-0 table #424: 32757 bytes OK
+2020/12/07-21:46:05.895 160 Delete type=0 #420
+2020/12/07-21:47:16.571 155 Level-0 table #426: started
+2020/12/07-21:47:16.572 155 Level-0 table #426: 50367 bytes OK
+2020/12/07-21:47:16.574 155 Delete type=0 #423

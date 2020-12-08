@@ -73,7 +73,7 @@ immutability=1
 plugin=org.kde.plasma.betterinlineclock
 
 [Containments][1][Applets][125][Configuration]
-PreloadWeight=89
+PreloadWeight=100
 
 [Containments][1][Applets][125][Configuration][Appearance]
 customSpacing=0
@@ -94,7 +94,7 @@ immutability=1
 plugin=org.kde.plasma.kickoff
 
 [Containments][1][Applets][2][Configuration]
-PreloadWeight=92
+PreloadWeight=100
 
 [Containments][1][Applets][2][Configuration][ConfigDialog]
 DialogHeight=840
@@ -164,7 +164,7 @@ immutability=1
 plugin=org.kde.plasma_applet_dict
 
 [Containments][1][Applets][55][Configuration]
-PreloadWeight=43
+PreloadWeight=48
 
 [Containments][1][Applets][55][Configuration][ConfigDialog]
 DialogHeight=840
@@ -178,7 +178,7 @@ immutability=1
 plugin=fokus
 
 [Containments][1][Applets][56][Configuration]
-PreloadWeight=18
+PreloadWeight=23
 
 [Containments][1][Applets][56][Configuration][ConfigDialog]
 DialogHeight=840
@@ -213,7 +213,7 @@ immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][1][Applets][7][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 SystrayContainmentId=8
 
 [Containments][1][Applets][7][Configuration][Containments][8]
@@ -276,6 +276,8 @@ DialogHeight=720
 DialogWidth=960
 
 [Containments][119][Applets][121][Configuration][General]
+noWindowText=Wish You A Good Day, My Lord.
+noWindowType=text
 useWindowTitleReplace=true
 
 [Containments][119][Applets][123]
@@ -283,7 +285,7 @@ immutability=1
 plugin=org.kde.plasma.digitalclock
 
 [Containments][119][Applets][123][Configuration]
-PreloadWeight=46
+PreloadWeight=56
 
 [Containments][119][Applets][123][Configuration][Appearance]
 italicText=true
@@ -420,28 +422,28 @@ immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][8][Applets][37][Configuration]
-PreloadWeight=84
+PreloadWeight=100
 
 [Containments][8][Applets][38]
 immutability=1
 plugin=org.kde.plasma.printmanager
 
 [Containments][8][Applets][38][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][8][Applets][39]
 immutability=1
 plugin=org.kde.plasma.devicenotifier
 
 [Containments][8][Applets][39][Configuration]
-PreloadWeight=76
+PreloadWeight=86
 
 [Containments][8][Applets][40]
 immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][8][Applets][40][Configuration]
-PreloadWeight=76
+PreloadWeight=86
 
 [Containments][8][Applets][41]
 immutability=1
@@ -455,7 +457,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][8][Applets][42][Configuration]
-PreloadWeight=73
+PreloadWeight=98
 
 [Containments][8][Applets][42][Configuration][ConfigDialog]
 DialogHeight=840
@@ -466,7 +468,7 @@ immutability=1
 plugin=org.kde.plasma.battery
 
 [Containments][8][Applets][43][Configuration]
-PreloadWeight=73
+PreloadWeight=83
 
 [Containments][8][Applets][43][Configuration][ConfigDialog]
 DialogHeight=840
@@ -477,7 +479,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][8][Applets][44][Configuration]
-PreloadWeight=76
+PreloadWeight=86
 
 [Containments][8][Applets][44][Configuration][ConfigDialog]
 DialogHeight=840
@@ -488,14 +490,14 @@ immutability=1
 plugin=org.kde.plasma.bluetooth
 
 [Containments][8][Applets][45][Configuration]
-PreloadWeight=68
+PreloadWeight=73
 
 [Containments][8][Applets][48]
 immutability=1
 plugin=org.kde.plasma.mediacontroller
 
 [Containments][8][Applets][48][Configuration]
-PreloadWeight=0
+PreloadWeight=30
 
 [Containments][8][Applets][48][Configuration][ConfigDialog]
 DialogHeight=840
