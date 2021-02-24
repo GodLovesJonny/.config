@@ -1,30 +1,18 @@
-2020/12/07-13:52:02.932 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2020/12/07-13:52:02.932 3 Recovering log #410
-2020/12/07-13:52:02.934 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000410.log 
-2020/12/07-14:05:17.690 d Level-0 table #415: started
-2020/12/07-14:05:17.691 d Level-0 table #415: 13598 bytes OK
-2020/12/07-14:05:17.692 d Delete type=0 #410
-2020/12/07-15:57:54.904 64 Level-0 table #417: started
-2020/12/07-15:57:54.907 64 Level-0 table #417: 10958 bytes OK
-2020/12/07-15:57:54.910 64 Delete type=0 #414
-2020/12/07-17:50:55.449 be Level-0 table #419: started
-2020/12/07-17:50:55.450 be Level-0 table #419: 9215 bytes OK
-2020/12/07-17:50:55.452 be Delete type=0 #416
-2020/12/07-19:10:55.456 fa Level-0 table #421: started
-2020/12/07-19:10:55.458 fa Level-0 table #421: 9337 bytes OK
-2020/12/07-19:10:55.461 fa Delete type=0 #418
-2020/12/07-19:10:55.461 f9 Compacting 4@0 + 1@1 files
-2020/12/07-19:10:55.473 f9 Generated table #422@0: 1049 keys, 742869 bytes
-2020/12/07-19:10:55.473 f9 Compacted 4@0 + 1@1 files => 742869 bytes
-2020/12/07-19:10:55.474 f9 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/07-19:10:55.474 f9 Delete type=2 #415
-2020/12/07-19:10:55.475 f9 Delete type=2 #421
-2020/12/07-19:10:55.475 f9 Delete type=2 #419
-2020/12/07-19:10:55.475 f9 Delete type=2 #417
-2020/12/07-19:10:55.475 f9 Delete type=2 #412
-2020/12/07-21:46:05.891 160 Level-0 table #424: started
-2020/12/07-21:46:05.893 160 Level-0 table #424: 32757 bytes OK
-2020/12/07-21:46:05.895 160 Delete type=0 #420
-2020/12/07-21:47:16.571 155 Level-0 table #426: started
-2020/12/07-21:47:16.572 155 Level-0 table #426: 50367 bytes OK
-2020/12/07-21:47:16.574 155 Delete type=0 #423
+2021/01/07-19:06:40.172 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/01/07-19:06:40.173 3 Recovering log #674
+2021/01/07-19:06:40.173 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000674.log 
+2021/01/07-19:40:57.110 21 Level-0 table #678: started
+2021/01/07-19:40:57.113 21 Level-0 table #678: 11667 bytes OK
+2021/01/07-19:40:57.115 21 Delete type=0 #674
+2021/01/07-19:40:57.116 3 Compacting 4@0 + 1@1 files
+2021/01/07-19:40:57.251 3 Generated table #679@0: 1147 keys, 1014193 bytes
+2021/01/07-19:40:57.251 3 Compacted 4@0 + 1@1 files => 1014193 bytes
+2021/01/07-19:40:57.252 3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/07-19:40:57.253 3 Delete type=2 #675
+2021/01/07-19:40:57.253 3 Delete type=2 #670
+2021/01/07-19:40:57.253 3 Delete type=2 #668
+2021/01/07-19:40:57.253 3 Delete type=2 #678
+2021/01/07-19:40:57.253 3 Delete type=2 #673
+2021/01/07-22:12:56.958 92 Level-0 table #681: started
+2021/01/07-22:12:56.961 92 Level-0 table #681: 10053 bytes OK
+2021/01/07-22:12:56.967 92 Delete type=0 #677

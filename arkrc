@@ -6,21 +6,119 @@ Recent Files[$e]=file:$HOME,file:$HOME
 Recent URLs[$e]=file:$HOME/下载/
 detailViewIconSize=0
 
+[KTextEditor Document]
+Allow End of Line Detection=true
+BOM=false
+Backup Local=false
+Backup Prefix=
+Backup Remote=false
+Backup Suffix=~
+Encoding=UTF-8
+End of Line=0
+Indent On Backspace=true
+Indent On Tab=true
+Indent On Text Paste=false
+Indentation Mode=normal
+Indentation Width=4
+Keep Extra Spaces=false
+Line Length Limit=10000
+Newline at End of File=true
+On-The-Fly Spellcheck=false
+Overwrite Mode=false
+PageUp/PageDown Moves Cursor=false
+Remove Spaces=0
+ReplaceTabsDyn=true
+Show Spaces=0
+Show Tabs=true
+Smart Home=true
+Swap Directory=
+Swap File Mode=1
+Swap Sync Interval=15
+Tab Handling=2
+Tab Width=4
+Trailing Marker Size=1
+Word Wrap=false
+Word Wrap Column=80
+
+[KTextEditor Editor]
+Encoding Prober Type=1
+Fallback Encoding=ISO 8859-15
+
+[KTextEditor Renderer]
+Animate Bracket Matching=false
+Auto Color Theme Selection=true
+Color Theme=Breeze Dark
+Font=UbuntuMono Nerd Font,16,-1,5,50,0,0,0,0,0
+Show Indentation Lines=false
+Show Whole Bracket Expression=false
+Word Wrap Marker=false
+
+[KTextEditor View]
+Allow Mark Menu=true
+Auto Brackets=false
+Auto Center Lines=0
+Auto Completion=true
+Backspace Remove Composed Characters=false
+Bookmark Menu Sorting=0
+Bracket Match Preview=false
+Chars To Enclose Selection=
+Default Mark Type=1
+Dynamic Word Wrap=true
+Dynamic Word Wrap Align Indent=80
+Dynamic Word Wrap At Static Marker=false
+Dynamic Word Wrap Indicators=1
+Dynamic Wrap not at word boundaries=false
+Fold First Line=false
+Folding Bar=true
+Folding Preview=true
+Icon Bar=false
+Input Mode=0
+Keyword Completion=true
+Line Modification=false
+Line Numbers=true
+Maximum Search History Size=100
+Mouse Paste At Cursor Position=false
+Persistent Selection=false
+Scroll Bar Marks=false
+Scroll Bar Mini Map=true
+Scroll Bar Mini Map All=true
+Scroll Bar Mini Map Width=60
+Scroll Bar MiniMap=true
+Scroll Bar Preview=true
+Scroll Past End=false
+Search/Replace Flags=140
+Show Line Count=false
+Show Scrollbars=0
+Show Word Count=false
+Smart Copy Cut=false
+Text Drag And Drop=true
+User Sets Of Chars To Enclose Selection=
+Vi Input Mode Steal Keys=false
+Vi Relative Line Numbers=false
+Word Completion=true
+Word Completion Minimal Word Length=3
+Word Completion Remove Tail=true
+
 [MainWindow]
 Height 1080=1027
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAAA7QAAAHIAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAHHAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
 StatusBar=Disabled
 ToolBarsMovable=Disabled
 Width 1920=1920
 Window-Maximized 1080x1920=true
 eDP-1 HDMI-1 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 XPosition=964
-eDP-1 HDMI-1 YPosition=556
+eDP-1 HDMI-1 XPosition=2884
+eDP-1 HDMI-1 YPosition=34
 eDP-1 Window-Maximized 1080x1920=true
+eDP-1 Window-Maximized 1920x1080=true
 eDP-1 XPosition=8
 eDP-1 YPosition=557
 splitterSizes=629,315
+
+[Open-with settings]
+CompletionMode=1
+History=vim
 
 [Recent Files]
 File1[$e]=$HOME/Jonny/Own-Notes/操作系统原理课件/操作系统习题集.doc
@@ -29,13 +127,24 @@ File3[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Docu
 File4[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/csrnet.rar
 File5[$e]=$HOME/文档/深度学习应用技术报告2020.11.docx
 File6[$e]=$HOME/文档/经历.docx
-File7[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/我不上你的当》(2).docx
-File8[$e]=$HOME/下载/org.kde.fancyclock.tar.gz
+File7[$e]=$HOME/文档/Tencent Files/1085845291/FileRecv/MobileFile/demo.zip
+File8[$e]=$HOME/文档/Tencent Files/1085845291/FileRecv/MobileFile/国家奖学金申请书.docx
+File9[$e]=$HOME/Jonny/Latexs/acmart-primary.zip
 Name1[$e]=操作系统习题集.doc
 Name2[$e]=IEEEtran-csvt.zip
 Name3[$e]=IEEEtran-csvt-v2.zip
 Name4[$e]=csrnet.rar
 Name5[$e]=深度学习应用技术报告2020.11.docx
 Name6[$e]=经历.docx
-Name7[$e]=我不上你的当》(2).docx
-Name8[$e]=org.kde.fancyclock.tar.gz
+Name7[$e]=demo.zip
+Name8[$e]=国家奖学金申请书.docx
+Name9[$e]=acmart-primary.zip
+
+[Viewer]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAcQAAABiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+eDP-1 HDMI-1 Height 1080=158
+eDP-1 HDMI-1 Width 1920=452
+eDP-1 HDMI-1 XPosition=8
+eDP-1 HDMI-1 YPosition=556

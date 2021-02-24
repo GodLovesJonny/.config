@@ -9,7 +9,7 @@ Theme=Edna
 WallpaperPlugin=org.kde.image
 
 [Greeter][Wallpaper][org.kde.image][General]
-Image=/usr/share/backgrounds/manjaro-wallpapers-18.0/manjaro_maia_logo.jpg
+Image=/home/godlovesjonny/.local/share/wallpapers/save/pylyusn9l0b61.webp
 SlidePaths=/home/godlovesjonny/.local/share/wallpapers,/usr/share/wallpapers
 
 [Greeter][Wallpaper][org.kde.slideshow][General]

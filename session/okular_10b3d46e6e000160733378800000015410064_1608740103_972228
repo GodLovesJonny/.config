@@ -1,0 +1,22 @@
+[1]
+ActiveTab=2
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/Books/Reading/Mathematics for Machine Learning.pdf,file:$HOME/Jonny/Paper-Lib/Books/Reading/deep_learning.pdf,file:$HOME/Jonny/Paper-Lib/Books/Reading/Probabilistic Graphical Models - Principles and Techniques.pdf,file:$HOME/下载/bv_cvxslides.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+State=AAAA/wAAAAD9AAAAAAAAB3AAAAPSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAFI/////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1080x1920=true
+eDP-1 XPosition=8
+eDP-1 YPosition=34
+
+[WindowProperties1][Toolbar annotationToolBar]
+IconSize=16
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

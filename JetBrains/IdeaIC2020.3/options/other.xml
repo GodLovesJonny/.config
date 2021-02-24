@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1mdJrVUQRa1CUCD1wdPTikyPIyj">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IC-203.5981.155-4643f047e2d46bb6f1b4ef14492b53dd20caa6c85b79a67e1be005697493918c" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/resume" />
+    <property name="file.gist.reindex.count" value="12" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IC-203.5981.155" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ5981.133" />
+    <property name="lastSeenTip" value="neue-AnnotationsAndDiffs.html" />
+    <property name="lastTimeTipsWereShown" value="1610067509313" />
+    <property name="last_opened_file_path" value="$USER_HOME$/resume" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1610067503678" />
+    <property name="seenTips" value="neue-AnnotationsAndDiffs.html" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+</application>

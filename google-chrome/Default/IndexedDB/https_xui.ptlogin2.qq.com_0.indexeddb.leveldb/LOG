@@ -1,5 +1,15 @@
-2020/10/22-16:42:38.019 63f80 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/10/22-16:43:26.086 63f80 Level-0 table #5: started
-2020/10/22-16:43:26.087 63f80 Level-0 table #5: 4275 bytes OK
-2020/10/22-16:43:26.088 63f80 Delete type=0 #3
-2020/10/22-16:43:26.088 63f80 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/02-19:30:03.412 74670 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/01/02-19:30:03.412 74670 Recovering log #7
+2021/01/02-19:30:03.412 74670 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_xui.ptlogin2.qq.com_0.indexeddb.leveldb/000007.log 
+2021/01/02-19:30:48.124 74670 Level-0 table #12: started
+2021/01/02-19:30:48.126 74670 Level-0 table #12: 5262 bytes OK
+2021/01/02-19:30:48.129 74670 Delete type=0 #7
+2021/01/02-19:30:48.129 74670 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/01/02-19:30:48.129 74670 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01%\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00"@' @ 483 : 1
+2021/01/02-19:30:48.129 74670 Compacting 1@1 + 1@2 files
+2021/01/02-19:30:48.130 74670 Generated table #13@1: 114 keys, 4246 bytes
+2021/01/02-19:30:48.130 74670 Compacted 1@1 + 1@2 files => 4246 bytes
+2021/01/02-19:30:48.131 74670 compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/01/02-19:30:48.131 74670 Delete type=2 #9
+2021/01/02-19:30:48.131 74670 Delete type=2 #12
+2021/01/02-19:30:48.131 74670 Manual compaction at level-1 from '\x00\x01\x01%\x03\x00\x00\x00\x00\x00\x00\x00\x00\x00\x03\x00\x00\x00\x00\x00\x00"@' @ 483 : 1 .. (end); will stop at (end)

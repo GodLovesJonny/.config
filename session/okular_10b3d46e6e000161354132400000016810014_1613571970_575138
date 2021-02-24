@@ -1,0 +1,23 @@
+[1]
+ActiveTab=0
+Urls[$e]=file:$HOME/Jonny/Paper-Lib/ReID/202009/Tops/VTR/2102.07074 TransGAN: Two Transformers Can Make One Strong GAN.pdf,file:$HOME/下载/ASR is all you need: cross-modal distillation for lip reading.pdf
+
+[Number]
+NumberOfWindows=1
+
+[WindowProperties1]
+ClassName=Shell
+MenuBar=Disabled
+ObjectName=okular::Shell#1
+RestorePositionForNextInstance=false
+State=AAAA/wAAAAD9AAAAAAAAA7QAAAPSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAADdv////8AAAAAAAAAAA==
+ToolBarsMovable=Disabled
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=964
+eDP-1 YPosition=34
+
+[WindowProperties1][Toolbar annotationToolBar]
+IconSize=16
+
+[WindowProperties1][Toolbar mainToolBar]
+IconSize=16

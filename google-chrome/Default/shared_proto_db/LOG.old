@@ -1,3 +1,63 @@
-2020/12/07-13:52:04.591 30b3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
-2020/12/07-13:52:04.591 30b3 Recovering log #498
-2020/12/07-13:52:04.593 30b3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/000498.log 
+2021/01/07-19:06:41.406 607ef Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/MANIFEST-000001
+2021/01/07-19:06:41.407 607ef Recovering log #2143
+2021/01/07-19:06:41.407 607ef Reusing old log /home/godlovesjonny/.config/google-chrome/Default/shared_proto_db/002143.log 
+2021/01/07-19:11:20.550 607d3 Level-0 table #2147: started
+2021/01/07-19:11:20.553 607d3 Level-0 table #2147: 77933 bytes OK
+2021/01/07-19:11:20.555 607d3 Delete type=0 #2143
+2021/01/07-19:11:20.555 607ef Compacting 4@0 + 1@1 files
+2021/01/07-19:11:20.558 607ef Generated table #2148@0: 131 keys, 10318 bytes
+2021/01/07-19:11:20.558 607ef Compacted 4@0 + 1@1 files => 10318 bytes
+2021/01/07-19:11:20.559 607ef compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/07-19:11:20.559 607ef Delete type=2 #2147
+2021/01/07-19:11:20.559 607ef Delete type=2 #2144
+2021/01/07-19:11:20.559 607ef Delete type=2 #2142
+2021/01/07-19:11:20.559 607ef Delete type=2 #2140
+2021/01/07-19:11:20.559 607ef Delete type=2 #2138
+2021/01/07-19:17:24.550 607ed Level-0 table #2150: started
+2021/01/07-19:17:24.552 607ed Level-0 table #2150: 77574 bytes OK
+2021/01/07-19:17:24.553 607ed Delete type=0 #2146
+2021/01/07-19:20:35.366 607e2 Level-0 table #2152: started
+2021/01/07-19:20:35.368 607e2 Level-0 table #2152: 78199 bytes OK
+2021/01/07-19:20:35.369 607e2 Delete type=0 #2149
+2021/01/07-19:23:46.615 607e2 Level-0 table #2154: started
+2021/01/07-19:23:46.618 607e2 Level-0 table #2154: 78128 bytes OK
+2021/01/07-19:23:46.620 607e2 Delete type=0 #2151
+2021/01/07-19:26:54.722 607e2 Level-0 table #2156: started
+2021/01/07-19:26:54.724 607e2 Level-0 table #2156: 77330 bytes OK
+2021/01/07-19:26:54.726 607e2 Delete type=0 #2153
+2021/01/07-19:26:54.726 68918 Compacting 4@0 + 1@1 files
+2021/01/07-19:26:54.730 68918 Generated table #2157@0: 132 keys, 10553 bytes
+2021/01/07-19:26:54.730 68918 Compacted 4@0 + 1@1 files => 10553 bytes
+2021/01/07-19:26:54.731 68918 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/07-19:26:54.731 68918 Delete type=2 #2156
+2021/01/07-19:26:54.731 68918 Delete type=2 #2154
+2021/01/07-19:26:54.731 68918 Delete type=2 #2148
+2021/01/07-19:26:54.731 68918 Delete type=2 #2152
+2021/01/07-19:26:54.731 68918 Delete type=2 #2150
+2021/01/07-19:30:05.888 607ed Level-0 table #2159: started
+2021/01/07-19:30:05.889 607ed Level-0 table #2159: 79232 bytes OK
+2021/01/07-19:30:05.892 607ed Delete type=0 #2155
+2021/01/07-19:33:16.702 6b44d Level-0 table #2161: started
+2021/01/07-19:33:16.704 6b44d Level-0 table #2161: 79188 bytes OK
+2021/01/07-19:33:16.705 6b44d Delete type=0 #2158
+2021/01/07-22:25:38.031 b20ce Level-0 table #2163: started
+2021/01/07-22:25:38.034 b20ce Level-0 table #2163: 78786 bytes OK
+2021/01/07-22:25:38.037 b20ce Delete type=0 #2160
+2021/01/08-00:31:49.407 e8684 Level-0 table #2165: started
+2021/01/08-00:31:49.409 e8684 Level-0 table #2165: 73909 bytes OK
+2021/01/08-00:31:49.410 e8684 Delete type=0 #2162
+2021/01/08-00:31:49.411 e93d1 Compacting 4@0 + 1@1 files
+2021/01/08-00:31:49.413 e93d1 Generated table #2166@0: 134 keys, 10905 bytes
+2021/01/08-00:31:49.413 e93d1 Compacted 4@0 + 1@1 files => 10905 bytes
+2021/01/08-00:31:49.414 e93d1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/01/08-00:31:49.414 e93d1 Delete type=2 #2163
+2021/01/08-00:31:49.414 e93d1 Delete type=2 #2165
+2021/01/08-00:31:49.414 e93d1 Delete type=2 #2157
+2021/01/08-00:31:49.414 e93d1 Delete type=2 #2159
+2021/01/08-00:31:49.414 e93d1 Delete type=2 #2161
+2021/01/08-00:39:15.564 e722b Level-0 table #2168: started
+2021/01/08-00:39:15.567 e722b Level-0 table #2168: 68108 bytes OK
+2021/01/08-00:39:15.568 e722b Delete type=0 #2164
+2021/01/08-00:46:41.220 ec7c4 Level-0 table #2170: started
+2021/01/08-00:46:41.223 ec7c4 Level-0 table #2170: 67503 bytes OK
+2021/01/08-00:46:41.224 ec7c4 Delete type=0 #2167

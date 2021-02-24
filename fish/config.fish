@@ -19,3 +19,5 @@ alias le='exa'
 alias lel='exa -l'
 alias startsun='systemctl start runsunloginclient'
 alias cdt='cd ~/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/'
+
+thefuck --alias | source

@@ -2,6 +2,6 @@
 Window-Maximized 1080x1920=true
 
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/Jonny/Latexs/Turorial/hello.tex,file:$HOME/Jonny/Latexs/ICME2021/jonniewayy.bib,file:$HOME/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib,file:$HOME/Jonny/Latexs/pose-gan/response/response_to_reviewers.tex,file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.tex,file:$HOME/Jonny/Latexs/jei-IMGNet_Response/document.tex,file:$HOME/Jonny/Latexs/ECCV Rebuttal/document.tex,file:$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.tex,file:$HOME/Jonny/Latexs/CPRNet/大作业报告.tex,file:$HOME/Jonny/Latexs/PyramidReid/document.tex,file:$HOME/Jonny/Latexs/Turorial/MAGNet_Experiment.tex
-Recent URLs[$e]=file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/,file:$HOME/Jonny/Latexs/pose-gan/,file:$HOME/Jonny/Latexs/,file:$HOME/Jonny/Latexs/ICME2021/
+Recent Files[$e]=file:$HOME/Jonny/Latexs/Turorial/hello.tex,file:$HOME/Jonny/Latexs/SIGIR 2021 Space/v1/jonniewayy.bib,file:$HOME/Jonny/Latexs/ICME2021/jonniewayy.bib,file:$HOME/Jonny/Latexs/20200827/IEEEtran-csvt/egbib.bib,file:$HOME/Jonny/Latexs/pose-gan/response/response_to_reviewers.tex,file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/IMGNet.tex,file:$HOME/Jonny/Latexs/jei-IMGNet_Response/document.tex,file:$HOME/Jonny/Latexs/ECCV Rebuttal/document.tex,file:$HOME/Jonny/Latexs/eccv2020kit-1/eccv2020kit/v1.tex,file:$HOME/Jonny/Latexs/CPRNet/大作业报告.tex,file:$HOME/Jonny/Latexs/PyramidReid/document.tex,file:$HOME/Jonny/Latexs/Turorial/MAGNet_Experiment.tex
+Recent URLs[$e]=file:$HOME/Jonny/Latexs/spie-journal-papers-latex1/,file:$HOME/Jonny/Latexs/pose-gan/,file:$HOME/Jonny/Latexs/,file:$HOME/Jonny/Latexs/ICME2021/,file:$HOME/Jonny/Latexs/SIGIR 2021 Space/v1/,file:$HOME/文档/
 detailViewIconSize=16

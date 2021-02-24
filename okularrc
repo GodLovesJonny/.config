@@ -20,24 +20,27 @@ detailViewIconSize=0
 :0.0 YPosition=26
 HDMI-1 Height 1080=1038
 HDMI-1 Width 1920=1904
-HDMI-1 XPosition=8
+HDMI-1 Window-Maximized 1080x1920=true
+HDMI-1 XPosition=1928
 HDMI-1 YPosition=34
 Height 1080=1036
 MenuBar=Disabled
 RestorePositionForNextInstance=false
-State=AAAA/wAAAAD9AAAAAAAAB3AAAAPSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAExv////8AAAAAAAAAAA==
+State=AAAA/wAAAAD9AAAAAAAAB4AAAAPiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAIAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAAAAAAIgBhAG4AbgBvAHQAYQB0AGkAbwBuAFQAbwBvAGwAQgBhAHIBAAAE+P////8AAAAAAAAAAA==
 ToolBarsMovable=Disabled
 Width 1920=948
 Window-Maximized 1080x1920=true
-eDP-1 HDMI-1 Height 1080=1038
+eDP-1 HDMI-1 Height 1080=1040
 eDP-1 HDMI-1 Width 1920=1904
-eDP-1 HDMI-1 XPosition=1928
-eDP-1 HDMI-1 YPosition=34
-eDP-1 Height 1080=1038
-eDP-1 Width 1920=1904
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
+eDP-1 HDMI-1 XPosition=8
+eDP-1 HDMI-1 YPosition=32
+eDP-1 Height 1080=1054
+eDP-1 Width 1920=1920
 eDP-1 Window-Maximized 1080x1920=true
-eDP-1 XPosition=8
-eDP-1 YPosition=34
+eDP-1 Window-Maximized 1920x1080=true
+eDP-1 XPosition=0
+eDP-1 YPosition=26
 
 [MainWindow][Toolbar annotationToolBar]
 IconSize=16
@@ -49,26 +52,26 @@ IconSize=16
 ShowTabWarning=true
 
 [Recent Files]
-File1[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/GAN/Learning Cross-Modal Embeddings With Adversarial Networks for Cooking Recipes and Food Images (CVPR 2019).pdf
-File10[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Semantic Consistency Cross-Modal Retrieval With Semi-Supervised Graph Regularization.pdf
-File2[$e]=$HOME/Jonny/Paper-Lib/NTIRE/1802.08797 Residual Dense Network for Image Super-Resolution.pdf
-File3[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/终身成长.pdf
-File4[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/Vim实用技巧.pdf
-File5[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/Mathematics for Machine Learning.pdf
-File6[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/deep_learning.pdf
-File7[$e]=$HOME/Jonny/Paper-Lib/NTIRE/GRDN Grouped Residual Dense Network for Real Image Denoising and GAN-Based Real-World Noise Modeling (CVPRW 2020).pdf
-File8[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Deep Supervised Cross-Modal Retrieval (CVPR 2019).pdf
-File9[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Cross-Modal/To Read/Perfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval.pdf
-Name1[$e]=Learning Cross-Modal Embeddings With Adversarial Networks for Cooking Recipes and Food Images (CVPR 2019).pdf
-Name10[$e]=Semantic Consistency Cross-Modal Retrieval With Semi-Supervised Graph Regularization.pdf
-Name2[$e]=1802.08797 Residual Dense Network for Image Super-Resolution.pdf
-Name3[$e]=终身成长.pdf
-Name4[$e]=Vim实用技巧.pdf
-Name5[$e]=Mathematics for Machine Learning.pdf
-Name6[$e]=deep_learning.pdf
-Name7[$e]=GRDN Grouped Residual Dense Network for Real Image Denoising and GAN-Based Real-World Noise Modeling (CVPRW 2020).pdf
-Name8[$e]=Deep Supervised Cross-Modal Retrieval (CVPR 2019).pdf
-Name9[$e]=Perfect Match: Self-Supervised Embeddings for Cross-Modal Retrieval.pdf
+File1[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Keys/1711.05535 Dual-Path Convolutional Image-Text Embeddingswith Instance Loss.pdf
+File10[$e]=$HOME/下载/ASR is all you need cross-modal distillation for lip reading.pdf
+File2[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Keys/1910.10111 Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification(ICCV 2019).pdf
+File3[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Keys/Improving Text-based Person Search by Spatial Matching and Adaptive Threshold (WACV 2018).pdf
+File4[$e]=$HOME/Jonny/Latexs/SIGIR 2021 Space/v1/v1.pdf
+File5[$e]=$HOME/Jonny/Paper-Lib/ReID/202009/Keys/Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf
+File6[$e]=$HOME/下载/健康情况声明书.pdf
+File7[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/Mathematics for Machine Learning.pdf
+File8[$e]=$HOME/Jonny/Paper-Lib/Books/Reading/deep_learning.pdf
+File9[$e]=$HOME/下载/bv_cvxslides.pdf
+Name1[$e]=1711.05535 Dual-Path Convolutional Image-Text Embeddingswith Instance Loss.pdf
+Name10[$e]=ASR is all you need cross-modal distillation for lip reading.pdf
+Name2[$e]=1910.10111 Beyond Human Parts: Dual Part-Aligned Representations for Person Re-Identification(ICCV 2019).pdf
+Name3[$e]=Improving Text-based Person Search by Spatial Matching and Adaptive Threshold (WACV 2018).pdf
+Name4[$e]=v1.pdf
+Name5[$e]=Pose-Guided Joint Global and Attentive Local Matching Network for Text-Based Person Search.pdf
+Name6[$e]=健康情况声明书.pdf
+Name7[$e]=Mathematics for Machine Learning.pdf
+Name8[$e]=deep_learning.pdf
+Name9[$e]=bv_cvxslides.pdf
 
 [Toolbar annotationToolBar]
 IconSize=16

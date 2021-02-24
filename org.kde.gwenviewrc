@@ -1,7 +1,13 @@
 [MainWindow]
 Height 1080=1036
 Width 1920=1904
+eDP-1 HDMI-1 Height 1080=1038
+eDP-1 HDMI-1 Width 1920=1904
+eDP-1 HDMI-1 XPosition=1928
+eDP-1 HDMI-1 YPosition=34
 
 [UrlForBaseUrl]
-0key=file:///run/media/godlovesjonny/̨______/
-0value=file:///run/media/godlovesjonny/̨______
+0key=
+0value=
+1key=file:///run/media/godlovesjonny/My Passport/
+1value=file:///run/media/godlovesjonny/My Passport/JonnieWayy

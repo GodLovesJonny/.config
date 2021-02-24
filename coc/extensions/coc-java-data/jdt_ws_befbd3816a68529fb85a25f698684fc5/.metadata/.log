@@ -1,0 +1,827 @@
+!SESSION 2021-01-08 08:45:27.557 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=14.0.2
+java.vendor=N/A
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=zh_CN
+Command-line arguments:  -data /home/godlovesjonny/.config/coc/extensions/coc-java-data/jdt_ws_befbd3816a68529fb85a25f698684fc5
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:28.807
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:28.948
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:28.972
+!MESSAGE >> initialize
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:28.980
+!MESSAGE Initializing Java Language Server 0.68.0.202101061930
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.002
+!MESSAGE Static Commands: []
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.002
+!MESSAGE Non-Static Commands: [java.edit.organizeImports, java.project.refreshDiagnostics, java.project.import, java.project.removeFromSourcePath, java.project.listSourcePaths, java.project.provideSemanticTokens, java.project.resolveStackTraceLocation, java.project.getAll, java.project.isTestFile, java.project.getClasspaths, java.project.getSemanticTokensLegend, java.project.getSettings, java.project.updateSourceAttachment, java.project.resolveSourceAttachment, java.project.addToSourcePath]
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.015
+!MESSAGE >> initialized
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.037
+!MESSAGE Creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.117
+!MESSAGE Finished creating the Java project jdt.ls-java-project
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-01-08 08:45:29.558
+!MESSAGE Failed to read package name from file:/home/godlovesjonny/Jonny/Java/Hello.java
+!STACK 0
+java.io.FileNotFoundException: /home/godlovesjonny/Jonny/Java/Hello.java (没有那个文件或目录)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:212)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:154)
+	at com.google.common.io.Files$FileByteSource.openStream(Files.java:130)
+	at com.google.common.io.Files$FileByteSource.read(Files.java:154)
+	at com.google.common.io.ByteSource$AsCharSource.read(ByteSource.java:470)
+	at com.google.common.io.Files.toString(Files.java:254)
+	at org.eclipse.jdt.ls.core.internal.JDTUtils.getPackageName(JDTUtils.java:291)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:195)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:173)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.getPackageName(InvisibleProjectImporter.java:163)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.loadInvisibleProject(InvisibleProjectImporter.java:104)
+	at org.eclipse.jdt.ls.core.internal.managers.InvisibleProjectImporter.importToWorkspace(InvisibleProjectImporter.java:87)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.importProjects(ProjectsManager.java:115)
+	at org.eclipse.jdt.ls.core.internal.managers.ProjectsManager.initializeProjects(ProjectsManager.java:104)
+	at org.eclipse.jdt.ls.core.internal.handlers.InitHandler$1.runInWorkspace(InitHandler.java:195)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:42)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.562
+!MESSAGE Try to create an invisible project for the workspace /home/godlovesjonny/Jonny/Java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.562
+!MESSAGE Creating the Java project Java_2142b17e
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.571
+!MESSAGE Finished creating the Java project Java_2142b17e
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.590
+!MESSAGE Successfully created a workspace invisible project Java_2142b17e
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.596
+!MESSAGE Workspace initialized in 591ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.716
+!MESSAGE >> initialization job finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.721
+!MESSAGE >> workspace/didChangeConfiguration
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.726
+!MESSAGE >> New configuration: {java={enabled=true, jdt={ls={vmargs=-noverify -Xmx1G -XX:+UseG1GC -XX:+UseStringDeduplication}}, errors={incompleteClasspath={severity=warning}}, configuration={checkProjectSettingsExclusions=true, updateBuildConfiguration=interactive}, trace={server=off}, import={gradle={enabled=true, wrapper={enabled=true}}, maven={enabled=true}, exclusions=[**/node_modules/**, **/.metadata/**, **/archetype-resources/**, **/META-INF/maven/**]}, referencesCodeLens={enabled=false}, signatureHelp={enabled=false}, implementationsCodeLens={enabled=false}, format={enabled=true, comments={enabled=true}, onType={enabled=true, fixComment={enabled=true}}}, project={referencedLibraries=[lib/**/*.jar]}, autobuild={enabled=true}, maxConcurrentBuilds=1.0, completion={enabled=true, overwrite=true, guessMethodArguments=false, favoriteStaticMembers=[org.junit.Assert.*, org.junit.Assume.*, org.junit.jupiter.api.Assertions.*, org.junit.jupiter.api.Assumptions.*, org.junit.jupiter.api.DynamicContainer.*, org.junit.jupiter.api.DynamicTest.*, org.mockito.Mockito.*, org.mockito.ArgumentMatchers.*, org.mockito.Answers.*], importOrder=[java, javax, com, org]}, progressReports={enabled=true}, foldingRange={enabled=true}, maven={downloadSources=false}, codeGeneration={hashCodeEquals={useJava7Objects=false, useInstanceof=false}, useBlocks=false, generateComments=false, toString={template=${object.className} [${member.name()}=${member.value}, ${otherMembers}], codeStyle=STRING_CONCATENATION, skipNullValues=false, listArrayContents=true, limitElements=0.0}}}}
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.727
+!MESSAGE >> document/didOpen
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:29.985
+!MESSAGE Reconciled 0. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.288
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.288
+!MESSAGE 1 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.293
+!MESSAGE Validated 1. Took 298 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.297
+!MESSAGE >> Updating classpath for project Java_2142b17e
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.315
+!MESSAGE >> build jobs finished
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.320
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.324
+!MESSAGE >> registerFeature 'workspace/didChangeWatchedFiles'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.326
+!MESSAGE >> watchers registered
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.474
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.598
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.625
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.625
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.626
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.639
+!MESSAGE >> registerWatchers'
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:30.856
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:31.260
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:31.695
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:31.695
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:31.695
+!MESSAGE Validated 1. Took 16 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:32.562
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:32.968
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:33.432
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:33.432
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:33.432
+!MESSAGE Validated 1. Took 14 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.019
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.071
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.341
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.349
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.351
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.415
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:35.802
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:36.232
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:36.232
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:36.233
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:37.519
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:37.973
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:38.237
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:38.363
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:38.415
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:38.447
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:38.815
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:39.102
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:39.295
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:39.433
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:39.816
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:39.886
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:40.346
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:40.346
+!MESSAGE 2 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:40.347
+!MESSAGE Validated 1. Took 11 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:44.496
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:44.510
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:44.962
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:45.369
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:45.369
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:45.369
+!MESSAGE Validated 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:46.605
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:47.057
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:47.520
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:47.520
+!MESSAGE 1 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:47.520
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:47.942
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:48.394
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:48.813
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:48.814
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:48.814
+!MESSAGE Validated 1. Took 19 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:50.833
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:51.290
+!MESSAGE Reconciled 0. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:51.699
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:51.699
+!MESSAGE 1 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:51.700
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:52.972
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:53.024
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:53.031
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:53.313
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:53.765
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:54.180
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:54.180
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:54.180
+!MESSAGE Validated 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.109
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.162
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.287
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.514
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.974
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.974
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:45:57.974
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.428
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.429
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.542
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.546
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.550
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.679
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.680
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.681
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.764
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.766
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.771
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.839
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.840
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.842
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:02.945
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:03.243
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:03.699
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:03.699
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:03.699
+!MESSAGE Validated 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:04.620
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:05.023
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:05.481
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:05.481
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:05.482
+!MESSAGE Validated 1. Took 9 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:05.676
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.100
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.151
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.159
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.451
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.502
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.507
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.674
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.727
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:06.731
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.127
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.425
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.460
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-01-08 08:46:07.462
+!MESSAGE Error while handling document save. URI: file:///home/godlovesjonny/Jonny/Java/Hello.java
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.Openable.getUnderlyingResource(Openable.java:358)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getUnderlyingResource(CompilationUnit.java:979)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleSaved(BaseDocumentLifeCycleHandler.java:468)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$7.run(BaseDocumentLifeCycleHandler.java:316)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didSave(BaseDocumentLifeCycleHandler.java:313)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didSave(JDTLanguageServer.java:769)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-01-08 08:46:07.462
+!MESSAGE [Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.586
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.587
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:07.587
+!MESSAGE Validated 1. Took 10 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.126
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.178
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.298
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.407
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.408
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.479
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.541
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.542
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.584
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:11.996
+!MESSAGE Reconciled 0. Took 3 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:12.089
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:12.416
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:12.416
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:12.417
+!MESSAGE Validated 1. Took 20 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:12.987
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.037
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.144
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.391
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.800
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.800
+!MESSAGE 2 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:13.801
+!MESSAGE Validated 1. Took 8 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:14.706
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:14.977
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:15.110
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:15.433
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:15.484
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:15.637
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:15.835
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:16.252
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:16.252
+!MESSAGE 2 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:16.253
+!MESSAGE Validated 1. Took 17 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:17.040
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:17.442
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:17.904
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:17.904
+!MESSAGE 3 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:17.905
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:19.370
+!MESSAGE >> document/resolveCompletionItem
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:20.674
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:20.690
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:21.142
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:21.604
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:21.604
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:21.604
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:23.408
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:23.859
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.320
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.320
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.321
+!MESSAGE Validated 1. Took 12 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.478
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.529
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.538
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:24.879
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:25.187
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:25.638
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:26.045
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:26.046
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:26.046
+!MESSAGE Validated 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:26.788
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:27.241
+!MESSAGE Reconciled 0. Took 2 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:27.697
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:27.697
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:27.698
+!MESSAGE Validated 1. Took 7 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.299
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.661
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.713
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.716
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.941
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.992
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:30.996
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.392
+!MESSAGE Reconciled 0. Took 0 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.607
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.659
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.662
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.719
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.774
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.781
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.855
+!MESSAGE >> document/didChange
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.906
+!MESSAGE >> document/completion
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:31.911
+!MESSAGE Completion request completed
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.307
+!MESSAGE Reconciled 0. Took 1 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.390
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.393
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-01-08 08:46:32.393
+!MESSAGE Error while handling document save. URI: file:///home/godlovesjonny/Jonny/Java/Hello.java
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.Openable.getUnderlyingResource(Openable.java:358)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getUnderlyingResource(CompilationUnit.java:979)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleSaved(BaseDocumentLifeCycleHandler.java:468)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$7.run(BaseDocumentLifeCycleHandler.java:316)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didSave(BaseDocumentLifeCycleHandler.java:313)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didSave(JDTLanguageServer.java:769)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-01-08 08:46:32.394
+!MESSAGE [Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.763
+!MESSAGE begin problem for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.763
+!MESSAGE 0 problems reported for /Hello.java
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:32.764
+!MESSAGE Validated 1. Took 6 ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:36.412
+!MESSAGE >> document/documentHighlight
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:40.352
+!MESSAGE >> document/willSaveWaitUntil
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:40.355
+!MESSAGE >> document/didSave
+
+!ENTRY org.eclipse.jdt.ls.core 4 0 2021-01-08 08:46:40.356
+!MESSAGE Error while handling document save. URI: file:///home/godlovesjonny/Jonny/Java/Hello.java
+!STACK 1
+Java Model Exception: Java Model Status [[Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist]
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.Openable.getUnderlyingResource(Openable.java:358)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getUnderlyingResource(CompilationUnit.java:979)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.handleSaved(BaseDocumentLifeCycleHandler.java:468)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler$7.run(BaseDocumentLifeCycleHandler.java:316)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2292)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2317)
+	at org.eclipse.jdt.ls.core.internal.handlers.BaseDocumentLifeCycleHandler.didSave(BaseDocumentLifeCycleHandler.java:313)
+	at org.eclipse.jdt.ls.core.internal.handlers.JDTLanguageServer.didSave(JDTLanguageServer.java:769)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.jdt.ls.core.internal.ParentProcessWatcher.lambda$0(ParentProcessWatcher.java:123)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:515)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
+	at java.base/java.lang.Thread.run(Thread.java:832)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2021-01-08 08:46:40.356
+!MESSAGE [Working copy] Hello.java [in <default> [in _ [in Java_2142b17e]]] does not exist
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2021-01-08 08:46:40.357
+!MESSAGE >> document/didClose

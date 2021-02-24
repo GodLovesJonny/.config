@@ -1,0 +1,15 @@
+2020/12/28-14:18:46.400 4d9d6 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_ncre-bm.neea.cn_0.indexeddb.leveldb/MANIFEST-000001
+2020/12/28-14:18:46.401 4d9d6 Recovering log #55
+2020/12/28-14:18:46.401 4d9d6 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_ncre-bm.neea.cn_0.indexeddb.leveldb/000055.log 
+2020/12/28-14:18:48.488 51b2a Level-0 table #60: started
+2020/12/28-14:18:48.489 51b2a Level-0 table #60: 769 bytes OK
+2020/12/28-14:18:48.490 51b2a Delete type=0 #55
+2020/12/28-14:18:48.490 51b2a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/12/28-14:18:48.490 51b2a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x06\x00$\x00_\x00c\x00D\x00r\x00o' @ 445 : 1
+2020/12/28-14:18:48.490 51b2a Compacting 1@1 + 1@2 files
+2020/12/28-14:18:48.491 51b2a Generated table #61@1: 21 keys, 673 bytes
+2020/12/28-14:18:48.491 51b2a Compacted 1@1 + 1@2 files => 673 bytes
+2020/12/28-14:18:48.492 51b2a compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/12/28-14:18:48.492 51b2a Delete type=2 #60
+2020/12/28-14:18:48.492 51b2a Delete type=2 #57
+2020/12/28-14:18:48.492 51b2a Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x06\x00$\x00_\x00c\x00D\x00r\x00o' @ 445 : 1 .. (end); will stop at (end)

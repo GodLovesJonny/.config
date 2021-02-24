@@ -7,9 +7,8 @@ useReleaseToCapture=true
 
 [GuiConfig]
 captureMode=5
-cropRegion=20,20,1865,1010
 includePointer=true
-window-position=529,26
+window-position=473,26
 
 [KFileDialog Settings]
 Recent Files[$e]=file:$HOME/图片/screen.png,file:$HOME/Jonny/Screenshot_20201116_203118.png,file:$HOME/Jonny/Screenshot_20201116_202217.png,file:$HOME/Jonny/Screenshot_20201116_202044.png,file:$HOME/Jonny/Screenshot_20201116_201932.png,file:$HOME/Jonny/Screenshot_20201116_201848.png

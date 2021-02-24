@@ -1,15 +1,6 @@
-2020/12/08-05:07:44.430 2fd8 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/12/08-05:07:44.430 2fd8 Recovering log #130
-2020/12/08-05:07:44.431 2fd8 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000130.log 
-2020/12/08-17:41:18.066 facc Level-0 table #134: started
-2020/12/08-17:41:18.071 facc Level-0 table #134: 88392 bytes OK
-2020/12/08-17:41:18.075 facc Delete type=0 #130
-2020/12/08-17:41:18.076 eff4 Compacting 4@0 + 1@1 files
-2020/12/08-17:41:18.079 eff4 Generated table #135@0: 403 keys, 22573 bytes
-2020/12/08-17:41:18.080 eff4 Compacted 4@0 + 1@1 files => 22573 bytes
-2020/12/08-17:41:18.081 eff4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/12/08-17:41:18.081 eff4 Delete type=2 #125
-2020/12/08-17:41:18.081 eff4 Delete type=2 #134
-2020/12/08-17:41:18.081 eff4 Delete type=2 #131
-2020/12/08-17:41:18.081 eff4 Delete type=2 #123
-2020/12/08-17:41:18.081 eff4 Delete type=2 #128
+2021/01/11-11:34:42.369 14704 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2021/01/11-11:34:42.369 14704 Recovering log #159
+2021/01/11-11:34:42.372 14704 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Sync Data/LevelDB/000159.log 
+2021/01/11-11:34:49.082 146fd Level-0 table #164: started
+2021/01/11-11:34:49.085 146fd Level-0 table #164: 81436 bytes OK
+2021/01/11-11:34:49.087 146fd Delete type=0 #159

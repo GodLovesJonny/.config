@@ -1,13 +1,20 @@
+[Appearance]
+Skin=breath2_dark
+
 [Desktop Entry]
 DefaultProfile=配置方案 1.profile
 
 [DownloadDialog Settings]
 Height 1080=573
 Width 1920=700
+eDP-1 HDMI-1 Window-Maximized 1080x1920=true
 
 [Favorite Profiles]
 Favorites=
 
+[KFileDialog Settings]
+detailViewIconSize=16
+
 [Window]
-Height=53
+Height=48
 KeepOpen=false

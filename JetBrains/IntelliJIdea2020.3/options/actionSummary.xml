@@ -1,0 +1,64 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Undo">
+      <i c="2" l="1610069457931" />
+    </e>
+    <e n="CompileDirty">
+      <i c="4" l="1610069221324" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4" l="1610070931437" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1610069448888" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="18" l="1610070924225" />
+    </e>
+    <e n="EditorEnter">
+      <i c="2" l="1610070912011" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1610069452468" />
+    </e>
+    <e n="Run">
+      <i c="5" l="1610070713241" />
+    </e>
+    <e n="SaveAll">
+      <i c="1" l="1610070932892" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1610070045141" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="1" l="1610071055715" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1610069144165" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="8" l="1610071175164" />
+    </e>
+    <e n="com.intellij.execution.actions.RunConfigurationsComboBoxAction$SelectConfigAction">
+      <i c="2" l="1610070710610" />
+    </e>
+    <e n="com.intellij.javaee.appServers.deployment.ui.actions.AddExternalFileToDeployAction">
+      <i c="1" l="1610069398393" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1610069168333" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="1" l="1610070914366" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1610080281808" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="1" l="1610069396753" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1610071055126" />
+    </e>
+  </component>
+</application>

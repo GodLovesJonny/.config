@@ -1,0 +1,46 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Dialog" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="20" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1mdJrVUQRa1CUCD1wdPTikyPIyj">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="NonModalCommitCustomization.IsApplied" value="true" />
+    <property name="appcds.runOnSecondStart" value="IU-203.6682.168-768c54d5bef5edb4964d2240fb29571a7be003539a731c5cf1a82f4a4edd4e77" />
+    <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.203" value="18" />
+    <property name="file.chooser.recent.files" value="/opt/tomcat/apache-tomcat-9.0.41&#10;/opt/tomcat/apache-tomcat-9.0.41/lib&#10;/opt/tomcat/apache-tomcat-9.0.41/bin&#10;/home/godlovesjonny/resume" />
+    <property name="file.gist.reindex.count" value="12" />
+    <property name="fileTypeChangedCounter" value="2" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="IU-203.6682.168" />
+    <property name="installed.kotlin.plugin.version" value="203-1.4.10-release-IJ6682.9" />
+    <property name="lastSeenTip" value="neue-SearchForGit.html" />
+    <property name="lastTimeTipsWereShown" value="1610069161596" />
+    <property name="last_opened_file_path" value="/opt/tomcat/apache-tomcat-9.0.41" />
+    <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
+    <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
+    <property name="packagesearch.status.updated.ts" value="1610069156134" />
+    <property name="seenTips" value="neue-SearchForGit.html" />
+    <property name="shared.index.infrastructure.prop" value="4" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="4.1.3" />
+  </component>
+</application>
