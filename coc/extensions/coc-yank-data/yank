@@ -5840,3 +5840,5 @@ a76d6711b53d9f0cc2e1b32e728e8e53|file:///home/godlovesjonny/Jonny/Ideas/ideas-20
 	![183](/images/2020/01/wallpaper/183.jpg)
 8d4ce158e7036a4880a5133fa9eb7096|file:///home/godlovesjonny/Jonny/Ideas/to-imp.md|17|1|V|markdown
 	+ 模态内注意力
+3f47a161dfe5e4e7e59b1ea994ab33e3|file:///home/godlovesjonny/.config/fish/config.fish|22|14|v|
+	hugo server -D > ~/hugo_log.log &
