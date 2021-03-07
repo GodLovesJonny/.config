@@ -125,7 +125,7 @@ ForegroundVisited=127,140,141
 Size=48
 
 [DirSelect Dialog]
-DirSelectDialog Size=1920,1030
+DirSelectDialog Size=926,616
 History Items[$e]=file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/下载/Edna,file:$HOME/下载/Edna,file:$HOME/下载/Edna/contents/layouts,file:$HOME/下载/Edna/contents,file:$HOME/下载/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/Jonny/Open-Source/kde-dec/Edna,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/Jonny/Cpps,file:$HOME/Jonny/Cpps,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers/slides,file:$HOME/.local/share/wallpapers,file:$HOME/下载
 
 [General]

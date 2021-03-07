@@ -1,3 +1,6 @@
+[CreateDialog]
+LastMimeType=application/vnd.rar
+
 [ExtractDialog]
 DirHistory[$e]=$HOME/下载/
 
@@ -122,6 +125,7 @@ History=vim
 
 [Recent Files]
 File1[$e]=$HOME/Jonny/Own-Notes/操作系统原理课件/操作系统习题集.doc
+File10[$e]=$HOME/下载/boo/王子杰文献翻译.rar
 File2[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt.zip
 File3[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/IEEEtran-csvt-v2.zip
 File4[$e]=$HOME/.deepinwine/Deepin-TIM/dosdevices/c:/users/godlovesjonny/My Documents/Tencent Files/1085845291/FileRecv/MobileFile/csrnet.rar
@@ -131,6 +135,7 @@ File7[$e]=$HOME/文档/Tencent Files/1085845291/FileRecv/MobileFile/demo.zip
 File8[$e]=$HOME/文档/Tencent Files/1085845291/FileRecv/MobileFile/国家奖学金申请书.docx
 File9[$e]=$HOME/Jonny/Latexs/acmart-primary.zip
 Name1[$e]=操作系统习题集.doc
+Name10[$e]=王子杰文献翻译.rar
 Name2[$e]=IEEEtran-csvt.zip
 Name3[$e]=IEEEtran-csvt-v2.zip
 Name4[$e]=csrnet.rar

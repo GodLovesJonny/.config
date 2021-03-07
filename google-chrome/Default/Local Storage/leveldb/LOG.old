@@ -1,18 +1,18 @@
-2021/01/07-19:06:40.172 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/01/07-19:06:40.173 3 Recovering log #674
-2021/01/07-19:06:40.173 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000674.log 
-2021/01/07-19:40:57.110 21 Level-0 table #678: started
-2021/01/07-19:40:57.113 21 Level-0 table #678: 11667 bytes OK
-2021/01/07-19:40:57.115 21 Delete type=0 #674
-2021/01/07-19:40:57.116 3 Compacting 4@0 + 1@1 files
-2021/01/07-19:40:57.251 3 Generated table #679@0: 1147 keys, 1014193 bytes
-2021/01/07-19:40:57.251 3 Compacted 4@0 + 1@1 files => 1014193 bytes
-2021/01/07-19:40:57.252 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/01/07-19:40:57.253 3 Delete type=2 #675
-2021/01/07-19:40:57.253 3 Delete type=2 #670
-2021/01/07-19:40:57.253 3 Delete type=2 #668
-2021/01/07-19:40:57.253 3 Delete type=2 #678
-2021/01/07-19:40:57.253 3 Delete type=2 #673
-2021/01/07-22:12:56.958 92 Level-0 table #681: started
-2021/01/07-22:12:56.961 92 Level-0 table #681: 10053 bytes OK
-2021/01/07-22:12:56.967 92 Delete type=0 #677
+2021/03/06-16:03:30.694 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/06-16:03:30.695 3 Recovering log #694
+2021/03/06-16:03:30.696 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000694.log 
+2021/03/06-16:04:36.617 3 Level-0 table #698: started
+2021/03/06-16:04:36.619 3 Level-0 table #698: 38470 bytes OK
+2021/03/06-16:04:36.620 3 Delete type=0 #694
+2021/03/06-16:20:57.642 d Level-0 table #700: started
+2021/03/06-16:20:57.644 d Level-0 table #700: 123201 bytes OK
+2021/03/06-16:20:57.645 d Delete type=0 #697
+2021/03/06-16:20:57.646 d Compacting 4@0 + 1@1 files
+2021/03/06-16:20:57.662 d Generated table #701@0: 1206 keys, 1294240 bytes
+2021/03/06-16:20:57.662 d Compacted 4@0 + 1@1 files => 1294240 bytes
+2021/03/06-16:20:57.663 d compacted to: files[ 0 1 1 0 0 0 0 ]
+2021/03/06-16:20:57.663 d Delete type=2 #695
+2021/03/06-16:20:57.663 d Delete type=2 #689
+2021/03/06-16:20:57.663 d Delete type=2 #698
+2021/03/06-16:20:57.663 d Delete type=2 #692
+2021/03/06-16:20:57.663 d Delete type=2 #700

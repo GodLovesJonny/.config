@@ -1,3 +1,15 @@
-2021/01/11-11:34:45.270 1472a Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
-2021/01/11-11:34:45.271 1472a Recovering log #76
-2021/01/11-11:34:45.282 1472a Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000076.log 
+2021/03/06-16:22:16.057 1baa Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2021/03/06-16:22:16.057 1baa Recovering log #76
+2021/03/06-16:22:16.072 1baa Reusing old log /home/godlovesjonny/.config/google-chrome/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000076.log 
+2021/03/06-16:22:20.748 1baa Level-0 table #81: started
+2021/03/06-16:22:20.752 1baa Level-0 table #81: 232869 bytes OK
+2021/03/06-16:22:20.753 1baa Delete type=0 #76
+2021/03/06-16:22:20.753 1baa Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2021/03/06-16:22:20.753 1baa Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00:C\x9c\xaeA' @ 40363 : 0
+2021/03/06-16:22:20.753 1baa Compacting 1@1 + 1@2 files
+2021/03/06-16:22:20.758 1baa Generated table #82@1: 18 keys, 510 bytes
+2021/03/06-16:22:20.758 1baa Compacted 1@1 + 1@2 files => 510 bytes
+2021/03/06-16:22:20.759 1baa compacted to: files[ 0 0 1 0 0 0 0 ]
+2021/03/06-16:22:20.759 1baa Delete type=2 #81
+2021/03/06-16:22:20.759 1baa Delete type=2 #78
+2021/03/06-16:22:20.759 1baa Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00:C\x9c\xaeA' @ 40363 : 0 .. (end); will stop at (end)

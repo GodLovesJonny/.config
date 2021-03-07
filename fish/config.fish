@@ -19,5 +19,6 @@ alias le='exa'
 alias lel='exa -l'
 alias startsun='systemctl start runsunloginclient'
 alias cdt='cd ~/Jonny/Open-Source/Translation-Scripts/Linux-cn-Translation/todo/'
+alias dblog='hugo server -D > ~/hugo_log.log &'
 
 thefuck --alias | source

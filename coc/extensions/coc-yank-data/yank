@@ -5817,3 +5817,26 @@ cbfc54eb7da1953fd99c59a408e3cd57|file:///home/godlovesjonny/Jonny/Hugo-pages/jon
 	
 aaca8cb4674d396ea5b194934ed58d24|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2021/CATTI-SCECT-notes.md|114|1|V|markdown
 	""""""
+5bdb34c1ef1daaa4d964d1b8c02a16ca|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2021/CATTI-SCECT-notes.md|202|1|V|markdown
+	| perennially      |
+71cec35ddda899942acbebed7c55c42c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2021/CATTI-SCECT-notes.md|212|1|V|markdown
+	| 据 …… 统计 dd      |
+a76d6711b53d9f0cc2e1b32e728e8e53|file:///home/godlovesjonny/Jonny/Ideas/ideas-2021.md|99|1|V|markdown
+	## 2008.06826 Faster Person Re-Identification (ECCV 2020)
+87b9a8e1102eeb453ec091a40df0aa4c|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2021/CATTI-SCECT-notes.md|278|69|v|markdown
+	但我却充分感觉他的文章的魅力
+9e8f577a874655d0a26a861652c1e56e|file:///home/godlovesjonny/Jonny/Ideas/ideas-2020.md|430|4|V|markdown
+	## 3394171.3413864 Hierarchical Gumbel Attention Network for Text-based Person Search (MM 2020)
+	### Soft-attention Mechanism 存在的问题
+	可能会将不相关的多模态特征融合到一起。  
+	
+	### 三种匹配粒度
+	Word Level + Phrase Level + Sentence Level  
+	
+	### Gumbel Attention Module
+	To discover the strong latent alignments via Gumbel top-k sampling towards calculating the similarity score between textual and visual representations.  
+	
+629c16debd2a6ee4022f1acbb19cafeb|file:///home/godlovesjonny/Jonny/Hugo-pages/jonathan-blog/content/posts/2021/Bg19.md|11|1|V|markdown
+	![183](/images/2020/01/wallpaper/183.jpg)
+8d4ce158e7036a4880a5133fa9eb7096|file:///home/godlovesjonny/Jonny/Ideas/to-imp.md|17|1|V|markdown
+	+ 模态内注意力

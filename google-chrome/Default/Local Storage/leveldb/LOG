@@ -1,21 +1,5 @@
-2021/01/11-11:34:42.385 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2021/01/11-11:34:42.386 3 Recovering log #680
-2021/01/11-11:34:42.386 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/000680.log 
-2021/01/11-11:35:45.585 5 Level-0 table #684: started
-2021/01/11-11:35:45.587 5 Level-0 table #684: 157168 bytes OK
-2021/01/11-11:35:45.592 5 Delete type=0 #680
-2021/01/11-11:35:51.077 3 Level-0 table #686: started
-2021/01/11-11:35:51.079 3 Level-0 table #686: 91004 bytes OK
-2021/01/11-11:35:51.080 3 Delete type=0 #683
-2021/01/11-12:10:33.072 e Level-0 table #688: started
-2021/01/11-12:10:33.074 e Level-0 table #688: 16943 bytes OK
-2021/01/11-12:10:33.075 e Delete type=0 #685
-2021/01/11-12:10:33.075 3 Compacting 4@0 + 1@1 files
-2021/01/11-12:10:33.089 3 Generated table #689@0: 1199 keys, 1256016 bytes
-2021/01/11-12:10:33.089 3 Compacted 4@0 + 1@1 files => 1256016 bytes
-2021/01/11-12:10:33.090 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/01/11-12:10:33.091 3 Delete type=2 #679
-2021/01/11-12:10:33.091 3 Delete type=2 #688
-2021/01/11-12:10:33.091 3 Delete type=2 #681
-2021/01/11-12:10:33.091 3 Delete type=2 #684
-2021/01/11-12:10:33.091 3 Delete type=2 #686
+2021/03/07-13:11:00.708 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2021/03/07-13:11:00.709 3 Recovering log #699
+2021/03/07-13:11:00.709 3 Level-0 table #703: started
+2021/03/07-13:11:00.711 3 Level-0 table #703: 11673 bytes OK
+2021/03/07-13:11:00.713 3 Delete type=0 #699

@@ -1,5 +1,5 @@
 [$Version]
-update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize
+update_info=delete_cursor_old_default_size.upd:DeleteCursorOldDefaultSize,kcminputrc_repeat.upd:kcminputrc_migrate_repeat_value
 
 [Mouse]
 XLbInptMiddleEmulation=true

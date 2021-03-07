@@ -1,15 +1,9 @@
-2021/01/07-19:06:40.306 3 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2021/01/07-19:06:40.307 3 Recovering log #309
-2021/01/07-19:06:40.307 3 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000309.log 
-2021/01/07-19:06:54.649 5 Level-0 table #313: started
-2021/01/07-19:06:54.652 5 Level-0 table #313: 71336 bytes OK
-2021/01/07-19:06:54.656 5 Delete type=0 #309
-2021/01/07-19:06:54.656 3 Compacting 4@0 + 1@1 files
-2021/01/07-19:06:54.664 3 Generated table #314@0: 2966 keys, 106938 bytes
-2021/01/07-19:06:54.664 3 Compacted 4@0 + 1@1 files => 106938 bytes
-2021/01/07-19:06:54.665 3 compacted to: files[ 0 1 1 0 0 0 0 ]
-2021/01/07-19:06:54.666 3 Delete type=2 #304
-2021/01/07-19:06:54.666 3 Delete type=2 #307
-2021/01/07-19:06:54.666 3 Delete type=2 #310
-2021/01/07-19:06:54.666 3 Delete type=2 #302
-2021/01/07-19:06:54.667 3 Delete type=2 #313
+2021/03/06-16:03:30.859 5 Reusing MANIFEST /home/godlovesjonny/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2021/03/06-16:03:30.860 5 Recovering log #324
+2021/03/06-16:03:30.861 5 Reusing old log /home/godlovesjonny/.config/google-chrome/Default/Session Storage/000324.log 
+2021/03/06-16:03:42.896 3 Level-0 table #329: started
+2021/03/06-16:03:42.898 3 Level-0 table #329: 39641 bytes OK
+2021/03/06-16:03:42.900 3 Delete type=0 #324
+2021/03/06-16:24:53.724 d Level-0 table #331: started
+2021/03/06-16:24:53.725 d Level-0 table #331: 51144 bytes OK
+2021/03/06-16:24:53.727 d Delete type=0 #328
